@@ -45,18 +45,10 @@ Ensure you have the following installed:
 
 ## Usage
 - Start the chatbot using `main.py`.
-- Provide input queries and receive responses based on the retrieved and generated knowledge.
-- Customize retrieval sources and models as needed.
+- Provide input queries and receive responses based on the retrieved knowledge.
 
 ## Configuration
-Replace .env with your api key
-  
-## Contributing
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository
-2. Create a new branch (`feature-branch`)
-3. Commit your changes
-4. Push the branch and create a Pull Request
+Add your api key to .env 
 
 ## Data
 The data script + the script to scrape that data 9000 articales from PubMed is open-source :)
