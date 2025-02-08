@@ -1,0 +1,5 @@
+Title: Elucidation of common molecular diagnostic biomarkers between chronic periodontitis and Parkinson's disease via bioinformatics analyses.
+PMID: 37664910
+
+Abstract:
+Parkinson's disease (PD) and chronic periodontitis (CP) are both inflammatory diseases; a correlation between the two diseases has been reported, but the underlying mechanisms of this association have not been investigated. We investigated the common molecular mechanisms between PD and CP and the role of immune cells in the pathogenesis of them using bioinformatics analyses to elucidate the association between the two diseases.

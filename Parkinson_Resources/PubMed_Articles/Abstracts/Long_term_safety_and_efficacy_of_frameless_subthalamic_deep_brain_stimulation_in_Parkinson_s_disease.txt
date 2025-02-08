@@ -1,0 +1,5 @@
+Title: Long-term safety and efficacy of frameless subthalamic deep brain stimulation in Parkinson's disease.
+PMID: 37700176
+
+Abstract:
+Bilateral deep brain stimulation (DBS) of the subthalamic nucleus (STN) is standard of care for Parkinson's disease (PD) patients and a correct lead placement is crucial to obtain good clinical outcomes. Evidence demonstrating the targeting accuracy of the frameless technique for DBS, along with the advantages for patients and clinicians, is solid, while data reporting long-term clinical outcomes for PD patients are still lacking.

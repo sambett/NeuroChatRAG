@@ -1,0 +1,5 @@
+Title: Association between inflammatory bowel disease and Parkinson's disease: a prospective cohort study of 468,556 UK biobank participants.
+PMID: 38288279
+
+Abstract:
+Inflammatory Bowel Disease (IBD) and Parkinson's disease (PD) are both chronic, progressive disorders. As such, given the inconclusive results of extensive research on the association between IBD and PD, our study intends to examine this relationship further using the UK Biobank database.

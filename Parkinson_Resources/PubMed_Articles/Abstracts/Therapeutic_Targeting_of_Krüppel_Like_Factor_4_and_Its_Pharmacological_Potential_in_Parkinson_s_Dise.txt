@@ -1,0 +1,5 @@
+Title: Therapeutic Targeting of Krüppel-Like Factor 4 and Its Pharmacological Potential in Parkinson's Disease: a Comprehensive Review.
+PMID: 37996730
+
+Abstract:
+Krüppel-like factor 4 (KLF4), a zinc finger transcription factor, is found in different human tissues and shows diverse regulatory activities in a cell-dependent manner. In the brain, KLF4 controls various neurophysiological and neuropathological processes, and its contribution to various neurological diseases has been widely reported. Parkinson's disease (PD) is an age-related neurodegenerative disease that might have a connection with KLF4. In this review, we discussed the potential implication of KLF4 in fundamental molecular mechanisms of PD, including aberrant proteostasis, neuroinflammation, apoptosis, oxidative stress, and iron overload. The evidence collected herein sheds new light on KLF4-mediated pathways, which manipulation appears to be a promising therapeutic target for PD management. However, there is a gap in the knowledge on this topic, and extended research is required to understand the translational value of the KLF4-oriented therapeutical approach in PD.

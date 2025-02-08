@@ -1,0 +1,5 @@
+Title: Long-Read Sequencing Resolves a Complex Structural Variant in PRKN Parkinson's Disease.
+PMID: 37926948
+
+Abstract:
+Parkin RBR E3 ubiquitin-protein ligase (PRKN) mutations are the most common cause of young onset and autosomal recessive Parkinson's disease (PD). PRKN is located in FRA6E, which is one of the common fragile sites in the human genome, making this region prone to structural variants. However, complex structural variants such as inversions of PRKN are seldom reported, suggesting that there are potentially unrevealed complex pathogenic PRKN structural variants.

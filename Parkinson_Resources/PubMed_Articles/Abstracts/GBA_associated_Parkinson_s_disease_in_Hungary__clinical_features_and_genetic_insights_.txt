@@ -1,0 +1,5 @@
+Title: GBA-associated Parkinson's disease in Hungary: clinical features and genetic insights.
+PMID: 38153678
+
+Abstract:
+Parkinson's disease (PD) has a complex genetic background involving both rare and common genetic variants. Although a small percentage of cases show a clear Mendelian inheritance pattern, it is much more relevant to identify patients who present with a complex genetic profile of risk variants with different severity. The ß-glucocerebrosidase coding gene (GBA1) is recognized as the most frequent genetic risk factor for PD and Lewy body dementia, irrespective of reduction of the enzyme activity due to genetic variants.

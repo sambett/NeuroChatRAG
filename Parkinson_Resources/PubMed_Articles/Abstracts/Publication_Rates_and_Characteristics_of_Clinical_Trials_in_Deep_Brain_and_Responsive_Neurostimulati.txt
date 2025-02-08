@@ -1,0 +1,5 @@
+Title: Publication Rates and Characteristics of Clinical Trials in Deep Brain and Responsive Neurostimulation.
+PMID: 37552969
+
+Abstract:
+Prompt dissemination of clinical trial results is essential for ensuring the safety and efficacy of intracranial neurostimulation treatments, including deep brain stimulation (DBS) and responsive neurostimulation (RNS). However, the frequency and completeness of results publication, and reasons for reporting delays, are unknown. Moreover, the patient populations, targeted anatomical locations, and stimulation parameters should be clearly reported for both reproducibility and to identify lacunae in trial design. Here, we examine DBS and RNS trials from 1997 to 2022, chart their characteristics, and examine rates and predictors of results reporting.

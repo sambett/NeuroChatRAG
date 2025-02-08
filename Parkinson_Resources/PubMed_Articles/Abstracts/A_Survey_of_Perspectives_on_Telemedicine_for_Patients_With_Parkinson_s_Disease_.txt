@@ -1,0 +1,5 @@
+Title: A Survey of Perspectives on Telemedicine for Patients With Parkinson's Disease.
+PMID: 37604653
+
+Abstract:
+Parkinson's disease (PD) patients often find it difficult to visit hospitals because of motor symptoms, distance to the hospital, or the absence of caregivers. Telemedicine is one way to solve this problem.

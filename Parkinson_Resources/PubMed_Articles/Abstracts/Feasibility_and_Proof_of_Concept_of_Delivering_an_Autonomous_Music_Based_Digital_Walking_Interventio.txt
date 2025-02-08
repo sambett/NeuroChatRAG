@@ -1,0 +1,5 @@
+Title: Feasibility and Proof-of-Concept of Delivering an Autonomous Music-Based Digital Walking Intervention to Persons with Parkinson's Disease in a Naturalistic Setting.
+PMID: 37840504
+
+Abstract:
+Reduced motor automaticity in Parkinson's disease (PD) negatively impacts the quality, intensity, and amount of daily walking. Rhythmic auditory stimulation (RAS), a clinical intervention shown to improve walking outcomes, has been limited by barriers associated with the need for ongoing clinician input.

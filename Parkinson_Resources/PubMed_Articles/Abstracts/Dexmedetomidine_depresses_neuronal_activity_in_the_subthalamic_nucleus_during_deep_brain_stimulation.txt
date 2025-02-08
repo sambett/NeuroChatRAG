@@ -1,0 +1,5 @@
+Title: Dexmedetomidine depresses neuronal activity in the subthalamic nucleus during deep brain stimulation electrode implantation surgery.
+PMID: 37588575
+
+Abstract:
+Micro-electrode recordings are often necessary during electrode implantation for deep brain stimulation of the subthalamic nucleus. Dexmedetomidine may be a useful sedative for these procedures, but there is limited information regarding its effect on neural activity in the subthalamic nucleus and on micro-electrode recording quality.

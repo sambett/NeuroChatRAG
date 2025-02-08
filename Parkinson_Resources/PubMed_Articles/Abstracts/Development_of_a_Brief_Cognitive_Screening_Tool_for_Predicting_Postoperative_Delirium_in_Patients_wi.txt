@@ -1,0 +1,5 @@
+Title: Development of a Brief Cognitive Screening Tool for Predicting Postoperative Delirium in Patients with Parkinson's Disease: A Secondary Analysis.
+PMID: 37727451
+
+Abstract:
+A simple, rapid, and effective cognitive screening test appropriate for fast-paced settings with limited resources and staff is essential, especially preoperatively. This study aimed to develop and validate the short versions of Mini-Mental State Examination (MMSE) and Montreal Cognitive Assessment (MoCA) for predicting postoperative delirium (POD) in patients with Parkinson's disease (PD) who were scheduled for surgery.

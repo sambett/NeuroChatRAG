@@ -1,0 +1,5 @@
+Title: Changes in oligodendroglial subpopulations in Parkinson's disease.
+PMID: 37710343
+
+Abstract:
+Parkinson's disease (PD) is characterized by a selective loss of dopaminergic neurons. While most research on PD conducted to date has focused on neurons and, to a certain extent, glia, few studies have investigated changes in oligodendroglia. Here, we investigated the heterogeneity of oligodendrocytes from PD patients compared with those of control cases by analyzing single-nuclei transcriptomes. These analyses revealed the presence of distinct oligodendrocyte populations in PD patients indicative of corresponding variations in molecular features, notably including activation of inflammatory responses, response to protein folding stress, and myelination abnormalities. We confirmed myelination abnormalities in an α-synuclein preformed fibril-injection mouse model of PD. These results suggest that oligodendrocytes acquire disease-associated phenotypes in PD and may contribute to the accompanying neurodegeneration.

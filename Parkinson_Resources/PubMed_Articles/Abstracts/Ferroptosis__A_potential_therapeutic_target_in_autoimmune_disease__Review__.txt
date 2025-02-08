@@ -1,0 +1,5 @@
+Title: Ferroptosis: A potential therapeutic target in autoimmune disease (Review).
+PMID: 37408857
+
+Abstract:
+Ferroptosis is a distinct type of regulated cell death characterized by iron overload and lipid peroxidation. Ferroptosis is regulated by numerous factors and controlled by several mechanisms. This cell death type has a relationship with the immune system, which may be regulated by damage-associated molecular patterns. Ferroptosis participates in the progression of autoimmune diseases, including autoimmune hepatitis, rheumatoid arthritis, systemic lupus erythematosus, inflammatory bowel disease, multiple sclerosis, Parkinson's Disease, psoriasis and insulin-dependent diabetes mellitus. The present review summarizes the role of ferroptosis in autoimmune disorders and discusses ferroptosis as a potential therapeutic target for autoimmune disease.

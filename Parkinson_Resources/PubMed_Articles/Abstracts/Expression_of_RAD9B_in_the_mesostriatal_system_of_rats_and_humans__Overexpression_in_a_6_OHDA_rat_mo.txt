@@ -1,0 +1,5 @@
+Title: Expression of RAD9B in the mesostriatal system of rats and humans: Overexpression in a 6-OHDA rat model of Parkinson's disease.
+PMID: 37460044
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder that affects primarily the dopaminergic (DAergic) neurons of the mesostriatal system, among other nuclei of the brain. Although it is considered an idiopathic disease, oxidative stress is believed to be involved in DAergic neuron death and therefore plays an important role in the onset and development of the disease. RAD9B is a paralog of the RAD9 checkpoint, sharing some similar functions related to DNA damage resistance and apoptosis, as well as the ability to form 9-1-1 heterotrimers with RAD1 and HUS1.

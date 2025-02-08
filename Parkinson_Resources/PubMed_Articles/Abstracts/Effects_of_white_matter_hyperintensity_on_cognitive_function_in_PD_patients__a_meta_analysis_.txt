@@ -1,0 +1,5 @@
+Title: Effects of white matter hyperintensity on cognitive function in PD patients: a meta-analysis.
+PMID: 37621858
+
+Abstract:
+Parkinson's disease (PD) is often accompanied by cognitive dysfunction, which imposes a heavy burden on patients, their families, and society. Early identification and intervention are particularly important, but reliable biomarkers for identifying PD-related cognitive impairment at an early stage are currently lacking. Although numerous clinical studies have investigated the association between brain white matter hyperintensity (WMH) and cognitive decline, the findings regarding the relationships between WMH and cognitive dysfunction in PD patients have been inconsistent. Therefore, this study aims to conduct a meta-analysis of the effect of WMH on PD cognitive function.

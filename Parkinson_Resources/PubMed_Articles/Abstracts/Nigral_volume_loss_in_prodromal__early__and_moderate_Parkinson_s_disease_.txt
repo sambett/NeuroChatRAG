@@ -1,0 +1,5 @@
+Title: Nigral volume loss in prodromal, early, and moderate Parkinson's disease.
+PMID: 37645770
+
+Abstract:
+The loss of melanized neurons in the substantia nigra pars compacta (SNc) is a hallmark pathology in Parkinson's disease (PD). Melanized neurons in SNc can be visualized <i>in vivo</i> using magnetization transfer (MT) effects. Nigral volume was extracted in data acquired with a MT-prepared gradient echo sequence in 33 controls, 83 non-manifest carriers (42 LRRK2 and 41 GBA nonmanifest carriers), 65 prodromal hyposmic participants, 105 <i>de novo</i> PD patients and 26 48-month PD patients from the Parkinson's Progressive Markers Initiative. No difference in nigral volume was seen between controls and LRRK2 and GBA non-manifest carriers (<i>F</i>=0.076; <i>P</i>=0.927). A significant main effect in group was observed between controls, prodromal hyposmic participants, and overt PD patients (<i>F</i>=5.192; <i>P</i>=0.002). Longer disease duration significantly correlated with lower nigral volume (<i>r</i>=-0.252; <i>P</i>=0.010). This study shows that nigral depigmentation can be robustly detected in prodromal hyposmic participants and overt PD patients.

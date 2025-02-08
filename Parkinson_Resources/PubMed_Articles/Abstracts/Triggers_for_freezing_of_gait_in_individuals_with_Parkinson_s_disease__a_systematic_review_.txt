@@ -1,0 +1,5 @@
+Title: Triggers for freezing of gait in individuals with Parkinson's disease: a systematic review.
+PMID: 38187152
+
+Abstract:
+Freezing of Gait (FOG) is a motor symptom frequently observed in advanced Parkinson's disease. However, due to its paroxysmal nature and diverse presentation, assessing FOG in a clinical setting can be challenging. Before FOG can be fully investigated, it is critical that a reliable experimental setting is established in which FOG can be evoked in a standardized manner, but the efficacy of various gait tasks and triggers for eliciting FOG remains unclear.

@@ -1,0 +1,5 @@
+Title: Evaluation of ferritin and TfR level in plasma neural-derived exosomes as potential markers of Parkinson's disease.
+PMID: 37794977
+
+Abstract:
+Early diagnosis of Parkinson's disease (PD) remains challenging. It has been suggested that abnormal brain iron metabolism leads to excessive iron accumulation in PD, although the mechanism of iron deposition is not yet fully understood. Ferritin and transferrin receptor (TfR) are involved in iron metabolism, and the exosome pathway is one mechanism by which ferritin is transported and regulated. While the blood of healthy animals contains a plentiful supply of TfR-positive exosomes, no studies have examined ferritin and TfR in plasma neural-derived exosomes.

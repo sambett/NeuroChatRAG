@@ -1,0 +1,5 @@
+Title: Peripheral metabolic alterations associated with pathological manifestations of Parkinson's disease in gut-brain axis-based mouse model.
+PMID: 37635904
+
+Abstract:
+Parkinson's disease (PD) is a representative neurodegenerative disease, and its diagnosis relies on the evaluation of clinical manifestations or brain neuroimaging in the absence of a crucial noninvasive biomarker. Here, we used non-targeted metabolomics profiling to identify metabolic alterations in the colon and plasma samples of <i>Proteus mirabilis</i> (<i>P. mirabilis</i>)-treated mice, which is a possible animal model for investigating the microbiota-gut-brain axis.

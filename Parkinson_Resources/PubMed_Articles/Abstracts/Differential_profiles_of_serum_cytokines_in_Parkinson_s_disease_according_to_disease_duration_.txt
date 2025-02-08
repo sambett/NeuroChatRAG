@@ -1,0 +1,5 @@
+Title: Differential profiles of serum cytokines in Parkinson's disease according to disease duration.
+PMID: 38061398
+
+Abstract:
+Neurodegeneration and neuroinflammation are two intertwined mechanisms contributing to the pathophysiology of Parkinson's disease. Whether circulating biomarkers reflecting those two processes differ according to disease duration remains to be established. The present study was conducted to characterize the biomarkers individuals with PD with short (≤5 years) or long disease duration (>5 years).

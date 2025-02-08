@@ -1,0 +1,5 @@
+Title: Metabolic network alterations as a supportive biomarker in dementia with Lewy bodies with preserved dopamine transmission.
+PMID: 37971501
+
+Abstract:
+Metabolic network analysis of FDG-PET utilizes an index of inter-regional correlation of resting state glucose metabolism and has been proven to provide complementary information regarding the disease process in parkinsonian syndromes. The goals of this study were (i) to evaluate pattern similarities of glucose metabolism and network connectivity in dementia with Lewy bodies (DLB) subjects with subthreshold dopaminergic loss compared to advanced disease stages and to (ii) investigate metabolic network alterations of FDG-PET for discrimination of patients with early DLB from other neurodegenerative disorders (Alzheimer's disease, Parkinson's disease, multiple system atrophy) at individual patient level via principal component analysis (PCA).

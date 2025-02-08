@@ -1,0 +1,5 @@
+Title: A comprehensive review of protein misfolding disorders, underlying mechanism, clinical diagnosis, and therapeutic strategies.
+PMID: 37468112
+
+Abstract:
+Proteins are the most common biological macromolecules in living system and are building blocks of life. They are extremely dynamic in structure and functions. Due to several modifications, proteins undergo misfolding, leading to aggregation and thereby developing neurodegenerative and systemic diseases. Understanding the pathology of these diseases and the techniques used to diagnose them is therefore crucial for their effective management . There are several techniques, currently being in use to diagnose them and those will be discussed in this review.

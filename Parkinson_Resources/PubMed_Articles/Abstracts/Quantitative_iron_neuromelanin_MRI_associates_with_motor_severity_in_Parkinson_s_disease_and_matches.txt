@@ -1,0 +1,5 @@
+Title: Quantitative iron-neuromelanin MRI associates with motor severity in Parkinson's disease and matches radiological disease classification.
+PMID: 38090717
+
+Abstract:
+Neuromelanin- and iron-sensitive MRI studies in Parkinson's disease (PD) are limited by small sample sizes and lack detailed clinical correlation. In a large case-control PD cohort, we evaluated the diagnostic accuracy of quantitative iron-neuromelanin MRI parameters from the substantia nigra (SN), their radiological utility, and clinical association.

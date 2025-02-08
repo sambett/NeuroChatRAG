@@ -1,0 +1,5 @@
+Title: Noninvasive Neuromodulation in Parkinson's Disease: Insights from Animal Models.
+PMID: 37685514
+
+Abstract:
+The mainstay treatments for Parkinson's Disease (PD) have been limited to pharmacotherapy and deep brain stimulation. While these interventions are helpful, a new wave of research is investigating noninvasive neuromodulation methods as potential treatments. Some promising avenues have included transcranial magnetic stimulation (TMS), transcranial direct current stimulation (tDCS), electroconvulsive therapy (ECT), and focused ultrasound (FUS). While these methods are being tested in PD patients, investigations in animal models of PD have sought to elucidate their therapeutic mechanisms. In this rapid review, we assess the available animal literature on these noninvasive techniques and discuss the possible mechanisms mediating their therapeutic effects based on these findings.

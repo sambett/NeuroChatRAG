@@ -1,0 +1,5 @@
+Title: Impact of outpatient gastroenterology consult on pharmacotherapy and management of gastrointestinal symptoms in Parkinson's Disease.
+PMID: 37700817
+
+Abstract:
+Gastrointestinal (GI) symptoms are common in Parkinson's Disease (PD) patients, and GI dysmotility is thought to induce motor fluctuations, requiring escalation of levodopa therapy. The role of GI consultation in managing such symptoms, however, is unclear. In this study, we investigate the possible association between GI dysmotility symptoms and escalated LEDD therapy, as well as factors associated with GI consultation for PD symptom management.

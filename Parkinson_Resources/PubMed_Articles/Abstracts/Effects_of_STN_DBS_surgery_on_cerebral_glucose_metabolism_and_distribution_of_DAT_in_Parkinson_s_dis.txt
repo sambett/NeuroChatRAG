@@ -1,0 +1,5 @@
+Title: Effects of STN-DBS surgery on cerebral glucose metabolism and distribution of DAT in Parkinson's disease.
+PMID: 37459244
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder that affects millions of people worldwide. Subthalamic nucleus (STN) deep brain stimulation (DBS) has been shown to be an effective treatment for PD; however, the effects of this surgery on cerebral metabolism and presynaptic dopamine transporter (DAT) distribution are still being studied.

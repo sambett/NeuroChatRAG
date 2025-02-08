@@ -1,0 +1,5 @@
+Title: Kynurenine and Beta-Alanine Serum Levels are Associated with the Expression of Wnt Pathway Genes in Patients with Parkinson's Disease.
+PMID: 37948497
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease in the world. Despite its worldwide prevalence, there is currently no clear explanation for the mechanism of this disease. In addition, the lack of reliable and accurate biomarkers makes the early detection of PD difficult. Therefore, we examined serum beta-alanine and kynurenine levels and expression of Wnt pathway genes in leukocytes from patients with PD.

@@ -1,0 +1,5 @@
+Title: Auditory Evoked P300 Potential in Patients With Parkinson's Disease.
+PMID: 37885554
+
+Abstract:
+ Parkinson's disease (PD) is the second most common neurodegenerative disorder. Though the cardinal features of PD are motor symptoms, it is also associated with many non-motor symptoms, such as cognitive impairment, autonomic dysfunction, sleep disorders, and depression, which could affect the quality of life. Early identification of PD's non-motor signs can aid in the diagnosis of PD. The current research aimed to assess the neurophysiological changes in PD patients using auditory evoked P300 potential and to determine the possible correlation between P300 wave components and cognitive impairment.

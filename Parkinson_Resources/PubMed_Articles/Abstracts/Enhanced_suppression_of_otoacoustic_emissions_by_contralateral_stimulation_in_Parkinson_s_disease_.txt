@@ -1,0 +1,5 @@
+Title: Enhanced suppression of otoacoustic emissions by contralateral stimulation in Parkinson's disease.
+PMID: 37787697
+
+Abstract:
+Dopamine depletion affects several aspects of hearing function. Previous work [Wu, Yi, Manca, Javaid, Lauer, and Glowatzki, eLife 9, e52419 (2020)] demonstrated the role of dopamine in reducing the firing rates of inner ear cells, which is thought to decrease synaptic excitotoxicity. Thus, a lack of dopamine could indirectly increase acoustic stimulation of medial olivocochlear efferents. To investigate that, here we studied contralateral suppression of distortion product otoacoustic emissions in a population of Parkinsonian patients, compared to an age-matched control group, both audiometrically tested. To rule out activation of the acoustic reflex, middle ear impedance was monitored during testing. The results show significantly stronger contralateral suppression in the patient group.

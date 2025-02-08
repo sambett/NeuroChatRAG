@@ -1,0 +1,5 @@
+Title: Identifying prodromal symptoms at high specificity for Parkinson's disease.
+PMID: 37810617
+
+Abstract:
+To test drugs with the potential to prevent the onset of Parkinson's disease (PD), it is key to identify individuals in the general population at high risk of developing PD. This is often difficult because most of the clinical markers are non-specific, common in PD but also common in older adults (e.g., sleep problems).

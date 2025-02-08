@@ -1,0 +1,5 @@
+Title: Impaired aldehyde detoxification exacerbates motor deficits in an alpha-synuclein mouse model of Parkinson's disease.
+PMID: 37452461
+
+Abstract:
+The discovery of biogenic aldehydes in the postmortem parkinsonian brain and the ability of these aldehydes to modify and cross-link proteins has called attention to their possible role in Parkinson's disease. For example, many in vitro studies have found that the aldehyde metabolite of dopamine, 3,4-dihydroxyphenylacetaldehyde (DOPAL), induces the formation of stable, neurotoxic alpha-synuclein oligomers.

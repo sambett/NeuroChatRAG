@@ -1,0 +1,5 @@
+Title: Differentiation of speech in Parkinson's disease and spinocerebellar degeneration using deep neural networks.
+PMID: 37989963
+
+Abstract:
+Assessing dysarthria features in patients with neurodegenerative diseases helps diagnose underlying pathologies. Although deep neural network (DNN) techniques have been widely adopted in various audio processing tasks, few studies have tested whether DNNs can help differentiate neurodegenerative diseases using patients' speech data. This study evaluated whether a DNN model using a transformer architecture could differentiate patients with Parkinson's disease (PD) from patients with spinocerebellar degeneration (SCD) using speech data.

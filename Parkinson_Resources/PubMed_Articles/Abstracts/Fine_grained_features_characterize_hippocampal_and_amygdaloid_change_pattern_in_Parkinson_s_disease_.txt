@@ -1,0 +1,5 @@
+Title: Fine-grained features characterize hippocampal and amygdaloid change pattern in Parkinson's disease and discriminate cognitive-deficit subtype.
+PMID: 37849445
+
+Abstract:
+To extract vertex-wise features of the hippocampus and amygdala in Parkinson's disease (PD) with mild cognitive impairment (MCI) and normal cognition (NC) and further evaluate their discriminatory efficacy.

@@ -1,0 +1,5 @@
+Title: Alterations in neurotransmitter co-release in Parkinson's disease.
+PMID: 37802381
+
+Abstract:
+Parkinson's disease is a neurological disorder characterized by degeneration of midbrain dopamine neurons, which results in numerous adaptations in basal ganglia circuits. Research over the past twenty-five years has identified that midbrain dopamine neurons of the substantia nigra pars compacta (SNc) and ventral tegmental area (VTA) co-release multiple other transmitters including glutamate and GABA, in addition to their canonical transmitter, dopamine. This review summarizes previous work characterizing neurotransmitter co-release from dopamine neurons, work examining potential changes in co-release dynamics that result in animal models of Parkinson's disease, and future opportunities for determining how dysfunction in co-release may contribute to circuit dysfunction in Parkinson's disease.

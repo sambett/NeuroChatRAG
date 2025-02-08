@@ -1,0 +1,5 @@
+Title: Diffusion and structural MRI as potential biomarkers in people with Parkinson's disease and cognitive impairment.
+PMID: 37572194
+
+Abstract:
+To explore the neuroimage change in Parkinson's disease (PD) patients with cognitive impairments, this study investigated the correlation between plasma biomarkers and morphological brain changes in patients with normal cognition and mild cognitive impairment. The objective was to identify the potential target deposition regions of the plasma biomarkers and to search for the relevant early neuroimaging biomarkers on the basis of different cognitive domains.

@@ -1,0 +1,5 @@
+Title: Sericin alleviates motor dysfunction by modulating inflammation and TrkB/BDNF signaling pathway in the rotenone-induced Parkinson's disease model.
+PMID: 37936189
+
+Abstract:
+Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the degeneration of nigrostriatal dopaminergic neurons and movement impairment. Based on theories, neuroinflammatory processes may be vital in the etiology of PD and other neurodegenerative diseases. Reports show that rotenone has neurotoxic, inflammatory, and motor impairment effects in PD. Sericin is a natural polymer with effective properties, such as neuroprotective and anti-inflammatory. Therefore, this study aimed to examine the effects of sericin administration on motor dysfunction by modulating inflammation and tyrosine kinase B/brain-derived neurotrophic factor (TrkB/BDNF) pathway in the rotenone-induced PD model.

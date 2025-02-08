@@ -1,0 +1,5 @@
+Title: Steroid sulfatase inhibitors and sulfated C19 steroids for proteotoxicity-related diseases: a patent spotlight.
+PMID: 37982638
+
+Abstract:
+Aging and proteotoxicity go hand in hand. Inhibiting proteotoxicity has been proposed to extend lifespan. This invention describes a new strategy to limit proteotoxicity and to extend the lifespan. Loss of function of <i>sul-2</i>, the <i>Caenorhabditis elegans</i> steroid sulfatase, elevates the pool of sulfated steroid hormones, increases longevity and ameliorates protein aggregation diseases. The present invention provides a group of molecules for use in the prevention of aging-associated proteotoxicity caused by protein aggregation diseases and/or to increase the lifespan of a eukaryotic organism. These molecules are either steroid sulfatase inhibitors or sulfated C19 steroids, both of which reproduce the phenotype of <i>sul-2</i> mutants. One particular representative example is STX-64. Potential applications of the claims have been demonstrated in animal models of Parkinson's disease, Huntington's disease and Alzheimer's disease.

@@ -1,0 +1,5 @@
+Title: White matter changes in Parkinson's disease.
+PMID: 37907554
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease after Alzheimer's disease (AD). It is characterized by a progressive loss of dopaminergic neurons in the substantia nigra pars compacta (SNc) and the formation of Lewy bodies (LBs). Although PD is primarily considered a gray matter (GM) disease, alterations in white matter (WM) have gained increasing attention in PD research recently. Here we review evidence collected by magnetic resonance imaging (MRI) techniques which indicate WM abnormalities in PD, and discuss the correlations between WM changes and specific PD symptoms. Then we summarize transcriptome and genome studies showing the changes of oligodendrocyte (OLs)/myelin in PD. We conclude that WM abnormalities caused by the changes of myelin/OLs might be important for PD pathology, which could be potential targets for PD treatment.

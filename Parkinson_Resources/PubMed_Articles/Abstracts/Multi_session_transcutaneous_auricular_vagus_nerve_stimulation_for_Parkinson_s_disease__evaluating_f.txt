@@ -1,0 +1,5 @@
+Title: Multi-session transcutaneous auricular vagus nerve stimulation for Parkinson's disease: evaluating feasibility, safety, and preliminary efficacy.
+PMID: 37554394
+
+Abstract:
+In pre-clinical animal models of Parkinson's disease (PD), vagus nerve stimulation (VNS) can rescue motor deficits and protect susceptible neuronal populations. Transcutaneous auricular vagus nerve stimulation (taVNS) has emerged as a non-invasive alternative to traditional invasive cervical VNS. This is the first report summarizing the safety, feasibility, and preliminary efficacy of repeated sessions of taVNS in participants with PD.

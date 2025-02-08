@@ -1,0 +1,5 @@
+Title: Applications of Machine Learning to Diagnosis of Parkinson's Disease.
+PMID: 38002506
+
+Abstract:
+Accurate diagnosis of Parkinson's disease (PD) is challenging due to its diverse manifestations. Machine learning (ML) algorithms can improve diagnostic precision, but their generalizability across medical centers in China is underexplored.

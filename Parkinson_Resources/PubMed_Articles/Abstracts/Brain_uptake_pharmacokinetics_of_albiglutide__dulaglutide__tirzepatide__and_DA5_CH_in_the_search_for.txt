@@ -1,0 +1,5 @@
+Title: Brain uptake pharmacokinetics of albiglutide, dulaglutide, tirzepatide, and DA5-CH in the search for new treatments of Alzheimer's and Parkinson's diseases.
+PMID: 38095516
+
+Abstract:
+A number of peptide incretin receptor agonists (IRAs) show promise as therapeutics for Alzheimer's disease (AD) and Parkinson's disease (PD). Transport across the blood-brain barrier (BBB) is one way for IRAs to act directly within the brain. To determine which IRAs are high priority candidates for treating these disorders, we have studied their brain uptake pharmacokinetics.

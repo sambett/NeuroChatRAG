@@ -1,0 +1,5 @@
+Title: Peripheral MC1R Activation Modulates Immune Responses and is Neuroprotective in a Mouse Model of Parkinson's Disease.
+PMID: 38110615
+
+Abstract:
+Melanocortin 1 receptor (MC1R) is a key pigmentation gene, and loss-of-function of MC1R variants that produce red hair may be associated with Parkinson's disease (PD). We previously reported compromised dopaminergic neuron survival in Mc1r mutant mice and dopaminergic neuroprotective effects of local injection of a MC1R agonist to the brain or a systemically administered MC1R agonist with appreciable central nervous system (CNS) permeability. Beyond melanocytes and dopaminergic neurons, MC1R is expressed in other peripheral tissues and cell types, including immune cells. The present study investigates the impact of NDP-MSH, a synthetic melanocortin receptor (MCR) agonist that does not cross BBB, on the immune system and the nigrostriatal dopaminergic system in mouse model of PD.

@@ -1,0 +1,5 @@
+Title: Circulating insulin-like growth factor-1 and brain health: Evidence from 369,711 participants in the UK Biobank.
+PMID: 37608387
+
+Abstract:
+The effects of insulin-like growth factor-1 (IGF-1) deficiency on cognitive decline have been consistently reported in animal studies, but the relationship between IGF-1 and human brain health remains controversial. Our study aimed to investigate the associations of serum IGF-1 concentrations with some brain-related disorders and neuroimaging features.

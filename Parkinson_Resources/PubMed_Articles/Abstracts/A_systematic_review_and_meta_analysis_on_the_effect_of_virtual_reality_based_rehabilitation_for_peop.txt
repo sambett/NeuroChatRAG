@@ -1,0 +1,5 @@
+Title: A systematic review and meta-analysis on the effect of virtual reality-based rehabilitation for people with Parkinson's disease.
+PMID: 37475014
+
+Abstract:
+Virtual reality (VR) is a promising solution for individuals with Parkinson's disease (PD) who experience symptoms that affect their daily activities and independence. Through VR-based rehabilitation, patients can improve their motor skills in a safe and stress-free environment, making it an attractive alternative to traditional in-person rehabilitation during the COVID-19 pandemic. This study aimed to provide the most recent and convincing evidence on the rehabilitative effects of VR technology compared with conventional treatments.

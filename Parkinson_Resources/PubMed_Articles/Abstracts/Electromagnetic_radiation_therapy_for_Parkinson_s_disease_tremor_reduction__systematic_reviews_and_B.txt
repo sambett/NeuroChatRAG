@@ -1,0 +1,5 @@
+Title: Electromagnetic radiation therapy for Parkinson's disease tremor reduction- systematic reviews and Bayesian meta-analyses for comparing the effectiveness of electric, magnetic and light stimulation methods.
+PMID: 37752553
+
+Abstract:
+Tremor is one of the key characteristics of Parkinson's disease (PD), leading to physical disabilities and often showing limited responses to pharmacological treatments. To suppress tremors in PD patients, several types of non-invasive and non-pharmacological methods have been proposed so far. In the current systematic review, three electromagnetic-based radiation strategies including electrical stimulation, magnetic stimulation, and light stimulation methods were reviewed and compared.

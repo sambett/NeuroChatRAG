@@ -1,0 +1,5 @@
+Title: Comparative study of bilateral putamen for patients with severe Parkinson's disease detected by <sup>1</sup>H magnetic resonance spectroscopy.
+PMID: 37869290
+
+Abstract:
+The diagnosis of Parkinson's disease (PD) is challenging because the clinical symptoms overlap with other neurodegenerative diseases. The discovery of reliable biomarkers is highly expected to facilitate clinical diagnosis. Through the analysis of the <sup>1</sup>H magnetic resonance spectroscopy (<sup>1</sup>H-MRS) in the putamen, the purpose of the study was to discuss the possibility of the difference in metabolite concentrations between the left and right putamen as biomarkers for patients with severe PD.

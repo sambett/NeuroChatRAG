@@ -1,0 +1,5 @@
+Title: Oral pathogens exacerbate Parkinson's disease by promoting Th1 cell infiltration in mice.
+PMID: 37978405
+
+Abstract:
+Parkinson's disease (PD) is a common chronic neurological disorder with a high risk of disability and no cure. Periodontitis is an infectious bacterial disease occurring in periodontal supporting tissues. Studies have shown that periodontitis is closely related to PD. However, direct evidence of the effect of periodontitis on PD is lacking. Here, we demonstrated that ligature-induced periodontitis with application of subgingival plaque (LIP-SP) exacerbated motor dysfunction, microglial activation, and dopaminergic neuron loss in 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD mice.

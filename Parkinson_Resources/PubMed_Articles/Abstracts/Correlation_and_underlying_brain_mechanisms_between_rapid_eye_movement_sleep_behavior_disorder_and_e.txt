@@ -1,0 +1,5 @@
+Title: Correlation and underlying brain mechanisms between rapid eye movement sleep behavior disorder and executive functions in Parkinson's disease: an fNIRS study.
+PMID: 38274985
+
+Abstract:
+Rapid eye movement sleep behavior disorder (RBD) affects 30%-40% of patients with Parkinson's disease (PD) and has been linked to a higher risk of cognitive impairment, especially executive dysfunction. The aim of this study was to investigate the brain activation patterns in PD patients with RBD (PD-RBD+) compared to those without RBD (PD-RBD-) and healthy controls (HCs), and to analyze the correlation between changes in cerebral cortex activity and the severity of RBD.

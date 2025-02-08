@@ -1,0 +1,5 @@
+Title: Structural connectivity from DTI to predict mild cognitive impairment in de novo Parkinson's disease.
+PMID: 38061176
+
+Abstract:
+Early detection of Parkinson's disease (PD) patients at high risk for mild cognitive impairment (MCI) can help with timely intervention. White matter structural connectivity is considered an early and sensitive indicator of neurodegenerative disease.

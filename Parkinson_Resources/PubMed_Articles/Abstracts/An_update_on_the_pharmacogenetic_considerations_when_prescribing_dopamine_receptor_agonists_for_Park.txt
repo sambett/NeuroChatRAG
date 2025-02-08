@@ -1,0 +1,5 @@
+Title: An update on the pharmacogenetic considerations when prescribing dopamine receptor agonists for Parkinson's disease.
+PMID: 37599424
+
+Abstract:
+Parkinson's disease is a chronic neurodegenerative multisystemic disorder that affects approximately 2% of the population over 65 years old. This disorder is characterized by motor symptoms which are frequently accompanied by non-motor symptoms such as cognitive disorders. Current drug therapies aim to reduce the symptoms and increase the patient's life expectancy. Nevertheless, there is heterogeneity in therapy response in terms of efficacy and adverse effects. This wide range in response may be linked to genetic variability. Thus, it has been suggested that pharmacogenomics may help to tailor and personalize drug therapy for Parkinson's disease.

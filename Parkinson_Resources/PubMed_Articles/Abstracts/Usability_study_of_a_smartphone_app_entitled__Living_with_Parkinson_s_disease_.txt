@@ -1,0 +1,5 @@
+Title: Usability study of a smartphone app entitled: Living with Parkinson's disease.
+PMID: 37456025
+
+Abstract:
+Mobile healthcare apps have transformed the healthcare industry and these apps can now be used for educational and preventive purposes, as well as providing valuable information for self-care. Apps related to Parkinson's disease can help from diagnoses to treatment, however the purpose of the app in this study is to inform and to educate.

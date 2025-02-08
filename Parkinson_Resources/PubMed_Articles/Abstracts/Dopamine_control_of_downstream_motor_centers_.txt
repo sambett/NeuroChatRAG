@@ -1,0 +1,5 @@
+Title: Dopamine control of downstream motor centers.
+PMID: 37774481
+
+Abstract:
+The role of dopamine in the control of movement is traditionally associated with ascending projections to the basal ganglia. However, more recently descending dopaminergic pathways projecting to downstream brainstem motor circuits were discovered. In lampreys, salamanders, and rodents, these include projections to the downstream Mesencephalic Locomotor Region (MLR), a brainstem region controlling locomotion. Such descending dopaminergic projections could prime brainstem networks controlling movement. Other descending dopaminergic projections have been shown to reach reticulospinal cells involved in the control of locomotion. In addition, dopamine directly modulates the activity of interneurons and motoneurons. Beyond locomotion, dopaminergic inputs modulate visuomotor transformations within the optic tectum (mammalian superior colliculus). Loss of descending dopaminergic inputs will likely contribute to pathological conditions such as in Parkinson's disease.

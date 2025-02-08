@@ -1,0 +1,5 @@
+Title: SARS-CoV-2-Mimicking Pseudoviral Particles Accelerate α-Synuclein Aggregation In Vitro.
+PMID: 38131609
+
+Abstract:
+Since the SARS-CoV-2 virus started spreading worldwide, evidence pointed toward an impact of the infection on the nervous system. COVID-19 patients present neurological manifestations and have an increased risk of developing brain-related symptoms in the long term. In fact, evidence in support of the neuroinvasive potential of SARS-CoV-2 has emerged. Considering that viral parkisonism was observed as a consequence of encephalopathies caused by viral infections, it has been already suggested that COVID-19 could affect the dopaminergic neurons and contribute to neurodegeneration in Parkinson's disease (PD), by promoting the formation of amyloid fibrils constituted by the PD-related protein α-synuclein. Here, we observe not only that SARS-CoV-2 viral spike protein and nucleocapsid protein can alone promote α-synuclein aggregation but also that the spike protein organization in a corona shape on the viral envelope may be crucial in triggering fast amyloid fibrils formation, thus possibly contributing to PD pathogenesis.

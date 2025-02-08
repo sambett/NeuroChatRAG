@@ -1,0 +1,5 @@
+Title: Comparative motor effectiveness of non-invasive brain stimulation techniques in patients with Parkinson's disease: A network meta-analysis.
+PMID: 37773851
+
+Abstract:
+Although noninvasive brain stimulation (NIBS) techniques are an effective alternative treatment option, their relative effects in patients with Parkinson's disease (PD) remain undefined. Here, we aimed to compare motor efficacy of the NIBS techniques in PD.

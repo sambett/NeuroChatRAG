@@ -1,0 +1,5 @@
+Title: Comparing the hippocampal volumetric atrophy between demented and nondemented individuals with Parkinson's disease: A systematic review and meta-analysis.
+PMID: 37701357
+
+Abstract:
+Parkinson's disease (PD) is one of the most common neurodegenerative conditions in the world and, when combined with dementia, can lead to immense cerebral volume loss. Of significant importance among all cerebral regions, is the hippocampus. This region plays a pivotal role in memory, and understanding its pathological alterations can answer vital questions regarding dementia. As such, we designed this study to compare the hippocampal volumes of PD patients with dementia (PDD) versus PD without dementia.

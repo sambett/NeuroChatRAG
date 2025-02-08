@@ -1,0 +1,5 @@
+Title: A novel plantar pressure analysis method to signify gait dynamics in Parkinson's disease.
+PMID: 37679098
+
+Abstract:
+Plantar pressure can signify the gait performance of patients with Parkinson's disease (PD). This study proposed a plantar pressure analysis method with the dynamics feature of the sub-regions plantar pressure signals. Specifically, each side's plantar pressure signals were divided into five sub-regions. Moreover, a dynamics feature extractor (DFE) was designed to extract features of the sub-regions signals. The radial basis function neural network (RBFNN) was used to learn and store gait dynamics. And a classification mechanism based on the output error in RBFNN was proposed. The classification accuracy of the proposed method achieved 100.00% in PD diagnosis and 95.89% in severity assessment on the online dataset, and 96.00% in severity assessment on our dataset. The experimental results suggested that the proposed method had the capability to signify the gait dynamics of PD patients.

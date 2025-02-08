@@ -1,0 +1,5 @@
+Title: The alpha-synuclein oligomers activate nuclear factor of activated T-cell (NFAT) modulating synaptic homeostasis and apoptosis.
+PMID: 37596531
+
+Abstract:
+Soluble oligomeric forms of alpha-synuclein (aSyn-O) are believed to be one of the main toxic species in Parkinson's disease (PD) leading to degeneration. aSyn-O can induce Ca<sup>2+</sup> influx, over activating downstream pathways leading to PD phenotype. Calcineurin (CN), a phosphatase regulated by Ca<sup>2+</sup> levels, activates NFAT transcription factors that are involved in the regulation of neuronal plasticity, growth, and survival.

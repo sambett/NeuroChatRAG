@@ -1,0 +1,5 @@
+Title: Updates on brain regions and neuronal circuits of movement disorders in Parkinson's disease.
+PMID: 38511877
+
+Abstract:
+Parkinson's disease (PD) is a progressive neurodegenerative disease with a global burden that affects more often in the elderly. The basal ganglia (BG) is believed to account for movement disorders in PD. More recently, new findings in the original regions in BG involved in motor control, as well as the new circuits or new nucleuses previously not specifically considered were explored. In the present review, we provide up-to-date information related to movement disorders and modulations in PD, especially from the perspectives of brain regions and neuronal circuits. Meanwhile, there are updates in deep brain stimulation (DBS) and other factors for the motor improvement in PD. Comprehensive understandings of brain regions and neuronal circuits involved in motor control could benefit the development of novel therapeutical strategies in PD.

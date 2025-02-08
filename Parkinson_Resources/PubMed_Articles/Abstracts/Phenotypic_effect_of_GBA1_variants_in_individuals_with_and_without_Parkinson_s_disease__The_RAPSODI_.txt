@@ -1,0 +1,5 @@
+Title: Phenotypic effect of GBA1 variants in individuals with and without Parkinson's disease: The RAPSODI study.
+PMID: 37926171
+
+Abstract:
+Variants in the GBA1 gene cause the lysosomal storage disorder Gaucher disease (GD). They are also risk factors for Parkinson's disease (PD), and modify the expression of the PD phenotype. The penetrance of GBA1 variants in PD is incomplete, and the ability to determine who among GBA1 variant carriers are at higher risk of developing PD, would represent an advantage for prognostic and trial design purposes.

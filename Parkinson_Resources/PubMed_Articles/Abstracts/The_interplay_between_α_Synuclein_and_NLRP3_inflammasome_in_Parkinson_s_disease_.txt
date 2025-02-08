@@ -1,0 +1,5 @@
+Title: The interplay between α-Synuclein and NLRP3 inflammasome in Parkinson's disease.
+PMID: 37852103
+
+Abstract:
+α-Synuclein is a member of a protein of synucleins, which is a presynaptic neuron protein. It is usually highly expressed in the brain and participates in the formation and transmission of nerve synapses. It has been reported that abnormal aggregation of α-Syn can induce the activation of NLRP3 inflammasome in microglia, increase the production of IL-1β, and aggravate neuroinflammation. Therefore, it is recognized as one of the important factors leading to neuroinflammation in Parkinson's disease. In this paper, we aimed to explore the influence of post-translational modification of α-Syn on its pathological aggregation and summarize various pathways that activate NLRP3 triggered by α-Syn and targeted therapeutic strategies, which provided new insights for further exploring the origin and targeted therapy of Parkinson's disease.

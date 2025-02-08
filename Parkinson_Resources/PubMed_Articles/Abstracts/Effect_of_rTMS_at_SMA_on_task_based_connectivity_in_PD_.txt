@@ -1,0 +1,5 @@
+Title: Effect of rTMS at SMA on task-based connectivity in PD.
+PMID: 37516209
+
+Abstract:
+Transcranial magnetic stimulation (TMS) can aid in alleviating clinical symptoms in Parkinson's disease (PD). To better understand the neural mechanism of the intervention, neuroimaging modalities have been used to assess the effects of rTMS.

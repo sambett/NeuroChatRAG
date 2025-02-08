@@ -1,0 +1,5 @@
+Title: White matter injury across neurodegenerative disease.
+PMID: 38052682
+
+Abstract:
+Oligodendrocytes (OLs), the myelin-generating cells of the central nervous system (CNS), are active players in shaping neuronal circuitry and function. It has become increasingly apparent that injury to cells within the OL lineage plays a central role in neurodegeneration. In this review, we focus primarily on three degenerative disorders in which white matter loss is well documented: Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS). We discuss clinical data implicating white matter injury as a key feature of these disorders, as well as shared and divergent phenotypes between them. We examine the cellular and molecular mechanisms underlying the alterations to OLs, including chronic neuroinflammation, aggregation of proteins, lipid dysregulation, and organellar stress. Last, we highlight prospects for therapeutic intervention targeting the OL lineage to restore function.

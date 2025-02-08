@@ -1,0 +1,5 @@
+Title: A Randomized Clinical Trial to Evaluate a Digital Therapeutic to Enhance Gait Function in Individuals With Parkinson's Disease.
+PMID: 37465959
+
+Abstract:
+Postural instability and gait dysfunction (PIGD) is a cardinal symptom of Parkinson's disease (PD) and is exacerbated under dual-task conditions. Dual-task training (DTT), enhances gait performance, however it is time and cost intensive. Digitizing DTT via the Dual-task Augmented Reality Treatment (DART) platform can expand the availability of an effective intervention to address PIGD.

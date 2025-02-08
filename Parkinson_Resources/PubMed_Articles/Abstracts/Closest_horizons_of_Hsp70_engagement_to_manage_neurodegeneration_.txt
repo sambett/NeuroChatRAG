@@ -1,0 +1,5 @@
+Title: Closest horizons of Hsp70 engagement to manage neurodegeneration.
+PMID: 37795273
+
+Abstract:
+Our review seeks to elucidate the current state-of-the-art in studies of 70-kilodalton-weighed heat shock proteins (Hsp70) in neurodegenerative diseases (NDs). The family has already been shown to play a crucial role in pathological aggregation for a wide spectrum of brain pathologies. However, a slender boundary between a big body of fundamental data and its implementation has only recently been crossed. Currently, we are witnessing an anticipated advancement in the domain with dozens of studies published every month. In this review, we briefly summarize scattered results regarding the role of Hsp70 in the most common NDs including Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS). We also bridge translational studies and clinical trials to portray the output for medical practice. Available options to regulate Hsp70 activity in NDs are outlined, too.

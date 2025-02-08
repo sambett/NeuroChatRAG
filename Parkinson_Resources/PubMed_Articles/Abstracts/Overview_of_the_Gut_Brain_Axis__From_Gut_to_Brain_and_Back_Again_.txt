@@ -1,0 +1,5 @@
+Title: Overview of the Gut-Brain Axis: From Gut to Brain and Back Again.
+PMID: 37562457
+
+Abstract:
+The gut-brain axis refers to a bidirectional communication pathway linking the gastrointestinal system to the central nervous system. The hardware of this multifaceted pathway takes many forms, at once structural (neurons, microglia, intestinal epithelial cell barrier), chemical (neurotransmitters, enteroendocrine hormones, bacterial metabolites), and cellular (immune signaling, inflammatory pathways). The gut-brain axis is exquisitely influenced by our environment, diet, and behaviors. Here, we will describe recent progress in understanding the gut-brain axis in neurological disease, using Parkinson's disease as a guide. We will see that each component of the gut-brain axis is heavily mediated by intestinal microbiota and learn how gut-brain communication can go awry in microbial dysbiosis.

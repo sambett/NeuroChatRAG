@@ -1,0 +1,5 @@
+Title: Comparison of the effects of rhythmic vibrotactile stimulations and rhythmic auditory stimulations on Parkinson's disease patients' gait variability: a pilot study.
+PMID: 37597161
+
+Abstract:
+Parkinson's disease patients' gait is characterized by shorter step length, reduced gait velocity and deterioration of temporal organization of stride duration variability (modified Long Range Autocorrelations). The objective of this study was to compare effects of rhythmic auditory stimulations (RAS) and Rhythmic Vibrotactile Stimulations (RVS) on Parkinson's disease patients' gait.

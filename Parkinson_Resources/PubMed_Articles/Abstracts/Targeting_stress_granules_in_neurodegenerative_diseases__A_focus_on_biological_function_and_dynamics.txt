@@ -1,0 +1,5 @@
+Title: Targeting stress granules in neurodegenerative diseases: A focus on biological function and dynamics disorders.
+PMID: 37966813
+
+Abstract:
+Stress granules (SGs) are membraneless organelles formed by eukaryotic cells in response to stress to promote cell survival through their pleiotropic cytoprotective effects. SGs recruit a variety of components to enhance their physiological function, and play a critical role in the propagation of pathological proteins, a key factor in neurodegeneration. Recent advances indicate that SG dynamic disorders exacerbate neuronal susceptibility to stress in neurodegenerative diseases (NDs) including Alzheimer's disease (AD), amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), Huntington's disease (HD) and Parkinson's disease (PD). Here, we outline the biological functions of SGs, highlight SG dynamic disorders in NDs, and emphasize therapeutic approaches for enhancing SG dynamics to provide new insights into ND intervention.

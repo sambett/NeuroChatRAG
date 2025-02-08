@@ -1,0 +1,5 @@
+Title: Setting the clinical context to non-motor symptoms reflected by Park-pain, Park-sleep, and Park-autonomic subtypes of Parkinson's disease.
+PMID: 38341227
+
+Abstract:
+Non-motor symptoms (NMS) of Parkinson's disease (PD) are well described in both clinical practice and the literature, enabling their management and enhancing our understanding of PD. NMS can dominate the clinical pictures and NMS subtypes have recently been proposed, initially based on clinical observations, and later confirmed in data driven analyses of large datasets and in biomarker-based studies. In this chapter, we provide an update on what is known about three common subtypes of NMS in PD. The pain (Park-pain), sleep dysfunction (Park-sleep), and autonomic dysfunction (Park-autonomic), providing an overview of their individual classification, clinical manifestation, pathophysiology, diagnosis, and potential treatments.

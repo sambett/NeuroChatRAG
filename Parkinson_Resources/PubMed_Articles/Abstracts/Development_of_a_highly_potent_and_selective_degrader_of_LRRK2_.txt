@@ -1,0 +1,5 @@
+Title: Development of a highly potent and selective degrader of LRRK2.
+PMID: 37591317
+
+Abstract:
+The discovery of disease-modifying therapies for Parkinson's Disease (PD) represents a critical need in neurodegenerative medicine. Genetic mutations in leucine-rich repeat kinase 2 (LRRK2) are risk factors for the development of PD, and some of these mutations have been linked to increased LRRK2 kinase activity and neuronal toxicity in cellular and animal models. Furthermore, LRRK2 function as a scaffolding protein in several pathways has been implicated as a plausible mechanism underlying neurodegeneration caused by LRRK2 mutations. Given that both the kinase activity and scaffolding function of LRRK2 have been linked to neurodegeneration, we developed proteolysis-targeting chimeras (PROTACs) targeting LRRK2. The degrader molecule JH-XII-03-02 (6) displayed high potency and remarkable selectivity for LRKK2 when assessed in a of 468 panel kinases and serves the dual purpose of eliminating both the kinase activity as well as the scaffolding function of LRRK2.

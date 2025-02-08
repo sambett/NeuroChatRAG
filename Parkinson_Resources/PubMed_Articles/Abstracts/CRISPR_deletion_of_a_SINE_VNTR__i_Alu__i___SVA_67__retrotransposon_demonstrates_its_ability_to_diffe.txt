@@ -1,0 +1,5 @@
+Title: CRISPR deletion of a SINE-VNTR-<i>Alu</i> (SVA_67) retrotransposon demonstrates its ability to differentially modulate gene expression at the <i>MAPT</i> locus.
+PMID: 37840928
+
+Abstract:
+SINE-VNTR-<i>Alu</i> (SVA) retrotransposons are hominid-specific elements which have been shown to play important roles in processes such as chromatin structure remodelling and regulation of gene expression demonstrating that these repetitive elements exert regulatory functions. We have previously shown that the presence or absence of a specific SVA element, termed SVA_67, was associated with differential expression of several genes at the <i>MAPT</i> locus, a locus associated with Parkinson's Disease (PD) and frontotemporal dementia. However, we were not able to demonstrate that causation of differential gene expression was directed by the SVA due to lack of functional validation.

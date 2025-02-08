@@ -1,0 +1,5 @@
+Title: Assessing uptake of the core outcome set in randomized controlled trials for Parkinson's disease: A systematic review.
+PMID: 37774933
+
+Abstract:
+Parkinson's Disease (PD) affects more than 10 million individuals, with increasing incidence worldwide. As PD's incidence rises, research funding is increasing substantially. PD's core outcome set (COS) provides standardization for PD clinical trial outcomes, improves research quality, and study comparability. Our study aimed to analyze COS uptake rate before and after the PD COS publication.

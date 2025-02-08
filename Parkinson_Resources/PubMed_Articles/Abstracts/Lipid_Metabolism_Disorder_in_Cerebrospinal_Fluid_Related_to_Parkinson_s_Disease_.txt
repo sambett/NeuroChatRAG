@@ -1,0 +1,5 @@
+Title: Lipid Metabolism Disorder in Cerebrospinal Fluid Related to Parkinson's Disease.
+PMID: 37626522
+
+Abstract:
+Abnormal accumulation of lipids is found in dopamine neurons and resident microglia in the substantia nigra of patients with Parkinson's disease (PD). The accumulation of lipids is an important risk factor for PD. Previous studies have mainly focussed on lipid metabolism in peripheral blood, but little attention has been given to cerebrospinal fluid (CSF). We drew the lipidomic signature in CSF from PD patients and evaluated the role of lipids in CSF as biomarkers for PD diagnosis.

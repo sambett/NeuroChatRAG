@@ -1,0 +1,5 @@
+Title: Circadian clock disruption promotes the degeneration of dopaminergic neurons in male Drosophila.
+PMID: 37737209
+
+Abstract:
+Sleep and circadian rhythm disruptions are frequent comorbidities of Parkinson's disease (PD), a disorder characterized by the progressive loss of dopaminergic (DA) neurons in the substantia nigra. However, the causal role of circadian clocks in the degenerative process remains uncertain. We demonstrated here that circadian clocks regulate the rhythmicity and magnitude of the vulnerability of DA neurons to oxidative stress in male Drosophila. Circadian pacemaker neurons are presynaptic to a subset of DA neurons and rhythmically modulate their susceptibility to degeneration. The arrhythmic period (per) gene null mutation exacerbates the age-dependent loss of DA neurons and, in combination with brief oxidative stress, causes premature animal death. These findings suggest that circadian clock disruption promotes dopaminergic neurodegeneration.

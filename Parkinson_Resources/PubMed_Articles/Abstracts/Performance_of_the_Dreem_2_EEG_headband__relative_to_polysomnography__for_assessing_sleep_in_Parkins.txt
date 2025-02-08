@@ -1,0 +1,5 @@
+Title: Performance of the Dreem 2 EEG headband, relative to polysomnography, for assessing sleep in Parkinson's disease.
+PMID: 38151377
+
+Abstract:
+To pilot the feasibility and evaluate the performance of an EEG wearable for measuring sleep in individuals with Parkinson's disease.

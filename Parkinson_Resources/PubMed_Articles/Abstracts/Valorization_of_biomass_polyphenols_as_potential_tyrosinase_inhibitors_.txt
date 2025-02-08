@@ -1,0 +1,5 @@
+Title: Valorization of biomass polyphenols as potential tyrosinase inhibitors.
+PMID: 38000718
+
+Abstract:
+Tyrosinases (TYRs; EC 1.14.18.1) catalyze two sequential oxidative reactions of the melanin biosynthesis pathway and play an important role in mammalian pigmentation and enzymatic browning of fruit and vegetables. Inhibition of TYR activity is therefore an attractive target for new drugs and/or food ingredients. In addition, increasing evidence suggests that TYR regulation could be a novel target for treatments of cancer and Parkinson's disease. Biomasses, notably industrial byproducts and biowaste, are good sustainable sources of phytochemicals that may be valorized into bioactive compounds including TYR inhibitors. This review presents potential applications of biomass-derived polyphenols targeting TYR inhibition. Insights into structure-activity relationships of several polyphenols and their glycosides are highlighted. Finally, some remarks and perspectives on research into new TYR inhibitors from biomass waste are provided.

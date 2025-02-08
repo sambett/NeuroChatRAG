@@ -1,0 +1,5 @@
+Title: Enhanced brain functional connectivity and activation after 12-week Tai Chi-based action observation training in patients with Parkinson's disease.
+PMID: 37881362
+
+Abstract:
+Motor-cognitive interactive interventions, such as action observation training (AOT), have shown great potential in restoring cognitive function and motor behaviors. It is expected that an advanced AOT incorporating specific Tai Chi movements with continuous and spiral characteristics can facilitate the shift from automatic to intentional actions and thus enhance motor control ability for early-stage PD. Nonetheless, the underlying neural mechanisms remain unclear. The study aimed to investigate changes in brain functional connectivity (FC) and clinical improvement after 12 weeks of Tai Chi-based action observation training (TC-AOT) compared to traditional physical therapy (TPT).

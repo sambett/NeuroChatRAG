@@ -1,0 +1,5 @@
+Title: Connecting the dots in the zona incerta: A study of neural assemblies and motifs of inter-area coordination in mice.
+PMID: 38274403
+
+Abstract:
+The zona incerta (ZI), a subthalamic area connected to numerous brain regions, has raised clinical interest because its stimulation alleviates the motor symptoms of Parkinson's disease. To explore its coordinative nature, we studied the assembly formation in a dataset of neural recordings in mice and quantified the degree of functional coordination of ZI with other 24 brain areas. We found that the ZI is a highly integrative area. The analysis in terms of "loop-like" motifs, directional assemblies composed of three neurons spanning two areas, has revealed reciprocal functional interactions with reentrant signals that, in most cases, start and end with the activation of ZI units. In support of its proposed integrative role, we found that almost one-third of the ZI's neurons formed assemblies with more than half of the other recorded areas and that loop-like assemblies may stand out as hyper-integrative motifs compared to other types of activation patterns.

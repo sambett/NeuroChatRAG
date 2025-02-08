@@ -1,0 +1,5 @@
+Title: Identification of potential immune-related hub genes in Parkinson's disease based on machine learning and development and validation of a diagnostic classification model.
+PMID: 38051734
+
+Abstract:
+Parkinson's disease is the second most common neurodegenerative disease in the world. However, current diagnostic methods are still limited, and available treatments can only mitigate the symptoms of the disease, not reverse it at the root. The immune function has been identified as playing a role in PD, but the exact mechanism is unknown. This study aimed to search for potential immune-related hub genes in Parkinson's disease, find relevant immune infiltration patterns, and develop a categorical diagnostic model.

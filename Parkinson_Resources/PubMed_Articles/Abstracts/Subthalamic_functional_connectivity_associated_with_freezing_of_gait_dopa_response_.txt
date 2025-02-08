@@ -1,0 +1,5 @@
+Title: Subthalamic functional connectivity associated with freezing of gait dopa-response.
+PMID: 38101024
+
+Abstract:
+Freezing of gait (FOG) is a prevalent and debilitating feature of Parkinson's Disease (PD). The subthalamic nucleus (STN) is a center for controlled locomotion and a common DBS target. The objective of this study was to identify STN circuitry associated with FOG response to dopaminergic medication. In this study, we compare BOLD functional connectivity of the subthalamic nucleus (STN) in participants with and without dopa-responsive FOG.

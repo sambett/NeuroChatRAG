@@ -1,0 +1,5 @@
+Title: Spatiotemporal patterns of brain iron-oxygen metabolism in patients with Parkinson's disease.
+PMID: 37853173
+
+Abstract:
+Iron deposition and mitochondrial dysfunction are closely associated with the genesis and progression of Parkinson's disease (PD). This study aims to extract susceptibility and oxygen extraction fraction (OEF) values of deep grey matter (DGM) to explore spatiotemporal progression patterns of brain iron-oxygen metabolism in PD.

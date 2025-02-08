@@ -1,0 +1,5 @@
+Title: VPS35 and α-Synuclein fail to interact to modulate neurodegeneration in rodent models of Parkinson's disease.
+PMID: 37542299
+
+Abstract:
+Mutations in the vacuolar protein sorting 35 ortholog (VPS35) gene cause late-onset, autosomal dominant Parkinson's disease (PD), with a single missense mutation (Asp620Asn, D620N) known to segregate with disease in families with PD. The VPS35 gene encodes a core component of the retromer complex, involved in the endosomal sorting and recycling of transmembrane cargo proteins. VPS35-linked PD is clinically indistinguishable from sporadic PD, although it is not yet known whether VPS35-PD brains exhibit α-synuclein-positive brainstem Lewy pathology that is characteristic of sporadic cases. Prior studies have suggested a functional interaction between VPS35 and the PD-linked gene product α-synuclein in lower organisms, where VPS35 deletion enhances α-synuclein-induced toxicity. In mice, VPS35 overexpression is reported to rescue hippocampal neuronal loss in human α-synuclein transgenic mice, potentially suggesting a retromer deficiency in these mice.

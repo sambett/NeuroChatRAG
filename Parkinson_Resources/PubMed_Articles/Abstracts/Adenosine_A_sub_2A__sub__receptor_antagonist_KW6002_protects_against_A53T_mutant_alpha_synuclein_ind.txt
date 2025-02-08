@@ -1,0 +1,5 @@
+Title: Adenosine A<sub>2A</sub> receptor antagonist KW6002 protects against A53T mutant alpha-synuclein-induced brain damage and neuronal apoptosis in Parkinson's disease mice by restoring autophagic flux.
+PMID: 38157926
+
+Abstract:
+Protein misfolding and inclusion body aggregation caused by α-Syn mutations in the brain often cause neurodegeneration and cognitive impairment, among which the A53T point mutation is more common. Inhibition of adenosine A2A receptor (A<sub>2A</sub>R) can alleviate the pathological symptoms of brain dysfunction caused by A53T-α-Syn protofibrils, but the mechanism of action is still unclear.

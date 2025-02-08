@@ -1,0 +1,5 @@
+Title: Cost-effectiveness of Levodopa-Carbidopa Intestinal Gel in treating people with Advanced Parkinson's disease.
+PMID: 38813118
+
+Abstract:
+Advanced Parkinson's disease affects patients with existing Parkinson's disease by further deteriorating their physical and cognitive functions. In this commentary we critically assess an economic evaluation which compared the cost-effectiveness of levodopa/carbidopa intestinal gel against standard of care in treating patients with Advanced Parkinson's disease. While the economic evaluation indicated that levodopa/carbidopa intestinal gel could be cost-effective within the UK parameters, we highlight important limitations related to its design, modelling and analysis. Future research should consider the incorporation of a separate arm dedicated to the re-infusion of apomorphine on eligible Advanced Parkinson's disease patients, a wider set of levodopa/carbidopa intestinal gel adverse events and related costs, and a sub-group analysis on different socio-economic strata.

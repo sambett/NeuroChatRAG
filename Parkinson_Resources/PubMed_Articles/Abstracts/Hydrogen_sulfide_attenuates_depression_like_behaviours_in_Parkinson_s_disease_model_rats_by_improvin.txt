@@ -1,0 +1,5 @@
+Title: Hydrogen sulfide attenuates depression-like behaviours in Parkinson's disease model rats by improving synaptic plasticity in a hippocampal Warburg effect-dependent manner.
+PMID: 37967673
+
+Abstract:
+Depression is a highly prevalent comorbidity arising in patients with Parkinson's disease (PD). However, depression in patients with PD is poorly treated. Hydrogen sulfide (H<sub>2</sub>S), a neuromodulator, has the potential to relieve depression.

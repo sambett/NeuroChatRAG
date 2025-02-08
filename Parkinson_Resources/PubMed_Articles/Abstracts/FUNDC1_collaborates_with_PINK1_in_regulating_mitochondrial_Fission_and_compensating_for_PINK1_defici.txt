@@ -1,0 +1,5 @@
+Title: FUNDC1 collaborates with PINK1 in regulating mitochondrial Fission and compensating for PINK1 deficiency.
+PMID: 37931419
+
+Abstract:
+Parkinson's disease is presently thought to have its molecular roots in the alteration of PINK1-mediated mitophagy and mitochondrial dynamics. Finding new suppressors of the pathway is essential for developing cutting-edge treatment approaches. Our study shows that FUNDC1 suppressed PINK1 mutant phenotypes in Drosophila. The restoration of PINK1-deficient phenotypes through FUNDC1 is not reliant on its LC3-binding motif Y (18)L (21) or autophagy-related pathway. Moreover, the absence of Drp1 affects the phenotypic restoration of PINK1 mediated by FUNDC1 in flies. In summary, our findings have unveiled a fresh mechanism through which FUNDC1 compensates for the loss of PINK1, operating independently of autophagy but exerting its influence via interaction with Drp1.

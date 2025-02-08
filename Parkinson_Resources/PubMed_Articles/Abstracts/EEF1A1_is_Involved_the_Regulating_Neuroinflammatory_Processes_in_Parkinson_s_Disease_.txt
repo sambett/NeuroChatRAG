@@ -1,0 +1,5 @@
+Title: EEF1A1 is Involved the Regulating Neuroinflammatory Processes in Parkinson's Disease.
+PMID: 37735116
+
+Abstract:
+Studies have reported that the RNA-binding protein Eukaryotic Elongation Factor 1A1 (EEF1A1) is low expressed in the hippocampal region of Alzheimer's disease (AD). In addition, it is related to <i>PARK2</i> activity in cells, predicting its importance in neurodegenerative diseases. However, the function of EEF1A1 in Parkinson's disease (PD) is unclear. Our study's primary objective was to knock down EEF1A1 in U251 cells and preliminarily explore the role of EEF1A1 in PD neuroinflammation.

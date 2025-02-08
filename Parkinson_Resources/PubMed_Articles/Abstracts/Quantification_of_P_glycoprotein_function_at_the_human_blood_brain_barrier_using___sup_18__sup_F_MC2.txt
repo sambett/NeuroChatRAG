@@ -1,0 +1,5 @@
+Title: Quantification of P-glycoprotein function at the human blood-brain barrier using [<sup>18</sup>F]MC225 and PET.
+PMID: 37552369
+
+Abstract:
+P-glycoprotein (P-gp) is one of the most studied efflux transporters at the blood-brain barrier. It plays an important role in brain homeostasis by protecting the brain from a variety of endogenous and exogeneous substances. Changes in P-gp function are associated both with the onset of neuropsychiatric diseases, including Alzheimer's disease and Parkinson's disease, and with drug-resistance, for example in treatment-resistant depression. The most widely used approach to measure P-gp function in vivo is (R)-[<sup>11</sup>C]verapamil PET. (R)-[<sup>11</sup>C]verapamil is, however, an avid P-gp substrate, which complicates the use of this tracer to measure an increase in P-gp function as its baseline uptake is already very low. [<sup>18</sup>F]MC225 was developed to measure both increases and decreases in P-gp function.

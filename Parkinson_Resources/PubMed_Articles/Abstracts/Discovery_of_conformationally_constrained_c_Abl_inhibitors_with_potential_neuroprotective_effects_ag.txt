@@ -1,0 +1,5 @@
+Title: Discovery of conformationally constrained c-Abl inhibitors with potential neuroprotective effects against Parkinson's disease.
+PMID: 38006642
+
+Abstract:
+Abelson tyrosine kinase (c-Abl) is involved in various biological processes in neurodegenerative diseases and is an attractive target for anti-PD (Parkinson's disease) drug discovery. Based on our previous work, we designed several novel c-Abl inhibitors through a conformational constrained strategy and evaluated their pharmacological activities. Among them, compound A6 exhibited superior inhibitory activity against c-Abl than nilotinib in the homogenous time-resolved fluorescence (HTRF) assay. Furthermore, A6 displayed higher neuroprotective effects against SH-SY5Y cell death induced by MPP<sup>+</sup> and lower cytotoxicity than that of nilotinib. Molecular modeling revealed that the 1H-pyrrolo[2,3-B]pyridine ring may contribute to the high affinity of A6 for binding to c-Abl. Collectively, these results suggest that A6 deserves further investigation as a c-Abl inhibitor for neurodegenerative disorders.

@@ -1,0 +1,5 @@
+Title: Spinal Cord Stimulation for Gait Disorders in Parkinson's Disease and Atypical Parkinsonism: A Systematic Review of Preclinical and Clinical Data.
+PMID: 37452800
+
+Abstract:
+Falls in extrapyramidal disorders, particularly Parkinson's disease (PD), multisystem atrophy (MSA), and progressive supranuclear palsy (PSP), are key milestones affecting patients' quality of life, incurring increased morbidity/mortality and high healthcare costs. Unfortunately, gait and balance in parkinsonisms respond poorly to currently available treatments. A serendipitous observation of improved gait and balance in patients with PD receiving spinal cord stimulation (SCS) for back pain kindled an interest in using SCS to treat gait disorders in parkinsonisms.

@@ -1,0 +1,5 @@
+Title: Early-onset and late-onset Parkinson's disease exhibit a different profile of gait and posture features based on the Kinect.
+PMID: 37555875
+
+Abstract:
+Gait and posture abnormalities are the common disabling motor symptoms in Parkinson's disease (PD). This study aims to investigate the differential characteristics of gait and posture in early-onset PD (EOPD) and late-onset PD (LOPD) using the Kinect depth camera.

@@ -1,0 +1,5 @@
+Title: Chronic exposure to l-BMAA cyanotoxin induces cytoplasmic TDP-43 accumulation and glial activation, reproducing an amyotrophic lateral sclerosis-like phenotype in mice.
+PMID: 37729728
+
+Abstract:
+Amyotrophic lateral sclerosis (ALS) is a progressive and often fatal neurodegenerative disease characterized by the loss of Motor Neurons (MNs) in spinal cord, motor cortex and brainstem. Despite significant efforts in the field, the exact pathogenetic mechanisms underlying both familial and sporadic forms of ALS have not been fully elucidated, and the therapeutic possibilities are still very limited. Here we investigate the molecular mechanisms of neurodegeneration induced by chronic exposure to the environmental cyanotoxin L-BMAA, which causes a form of ALS/Parkinson's disease (PD) in several populations consuming food and/or water containing high amounts of this compound.

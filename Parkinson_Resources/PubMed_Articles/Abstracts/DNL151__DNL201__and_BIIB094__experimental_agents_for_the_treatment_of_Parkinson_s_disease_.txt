@@ -1,0 +1,5 @@
+Title: DNL151, DNL201, and BIIB094: experimental agents for the treatment of Parkinson's disease.
+PMID: 37755071
+
+Abstract:
+Pathogenic mutations of the abundant leucine-rich repeat kinase 2 gene support the onset of familial and sporadic forms of Parkinson's disease. These genetic variants catalyze kinase activity by substrate phosphorylation. They promote the nigrostriatal neurodegenerative process, i.e. characterized by Lewy body formation.

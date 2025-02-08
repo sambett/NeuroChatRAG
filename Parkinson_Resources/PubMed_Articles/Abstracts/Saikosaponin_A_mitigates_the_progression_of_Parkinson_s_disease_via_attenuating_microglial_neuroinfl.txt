@@ -1,0 +1,5 @@
+Title: Saikosaponin A mitigates the progression of Parkinson's disease via attenuating microglial neuroinflammation through TLR4/MyD88/NF-κB pathway.
+PMID: 37606106
+
+Abstract:
+Neuroinflammation caused by excessive microglial cell activation and the subsequent death of dopaminergic neurons plays a role in the pathogenesis of Parkinson's disease (PD). Saikosaponin A (Ssa), a triterpene saponin derived from Radix Bupleuri, has anti-inflammatory and antioxidant functions. This research aimed to investigate whether Ssa has a therapeutic effect on PD.

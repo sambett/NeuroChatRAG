@@ -1,0 +1,5 @@
+Title: Levetiracetam for the treatment of mild cognitive impairment in Parkinson's disease: a double-blind controlled proof-of-concept trial protocol.
+PMID: 37993889
+
+Abstract:
+Mild memory impairment, termed amnestic mild cognitive impairment (aMCI), is associated with rapid progression towards dementia in Parkinson's disease (PD). Studies have shown hyperactivation of hippocampal DG/CA3 subfields during an episodic memory task as a biomarker of aMCI related to Alzheimer's disease. This project investigates the feasibility of a trial to establish the efficacy of a repurposed antiepileptic drug, levetiracetam, in low doses as a putative treatment to target DG/CA3 hyperactivation and improve episodic memory deficits in aMCI in PD. Based on previous work, it is hypothesized that levetiracetam will normalize DG/CA3 overactivation in PD-aMCI participants and improve memory performance.

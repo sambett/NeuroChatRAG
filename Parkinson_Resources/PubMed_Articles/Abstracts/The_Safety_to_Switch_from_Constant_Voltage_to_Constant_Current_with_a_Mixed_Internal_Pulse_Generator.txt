@@ -1,0 +1,5 @@
+Title: The Safety to Switch from Constant Voltage to Constant Current with a Mixed Internal Pulse Generator in Deep Brain Stimulation.
+PMID: 37970246
+
+Abstract:
+Deep brain stimulation (DBS) is an efficient modality for the treatment of movement disorders. Differing from the constant voltage (CV)-DBS devices, constant current (CC)-DBS devices may allow more precise stimulation of the target brain regions since they are less influenced by impedance. If internal pulse generators (IPGs) of DBS devices are required to be connected with electrodes of different brands, employing proper adapters is necessary. Such connected DBS devices are called mixed or hybrid devices.

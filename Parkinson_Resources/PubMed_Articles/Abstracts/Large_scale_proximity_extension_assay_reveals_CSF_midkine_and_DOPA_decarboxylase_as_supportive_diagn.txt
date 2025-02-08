@@ -1,0 +1,5 @@
+Title: Large-scale proximity extension assay reveals CSF midkine and DOPA decarboxylase as supportive diagnostic biomarkers for Parkinson's disease.
+PMID: 37667404
+
+Abstract:
+There is a need for biomarkers to support an accurate diagnosis of Parkinson's disease (PD). Cerebrospinal fluid (CSF) has been a successful biofluid for finding neurodegenerative biomarkers, and modern highly sensitive multiplexing methods offer the possibility to perform discovery studies. Using a large-scale multiplex proximity extension assay (PEA) approach, we aimed to discover novel diagnostic protein biomarkers allowing accurate discrimination of PD from both controls and atypical Parkinsonian disorders (APD).

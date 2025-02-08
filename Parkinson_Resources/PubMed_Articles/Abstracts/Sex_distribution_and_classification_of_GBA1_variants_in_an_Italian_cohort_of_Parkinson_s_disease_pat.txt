@@ -1,0 +1,5 @@
+Title: Sex distribution and classification of GBA1 variants in an Italian cohort of Parkinson's disease patients analyzed over the last seventeen years.
+PMID: 37948831
+
+Abstract:
+Heterozygous GBA1 variants are among the most frequent genetic risk factors for Parkinson's disease (PD). Male sex is a risk factor in the development of PD but the sex prevalence of GBA1 carriers in PD patients remains debatable. Molecular analysis of the GBA1 gene is complicated by the presence of a highly homologous pseudogene GBAP1.

@@ -1,0 +1,5 @@
+Title: AI molecular property prediction for Parkinson's Disease reveals potential repurposing drug candidates based on the increase of the expression of PINK1.
+PMID: 37544165
+
+Abstract:
+Parkinson's Disease (PD), a common neurodegenerative disorder and one of the major current challenges in neuroscience and pharmacology, may potentially be tackled by the modern AI techniques employed in drug discovery based on molecular property prediction. The aim of our study was to explore the application of a machine learning setup for the identification of the best potential drug candidates among FDA approved drugs, based on their predicted PINK1 expression-enhancing activity.

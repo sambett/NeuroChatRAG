@@ -1,0 +1,5 @@
+Title: Long-term neurological complications in COVID-19 survivors: study protocol of a prospective cohort study (NeurodegCoV-19).
+PMID: 37518072
+
+Abstract:
+Evidence suggests an association between SARS-CoV-2 infection and worse performance on cognitive tests, and a higher risk of Parkinson's disease (PD) and dementia up to 6 and 12 months after infection, respectively. Longer follow-ups with comparison groups are needed to clarify the potentially increased risk of neurodegenerative diseases in COVID-19 survivors, namely those infected before mass vaccination.

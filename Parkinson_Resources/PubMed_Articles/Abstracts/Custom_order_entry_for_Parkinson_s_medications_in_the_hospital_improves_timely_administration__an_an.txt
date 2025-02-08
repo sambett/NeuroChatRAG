@@ -1,0 +1,5 @@
+Title: Custom order entry for Parkinson's medications in the hospital improves timely administration: an analysis of over 31,000 medication doses.
+PMID: 38187358
+
+Abstract:
+Patients with Parkinson's disease (PD) are at increased risk for hospital acquired complications. Deviations from home medication schedules and delays in administration are major contributing factors. We had previously developed a protocol to ensure adherence to home medication schedules using "custom" ordering. In this study we are assessing the impact this order type may have on reducing delays in PD medication administration in the hospital.

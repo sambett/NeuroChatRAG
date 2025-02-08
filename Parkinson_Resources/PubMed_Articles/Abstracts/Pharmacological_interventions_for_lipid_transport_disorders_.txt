@@ -1,0 +1,5 @@
+Title: Pharmacological interventions for lipid transport disorders.
+PMID: 38156273
+
+Abstract:
+The recent discovery that defects in inter-organelle lipid transport are at the heart of several neurological and neurodegenerative disorders raises the challenge of identifying therapeutic strategies to correct lipid transport defects. This perspective highlights two potential strategies suggested by the study of lipid transport in budding yeast. In the first approach, small molecules are proposed that enhance the lipid transfer activity of <i>VPS13</i> proteins and thereby compensate for reduced transport. In the second approach, molecules that act as inter-organelle tethers could be used to create artificial contact sites and bypass the loss of endogenous contacts.

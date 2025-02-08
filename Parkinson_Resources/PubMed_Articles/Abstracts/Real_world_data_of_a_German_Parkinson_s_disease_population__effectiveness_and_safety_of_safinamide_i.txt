@@ -1,0 +1,5 @@
+Title: Real world data of a German Parkinson's disease population: effectiveness and safety of safinamide in routine clinical practice.
+PMID: 37421634
+
+Abstract:
+Parkinson's Disease (PD) is a common progressive neurodegenerative disorder that leads to an imbalance of various neurotransmitters and affects cognitive, motor and non-motor function. Safinamide inhibits monoamine oxidase B in a highly selective and reversible manner and beyond that has anti-glutamatergic properties, with positive effects on motor and non-motor symptoms. The aim of the study was to obtain data about the effectiveness and tolerability of safinamide under routine clinical practice conditions in unselected patients with Parkinson's disease (PD).

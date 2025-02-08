@@ -1,0 +1,5 @@
+Title: Feasibility of home dose optimization of apomorphine sublingual film in Parkinson's disease patients with OFF episodes: results from the dose-optimization phase of an open-label, randomized crossover study.
+PMID: 37954918
+
+Abstract:
+Dose optimization of sublingual apomorphine (SL-APO), a dopamine agonist for the treatment of OFF episodes in patients with Parkinson's disease (PD), has been performed under clinical supervision in clinical trials. SL-APO may be a candidate for home dosing optimization which would be less burdensome for patients.

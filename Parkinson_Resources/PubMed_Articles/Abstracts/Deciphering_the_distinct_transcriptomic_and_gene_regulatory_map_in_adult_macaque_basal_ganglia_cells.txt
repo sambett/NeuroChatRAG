@@ -1,0 +1,5 @@
+Title: Deciphering the distinct transcriptomic and gene regulatory map in adult macaque basal ganglia cells.
+PMID: 38091510
+
+Abstract:
+The basal ganglia are a complex of interconnected subcortical structures located beneath the mammalian cerebral cortex. The degeneration of dopaminergic neurons in the basal ganglia is the primary pathological feature of Parkinson's disease. Due to a lack of integrated analysis of multiomics datasets across multiple basal ganglia brain regions, very little is known about the regulatory mechanisms of this area.

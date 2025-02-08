@@ -1,0 +1,5 @@
+Title: Neuromelanin related ultra-high field signal intensity of the locus coeruleus differs between Parkinson's disease and controls.
+PMID: 37494758
+
+Abstract:
+Neuromelanin related signal changes in catecholaminergic nuclei are considered as a promising MRI biomarker in Parkinson's disease (PD). Until now, most studies have investigated the substantia nigra (SN), while signal changes might be more prominent in the locus coeruleus (LC). Ultra-high field MRI improves the visualisation of these small brainstem regions and might support the development of imaging biomarkers in PD.

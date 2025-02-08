@@ -1,0 +1,5 @@
+Title: Cost Effectiveness of Deep Brain Stimulation for Parkinson's Disease: A Systematic Review.
+PMID: 38015368
+
+Abstract:
+Deep brain stimulation (DBS) is an established treatment for Parkinson's disease (PD) in patients with advanced motor symptoms with an inadequate response to pharmacotherapies. Despite its effectiveness, the cost effectiveness of DBS remains a subject of debate. This systematic review aims to update and synthesize evidence on the cost effectiveness of DBS for PD.

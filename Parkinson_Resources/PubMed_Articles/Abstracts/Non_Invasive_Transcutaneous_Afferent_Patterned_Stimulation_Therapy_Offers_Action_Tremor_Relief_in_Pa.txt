@@ -1,0 +1,5 @@
+Title: Non-Invasive Transcutaneous Afferent Patterned Stimulation Therapy Offers Action Tremor Relief in Parkinson's Disease.
+PMID: 37637850
+
+Abstract:
+Many patients with Parkinson's disease (PD) experience action tremor (including postural and kinetic tremors) that impair activities of daily living. Transcutaneous afferent patterned stimulation (TAPS) is a non-invasive neuromodulation therapy that modulates tremorgenic activity at the ventral intermediate nucleus (VIM). Most TAPS evidence evaluated relief of action tremor associated with essential tremor (ET). This study evaluated whether TAPS results in similar relief of action tremor associated with PD.

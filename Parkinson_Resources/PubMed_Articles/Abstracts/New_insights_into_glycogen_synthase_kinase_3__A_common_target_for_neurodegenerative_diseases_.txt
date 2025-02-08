@@ -1,0 +1,5 @@
+Title: New insights into glycogen synthase kinase-3: A common target for neurodegenerative diseases.
+PMID: 37981175
+
+Abstract:
+Glycogen synthase kinase 3 (GSK-3) is a highly conserved protein serine/threonine kinase that plays a central role in a wide variety of cellular processes to coordinate catabolic and anabolic pathways and regulate cell growth and fate. There is increasing evidence showing that abnormal glycogen synthase kinase 3 (GSK-3) is associated with the pathogenesis and progression of many disorders, such as cancer, diabetes, psychiatric diseases, and neurodegenerative diseases. In this review, we summarize recent findings about the regulatory role of GSK-3 in the occurrence and development of multiple neurodegenerative diseases, mainly focusing on Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. The aim of this study is to provide new insight into the shared working mechanism of GSK-3 as a therapeutic target of multiple neurodegenerative diseases.

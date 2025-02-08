@@ -1,0 +1,5 @@
+Title: Geniposide protects against neurotoxicity in mouse models of rotenone-induced Parkinson's disease involving the mTOR and Nrf2 pathways.
+PMID: 37451492
+
+Abstract:
+Fructus Gardeniae, with the effects of discharging fire, eliminating vexation, reducing fever and causing diuresis, and cooling blood to remove apthogentic heat, could be used to treat Parkinson's disease (PD). Geniposide, as the main active ingredient of Fructus Gardeniae, has been shown to have neuroprotective effects in several rodent models. Rotenone, a commonly used neurotoxin, induced PD model progresses slowly, but simulates the pathological changes of PD's slow progression.

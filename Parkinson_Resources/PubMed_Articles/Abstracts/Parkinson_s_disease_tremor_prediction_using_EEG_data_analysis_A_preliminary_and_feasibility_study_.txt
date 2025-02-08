@@ -1,0 +1,5 @@
+Title: Parkinson's disease tremor prediction using EEG data analysis-A preliminary and feasibility study.
+PMID: 38001410
+
+Abstract:
+Tremor is one of the hallmarks of Parkinson's disease (PD) that does not respond effectively to conventional medications. In this regard, as a complementary solution, methods such as deep brain stimulation have been proposed. To apply the intervention with minimal side effects, it is necessary to predict tremor initiation. The purpose of the current study was to propose a novel methodology for predicting resting tremors using analysis of EEG time-series.

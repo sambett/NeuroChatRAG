@@ -1,0 +1,5 @@
+Title: Pathological pallidal beta activity in Parkinson's disease is sustained during sleep and associated with sleep disturbance.
+PMID: 37669927
+
+Abstract:
+Parkinson's disease (PD) is associated with excessive beta activity in the basal ganglia. Brain sensing implants aim to leverage this biomarker for demand-dependent adaptive stimulation. Sleep disturbance is among the most common non-motor symptoms in PD, but its relationship with beta activity is unknown. To investigate the clinical potential of beta activity as a biomarker for sleep quality in PD, we recorded pallidal local field potentials during polysomnography in PD patients off dopaminergic medication and compared the results to dystonia patients. PD patients exhibited sustained and elevated beta activity across wakefulness, rapid eye movement (REM), and non-REM sleep, which was correlated with sleep disturbance. Simulation of adaptive stimulation revealed that sleep-related beta activity changes remain unaccounted for by current algorithms, with potential negative outcomes in sleep quality and overall quality of life for patients.

@@ -1,0 +1,5 @@
+Title: The effects of an individualized smartphone-based exercise program on self-defined motor tasks in Parkinson's disease: a long-term feasibility study.
+PMID: 37902922
+
+Abstract:
+Exercise therapy is considered effective for the treatment of motor impairment in patients with Parkinson's disease (PD). During the COVID-19 pandemic, training sessions were cancelled and the implementation of telerehabilitation concepts became a promising solution. The aim of this controlled interventional feasibility study was to evaluate the long-term acceptance and to explore initial effectiveness of a digital, home-based, high-frequency exercise program for PD patients. Training effects were assessed using patient-reported outcome measures combined with sensor-based and clinical scores.

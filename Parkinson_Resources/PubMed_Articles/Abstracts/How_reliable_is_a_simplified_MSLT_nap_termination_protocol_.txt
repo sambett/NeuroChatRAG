@@ -1,0 +1,5 @@
+Title: How reliable is a simplified MSLT nap termination protocol?
+PMID: 37499464
+
+Abstract:
+According to current practical guidelines, naps of the Mean Sleep Latency Test (MSLT) must be terminated 15 min after sleep onset, which requires ad hoc scoring. For clinical convenience, some sleep clinics use a simplified protocol with fixed nap lengths of 20min. Its diagnostic accuracy remains unknown.

@@ -1,0 +1,5 @@
+Title: Adenosine A<sub>2A</sub> signals and dystonia.
+PMID: 37741691
+
+Abstract:
+Dystonia is a movement disorder characterized by sustained or intermittent involuntary muscle contractions, which is also seen in an advanced stage of Parkinson's disease (PD) as camptocormia, torticollis, and Pisa syndrome. Istradefylline, an adenosine A<sub>2A</sub> receptor antagonist, can be used for the treatment of PD to reduce 'off'-time period, and several clinical studies demonstrated the improvement of camptocormia, which have many similar features to dopa-responsive/non-responsive dystonia. Many animal models of dystonia showed that adenosine A<sub>2A</sub> receptor colocalized with dopamine D2 positive spiny projection neurons in indirect pathway of basal ganglia circuit, and also in the cholinergic interneurons that affects the balance of indirect and direct pathway of basal ganglia. In this chapter, the potential effect of adenosine A<sub>2A</sub> antagonism on dystonia was discussed in view of clinical studies of PD with postural abnormalities and the findings of dystonia mouse models.

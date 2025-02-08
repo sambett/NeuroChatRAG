@@ -1,0 +1,5 @@
+Title: MDMA targets miR-124/MEKK3 via MALAT1 to promote Parkinson's disease progression.
+PMID: 37688681
+
+Abstract:
+Parkinson's disease (PD) is a well-known neurodegenerative disease that is usually caused by the progressive loss of dopamine neurons and the formation of Lewy vesicles. 3,4-Methylenedioxymethamphetamine (MDMA) has been reported to cause damage to human substantia nigra neurons and an increased risk of PD, but the exact molecular mechanisms need further investigation.

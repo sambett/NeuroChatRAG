@@ -1,0 +1,5 @@
+Title: Investigating the potential effects of α-synuclein aggregation on susceptibility to chronic stress in a mouse Parkinson's disease model.
+PMID: 37725330
+
+Abstract:
+Parkinson's disease (PD) is a motor disorder characterized by the degeneration of dopaminergic neurons, putatively due to the accumulation of α-synuclein (α-syn) in Lewy bodies (LBs) in Substantia Nigra. PD is also associated with the formation of LBs in brain areas responsible for emotional and cognitive regulation such as the amygdala and prefrontal cortex, and concurrent depression prevalence in PD patients. The exact link between dopaminergic cell loss, α-syn aggregation, depression, and stress, a major depression risk factor, is unclear. Therefore, we aimed to explore the interplay between sensitivity to chronic stress and α-syn aggregation.

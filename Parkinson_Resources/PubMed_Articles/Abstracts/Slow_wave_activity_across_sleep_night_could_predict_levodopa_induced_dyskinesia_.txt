@@ -1,0 +1,5 @@
+Title: Slow wave activity across sleep-night could predict levodopa-induced dyskinesia.
+PMID: 37726375
+
+Abstract:
+A disruption in the slow wave activity (SWA) mediated synaptic downscaling process features Parkinson's disease (PD) patients presenting levodopa-induced dyskinesia (LID). To corroborate the role of SWA in LID development, 15 PD patients with LID, who underwent a polysomnography before LID's appearance, were included. Slow wave sleep epochs were extracted, combined and segmented into early and late sleep. SWA power was calculated. A linear regression model established that the SWA overnight decrease could predict the time to the emergence of LID. Our finding supports the link between SWA-mediated synaptic downscaling and the development of LID. If confirmed, it could pave the way to the study of possible sleep targeted therapies able to protect PD patients from LID development.

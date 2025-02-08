@@ -1,0 +1,5 @@
+Title: Circulating plasma miR-23b-3p as a biomarker target for idiopathic Parkinson's disease: comparison with small extracellular vesicle miRNA.
+PMID: 38033547
+
+Abstract:
+Parkinson's disease (PD) is an increasingly common neurodegenerative condition, which causes movement dysfunction and a broad range of non-motor symptoms. There is no molecular or biochemical diagnosis test for PD. The miRNAs are a class of small non-coding RNAs and are extensively studied owing to their altered expression in pathological states and facile harvesting and analysis techniques.

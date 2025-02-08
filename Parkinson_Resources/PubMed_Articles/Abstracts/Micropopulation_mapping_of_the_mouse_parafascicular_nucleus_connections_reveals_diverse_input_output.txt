@@ -1,0 +1,5 @@
+Title: Micropopulation mapping of the mouse parafascicular nucleus connections reveals diverse input-output motifs.
+PMID: 38260117
+
+Abstract:
+In primates, including humans, the centromedian/parafascicular (CM-Pf) complex is a key thalamic node of the basal ganglia system. Deep brain stimulation in CM-Pf has been applied for the treatment of motor disorders such as Parkinson's disease or Tourette syndrome. Rodents have become widely used models for the study of the cellular and genetic mechanisms of these and other motor disorders. However, the equivalence between the primate CM-Pf and the nucleus regarded as analogous in rodents (Parafascicular, Pf) remains unclear.

@@ -1,0 +1,5 @@
+Title: Cerebrospinal fluid biomarkers profile in scans without evidence of dopaminergic deficits (SWEDD).
+PMID: 37953806
+
+Abstract:
+A small proportion of patients with clinical parkinsonism have normal transporter-single photon emission computed tomography (DaTSPECT) which is commonly defined as scans without evidence of dopaminergic deficits (SWEDD). A better understanding of SWEDD can improve the current therapeutic options and appropriate disease monitoring.

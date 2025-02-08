@@ -1,0 +1,5 @@
+Title: DNA Methylation Age Acceleration Is Not Associated with Age of Onset in Parkinson's Disease.
+PMID: 37551021
+
+Abstract:
+Epigenetic clocks using DNA methylation (DNAm) to estimate biological age have become popular tools in the study of neurodegenerative diseases. Notably, several recent reports have shown a strikingly similar inverse relationship between accelerated biological aging, as measured by DNAm, and the age of onset of several neurodegenerative disorders, including Parkinson's disease (PD). Common to all of these studies is that they were performed without control subjects and using the exact same measure of accelerated aging: DNAm age minus chronological age.

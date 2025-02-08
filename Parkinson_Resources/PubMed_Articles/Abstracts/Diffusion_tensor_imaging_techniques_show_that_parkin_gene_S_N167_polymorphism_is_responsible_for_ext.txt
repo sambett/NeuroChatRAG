@@ -1,0 +1,5 @@
+Title: Diffusion tensor imaging techniques show that parkin gene S/N167 polymorphism is responsible for extensive brain white matter damage in patients with Parkinson's disease.
+PMID: 37600423
+
+Abstract:
+To explore the influence of disease and genetic factors on the white matter microstructure in patients with PD. The white matter microstructural changes in the substantia nigra-striatum system were detected by diffusion tensor imaging (DTI) using the region of interest (ROI) and diffusion tensor tracer (DTT) methods.

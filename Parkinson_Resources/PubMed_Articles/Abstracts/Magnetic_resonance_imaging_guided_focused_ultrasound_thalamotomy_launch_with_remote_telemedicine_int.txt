@@ -1,0 +1,5 @@
+Title: Magnetic resonance imaging-guided focused ultrasound thalamotomy launch with remote telemedicine international proctorship.
+PMID: 38450308
+
+Abstract:
+COVID-19 limitations have hindered the implementation of new technologies by preventing proctors from coming to the site. We share our first experience of magnetic resonance imaging (MRI)-guided focused ultrasound (MRgFUS) treatment with an international remote online proctorship, and develop and evaluate the methodology of remote MRgFUS proctorship.

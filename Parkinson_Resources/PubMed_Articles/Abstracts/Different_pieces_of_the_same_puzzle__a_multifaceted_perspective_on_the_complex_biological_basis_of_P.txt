@@ -1,0 +1,5 @@
+Title: Different pieces of the same puzzle: a multifaceted perspective on the complex biological basis of Parkinson's disease.
+PMID: 37443150
+
+Abstract:
+The biological basis of the neurodegenerative movement disorder, Parkinson's disease (PD), is still unclear despite it being 'discovered' over 200 years ago in Western Medicine. Based on current PD knowledge, there are widely varying theories as to its pathobiology. The aim of this article was to explore some of these different theories by summarizing the viewpoints of laboratory and clinician scientists in the PD field, on the biological basis of the disease. To achieve this aim, we posed this question to thirteen "PD experts" from six continents (for global representation) and collated their personal opinions into this article. The views were varied, ranging from toxin exposure as a PD trigger, to LRRK2 as a potential root cause, to toxic alpha-synuclein being the most important etiological contributor. Notably, there was also growing recognition that the definition of PD as a single disease should be reconsidered, perhaps each with its own unique pathobiology and treatment regimen.

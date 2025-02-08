@@ -1,0 +1,5 @@
+Title: A novel MRI-based volumetric index for monitoring the motor symptoms in Parkinson's disease.
+PMID: 37742348
+
+Abstract:
+Conventional MRI scans have limited usefulness in monitoring Parkinson's disease as they typically do not show any disease-specific brain abnormalities. This study aimed to identify an imaging biomarker for tracking motor symptom progression by using a multivariate statistical approach that can combine gray matter volume information from multiple brain regions into a single score specific to each PD patient.

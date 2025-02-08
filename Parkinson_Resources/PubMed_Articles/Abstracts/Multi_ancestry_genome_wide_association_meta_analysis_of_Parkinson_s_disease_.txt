@@ -1,0 +1,5 @@
+Title: Multi-ancestry genome-wide association meta-analysis of Parkinson's disease.
+PMID: 38155330
+
+Abstract:
+Although over 90 independent risk variants have been identified for Parkinson's disease using genome-wide association studies, most studies have been performed in just one population at a time. Here we performed a large-scale multi-ancestry meta-analysis of Parkinson's disease with 49,049 cases, 18,785 proxy cases and 2,458,063 controls including individuals of European, East Asian, Latin American and African ancestry. In a meta-analysis, we identified 78 independent genome-wide significant loci, including 12 potentially novel loci (MTF2, PIK3CA, ADD1, SYBU, IRS2, USP8, PIGL, FASN, MYLK2, USP25, EP300 and PPP6R2) and fine-mapped 6 putative causal variants at 6 known PD loci. By combining our results with publicly available eQTL data, we identified 25 putative risk genes in these novel loci whose expression is associated with PD risk. This work lays the groundwork for future efforts aimed at identifying PD loci in non-European populations.

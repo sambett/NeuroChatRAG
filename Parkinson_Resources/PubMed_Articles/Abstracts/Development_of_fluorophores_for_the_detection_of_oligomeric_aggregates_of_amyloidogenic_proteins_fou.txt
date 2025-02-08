@@ -1,0 +1,5 @@
+Title: Development of fluorophores for the detection of oligomeric aggregates of amyloidogenic proteins found in neurodegenerative diseases.
+PMID: 38188930
+
+Abstract:
+Alzheimer's disease and Parkinson's disease are the two most common neurodegenerative diseases globally. These neurodegenerative diseases have characteristic late-stage symptoms allowing for differential diagnosis; however, they both share the presence of misfolded protein aggregates which appear years before clinical manifestation. Historically, research has focused on the detection of higher-ordered aggregates (or amyloids); however, recent evidence has shown that the oligomeric state of these protein aggregates plays a greater role in disease pathology, resulting in increased efforts to detect oligomers to aid in disease diagnosis. In this review, we summarize some of the exciting new developments towards the development of fluorescent probes that can detect oligomeric aggregates of amyloidogenic proteins present in Alzheimer's and Parkinson's disease patients.

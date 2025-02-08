@@ -1,0 +1,5 @@
+Title: Neuronal Nitric Oxide Synthase and Post-Translational Modifications in the Development of Central Nervous System Diseases: Implications and Regulation.
+PMID: 37764469
+
+Abstract:
+In the Central Nervous System (CNS), Nitric Oxide (NO) is mainly biosynthesized by neuronal Nitric Oxide Synthase (nNOS). The dysregulated activation of nNOS in neurons is critical in the development of different conditions affecting the CNS. The excessive production of NO by nNOS is responsible for a number of proteins' post-translational modifications (PTMs), which can lead to aberrant biochemical pathways, impairing CNS functions. In this review, we briefly revise the main implications of dysregulated nNOS in the progression of the most prevalent CNS neurodegenerative disorders, i.e., Alzheimer's disease (AD) and Parkinson's disease, as well as in the development of neuronal disorders. Moreover, a specific focus on compounds able to modulate nNOS activity as promising therapeutics to tackle different neuronal diseases is presented.

@@ -1,0 +1,5 @@
+Title: Programming Algorithm for the Management of Speech Impairment in Subthalamic Nucleus Deep Brain Stimulation for Parkinson's Disease.
+PMID: 37452799
+
+Abstract:
+Deep brain stimulation (DBS) of the subthalamic nucleus (STN) for Parkinson's disease (PD) has an ambiguous relation to speech. Speech impairment can be a stimulation-induced side effect, and parkinsonian dysarthria can improve with STN-DBS. Owing to the lack of an up-to-date and evidence-based approach, DBS reprogramming for speech impairment is largely blind and greatly relies on the physician's experience. In this study, we aimed to establish an evidence- and experience-based algorithm for managing speech impairment in patients with PD treated with STN-DBS.

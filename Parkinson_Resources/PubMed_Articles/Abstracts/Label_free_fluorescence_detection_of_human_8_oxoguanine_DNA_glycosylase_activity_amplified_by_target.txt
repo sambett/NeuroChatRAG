@@ -1,0 +1,5 @@
+Title: Label-free fluorescence detection of human 8-oxoguanine DNA glycosylase activity amplified by target-induced rolling circle amplification.
+PMID: 38182379
+
+Abstract:
+Human 8-oxoG DNA glycosylase 1 (hOGG1) is one of the important members of DNA glycosylase for Base excision repair (BER), the abnormal activity of which can lead to the failure of BER and the appearance of various diseases, such as breast cancer, bladder cancer, Parkinson's disease and lung cancer. Therefore, it is important to detect the activity of hOGG1. However, traditional detection methods suffer from time consuming, complicated operation, high false positive results and low sensitivity. Thus, it remains a challenge to develop simple and sensitive hOGG1 analysis strategies to facilitate early diagnosis and treatment of the relative disease.

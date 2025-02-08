@@ -1,0 +1,5 @@
+Title: A Case Report: Lithium-Induced Neurotoxicity, a Differential to Always Consider.
+PMID: 38192942
+
+Abstract:
+Lithium, a mood stabilizer commonly prescribed for bipolar disorder, has a narrow therapeutic index that increases the risk of toxicity for patients who are prescribed this medication. Patients presenting with lithium toxicity could have a wide array of symptoms triggered by several factors that mimic other neurological conditions. In this paper, we discuss the case of an 81-year-old male who presented to the emergency department with worsening tremors and visual hallucinations, ataxia, and cognitive decline. He was initially thought to have Parkinson's disease with dementia in the outpatient setting and was later found to have lithium toxicity. Swift identification and management, involving fluid diuresis, led to the complete resolution of the patient's neurological symptoms by the fourth day of hospitalization. This case calls attention to the challenges of diagnosing lithium toxicity due to the variability in presentation as well as precipitating factors that clinicians must be cognizant of when working up patients who are prescribed lithium.

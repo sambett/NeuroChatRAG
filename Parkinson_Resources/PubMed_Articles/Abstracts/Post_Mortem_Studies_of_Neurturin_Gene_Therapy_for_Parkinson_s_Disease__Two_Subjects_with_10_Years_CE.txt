@@ -1,0 +1,5 @@
+Title: Post-Mortem Studies of Neurturin Gene Therapy for Parkinson's Disease: Two Subjects with 10 Years CERE120 Delivery.
+PMID: 37544016
+
+Abstract:
+Neurturin is a member of the glial cell line-derived neurotrophic factor family of neurotrophic factors and has the potential to protectdegenerating dopaminergic neurons.

@@ -1,0 +1,5 @@
+Title: A fixel-based analysis of white matter reductions early detects Parkinson disease with mild cognitive impairment.
+PMID: 37949112
+
+Abstract:
+White matter (WM) tract alterations are early signs of cognitive impairment in Parkinson disease (PD) patients. Fixel-based analysis (FBA) has advantages over traditional diffusion tensor imaging in managing complex and crossing fibers. We used FBA to measure fiber-specific changes in patients with PD mild cognitive impairment (PD-MCI) and PD normal cognition (PD-NC).

@@ -1,0 +1,5 @@
+Title: Background and roles: myosin in autoimmune diseases.
+PMID: 37691828
+
+Abstract:
+The myosin superfamily is a group of molecular motors. Autoimmune diseases are characterized by dysregulation or deficiency of the immune tolerance mechanism, resulting in an immune response to the human body itself. The link between myosin and autoimmune diseases is much more complex than scientists had hoped. Myosin itself immunization can induce experimental autoimmune diseases of animals, and myosins were abnormally expressed in a number of autoimmune diseases. Additionally, myosin takes part in the pathological process of multiple sclerosis, Alzheimer's disease, Parkinson's disease, autoimmune myocarditis, myositis, hemopathy, inclusion body diseases, etc. However, research on myosin and its involvement in the occurrence and development of diseases is still in its infancy, and the underlying pathological mechanisms are not well understood. We can reasonably predict that myosin might play a role in new treatments of autoimmune diseases.

@@ -1,0 +1,5 @@
+Title: Biological Activity of Novel Pyrrole Derivatives as Antioxidant Agents Against 6-OHDA Induced Neurotoxicity in PC12 Cells.
+PMID: 38444711
+
+Abstract:
+Neuroinflammation and oxidative stress are critical factors involved in the pathogenesis of Parkinson's disease (PD), the second most common progressive neurodegenerative disease. Additionally, lipid peroxidation end products contribute to inflammatory responses by activating pro-inflammatory genes. Lipid peroxidation occurs as a result of either the overproduction of intracellular reactive oxygen species (ROS) or the reaction of cyclooxygenases (COXs).

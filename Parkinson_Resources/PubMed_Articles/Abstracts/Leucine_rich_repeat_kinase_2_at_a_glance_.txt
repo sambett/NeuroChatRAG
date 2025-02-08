@@ -1,0 +1,5 @@
+Title: Leucine-rich repeat kinase 2 at a glance.
+PMID: 37698513
+
+Abstract:
+Leucine-rich repeat kinase 2 (LRRK2) is a multidomain scaffolding protein with dual guanosine triphosphatase (GTPase) and kinase enzymatic activities, providing this protein with the capacity to regulate a multitude of signalling pathways and act as a key mediator of diverse cellular processes. Much of the interest in LRRK2 derives from mutations in the LRRK2 gene being the most common genetic cause of Parkinson's disease, and from the association of the LRRK2 locus with a number of other human diseases, including inflammatory bowel disease. Therefore, the LRRK2 research field has focused on the link between LRRK2 and pathology, with the aim of uncovering the underlying mechanisms and, ultimately, finding novel therapies and treatments to combat them. From the biochemical and cellular functions of LRRK2, to its relevance to distinct disease mechanisms, this Cell Science at a Glance article and the accompanying poster deliver a snapshot of our current understanding of LRRK2 function, dysfunction and links to disease.

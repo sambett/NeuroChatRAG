@@ -1,0 +1,5 @@
+Title: A Sensor-Based Platform for Early-Stage Parkinson's Disease Monitoring.
+PMID: 37486475
+
+Abstract:
+Biosensing platforms have gained much attention in clinical practice screening thousands of samples simultaneously for the accurate detection of important markers in various diseases for diagnostic and prognostic purposes. Herein, a framework for the design of an innovative methodological approach combined with data processing and appropriate software in order to implement a complete diagnostic system for Parkinson's disease exploitation is presented. The integrated platform consists of biochemical and peripheral sensor platforms for measuring biological and biometric parameters of examinees, a central collection and management unit along with a server for storing data, and a decision support system for patient's state assessment regarding the occurrence of the disease. The suggested perspective is oriented on data processing and experimental implementation and can provide a powerful holistic evaluation of personalized monitoring of patients or individuals at high risk of manifestation of the disease.

@@ -1,0 +1,5 @@
+Title: Apomorphine for Parkinson's disease: pharmacologic and clinical considerations.
+PMID: 37909462
+
+Abstract:
+In Parkinson's disease, dopamine depletion in the basal ganglia leads to symptoms including bradykinesia, gait abnormalities, and cognitive impairment. Even with treatment, the disease course leads to decreases in the amount of dopamine produced and released into the synapse. As dopamine production falls and the treatment course is insufficient to match the metabolic supply and demand, acute 'off' periods develop that cause reemergence of symptoms. Apomorphine is used to reverse these 'off' periods and restore function in patients with Parkinson's. This review will provide clinicians a concise article to read to learn more about apomorphine and its appropriate utilization.

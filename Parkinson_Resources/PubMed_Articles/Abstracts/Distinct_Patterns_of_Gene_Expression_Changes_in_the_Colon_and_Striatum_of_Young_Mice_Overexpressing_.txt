@@ -1,0 +1,5 @@
+Title: Distinct Patterns of Gene Expression Changes in the Colon and Striatum of Young Mice Overexpressing Alpha-Synuclein Support Parkinson's Disease as a Multi-System Process.
+PMID: 37638450
+
+Abstract:
+Evidence supports a role for the gut-brain axis in Parkinson's disease (PD). Mice overexpressing human wild type α- synuclein (Thy1-haSyn) exhibit slow colonic transit prior to motor deficits, mirroring prodromal constipation in PD. Identifying molecular changes in the gut could provide both biomarkers for early diagnosis and gut-targeted therapies to prevent progression.

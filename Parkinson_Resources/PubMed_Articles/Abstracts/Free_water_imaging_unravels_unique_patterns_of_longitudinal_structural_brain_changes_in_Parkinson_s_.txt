@@ -1,0 +1,5 @@
+Title: Free water imaging unravels unique patterns of longitudinal structural brain changes in Parkinson's disease subtypes.
+PMID: 37965163
+
+Abstract:
+Research shows that individuals with Parkinson's disease (PD) who have a postural instability and gait difficulties (PIGD) subtype have a faster disease progression compared to those with a tremor dominant (TD) subtype. Nevertheless, our understanding of the structural brain changes contributing to these clinical differences remains limited, primarily because many brain imaging techniques are only capable of detecting changes in the later stages of the disease.

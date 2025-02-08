@@ -1,0 +1,5 @@
+Title: Looking beyond the brain: Insights into vascular parkinsonism with optical coherence tomography.
+PMID: 37922634
+
+Abstract:
+Vascular Parkinsonism (VP) is characterized by rigidity and bradykinesia predominantly affecting the lower limbs. Optical Coherence tomography (OCT) facilitates the visualization of retina and choroid and may help in delineating differential involvement of retina and choroid in patients with VP. In this study, we report the pattern of changes in the retinal and choroidal layers in patients with VP with the help of spectral domain OCT (SD-OCT).

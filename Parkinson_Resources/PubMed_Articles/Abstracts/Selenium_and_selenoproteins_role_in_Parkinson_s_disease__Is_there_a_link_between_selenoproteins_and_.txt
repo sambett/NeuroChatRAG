@@ -1,0 +1,5 @@
+Title: Selenium and selenoproteins role in Parkinson's disease: Is there a link between selenoproteins and accumulated alpha-synuclein?
+PMID: 37995510
+
+Abstract:
+While Parkinson's disease (PD) etiology is not clear yet, accumulated alpha-synuclein is proposed to induce neurodegeneration. Selenium (Se) and its functional proteins play a key role in aggregation of misfolded proteins. However, their implications in neurodegenerative process are unclear.

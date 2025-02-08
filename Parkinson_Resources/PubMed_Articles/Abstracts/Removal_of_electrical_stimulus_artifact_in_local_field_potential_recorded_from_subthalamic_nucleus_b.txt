@@ -1,0 +1,5 @@
+Title: Removal of electrical stimulus artifact in local field potential recorded from subthalamic nucleus by using manifold denoising.
+PMID: 38145720
+
+Abstract:
+Deep brain stimulation (DBS) is an effective treatment for movement disorders such as Parkinson's disease (PD). However, local field potentials (LFPs) recorded through lead externalization during high-frequency stimulation (HFS) are contaminated by stimulus artifacts, which require to be removed before further analysis.

@@ -1,0 +1,5 @@
+Title: Ultra-high-field 7T MRI in Parkinson's disease: ready for clinical use?-a narrative review.
+PMID: 37969629
+
+Abstract:
+The maturation of ultra-high-field magnetic resonance imaging (MRI) [≥7 Tesla (7T)] has improved our capability to depict and characterise brain structures efficiently, with better signal-to-noise ratio (SNR) and spatial resolution. We evaluated whether these improvements benefit the clinical detection and management of Parkinson's disease (PD).

@@ -1,0 +1,5 @@
+Title: Parkinson's Progression Markers Initiative: A Milestone-Based Strategy to Monitor Parkinson's Disease Progression.
+PMID: 37458046
+
+Abstract:
+Identifying a meaningful progression metric for Parkinson's disease (PD) that reflects heterogeneity remains a challenge.

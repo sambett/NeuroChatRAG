@@ -1,0 +1,5 @@
+Title: Genome- and Exome-Wide Association Studies Revealed Candidate Genes Associated with DaTscan Imaging Features.
+PMID: 37664790
+
+Abstract:
+Despite remarkable progress in identifying Parkinson's disease (PD) genetic risk loci, the genetic basis of PD remains largely unknown. With the help of the endophenotype approach and using data from dopamine transporter single-photon emission computerized tomography (DaTscan), we identified potentially involved genes in PD.

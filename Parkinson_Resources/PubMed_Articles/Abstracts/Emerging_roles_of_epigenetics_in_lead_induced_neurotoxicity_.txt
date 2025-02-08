@@ -1,0 +1,5 @@
+Title: Emerging roles of epigenetics in lead-induced neurotoxicity.
+PMID: 37864902
+
+Abstract:
+Lead is a common environmental heavy metal contaminant. Humans are highly susceptible to lead accumulation in the body, which causes nervous system damage and leads to a variety of nervous system diseases, such as Alzheimer's disease, Parkinson's disease, and autism spectrum disorder. Recent research has focused on the mechanisms of lead-induced neurotoxicity at multiple levels, including DNA methylation, histone modifications, and non-coding RNAs, which are involved in various lead-induced nervous system diseases. We reviewed the latest articles and summarised the emerging roles of DNA methylation, histone modification, and non-coding RNAs in lead-induced neurotoxicity. Our summary provides a theoretical basis and directions for future research on the prevention, diagnosis, and treatment of lead-induced neurological diseases.

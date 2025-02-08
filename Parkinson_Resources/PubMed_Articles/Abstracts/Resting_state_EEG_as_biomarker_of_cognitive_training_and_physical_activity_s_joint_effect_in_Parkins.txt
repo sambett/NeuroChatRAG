@@ -1,0 +1,5 @@
+Title: Resting state EEG as biomarker of cognitive training and physical activity's joint effect in Parkinson's patients with mild cognitive impairment.
+PMID: 37705108
+
+Abstract:
+Cognitive decline is a major factor for the deterioration of the quality of life in patients suffering from Parkinson's disease (PD). Recently, it was reported that cognitive training (CT) in PD patients with mild cognitive impairment (PD-MCI) led to an increase of physical activity (PA) accompanied by improved executive function (EF). Moreover, PA has been shown to alter positively brain function and cognitive abilities in PD. Both observations suggest an interaction between CT and PA.

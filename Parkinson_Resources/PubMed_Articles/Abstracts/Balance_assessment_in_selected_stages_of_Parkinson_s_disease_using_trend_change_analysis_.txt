@@ -1,0 +1,5 @@
+Title: Balance assessment in selected stages of Parkinson's disease using trend change analysis.
+PMID: 37528430
+
+Abstract:
+Balance disorders in patients diagnosed with Parkinson's disease (PD) are associated with a change in balance-keeping strategy and reflex disorders which regulate the maintenance of vertical body posture. Center of foot pressure (COP) displacement signals were analyzed during quiet standing experiments to define such changes. The research aimed to apply stock exchange indices based on the trend change analyses to the assessment of a level of the Parkinson disease progression on the grounds of the analysis of the COP signals.

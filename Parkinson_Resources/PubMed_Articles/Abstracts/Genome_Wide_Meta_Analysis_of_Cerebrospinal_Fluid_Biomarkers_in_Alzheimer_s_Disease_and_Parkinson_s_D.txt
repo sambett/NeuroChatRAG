@@ -1,0 +1,5 @@
+Title: Genome-Wide Meta-Analysis of Cerebrospinal Fluid Biomarkers in Alzheimer's Disease and Parkinson's Disease Cohorts.
+PMID: 37539664
+
+Abstract:
+Amyloid-β, phosphorylated tau (p-tau), and total tau (t-tau) in cerebrospinal fluid are established biomarkers for Alzheimer's disease (AD). In other neurodegenerative diseases, such as Parkinson's disease (PD), these biomarkers have also been found to be altered, and the molecular mechanisms responsible for these alterations are still under investigation. Moreover, the interplay between these mechanisms and the diverse underlying disease states remains to be elucidated.

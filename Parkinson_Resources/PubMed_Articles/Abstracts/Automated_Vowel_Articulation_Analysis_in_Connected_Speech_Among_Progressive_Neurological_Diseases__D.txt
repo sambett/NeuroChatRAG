@@ -1,0 +1,5 @@
+Title: Automated Vowel Articulation Analysis in Connected Speech Among Progressive Neurological Diseases, Dysarthria Types, and Dysarthria Severities.
+PMID: 37499137
+
+Abstract:
+Although articulatory impairment represents distinct speech characteristics in most neurological diseases affecting movement, methods allowing automated assessments of articulation deficits from the connected speech are scarce. This study aimed to design a fully automated method for analyzing dysarthria-related vowel articulation impairment and estimate its sensitivity in a broad range of neurological diseases and various types and severities of dysarthria.

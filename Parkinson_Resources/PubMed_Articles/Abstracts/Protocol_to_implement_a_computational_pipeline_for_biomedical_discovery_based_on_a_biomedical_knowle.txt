@@ -1,0 +1,5 @@
+Title: Protocol to implement a computational pipeline for biomedical discovery based on a biomedical knowledge graph.
+PMID: 37883224
+
+Abstract:
+Biomedical knowledge graphs (BKGs) provide a new paradigm for managing abundant biomedical knowledge efficiently. Today's artificial intelligence techniques enable mining BKGs to discover new knowledge. Here, we present a protocol for implementing a computational pipeline for biomedical knowledge discovery (BKD) based on a BKG. We describe steps of the pipeline including data processing, implementing BKD based on knowledge graph embeddings, and prediction result interpretation. We detail how our pipeline can be used for drug repurposing hypothesis generation for Parkinson's disease. For complete details on the use and execution of this protocol, please refer to Su et al.<sup>1</sup>.

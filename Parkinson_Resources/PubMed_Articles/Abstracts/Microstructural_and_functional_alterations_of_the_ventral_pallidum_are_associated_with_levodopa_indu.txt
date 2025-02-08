@@ -1,0 +1,5 @@
+Title: Microstructural and functional alterations of the ventral pallidum are associated with levodopa-induced dyskinesia in Parkinson's disease.
+PMID: 37975786
+
+Abstract:
+The ventral pallidum (VP) regulates involuntary movements, but it is unclear whether the VP regulates the abnormal involuntary movements in Parkinson's disease (PD) patients who have levodopa-induced dyskinesia (LID). To further understand the role of the VP in PD patients with LID (PD-LID), we explored the structural and functional characteristics of the VP in such patients using multimodal magnetic resonance imaging (MRI).

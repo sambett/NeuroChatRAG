@@ -1,0 +1,5 @@
+Title: Reproducibility and Sensitivity of Resting-State fMRI in Patients With Parkinson's Disease Using Cross Validation-Based Data Censoring.
+PMID: 37584329
+
+Abstract:
+Uncontrollable body movements are typical symptoms of Parkinson's disease (PD), which results in inconsistent findings regarding resting-state functional connectivity (rsFC) networks, especially for group difference clusters. Systematically identifying the motion-associated data was highly demanded.

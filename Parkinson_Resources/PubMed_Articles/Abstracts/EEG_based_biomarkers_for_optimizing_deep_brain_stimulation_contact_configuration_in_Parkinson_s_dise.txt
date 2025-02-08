@@ -1,0 +1,5 @@
+Title: EEG-based biomarkers for optimizing deep brain stimulation contact configuration in Parkinson's disease.
+PMID: 37869517
+
+Abstract:
+Subthalamic deep brain stimulation (STN-DBS) is a neurosurgical therapy to treat Parkinson's disease (PD). Optimal therapeutic outcomes are not achieved in all patients due to increased DBS technological complexity; programming time constraints; and delayed clinical response of some symptoms. To streamline the programming process, biomarkers could be used to accurately predict the most effective stimulation configuration. Therefore, we investigated if DBS-evoked potentials (EPs) combined with imaging to perform prediction analyses could predict the best contact configuration.

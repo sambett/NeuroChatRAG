@@ -1,0 +1,5 @@
+Title: Transcranial direct current stimulation suggests not improving postural control during adapted tandem position in people with Parkinson's disease: A pilot study.
+PMID: 37453515
+
+Abstract:
+Balance impairments in people with Parkinson's disease (PD) demonstrated mainly in challenging postural tasks, such as increased body oscillation may be attributed to the deficits in the brain structures functionality involved in postural control (e.g., motor cortex, midbrain, and brainstem). Although promising results, the effect of transcranial direct current stimulation (tDCS) on postural control in people with PD is unclear, especially in objective measures such as the center of pressure (CoP) parameters. Thus, we analyzed the effects of a single session of tDCS on the CoP parameters during the adapted tandem position in people with PD.

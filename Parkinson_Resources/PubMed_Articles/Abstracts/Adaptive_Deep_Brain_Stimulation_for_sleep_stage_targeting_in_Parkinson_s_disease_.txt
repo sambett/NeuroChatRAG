@@ -1,0 +1,5 @@
+Title: Adaptive Deep Brain Stimulation for sleep stage targeting in Parkinson's disease.
+PMID: 37567463
+
+Abstract:
+Sleep dysfunction is disabling in people with Parkinson's disease and is linked to worse motor and non-motor outcomes. Sleep-specific adaptive Deep Brain Stimulation has the potential to target pathophysiologies of sleep.

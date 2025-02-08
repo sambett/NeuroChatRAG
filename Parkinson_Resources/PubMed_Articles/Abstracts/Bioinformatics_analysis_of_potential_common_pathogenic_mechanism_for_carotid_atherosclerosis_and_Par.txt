@@ -1,0 +1,5 @@
+Title: Bioinformatics analysis of potential common pathogenic mechanism for carotid atherosclerosis and Parkinson's disease.
+PMID: 37649719
+
+Abstract:
+Cerebrovascular disease (CVD) related to atherosclerosis and Parkinson's disease (PD) are two prevalent neurological disorders. They share common risk factors and frequently occur together. The aim of this study is to investigate the association between atherosclerosis and PD using genetic databases to gain a comprehensive understanding of underlying biological mechanisms.

@@ -1,0 +1,5 @@
+Title: α-Synuclein-carrying astrocytic extracellular vesicles in Parkinson pathogenesis and diagnosis.
+PMID: 37620916
+
+Abstract:
+The accumulation of α-synuclein (α-syn), an essential step in PD development and progression, is observed not only in neurons but also in glia, including astrocytes. The mechanisms regulating astrocytic α-syn level and aggregation remain unclear. More recently, it has been demonstrated that a part of α-syn spreading occurs through extracellular vesicles (EVs), although it is unknown whether this process is involved in astrocytes of PD. It is known, however, that EVs derived from the central nervous system exist in the blood and are extensively explored as biomarkers for PD and other neurodegenerative disorders.

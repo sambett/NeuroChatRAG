@@ -1,0 +1,5 @@
+Title: Recent Progress and Prospects of Small Molecules for NLRP3 Inflammasome Inhibition.
+PMID: 37879043
+
+Abstract:
+NLRP3 inflammasome is a multiprotein complex involved in host immune response─which exerts various biological effects by mediating the maturation and secretion of IL-1β and IL-18─and pyroptosis. However, its aberrant activation could cause amplification of inflammatory effects, thereby triggering a range of ailments, including Alzheimer's disease, Parkinson's disease, rheumatoid arthritis, gout, type 2 diabetes mellitus, and cancer. For the past few years, as an attractive anti-inflammatory target, NLRP3-targeting small-molecule inhibitors have been widely reported by both the academic and the industrial communities. In order to deeply understand the advancement of NLRP3 inflammasome inhibitors, we provide comprehensive insights and commentary on drugs currently under clinical investigation, as well as other NLRP3 inflammasome inhibitors from a chemical structure point of view, with an aim to provide new insights for the further development of clinical drugs for NLRP3 inflammasome-mediated diseases.

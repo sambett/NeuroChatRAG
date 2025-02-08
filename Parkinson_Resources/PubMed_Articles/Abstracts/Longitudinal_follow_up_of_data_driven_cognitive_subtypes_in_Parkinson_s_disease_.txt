@@ -1,0 +1,5 @@
+Title: Longitudinal follow up of data-driven cognitive subtypes in Parkinson's disease.
+PMID: 37574595
+
+Abstract:
+The dual syndrome hypothesis proposes that there are two cognitive subtypes in Parkinson's disease (PD): a frontal subtype with executive/attention impairment and gradual cognitive decline, and a posterior-cortical subtype with memory/visuospatial deficits and rapid cognitive decline. We aimed to compare the rate of global cognitive decline between subtypes derived using data-driven methods and explore their longitudinal performance within specific cognitive domains to better understand the prognosis of each subtype.

@@ -1,0 +1,5 @@
+Title: OXPHOS-targeting drugs in oncology: new perspectives.
+PMID: 37736880
+
+Abstract:
+Drugs targeting mitochondria are emerging as promising antitumor therapeutics in preclinical models. However, a few of these drugs have shown clinical toxicity. Developing mitochondria-targeted modified natural compounds and US FDA-approved drugs with increased therapeutic index in cancer is discussed as an alternative strategy.

@@ -1,0 +1,5 @@
+Title: Improving Perceptual Speech Ratings: The Effects of Auditory Training on Judgments of Dysarthric Speech.
+PMID: 37774738
+
+Abstract:
+Auditory training has been shown to reduce rater variability in perceptual voice assessment. Because rater variability is also a central issue in the auditory-perceptual assessment of dysarthria, this study sought to determine if training produces a meaningful change in rater reliability, criterion validity, and scaling magnitude of four features: overall speech impairment, articulatory imprecision, monotony, and slow rate.

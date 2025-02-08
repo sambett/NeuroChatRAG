@@ -1,0 +1,5 @@
+Title: Piperine promotes PI3K/AKT/mTOR-mediated gut-brain autophagy to degrade α-Synuclein in Parkinson's disease rats.
+PMID: 38158101
+
+Abstract:
+Piper longum L., a medicinal and food homologous herb, has a traditional history of use in treating gastrointestinal and neurological disorders. Piperine (PIP) the main alkaloid of P. longum, exists neuroprotective effects on various animal models of Parkinson's disease (PD). Nevertheless, the underlying mechanism, particularly the role of PIP in promoting gut-brain autophagy for α-Synuclein (α-Syn) degradation in PD, remains incompletely understood.

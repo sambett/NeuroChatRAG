@@ -1,0 +1,5 @@
+Title: Correlation of balance posturographic parameters during quiet standing with the berg balance scale in patients with parkinson's disease.
+PMID: 37803250
+
+Abstract:
+Parkinson's disease (PD) is often clinically associated with posture instability and more easily falling. The Berg balance scale is a clinical indicator commonly used to subjectively evaluate a patient's balance ability. Meanwhile, computerized force platforms have been used in research on postural control. The various parameters obtained from posturography are interpreted to assess balance ability. The present study aims to explore the correlations between posturographic variables and the BBS, and furthermore to efficiently evaluate postural instability and fall risk of early and moderate PD patients.

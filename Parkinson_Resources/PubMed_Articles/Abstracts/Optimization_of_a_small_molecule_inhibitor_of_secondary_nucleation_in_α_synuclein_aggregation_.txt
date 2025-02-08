@@ -1,0 +1,5 @@
+Title: Optimization of a small molecule inhibitor of secondary nucleation in α-synuclein aggregation.
+PMID: 37701726
+
+Abstract:
+Parkinson's disease is characterised by the deposition in the brain of amyloid aggregates of α-synuclein. The surfaces of these amyloid aggregates can catalyse the formation of new aggregates, giving rise to a positive feedback mechanism responsible for the rapid proliferation of α-synuclein deposits. We report a procedure to enhance the potency of a small molecule to inhibit the aggregate proliferation process using a combination of <i>in silico</i> and <i>in vitro</i> methods. The optimized small molecule shows potency already at a compound:protein stoichiometry of 1:20. These results illustrate a strategy to accelerate the optimisation of small molecules against α-synuclein aggregation by targeting secondary nucleation.

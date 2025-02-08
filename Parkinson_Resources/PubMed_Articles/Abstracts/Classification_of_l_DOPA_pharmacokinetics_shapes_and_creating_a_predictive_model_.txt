@@ -1,0 +1,5 @@
+Title: Classification of l-DOPA pharmacokinetics shapes and creating a predictive model.
+PMID: 37556972
+
+Abstract:
+It is known that the pharmacokinetics (PK) of levodopa (LD) varies considerably. Difference in PK shapes is expected to affect drug efficacy and development of dyskinesia. In this study, the authors aimed to explore correlations between PK series data of LD and clinical characteristics and dyskinesia in patients with Parkinson's disease (PD).

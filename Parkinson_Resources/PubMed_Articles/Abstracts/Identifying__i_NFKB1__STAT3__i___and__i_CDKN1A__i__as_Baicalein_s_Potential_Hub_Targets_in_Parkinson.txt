@@ -1,0 +1,5 @@
+Title: Identifying <i>NFKB1, STAT3</i>, and <i>CDKN1A</i> as Baicalein's Potential Hub Targets in Parkinson's Disease-related α-synuclein-mediated Pathways by Integrated Bioinformatics Strategies.
+PMID: 37859325
+
+Abstract:
+The overexpression, accumulation, and cell-to-cell transmission of α-synuclein leads to the deterioration of Parkinson's disease (PD). Previous studies suggest that Baicalein (BAI) can bind to α-synuclein and inhibit α-synuclein aggregation and secretion. However, it is still unclear whether BAI can intervene with the pathogenic molecules in α-synuclein-mediated PD pathways beyond directly targeting α-synuclein per se.

@@ -1,0 +1,5 @@
+Title: The role of glycogen synthase kinase 3 beta in neurodegenerative diseases.
+PMID: 37781096
+
+Abstract:
+Neurodegenerative diseases (NDDs) pose an increasingly prevalent threat to the well-being and survival of elderly individuals worldwide. NDDs include Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), amyotrophic lateral sclerosis (ALS), and so on. They are characterized by progressive loss or dysfunction of neurons in the central or peripheral nervous system and share several cellular and molecular mechanisms, including protein aggregation, mitochondrial dysfunction, gene mutations, and chronic neuroinflammation. Glycogen synthase kinase-3 beta (GSK-3β) is a serine/threonine kinase that is believed to play a pivotal role in the pathogenesis of NDDs. Here we summarize the structure and physiological functions of GSK3β and explore its involvement in NDDs. We also discussed its potential as a therapeutic target.

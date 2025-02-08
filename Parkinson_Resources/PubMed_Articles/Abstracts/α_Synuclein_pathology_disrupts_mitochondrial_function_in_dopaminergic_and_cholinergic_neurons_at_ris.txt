@@ -1,0 +1,5 @@
+Title: α-Synuclein pathology disrupts mitochondrial function in dopaminergic and cholinergic neurons at-risk in Parkinson's disease.
+PMID: 38168401
+
+Abstract:
+Pathological accumulation of aggregated α-synuclein (aSYN) is a common feature of Parkinson's disease (PD). However, the mechanisms by which intracellular aSYN pathology contributes to dysfunction and degeneration of neurons in the brain are still unclear. A potentially relevant target of aSYN is the mitochondrion. To test this hypothesis, genetic and physiological methods were used to monitor mitochondrial function in substantia nigra pars compacta (SNc) dopaminergic and pedunculopontine nucleus (PPN) cholinergic neurons after stereotaxic injection of aSYN pre-formed fibrils (PFFs) into the mouse brain.

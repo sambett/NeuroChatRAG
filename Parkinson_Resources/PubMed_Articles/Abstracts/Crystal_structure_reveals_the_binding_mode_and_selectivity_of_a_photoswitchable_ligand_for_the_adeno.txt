@@ -1,0 +1,5 @@
+Title: Crystal structure reveals the binding mode and selectivity of a photoswitchable ligand for the adenosine A<sub>2A</sub> receptor.
+PMID: 38171234
+
+Abstract:
+Rational synthetic expansion of photoresponsive ligands is important for photopharmacological studies. Adenosine A<sub>2A</sub> receptor (A<sub>2A</sub>R) is stimulated by adenosine and related in Parkinson's disease and other diseases. Here, we report the crystal structure of the A<sub>2A</sub>R in complex with the novel photoresponsive ligand photoNECA (blue) at 3.34 Å resolution. PhotoNECA (blue) was designed for this structural study and the cell-based assay showed a photoresponsive and receptor selective characteristics of photoNECA (blue) for A<sub>2A</sub>R. The crystal structure explains the binding mode, photoresponsive mechanism and receptor selectivity of photoNECA (blue). Our study would promote not only the rational design of photoresponsive ligands but also dynamic structural studies of A<sub>2A</sub>R.

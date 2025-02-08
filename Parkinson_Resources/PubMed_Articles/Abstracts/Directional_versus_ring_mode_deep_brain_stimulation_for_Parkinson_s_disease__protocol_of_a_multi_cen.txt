@@ -1,0 +1,5 @@
+Title: Directional versus ring-mode deep brain stimulation for Parkinson's disease: protocol of a multi-centre double-blind randomised crossover trial.
+PMID: 37853327
+
+Abstract:
+The effectiveness of Deep Brain Stimulation (DBS) therapy for Parkinson's disease can be limited by side-effects caused by electrical current spillover into structures adjacent to the target area. The objective of the STEEred versus RING-mode DBS for Parkinson's disease (STEERING) study is to investigate if directional DBS for Parkinson's disease results in a better clinical outcome when compared to ring-mode DBS.

@@ -1,0 +1,5 @@
+Title: Co-Designing Digital Technologies for Improving Clinical Care in People with Parkinson's Disease: What Did We Learn?
+PMID: 37430871
+
+Abstract:
+The healthcare model is shifting towards integrated care approaches. This new model requires patients to be more closely involved. The iCARE-PD project aims to address this need by developing a technology-enabled, home-based, and community-centered integrated care paradigm. A central part of this project is the codesign process of the model of care, exemplified by the active participation of patients in the design and iterative evaluation of three sensor-based technological solutions. We proposed a codesign methodology used for testing the usability and acceptability of these digital technologies and present initial results for one of them, <i>MooVeo.</i> Our results show the usefulness of this approach in testing the usability and acceptability as well as the opportunity to incorporate patients' feedback into the development. This initiative will hopefully help other groups incorporate a similar codesign approach and develop tools that are well adapted to patients' and care teams' needs.

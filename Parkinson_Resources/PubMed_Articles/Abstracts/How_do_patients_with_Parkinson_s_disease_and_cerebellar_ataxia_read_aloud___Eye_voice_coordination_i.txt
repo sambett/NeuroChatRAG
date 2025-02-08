@@ -1,0 +1,5 @@
+Title: How do patients with Parkinson's disease and cerebellar ataxia read aloud? -Eye-voice coordination in text reading.
+PMID: 37638315
+
+Abstract:
+The coordination between gaze and voice is closely linked when reading text aloud, with the gaze leading the reading position by a certain eye-voice lead (EVL). How this coordination is affected is unknown in patients with cerebellar ataxia and parkinsonism, who show oculomotor deficits possibly impacting coordination between different effectors.

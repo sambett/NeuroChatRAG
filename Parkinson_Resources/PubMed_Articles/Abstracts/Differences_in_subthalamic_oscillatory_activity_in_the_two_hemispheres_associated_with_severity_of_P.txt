@@ -1,0 +1,5 @@
+Title: Differences in subthalamic oscillatory activity in the two hemispheres associated with severity of Parkinson's disease.
+PMID: 37700815
+
+Abstract:
+It is well known that motor features of Parkinson's disease (PD) commonly begin on one side of the body and extend to the other side with disease progression. The onset side generally remains more severely affected over the course of the disease. However, the pathophysiology underlying the asymmetry of motor manifestations remains unclear. The purpose of the present study is <b>t</b>o examine whether alterations in neuronal activity in the subthalamic nucleus (STN) associate with PD severity.

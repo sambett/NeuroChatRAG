@@ -1,0 +1,5 @@
+Title: Clinical features and outcomes of hospitalised patients with COVID-19 and Parkinsonian disorders: A multicentre UK-based study.
+PMID: 37523365
+
+Abstract:
+Parkinson's disease has been identified as a risk factor for severe Coronavirus disease 2019 (COVID-19) outcomes. However, whether the significant high risk of death from COVID-19 in people with Parkinson's disease is specific to the disease itself or driven by other concomitant and known risk factors such as comorbidities, age, and frailty remains unclear.

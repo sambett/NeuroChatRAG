@@ -1,0 +1,5 @@
+Title: Salivary Biomarkers: Noninvasive Ways for Diagnosis of Parkinson's Disease.
+PMID: 37434876
+
+Abstract:
+Finding reliable biomarkers has a crucial role in Parkinson's disease (PD) assessments. Saliva is a bodily fluid, which might be used as a source of biomarkers for PD. Our article has reviewed several publications on salivary proteins in PD patients and their potential as biomarkers. We find out that <i>α</i>-Syn's proportion in oligomeric form is higher in PD patients' saliva, which is potent to use as a biomarker for PD. The salivary concentration of DJ-1 and alpha-amylase is lower in PD patients. Also, substance P level is more moderate in PD patients. Although salivary flow rate is decreased in PD patients, high levels of heme oxygenase and acetylcholinesterase might be used as noninvasive biomarkers. Salivary miRNAs (miR-153, miR-223, miR-874, and miR-145-3p) are novel diagnostic biomarkers that should be given more attention.

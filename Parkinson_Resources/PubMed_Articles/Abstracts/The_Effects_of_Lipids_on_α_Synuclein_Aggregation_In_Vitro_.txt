@@ -1,0 +1,5 @@
+Title: The Effects of Lipids on α-Synuclein Aggregation In Vitro.
+PMID: 37892158
+
+Abstract:
+The small neuronal protein α-synuclein (αS) is found in pre-synaptic terminals and plays a role in vesicle recycling and neurotransmission. Fibrillar aggregates of αS are the hallmark of Parkinson's disease and related neurodegenerative disorders. In both health and disease, interactions with lipids influence αS's structure and function, prompting much study of the effects of lipids on αS aggregation. A comprehensive collection (126 examples) of aggregation rate data for various αS/lipid combinations was presented, including combinations of lipid variations and mutations or post-translational modifications of αS. These data were interpreted in terms of lipid structure to identify general trends. These tabulated data serve as a resource for the community to help in the interpretation of aggregation experiments with lipids and to be potentially used as inputs for computational models of lipid effects on aggregation.

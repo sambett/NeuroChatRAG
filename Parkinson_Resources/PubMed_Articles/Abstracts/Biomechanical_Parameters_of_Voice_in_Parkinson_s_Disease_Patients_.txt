@@ -1,0 +1,5 @@
+Title: Biomechanical Parameters of Voice in Parkinson's Disease Patients.
+PMID: 37499642
+
+Abstract:
+Previous research on voice in Parkinson's disease (PD) has consistently demonstrated alterations in acoustic parameters, including fundamental frequency (F0), maximum phonation time, Shimmer, and Jitter. However, investigations into acoustic parameter alterations in individuals with PD are limited.

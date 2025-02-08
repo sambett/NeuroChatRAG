@@ -1,0 +1,5 @@
+Title: The role of α-synuclein in exocytosis.
+PMID: 38147972
+
+Abstract:
+The pathogenesis of degeneration in Parkinson's disease (PD) remains poorly understood but multiple lines of evidence have converged on the presynaptic protein α-synuclein (αsyn). αSyn has been shown to regulate several cellular processes, however, its normal function remains poorly understood. In this review, we will specifically focus on its role in exocytosis.

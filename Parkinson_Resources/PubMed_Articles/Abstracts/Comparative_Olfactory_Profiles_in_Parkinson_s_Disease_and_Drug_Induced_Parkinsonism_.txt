@@ -1,0 +1,5 @@
+Title: Comparative Olfactory Profiles in Parkinson's Disease and Drug-Induced Parkinsonism.
+PMID: 37798852
+
+Abstract:
+Drug-induced parkinsonism (DIP) is a frequently encountered diagnostic possibility when considering Parkinson's disease (PD). While olfactory dysfunction is a common clinical feature in PD, the comparison of olfactory function between the two conditions remains insufficient. This study aimed to compare olfactory function, including threshold, discrimination, and identification (TDI) profiles, between PD and DIP.

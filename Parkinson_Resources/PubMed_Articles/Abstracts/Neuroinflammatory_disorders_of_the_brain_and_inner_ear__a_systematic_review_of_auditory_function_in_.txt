@@ -1,0 +1,5 @@
+Title: Neuroinflammatory disorders of the brain and inner ear: a systematic review of auditory function in patients with migraine, multiple sclerosis, and neurodegeneration to support the idea of an innovative 'window of discovery'.
+PMID: 37662038
+
+Abstract:
+Hearing can be impaired in many neurological conditions and can even represent a forme <i>fruste</i> of specific disorders. Auditory function can be measured by either subjective or objective tests. Objective tests are more useful in identifying which auditory pathway (superior or inferior) is most affected by disease. The inner ear's perilymphatic fluid communicates with the cerebrospinal fluid (CSF) via the cochlear aqueduct representing a window from which pathological changes in the contents of the CSF due to brain inflammation could, therefore, spread to and cause inflammation in the inner ear, damaging inner hair cells and leading to hearing impairment identifiable on tests of auditory function.

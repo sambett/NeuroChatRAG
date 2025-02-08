@@ -1,0 +1,5 @@
+Title: Gray matter alterations in tremor-dominant Parkinson's disease after MRgFUS thalamotomy are correlated with tremor improvement: a pilot study.
+PMID: 37456281
+
+Abstract:
+Regional differences in gray matter volume (GMV) have been reported to be a reliable marker for diagnosing Parkinson's disease (PD). This study aimed to explore the clinical value of GMV to assess magnetic resonance imaging-guided focused ultrasound (MRgFUS) thalamotomy as a treatment for tremor-dominant PD (TDPD).

@@ -1,0 +1,5 @@
+Title: Voice Acoustic Instability During Spontaneous Speech in Parkinson's Disease.
+PMID: 37500359
+
+Abstract:
+In people with Parkinson's disease (PwPD), both motor and cognitive deficits influence voice and other aspects of communication. PwPD demonstrate vocal instability, but acoustic declines over the course of speaking are not well characterized and the role of cognition on these declines is unknown. We examined voice acoustics related to speech motor instability by comparing the first and the last utterances within a speech task. Our objective was to determine if mild cognitive impairment (MCI) status was associated with different patterns of acoustic change during these tasks.

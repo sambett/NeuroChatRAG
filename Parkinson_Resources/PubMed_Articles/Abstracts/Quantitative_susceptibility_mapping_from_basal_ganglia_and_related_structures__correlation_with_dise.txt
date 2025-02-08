@@ -1,0 +1,5 @@
+Title: Quantitative susceptibility mapping from basal ganglia and related structures: correlation with disease severity in progressive supranuclear palsy.
+PMID: 37580639
+
+Abstract:
+We examined whether mean magnetic susceptibility values from deep gray matter structures in patients with progressive supranuclear palsy (PSP) differed from those in patients with Parkinson's disease (PD) and healthy volunteers, and correlated with the PSP rating scale.

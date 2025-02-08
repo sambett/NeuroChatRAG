@@ -1,0 +1,5 @@
+Title: The nonsynaptic plasticity in Parkinson's disease: Insights from an animal model.
+PMID: 37480642
+
+Abstract:
+The 6-OHDA nigro-striatal lesion model has already been related to disorders in the excitability and synchronicity of neural networks and variation in the expression of transmembrane proteins that control intra and extracellular ionic concentrations, such as cation-chloride cotransporters (NKCC1 and KCC2) and Na+/K+-ATPase and, also, to the glial proliferation after injury. All these non-synaptic mechanisms have already been related to neuronal injury and hyper-synchronism processes.

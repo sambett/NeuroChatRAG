@@ -1,0 +1,5 @@
+Title: Potentially inappropriate medications among older patients with Parkinson's disease: a cross-sectional analysis of a national health insurance database in China.
+PMID: 38066430
+
+Abstract:
+With the rapid aging trend of China's population, the issue of drug rational use in older adults has become more and more prominent. Parkinson's disease (PD) is the one of the most common age-related neurodegenerative disorders. Pharmaceutical treatment plays a cardinal role in alleviating motor and non-motor symptoms to improve the quality of life of patients with PD. Patients with PD have complex medical needs yet little is known about the use of potentially inappropriate medications (PIM) among them in China. We quantify the prevalence of PIM use and identify its predictors among older persons with PD in China.

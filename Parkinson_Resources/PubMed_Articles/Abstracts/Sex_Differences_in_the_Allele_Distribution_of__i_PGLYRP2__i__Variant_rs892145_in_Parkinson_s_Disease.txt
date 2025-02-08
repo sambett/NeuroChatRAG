@@ -1,0 +1,5 @@
+Title: Sex Differences in the Allele Distribution of <i>PGLYRP2</i> Variant rs892145 in Parkinson's Disease.
+PMID: 38106542
+
+Abstract:
+Parkinson's disease (PD) is a complex multifactorial disease, involving genetic susceptibility, environmental risk factors, and gene-environmental interactions. The microbiota-gut-brain axis is hypothesized to play a role in the pathophysiology of PD, and peptidoglycan recognition proteins (PGLYRPs), which modulate the gut microbiota, are, therefore, relevant candidate genes for PD.

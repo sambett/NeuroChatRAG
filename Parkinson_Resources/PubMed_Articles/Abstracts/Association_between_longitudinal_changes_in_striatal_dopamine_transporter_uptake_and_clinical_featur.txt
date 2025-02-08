@@ -1,0 +1,5 @@
+Title: Association between longitudinal changes in striatal dopamine transporter uptake and clinical features of dementia with Lewy bodies.
+PMID: 37726104
+
+Abstract:
+It is widely known that there is low striatal <sup>123</sup> I-2β-Carbomethoxy-3β-(4-iodophenyl)-N-(3- fluoropropyl) nortropane (<sup>123</sup> I-FP-CIT) dopamine transporter single photon emission tomography (DaT-SPECT) uptake in patients with dementia with Lewy bodies (DLB). No studies to date have analyzed the association between longitudinal changes of clinical features and DaT uptake in patients with Parkinson syndrome, particularly those with DLB. The aim of this study was to investigate the association between the longitudinal changes in DaT uptake and the severity of parkinsonism and cognitive function in DLB patients.

@@ -1,0 +1,5 @@
+Title: Multiomics analysis identifies novel facilitators of human dopaminergic neuron differentiation.
+PMID: 38177910
+
+Abstract:
+Midbrain dopaminergic neurons (mDANs) control voluntary movement, cognition, and reward behavior under physiological conditions and are implicated in human diseases such as Parkinson's disease (PD). Many transcription factors (TFs) controlling human mDAN differentiation during development have been described, but much of the regulatory landscape remains undefined. Using a tyrosine hydroxylase (TH) human iPSC reporter line, we here generate time series transcriptomic and epigenomic profiles of purified mDANs during differentiation. Integrative analysis predicts novel regulators of mDAN differentiation and super-enhancers are used to identify key TFs. We find LBX1, NHLH1 and NR2F1/2 to promote mDAN differentiation and show that overexpression of either LBX1 or NHLH1 can also improve mDAN specification. A more detailed investigation of TF targets reveals that NHLH1 promotes the induction of neuronal miR-124, LBX1 regulates cholesterol biosynthesis, and NR2F1/2 controls neuronal activity.

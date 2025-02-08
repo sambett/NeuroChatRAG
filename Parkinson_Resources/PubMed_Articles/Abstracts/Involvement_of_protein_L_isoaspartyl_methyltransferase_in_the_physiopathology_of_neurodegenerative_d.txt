@@ -1,0 +1,5 @@
+Title: Involvement of protein L-isoaspartyl methyltransferase in the physiopathology of neurodegenerative diseases: Possible substrates associated with synaptic function.
+PMID: 37657764
+
+Abstract:
+Synaptic dysfunction is a typical pathophysiologic change in neurodegenerative diseases (NDs) such as Alzheimer's disease (AD), Parkinson's disease (PD), Hintington's disease (HD) and amyotrophic lateral sclerosis (ALS), which involves protein post-translational modifications (PTMs) including L-isoaspartate (L-isoAsp) formed by isomerization of aspartate or deamidation of asparagine. The formation of L-isoAsp could be repaired by protein L-isoaspartyl methyltransferase (PIMT). Some synaptic proteins have been identified as PIMT potential substrates and play an essential role in ensuring synaptic function. In this review, we discuss the role of certain synaptic proteins as PIMT substrates in neurodegenerative disease, thus providing therapeutic synapse-centered targets for the treatment of NDs.

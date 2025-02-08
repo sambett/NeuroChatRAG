@@ -1,0 +1,5 @@
+Title: Retromer stabilization using a pharmacological chaperone protects in an α-synuclein based mouse model of Parkinson's.
+PMID: 37886523
+
+Abstract:
+In the present study we assessed the protective effects of a pharmacological approach to stabilize the retromer complex in a PD mouse model. Missense mutations in the VPS35 gene are a rare cause of familial PD. The VPS35 protein is a subunit of the retromer cargo recognition complex and has a variety of functions within neurons, many of which are potentially relevant for the pathophysiology of PD. Prior studies have revealed a role for the retromer complex in controlling accumulation and clearance of α-synuclein aggregates. We previously identified an aminoguanidine hydrazone, 1,3 <i>phenyl bis guanylhydrazone</i> (compound 2a), as a pharmacological stabilizer of the retromer complex that increases retromer subunit protein levels and function.

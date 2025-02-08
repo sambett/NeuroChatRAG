@@ -1,0 +1,5 @@
+Title: microRNA and circRNA in Parkinson's Disease and atypical parkinsonian syndromes.
+PMID: 37673523
+
+Abstract:
+Multiple System Atrophy (MSA) and Progressive Supranuclear Palsy (PSP) are atypical parkinsonian syndromes (APS) with various clinical phenotypes and considerable clinical overlap with idiopathic Parkinson's disease (iPD). This disease heterogeneity makes ante-mortem diagnosis extremely challenging with up to 24% of patients misdiagnosed. Because diagnosis is predominantly clinical, there is great interest in identifying biomarkers for early diagnosis and differentiation of the different types of parkinsonism. Compared to protein biomarkers, microRNAs (miRNAs) and circularRNAs (circRNAs) are stable tissue-specific molecules that can be accurately measured by reverse transcription-quantitative polymerase chain reaction (RT-qPCR). This chapter critically reviews miRNAs and circRNAs as diagnostic biomarkers and therapeutics to differentiate atypical parkinsonian disorders and their role in disease pathogenesis.

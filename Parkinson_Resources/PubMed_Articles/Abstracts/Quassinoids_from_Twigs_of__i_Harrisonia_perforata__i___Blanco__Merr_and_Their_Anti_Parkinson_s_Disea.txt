@@ -1,0 +1,5 @@
+Title: Quassinoids from Twigs of <i>Harrisonia perforata</i> (Blanco) Merr and Their Anti-Parkinson's Disease Effect.
+PMID: 38003386
+
+Abstract:
+Six new C-20 and one new C-19 quassinoids, named perforalactones F-L (<b>1</b>-<b>7</b>), were isolated from twigs of <i>Harrisonia perforata</i>. Spectroscopic and X-ray crystallographic experiments were conducted to identify their structures. Through oxidative degradation of perforalactone B to perforaqussin A, the biogenetic process from C-25 quassinoid to C-20 via Baeyer-Villiger oxidation was proposed. Furthermore, the study evaluated the anti-Parkinson's disease potential of these C-20 quassinoids for the first time on 6-OHDA-induced PC12 cells and a <i>Drosophila</i> Parkinson's disease model of <i>PINK1<sup>B9</sup></i>. Perforalactones G and I (<b>2</b> and <b>4</b>) showed a 10-15% increase in cell viability of the model cells at 50 μM, while compounds <b>2</b> and <b>4</b> (100 μM) significantly improved the climbing ability of <i>PINK1<sup>B9</sup></i> flies and increased the dopamine level in the brains and ATP content in the thoraces of the flies.

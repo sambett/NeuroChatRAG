@@ -1,0 +1,5 @@
+Title: Effect of vascular endothelial growth factor 165 on dopamine level in the retinas of guinea pigs with form-deprivation myopia.
+PMID: 37849827
+
+Abstract:
+Myopia is the most common refractive error because excessive increase in the axial length of a myopic eye leads to the thinning of the posterior scleral pole and can cause serious complications resulting in blindness. Thus, myopia has become a great concern worldwide. Dopamine (DA) plays a role in the development of myopia. Moreover, in Parkinson's disease, it has been proved that vascular endothelial growth factor 165 (VEGF165) can promote the survival and recovery of DA neurons, resulting in increased DA secretion in the striatum, thereby treating neuropathy. Therefore, we speculate that VEGF165 can also promote the release of DA in the retina to inhibit the occurrence and development of myopia. We aimed to investigate the effect of VEGF165 on DA levels in the retinas of guinea pigs with form-deprivation myopia (FDM) and the effects of DA on myopia prevention and control.

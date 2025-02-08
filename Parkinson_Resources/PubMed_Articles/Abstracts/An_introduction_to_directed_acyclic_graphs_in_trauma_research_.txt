@@ -1,0 +1,5 @@
+Title: An introduction to directed acyclic graphs in trauma research.
+PMID: 37603024
+
+Abstract:
+Directed acyclic graphs (DAGs) are visual representations of the presumed causal structure of an empirical research data set. They are important tools for researchers but have been used rarely in the psychological trauma literature. The purpose of this article is to explain what DAGs are and why (and how) they are useful for trauma researchers.

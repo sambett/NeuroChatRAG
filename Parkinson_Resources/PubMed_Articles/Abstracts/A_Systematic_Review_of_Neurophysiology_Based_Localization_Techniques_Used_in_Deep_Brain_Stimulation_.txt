@@ -1,0 +1,5 @@
+Title: A Systematic Review of Neurophysiology-Based Localization Techniques Used in Deep Brain Stimulation Surgery of the Subthalamic Nucleus.
+PMID: 37462595
+
+Abstract:
+This systematic review is conducted to identify, compare, and analyze neurophysiological feature selection, extraction, and classification to provide a comprehensive reference on neurophysiology-based subthalamic nucleus (STN) localization.

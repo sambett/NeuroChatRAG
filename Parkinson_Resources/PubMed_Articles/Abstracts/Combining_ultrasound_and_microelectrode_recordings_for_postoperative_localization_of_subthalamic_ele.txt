@@ -1,0 +1,5 @@
+Title: Combining ultrasound and microelectrode recordings for postoperative localization of subthalamic electrodes in Parkinson's disease.
+PMID: 37972531
+
+Abstract:
+To assess transcranial sonography (TCS) as stand-alone tool and in combination with microelectrode recordings (MER) as a method for the postoperative localization of deep brain stimulation (DBS) electrodes in the subthalamic nucleus (STN).

@@ -1,0 +1,5 @@
+Title: Optogenetic-mediated induction and monitoring of α-synuclein aggregation in cellular models of Parkinson's disease.
+PMID: 37991922
+
+Abstract:
+Studying Parkinson's disease (PD) is complex due to a lack of cellular models mimicking key aspects of protein pathology. Here, we present a protocol for inducing and monitoring α-synuclein aggregation in living cells using optogenetics. We describe steps for plasmid transduction, biochemical validation, immunocytochemistry, and live-cell confocal imaging. These induced aggregates fulfill the cardinal features of authentic protein inclusions observed in PD-diseased brains and offer a tool to study the role of protein aggregation in neurodegeneration. For complete details on the use and execution of this protocol, please refer to Bérard et al.<sup>1</sup>.

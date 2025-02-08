@@ -1,0 +1,5 @@
+Title: Scaling problem in Parkinson's disease patients with pain.
+PMID: 37827034
+
+Abstract:
+Although pain is common in Parkinson's disease (PD), the underlying mechanism remains unknown. Scaling function and dopaminergic hypofunction may contribute to pain development because increased pain sensitivity is observed in PD and is normalized after levodopa administration. We aimed to determine whether spatial discrimination (SD) and striatal dopaminergic activity (DA) differed between PD patients with and without pain.

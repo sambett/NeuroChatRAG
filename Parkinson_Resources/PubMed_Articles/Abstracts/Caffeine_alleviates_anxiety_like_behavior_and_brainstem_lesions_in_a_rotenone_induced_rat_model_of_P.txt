@@ -1,0 +1,5 @@
+Title: Caffeine alleviates anxiety-like behavior and brainstem lesions in a rotenone-induced rat model of Parkinson's disease.
+PMID: 37481171
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder characterized by motor and non-motor symptoms. In 2016, approximately 6.1 million individuals were affected by PD, with 211,296 deaths attributed to the disease. The understanding of PD initially came from the observation of dopaminergic system alterations in a specific region of the brainstem, indicating that the core motor and non-motor features of PD are closely associated with brainstem dysfunction. The primary treatment approach for PD revolves around dopamine replacement, as many of the symptoms are responsive to this therapeutic intervention. However, long-term administration of this approach is linked to several complications, and a definitive gold-standard therapy for PD is yet to be identified. The pharmacological management of PD has been challenging and inconsistent, mainly due to the unclear underlying cause of the disease. This study aims to evaluate the effects of caffeine on the brainstem of rats with PD induced by rotenone.

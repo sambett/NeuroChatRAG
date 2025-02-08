@@ -1,0 +1,5 @@
+Title: Midbrain organoids-development and applications in Parkinson's disease.
+PMID: 38596240
+
+Abstract:
+Human brain development is spatially and temporally complex. Insufficient access to human brain tissue and inadequacy of animal models has limited the study of brain development and neurodegenerative diseases. Recent advancements of brain organoid technology have created novel opportunities to model human-specific neurodevelopment and brain diseases. In this review, we discuss the use of brain organoids to model the midbrain and Parkinson's disease. We critically evaluate the extent of recapitulation of PD pathology by organoids and discuss areas of future development that may lead to the model to become a next-generation, personalized therapeutic strategy for PD and beyond.

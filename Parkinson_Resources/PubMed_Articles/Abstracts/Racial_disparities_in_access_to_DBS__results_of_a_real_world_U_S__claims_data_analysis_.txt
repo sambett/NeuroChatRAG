@@ -1,0 +1,5 @@
+Title: Racial disparities in access to DBS: results of a real-world U.S. claims data analysis.
+PMID: 37602243
+
+Abstract:
+Deep brain stimulation (DBS) is an effective and standard-of-care therapy for Parkinson's Disease and other movement disorders when symptoms are inadequately controlled with conventional medications. It requires expert care for patient selection, surgical targeting, and therapy titration. Despite the known benefits, racial/ethnic disparities in access have been reported. Technological advancements with smartphone-enabled devices may influence racial disparities. Real-world evidence investigations can shed further light on barriers to access and demographic disparities for DBS patients.

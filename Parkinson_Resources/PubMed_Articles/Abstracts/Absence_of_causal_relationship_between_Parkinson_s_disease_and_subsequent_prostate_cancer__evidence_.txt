@@ -1,0 +1,5 @@
+Title: Absence of causal relationship between Parkinson's disease and subsequent prostate cancer: evidence from meta-analysis and Mendelian randomization studies.
+PMID: 38239652
+
+Abstract:
+Numerous observational studies have investigated the risk of prostate cancer (PCa) in patients diagnosed with Parkinson's Disease (PD). However, the existence of a definitive association remains uncertain.

@@ -1,0 +1,5 @@
+Title: Safety and feasibility of faecal microbiota transplantation for patients with Parkinson's disease: a protocol for a self-controlled interventional donor-FMT pilot study.
+PMID: 37798034
+
+Abstract:
+Experimental studies suggest a role of gut microbiota in the pathophysiology of Parkinson's disease (PD) via the gut-brain axis. The gut microbiota can also influence the metabolism of levodopa, which is the mainstay of treatment of PD. Therefore, modifying the gut microbiota by faecal microbiota transplantation (FMT) could be a supportive treatment strategy.

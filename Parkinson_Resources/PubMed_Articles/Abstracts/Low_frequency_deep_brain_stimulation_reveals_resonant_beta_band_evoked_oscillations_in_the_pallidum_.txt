@@ -1,0 +1,5 @@
+Title: Low-frequency deep brain stimulation reveals resonant beta-band evoked oscillations in the pallidum of Parkinson's Disease patients.
+PMID: 37810764
+
+Abstract:
+Evidence suggests that <i>spontaneous</i> beta band (11-35 Hz) oscillations in the basal ganglia thalamocortical (BGTC) circuit are linked to Parkinson's disease (PD) pathophysiology. Previous studies on neural responses in the motor cortex evoked by electrical stimulation in the subthalamic nucleus have suggested that circuit resonance may underlie the generation of spontaneous and stimulation-evoked beta oscillations in PD. Whether these stimulation-evoked, resonant oscillations are present across PD patients in the internal segment of the globus pallidus (GPi), a primary output nucleus in the BGTC circuit, is yet to be determined.

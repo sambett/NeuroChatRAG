@@ -1,0 +1,5 @@
+Title: Novel ultrasound neuromodulation therapy with transcranial pulse stimulation (TPS) in Parkinson's disease: a first retrospective analysis.
+PMID: 38032371
+
+Abstract:
+Transcranial Pulse Stimulation (TPS) has been recently introduced as a novel ultrasound neuromodulation therapy with the potential to stimulate the human brain in a focal and targeted manner. Here, we present a first retrospective analysis of TPS as an add-on therapy for Parkinson's disease (PD), focusing on feasibility, safety, and clinical effects. We also discuss the placebo response in non-invasive brain stimulation studies as an important context.

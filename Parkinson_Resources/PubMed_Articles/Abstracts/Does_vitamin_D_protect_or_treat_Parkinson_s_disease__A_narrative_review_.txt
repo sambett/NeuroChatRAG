@@ -1,0 +1,5 @@
+Title: Does vitamin D protect or treat Parkinson's disease? A narrative review.
+PMID: 37555855
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative brain disease (NBD) developed due to dopaminergic neuron loss in the substantia nigra (SN). Vitamin D (VD), VD receptor (VDR), and VD metabolites are highly expressed in the human brain and play a critical role in maintaining different brain functions. VDRs are highly expressed in the SN that regulates the activity of dopaminergic neurons and synaptic plasticity. VD exerts protective and therapeutic effects against the development of PD by modulating dopaminergic neurons of SN. VD reduces oxidative stress and neuroinflammation in PD because of its anti-inflammatory and antioxidant activities. Different studies revealed the protective effect of VD in the management of PD. However, the potential therapeutic effect of VD in well-established PD remains controversial. Therefore, this review aims to elucidate VD's preventive and therapeutic roles in PD. In conclusion, VD deficiency is associated with increased PD risk, but VD supplementation in well-established PD plays little role.

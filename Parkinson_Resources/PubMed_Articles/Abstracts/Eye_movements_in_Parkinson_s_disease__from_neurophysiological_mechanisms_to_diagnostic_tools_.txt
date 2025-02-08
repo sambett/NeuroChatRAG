@@ -1,0 +1,5 @@
+Title: Eye movements in Parkinson's disease: from neurophysiological mechanisms to diagnostic tools.
+PMID: 38042680
+
+Abstract:
+Movement disorders such as Parkinson's disease (PD) impact oculomotor function - the ability to move the eyes accurately and purposefully to serve a multitude of sensory, cognitive, and secondary motor tasks. Decades of neurophysiological research in monkeys and behavioral studies in humans have characterized the neural basis of healthy oculomotor control. This review links eye movement abnormalities in persons living with PD to the underlying neurophysiological mechanisms and pathways. Building on this foundation, we highlight recent progress in using eye movements to gauge symptom severity, assess treatment effects, and serve as potential precision biomarkers. We conclude that whereas eye movements provide insights into PD mechanisms, based on current evidence they appear to lack sufficient sensitivity and specificity to serve as a standalone diagnostic tool. Their full potential may be realized when combined with other disease indicators in big datasets.

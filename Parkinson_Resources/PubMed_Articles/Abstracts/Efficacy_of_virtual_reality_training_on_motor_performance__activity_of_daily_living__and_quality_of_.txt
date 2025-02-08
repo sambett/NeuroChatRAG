@@ -1,0 +1,5 @@
+Title: Efficacy of virtual reality training on motor performance, activity of daily living, and quality of life in patients with Parkinson's disease: an umbrella review comprising meta-analyses of randomized controlled trials.
+PMID: 37777748
+
+Abstract:
+There are several meta-analyses of randomized controlled trials (RCTs) demonstrating the benefits of virtual reality (VR) training as an intervention for motor performance, activity of daily living (ADL) and quality of life (QoL) outcomes in patients with Parkinson's disease (PD). However, the aggregate evidence collected to date has not been thoroughly evaluated for strength, quality, and reproducibility. An umbrella review from published meta-analyses of RCTs was conducted to evaluate the strength and quality of existing evidence regarding the efficacy of VR training in improving the motor performance, ADL and QoL outcomes of patients with PD.

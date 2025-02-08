@@ -1,0 +1,5 @@
+Title: Combined subthalamic nucleus and globus pallidus internus deep brain stimulation in Parkinson's disease.
+PMID: 37466135
+
+Abstract:
+Subthalamic nucleus (STN) and globus pallidus internus (GPi) deep brain stimulation (DBS) are the main surgical approaches for advanced Parkinson's disease. Stimulation is usually applied bilaterally in the same brain structure. However, when various motor symptoms concomitantly present in the same patient, simultaneous modulation of different brain structures may be a suitable alternative.

@@ -1,0 +1,5 @@
+Title: Evaluating the ability of a predictive vision-based machine learning model to measure changes in gait in response to medication and DBS within individuals with Parkinson's disease.
+PMID: 38082277
+
+Abstract:
+Gait impairments in Parkinson's disease (PD) are treated with dopaminergic medication or deep-brain stimulation (DBS), although the magnitude of the response is variable between individuals. Computer vision-based approaches have previously been evaluated for measuring the severity of parkinsonian gait in videos, but have not been evaluated for their ability to identify changes within individuals in response to treatment. This pilot study examines whether a vision-based model, trained on videos of parkinsonism, is able to detect improvement in parkinsonian gait in people with PD in response to medication and DBS use.

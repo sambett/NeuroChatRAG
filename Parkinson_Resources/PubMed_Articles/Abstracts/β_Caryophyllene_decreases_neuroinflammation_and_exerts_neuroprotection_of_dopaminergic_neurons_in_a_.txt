@@ -1,0 +1,5 @@
+Title: β-Caryophyllene decreases neuroinflammation and exerts neuroprotection of dopaminergic neurons in a model of hemiparkinsonism through inhibition of the NLRP3 inflammasome.
+PMID: 37924806
+
+Abstract:
+Parkinson's disease represents a neurodegenerative condition characterized by the progressive loss of dopaminergic neurons within the Substantia Nigra pars compacta (SNpc), resulting in diminished dopamine levels in the striatum (STR) and chronic neuroinflammation. Recent investigations have proposed the neuroprotective potential of the endocannabinoid system in neurodegenerative disorders. β-caryophyllene (BCP) is recognized for its antioxidant and anti-inflammatory properties, attributed to its activation of the type 2 cannabinoid receptor. This study aimed to assess the neuroprotective impact of BCP on dopaminergic neurons, with a particular focus on inhibiting the NLRP3 inflammasome.

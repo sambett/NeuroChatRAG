@@ -1,0 +1,5 @@
+Title: Generation of the iPSC line FINi002-A from a male Parkinson's disease patient carrying compound heterozygous mutations in the PRKN gene.
+PMID: 37890334
+
+Abstract:
+The most common cause of autosomal recessive familial Parkinson's disease (PD) are mutations in the PRKN/PARK2 gene encoding an E3 ubiquitin protein-ligase PARKIN. We report the generation of an iPSC cell line from the fibroblasts of a male PD patient carrying a common missense variant in exon 7 (p.Arg275Trp), and a 133 kb deletion encompassing exon 8, using transiently-present Sendai virus. The established line displays typical human primed iPSC morphology and expression of pluripotency-associated markers, normal karyotype without SNP array-detectable copy number variations and can give rise to derivatives of all three embryonic germ layers. We envisage the usefulness of this iPSC line, carrying a common and well-studied missense mutation in the RING1 domain of the PARKIN protein, for the elucidation of PARKIN-dependent mechanisms of PD using in vitro and in vivo models.

@@ -1,0 +1,5 @@
+Title: Small extracellular vesicles: a novel drug delivery system for neurodegenerative disorders.
+PMID: 37404690
+
+Abstract:
+Neurodegenerative diseases (NDs) have a slow onset and are usually detected late during disease. NDs are often difficult to cure due to the presence of the blood-brain barrier (BBB), which makes it difficult to find effective treatments and drugs, causing great stress and financial burden to families and society. Currently, small extracellular vesicles (sEVs) are the most promising drug delivery systems (DDSs) for targeted delivery of molecules to specific sites in the brain as a therapeutic vehicle due to their low toxicity, low immunogenicity, high stability, high delivery efficiency, high biocompatibility and trans-BBB functionality. Here, we review the therapeutic application of sEVs in several NDs, including Alzheimer's disease, Parkinson's disease, and Huntington's disease, discuss the current barriers associated with sEVs and brain-targeted DDS, and suggest future research directions.

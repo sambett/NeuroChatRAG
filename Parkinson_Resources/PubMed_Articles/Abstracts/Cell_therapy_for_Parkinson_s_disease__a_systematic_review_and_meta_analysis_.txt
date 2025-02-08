@@ -1,0 +1,5 @@
+Title: Cell-therapy for Parkinson's disease: a systematic review and meta-analysis.
+PMID: 37679754
+
+Abstract:
+Cell-based strategies focusing on replacement or protection of dopaminergic neurons have been considered as a potential approach to treat Parkinson's disease (PD) for decades. However, despite promising preclinical results, clinical trials on cell-therapy for PD reported mixed outcomes and a thorough synthesis of these findings is lacking. We performed a systematic review and meta-analysis to evaluate cell-therapy for PD patients.

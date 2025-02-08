@@ -1,0 +1,5 @@
+Title: Vitamin E protects dopaminergic neurons against manganese-induced neurotoxicity through stimulation of CHRM1 and KCNJ4.
+PMID: 37939525
+
+Abstract:
+Manganese (Mn) overexposure can induce neurotoxicity and lead to manganism. Vitamin E (Vit E) has neuroprotective effects by acting as an ROS scavenger, preventing mitochondrial dysfunction and neuronal apoptosis. However, the effects of Vit E on Mn-induced nigrostriatal system lesions remains unknown.

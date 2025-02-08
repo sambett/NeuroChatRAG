@@ -1,0 +1,5 @@
+Title: Improving naturalistic neuroscience with patient engagement strategies.
+PMID: 38259336
+
+Abstract:
+The clinical implementation of chronic electrophysiology-driven adaptive deep brain stimulation (DBS) algorithms in movement disorders requires reliable representation of motor and non-motor symptoms in electrophysiological biomarkers, throughout normal life (naturalistic). To achieve this, there is the need for high-resolution and -quality chronic objective and subjective symptom monitoring in parallel to biomarker recordings. To realize these recordings, an active participation and engagement of the investigated patients is necessary. To date, there has been little research into patient engagement strategies for DBS patients or chronic electrophysiological recordings.

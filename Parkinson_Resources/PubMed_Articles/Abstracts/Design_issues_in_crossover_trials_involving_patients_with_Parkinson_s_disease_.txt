@@ -1,0 +1,5 @@
+Title: Design issues in crossover trials involving patients with Parkinson's disease.
+PMID: 37670777
+
+Abstract:
+Crossover designs are frequently used to assess treatments for patients with Parkinson's disease. Typically, two-period two-treatment trials include a washout period between the 2 periods and assume that the washout period is sufficiently long to eliminate carryover effects. A complementary strategy might be to jointly model carryover and treatment effects, though this has rarely been done in Parkinson's disease crossover studies. The primary objective of this research is to demonstrate a modeling approach that assesses treatment and carryover effects in one unified mixed model analysis and to examine how it performs in a simulation study and a real data analysis example, as compared to other data analytic approaches used in Parkinson's disease crossover studies.

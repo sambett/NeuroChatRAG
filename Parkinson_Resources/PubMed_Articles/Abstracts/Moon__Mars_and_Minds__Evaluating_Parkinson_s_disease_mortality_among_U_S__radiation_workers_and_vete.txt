@@ -1,0 +1,5 @@
+Title: Moon, Mars and Minds: Evaluating Parkinson's disease mortality among U.S. radiation workers and veterans in the million person study of low-dose effects.
+PMID: 37537100
+
+Abstract:
+Radiation is one of the most important stressors related to missions in space beyond Earth's orbit. Epidemiologic studies of exposed workers have reported elevated rates of Parkinson's disease. The importance of cognitive dysfunction related to low-dose rate radiation in humans is not defined. A meta-analysis was conducted of six cohorts in the Million Person Study (MPS) of low-dose health effects to learn whether there is consistent evidence that Parkinson's disease is associated with radiation dose to brain.

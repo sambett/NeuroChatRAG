@@ -1,0 +1,5 @@
+Title: Identification of high-performing antibodies for Vacuolar protein sorting-associated protein 35 (hVPS35) for use in Western Blot, immunoprecipitation and immunofluorescence.
+PMID: 38434631
+
+Abstract:
+Vacuolar protein sorting-associated protein 35 is a subunit of the retromer complex, a vital constituent of the endosomal protein sorting pathway. The D620N mutation in the <i>VPS35</i> gene has been reported to be linked to type 17 Parkinson's Disease progression, the exact molecular mechanism remains to be solved. The scientific community would benefit from the accessibility of validated and high-quality anti-hVPS35 antibodies. In this study, we characterized thirteen hVPS35 commercial antibodies for Western Blot, immunoprecipitation, and immunofluorescence using a standardized experimental protocol based on comparing read-outs in knockout cell lines and isogenic parental controls. We identified many high-performing antibodies and encourage readers to use this report as a guide to select the most appropriate antibody for their specific needs.

@@ -1,0 +1,5 @@
+Title: Fluctuations in Parkinson's disease and personalized medicine: bridging the gap with the neuropsychiatric fluctuation scale.
+PMID: 37662035
+
+Abstract:
+Neuropsychiatric fluctuations (NpsyF) are frequent and disabling in people with Parkinson's disease (PD). In OFF-medication, NpsyF entail <i>minus</i> neuropsychiatric symptoms (NPS) like anxiety, apathy, sadness, and fatigue. In ON-medication, NpsyF consist in <i>plus</i> NPS, such as high mood, hypomania, and hyperactivity. Accurate identification of these NpsyF is essential to optimize the overall PD management. Due to lack of punctual scales, the neuropsychiatric fluctuation scale (NFS) has been recently designed to assess NpsyF in real time. The NFS comprises 20 items with two subscores for <i>plus</i> and <i>minus</i> NPS, and a total score.

@@ -1,0 +1,5 @@
+Title: Rethinking the network determinants of motor disability in Parkinson's disease.
+PMID: 37448451
+
+Abstract:
+For roughly the last 30 years, the notion that striatal dopamine (DA) depletion was the critical determinant of network pathophysiology underlying the motor symptoms of Parkinson's disease (PD) has dominated the field. While the basal ganglia circuit model underpinning this hypothesis has been of great heuristic value, the hypothesis itself has never been directly tested. Moreover, studies in the last couple of decades have made it clear that the network model underlying this hypothesis fails to incorporate key features of the basal ganglia, including the fact that DA acts throughout the basal ganglia, not just in the striatum. Underscoring this point, recent work using a progressive mouse model of PD has shown that striatal DA depletion alone is not sufficient to induce parkinsonism and that restoration of extra-striatal DA signaling attenuates parkinsonian motor deficits once they appear. Given the broad array of discoveries in the field, it is time for a new model of the network determinants of motor disability in PD.

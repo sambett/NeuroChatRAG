@@ -1,0 +1,5 @@
+Title: Minimal clinically important differences of spatiotemporal gait variables in Parkinson disease.
+PMID: 38150946
+
+Abstract:
+Assessment of gait function in People with Parkinson Disease (PwPD) is an important tool for monitoring disease progression in PD. While comprehensive gait analysis has become increasingly popular, only one study, Hass et al. (2014), has established minimal clinically important differences (MCID) for one spatiotemporal variable (velocity) in PwPD.

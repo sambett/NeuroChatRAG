@@ -1,0 +1,5 @@
+Title: Drug-Induced Parkinsonism: Too Many Cooks in the Kitchen.
+PMID: 37814773
+
+Abstract:
+Drug-induced parkinsonism (DIP) is a condition characterized by the development of parkinsonian symptoms as a result of medication use. It is often misdiagnosed and can be challenging to differentiate from Parkinson's disease (PD). In this case presentation, we describe the clinical course of a 64-year-old male who presented with parkinsonian symptoms while using atypical antipsychotics, which was originally misdiagnosed as PD. The case highlights the importance of recognizing the potential iatrogenic effects of medications with antidopaminergic properties, such as antipsychotics and antiepileptic drugs, which are common culprits in causing DIP. We discuss DIP management, long-term impacts, and differentiating DIP from PD through clinical findings and imaging, emphasizing the utility of the (123)I-ioflupane single-photon emission computerized tomography (SPECT) scan in aiding diagnosis. This case serves as a reminder to healthcare providers to remain vigilant in monitoring patients for adverse effects, polypharmacy, and harmful medication interactions.

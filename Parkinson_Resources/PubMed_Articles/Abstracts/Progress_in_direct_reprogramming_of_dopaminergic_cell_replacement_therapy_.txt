@@ -1,0 +1,5 @@
+Title: Progress in direct reprogramming of dopaminergic cell replacement therapy.
+PMID: 37945931
+
+Abstract:
+Parkinson's disease (PD) is a gradual neurodegenerative disease. While drug therapy and surgical treatments have been the primary means of addressing PD, they do not offer a cure, and the risks associated with surgical treatment are high. Recent advances in cell reprogramming have given rise to new prospects for the treatment of Parkinson's disease (PD), with induced pluripotent stem cells (iPSCs), induced dopamine neurons (iDNs), and induced neural stem cells (iNSCs) being created. These cells can potentially be used in the treatment of Parkinson's disease. On the other hand, this article emphasizes the limits of iPSCs and iNSCs in the context of Parkinson's disease treatment, as well as approaches for direct reprogramming of somatic cells into iDNs. The paper will examine the benefits and drawbacks of directly converting somatic cells into iDNs.

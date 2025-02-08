@@ -1,0 +1,5 @@
+Title: The curious case of <i>Prevotella copri</i>.
+PMID: 37655441
+
+Abstract:
+<i>Prevotella copri</i> is an abundant member of the human gastrointestinal microbiome, whose relative abundance has curiously been associated with positive and negative impacts on diseases, such as Parkinson's disease and rheumatoid arthritis. Yet, the verdict is still out on the definitive role of <i>P. copri</i> in human health, and on the effect of different diets on its relative abundance in the gut microbiome. The puzzling discrepancies among <i>P. copri</i> studies have only recently been attributed to the diversity of its strains, which substantially differ in their encoded metabolic patterns from the commonly used reference strain. However, such strain differences cannot be resolved by common 16S rRNA amplicon profiling methods. Here, we scrutinize <i>P. copri</i>, its versatile metabolic potential, and the hypotheses behind the conflicting observations on its association with diet and human health. We also provide suggestions for designing studies and bioinformatics pipelines to better research <i>P. copri</i>.

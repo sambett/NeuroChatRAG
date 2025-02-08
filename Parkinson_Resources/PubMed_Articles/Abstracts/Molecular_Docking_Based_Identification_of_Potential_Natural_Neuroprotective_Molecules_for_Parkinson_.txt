@@ -1,0 +1,5 @@
+Title: Molecular Docking-Based Identification of Potential Natural Neuroprotective Molecules for Parkinson's Disease.
+PMID: 37608470
+
+Abstract:
+Parkinson's disease (PD) is a common progressive neurodegenerative and the prevailing treatments are ineffective in the early stages of the disease. Therefore, other strategies must be devised to halt the steady decrease of dopaminergic neurons in the brain. In Parkinson's disease, a dysregulated ACE/Ang II/AT1R axis in the brain causes free radical damage, apoptosis, and neuronal destruction. Current PD treatments only alleviate symptoms and do not reverse the degradation mechanism of dopaminergic neurons. As a result, it is critical to discover alternate, dependable medicines for the treatment of Parkinson's disease.

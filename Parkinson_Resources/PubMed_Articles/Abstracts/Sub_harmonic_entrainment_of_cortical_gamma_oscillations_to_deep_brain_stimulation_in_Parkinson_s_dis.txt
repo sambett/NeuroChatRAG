@@ -1,0 +1,5 @@
+Title: Sub-harmonic entrainment of cortical gamma oscillations to deep brain stimulation in Parkinson's disease: Model based predictions and validation in three human subjects.
+PMID: 37683763
+
+Abstract:
+The exact mechanisms of deep brain stimulation (DBS) are still an active area of investigation, in spite of its clinical successes. This is due in part to the lack of understanding of the effects of stimulation on neuronal rhythms. Entrainment of brain oscillations has been hypothesised as a potential mechanism of neuromodulation. A better understanding of entrainment might further inform existing methods of continuous DBS, and help refine algorithms for adaptive methods. The purpose of this study is to develop and test a theoretical framework to predict entrainment of cortical rhythms to DBS across a wide range of stimulation parameters.

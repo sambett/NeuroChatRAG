@@ -1,0 +1,5 @@
+Title: Dysconnectivity of the parafascicular nucleus in Parkinson's disease: A dynamic causal modeling analysis.
+PMID: 37890560
+
+Abstract:
+Recent animal model studies have suggested that the parafascicular nucleus has the potential to be an effective deep brain stimulation target for Parkinson's disease. However, our knowledge on the role of the parafascicular nucleus in Parkinson's disease patients remains limited.

@@ -1,0 +1,5 @@
+Title: Subthalamic deep brain stimulation improves vascular endothelial function in Parkinson's disease.
+PMID: 37844349
+
+Abstract:
+Vascular health (white matter change, vascular risk factor, angiogenesis, microvascular alteration) is associated with clinical progression or levodopa-induced dyskinesia in PD. Vascular endothelial function is known to reflect the earliest vascular change. While DBS can improve motor and non-motor symptoms, the effect of DBS on vascular endothelial function is unknown. Thus, we aimed to investigate whether DBS surgery could impact vascular endothelial function in PD.

@@ -1,0 +1,5 @@
+Title: An AAV capsid reprogrammed to bind human Transferrin Receptor mediates brain-wide gene delivery.
+PMID: 38187643
+
+Abstract:
+Developing vehicles that efficiently deliver genes throughout the human central nervous system (CNS) will broaden the range of treatable genetic diseases. We engineered an AAV capsid, BI-hTFR1, that binds human Transferrin Receptor (TfR1), a protein expressed on the blood-brain barrier (BBB). BI-hTFR1 was actively transported across a human brain endothelial cell layer and, relative to AAV9, provided 40-50 times greater reporter expression in the CNS of human <i>TFRC</i> knock-in mice. The enhanced tropism was CNS-specific and absent in wild type mice. When used to deliver <i>GBA1</i>, mutations of which cause Gaucher disease and are linked to Parkinson's disease, BI-hTFR1 substantially increased brain and cerebrospinal fluid glucocerebrosidase activity compared to AAV9. These findings establish BI-hTFR1 as a promising vector for human CNS gene therapy.

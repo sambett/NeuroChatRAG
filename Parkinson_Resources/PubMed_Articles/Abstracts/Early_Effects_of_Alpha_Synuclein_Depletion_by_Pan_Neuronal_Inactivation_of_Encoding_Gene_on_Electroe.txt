@@ -1,0 +1,5 @@
+Title: Early Effects of Alpha-Synuclein Depletion by Pan-Neuronal Inactivation of Encoding Gene on Electroencephalogram Coherence between Different Brain Regions in Mice.
+PMID: 38137503
+
+Abstract:
+Inactivation of the Snca gene in young mice by chronic injections of tamoxifen (TAM), a selective estrogen receptor modifier, has been shown to decrease the level of alpha-synuclein, a key peptide in the pathogenesis of Parkinson's disease. In young mice, different time courses of the effect were observed in different brain areas, meaning associated disturbances in the intracerebral relations, namely in brain function after TAM-induced synucleinopathy.

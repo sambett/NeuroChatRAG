@@ -1,0 +1,5 @@
+Title: Evaluation of α-synuclein in CNS-originating extracellular vesicles for Parkinsonian disorders: A systematic review and meta-analysis.
+PMID: 37416941
+
+Abstract:
+Parkinsonian disorders, such as Parkinson's disease (PD), multiple system atrophy (MSA), dementia with Lewy bodies (DLB), progressive supranuclear palsy (PSP) and corticobasal syndrome (CBS), share early motor symptoms but have distinct pathophysiology. As a result, accurate premortem diagnosis is challenging for neurologists, hindering efforts for disease-modifying therapeutic discovery. Extracellular vesicles (EVs) contain cell-state-specific biomolecules and can cross the blood-brain barrier to the peripheral circulation, providing a unique central nervous system (CNS) insight. This meta-analysis evaluated blood-isolated neuronal and oligodendroglial EVs (nEVs and oEVs) α-synuclein levels in Parkinsonian disorders.

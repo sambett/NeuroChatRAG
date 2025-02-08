@@ -1,0 +1,5 @@
+Title: Cognitive Profile in Parkinson's Disease Dementia Patients with Low versus Normal Cerebrospinal Fluid Amyloid Beta.
+PMID: 38025590
+
+Abstract:
+In patients with Parkinson's disease (PD), low cerebrospinal fluid (CSF) amyloid beta 1-42 (Ab42) at baseline is the most consistent CSF biomarker as a risk factor for developing dementia. Low CSF Ab42 is, however, a typical hallmark of Alzheimer's disease (AD). Hence, low CSF Ab42 in patients with PD may indicate presence of comorbid AD pathology and may predict a more AD-like cognitive profile when they develop dementia. Our study aimed to investigate if low CSF Ab42 at baseline is associated with a more AD-like cognitive profile in PD patients with dementia.

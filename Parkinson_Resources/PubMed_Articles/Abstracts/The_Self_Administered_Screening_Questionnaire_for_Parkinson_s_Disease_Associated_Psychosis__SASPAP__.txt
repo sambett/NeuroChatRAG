@@ -1,0 +1,5 @@
+Title: The Self-Administered Screening Questionnaire for Parkinson's Disease-Associated Psychosis (SASPAP).
+PMID: 37937768
+
+Abstract:
+Psychosis is a common manifestation of Parkinson's disease (PD), and a major source of caregiver burden, nursing home placement, and mortality. Psychosis symptoms are often not volunteered during the clinic visit because of embarrassment or lack of insight, and there is no validated screening scale. We compare a new self-administered psychosis screening questionnaire against the Parkinson's Disease Psychosis Scale (PDPS) and physician interview as the gold standard assessments.

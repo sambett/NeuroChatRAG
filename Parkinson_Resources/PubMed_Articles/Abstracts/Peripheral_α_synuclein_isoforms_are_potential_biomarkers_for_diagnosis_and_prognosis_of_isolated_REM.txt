@@ -1,0 +1,5 @@
+Title: Peripheral α-synuclein isoforms are potential biomarkers for diagnosis and prognosis of isolated REM sleep behavior disorder.
+PMID: 37678102
+
+Abstract:
+Isolated REM sleep behavior disorder (IRBD) represents an early manifestation of the synucleinopathies Parkinson's disease (PD) and dementia with Lewy bodies (DLB). Aggregation of abnormal α-synuclein and its increased expression in the brain is crucial in the development of the synucleinopathies. Whereas α-synuclein gene (SNCA) transcripts are overexpressed in brain, a concomitant reduction occurs in blood of DLB patients. We assessed whether this decrease is also detectable in IRBD.

@@ -1,0 +1,5 @@
+Title: Resting-state functional magnetic resonance imaging study comparing tremor-dominant and postural instability/gait difficulty subtypes of Parkinson's disease.
+PMID: 37474664
+
+Abstract:
+The symptom-specific intrinsic neural mechanisms underlying Parkinson's disease (PD) subtypes (tremor dominant [TD] and postural instability gait difficulty [PIGD]) remain unclarified. We examined spontaneous brain activity patterns in TD and PIGD.

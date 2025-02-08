@@ -1,0 +1,5 @@
+Title: Probing the effects of N-terminal acetylation on α-synuclein structure, aggregation and cytotoxicity.
+PMID: 37532408
+
+Abstract:
+Parkinson's disease is associated with the aberrant aggregation of α-synuclein within brain cells. Although the causes of this process are still unclear, post-translational modifications of α-synuclein are likely to play a modulatory role. Since α-synuclein is constitutively N-terminally acetylated, we previously investigated how this protein modification affects the aggregation behavior of the protein using a variety of methods in vitro and in cell systems. This chapter describes the production of N-terminally acetylated (NTA) α-synuclein, the preparation of different seeds of NTA α-synuclein for aggregation assays and the experimental methods for the kinetic analysis of the aggregation process of NTA α-synuclein. We also detail our protocol to evaluate the effects of preformed protofibrils of NTA α-synuclein in cell-based assays. These methods can be applied to study other post-translational modifications of α-synuclein, or adapted for the study of N-acetylation of other aggregation-prone proteins.

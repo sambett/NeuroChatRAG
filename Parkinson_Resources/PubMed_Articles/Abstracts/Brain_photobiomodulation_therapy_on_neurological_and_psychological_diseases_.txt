@@ -1,0 +1,5 @@
+Title: Brain photobiomodulation therapy on neurological and psychological diseases.
+PMID: 37403428
+
+Abstract:
+Photobiomodulation (PBM) therapy is an innovative treatment for neurological and psychological conditions. Complex IV of the mitochondrial respiratory chain can be stimulated by red light, which increases ATP synthesis. In addition, the ion channels' light absorption causes the release of Ca<sup>2+,</sup> which activates transcription factors and changes gene expression. Neuronal metabolism is improved by brain PBM therapy, which also promotes synaptogenesis and neurogenesis as well as anti-inflammatory. Its depression-treating potential is attracting attention for other conditions, including Parkinson's disease and dementia. Giving enough dosage for optimum stimulation using the transcranial PBM technique is challenging because of the rapidly increasing attenuation of light transmission in tissue. Different strategies like intranasal and intracranial light delivery systems have been proposed to overcome this restriction. The most recent preclinical and clinical data on the effectiveness of brain PBM therapy are studied in this review article.

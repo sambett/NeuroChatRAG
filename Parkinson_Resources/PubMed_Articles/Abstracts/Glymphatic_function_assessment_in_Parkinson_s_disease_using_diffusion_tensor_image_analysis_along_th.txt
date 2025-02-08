@@ -1,0 +1,5 @@
+Title: Glymphatic function assessment in Parkinson's disease using diffusion tensor image analysis along the perivascular space.
+PMID: 37523953
+
+Abstract:
+Glymphatic dysfunction can contribute to α-synucleinopathies. We examined glymphatic function in idiopathic Parkinson's disease (PD) utilizing Diffusion Tensor Image Analysis aLong the Perivascular Space (DTI-ALPS).

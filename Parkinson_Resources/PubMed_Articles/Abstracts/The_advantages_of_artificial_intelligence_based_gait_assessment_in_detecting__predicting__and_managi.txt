@@ -1,0 +1,5 @@
+Title: The advantages of artificial intelligence-based gait assessment in detecting, predicting, and managing Parkinson's disease.
+PMID: 37502426
+
+Abstract:
+Parkinson's disease is a neurological disorder that can cause gait disturbance, leading to mobility issues and falls. Early diagnosis and prediction of freeze episodes are essential for mitigating symptoms and monitoring the disease.

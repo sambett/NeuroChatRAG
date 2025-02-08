@@ -1,0 +1,5 @@
+Title: Effects of electroacupuncture on the intestinal thioredoxin interaction protein/Nod-like receptor 3 signaling pathway in mice with Parkinson's disease.
+PMID: 37879955
+
+Abstract:
+To observe the effects of electroacupuncture (EA) at "Fengfu" (GV16), "Taichong" (LR3) and "Zusanli" (ST36) on α-synuclein (α-syn), Occludin, Claudin-1, thioredoxin interaction protein (TXNIP) and Nod-like receptor 3 (NLRP3) in Parkinson's disease (PD) mice, so as to investigate the mechanisms of EA on intestinal barrier function and inflammation in PD mice.

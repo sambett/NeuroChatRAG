@@ -1,0 +1,5 @@
+Title: Clinical and dopaminergic imaging characteristics of the FARPRESTO cohort of trial-ready idiopathic rapid eye movement sleep behavior patients.
+PMID: 37498611
+
+Abstract:
+Idiopathic/isolated rapid eye movement (REM) sleep behavior disorder (iRBD) is considered the prodromal stage of alpha-synucleinopathies. Thus, iRBD patients are the ideal target for disease-modifying therapy. The risk FActoRs PREdictive of phenoconversion in iRBD Italian STudy (FARPRESTO) is an ongoing Italian database aimed at identifying risk factors of phenoconversion, and eventually to ease clinical trial enrollment of well-characterized subjects.

@@ -1,0 +1,5 @@
+Title: Cognitive-motor dual-task interference in Alzheimer's disease, Parkinson's disease, and prodromal neurodegeneration: A scoping review.
+PMID: 37487365
+
+Abstract:
+Cognitive-motor interference (CMI) is a common deficit in Alzheimer's (AD) disease and Parkinson's disease (PD) and may have utility in identification of prodromal neurodegeneration. There is lack of consensus regarding measurement of CMI resulting from dual task paradigms.

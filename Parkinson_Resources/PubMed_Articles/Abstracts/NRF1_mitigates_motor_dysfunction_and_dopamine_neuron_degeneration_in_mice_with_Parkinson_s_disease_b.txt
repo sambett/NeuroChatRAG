@@ -1,0 +1,5 @@
+Title: NRF1 mitigates motor dysfunction and dopamine neuron degeneration in mice with Parkinson's disease by promoting GLRX m<sup>6</sup> A methylation through upregulation of METTL3 transcription.
+PMID: 37735974
+
+Abstract:
+The feature of Parkinson's disease (PD) is the heavy dopaminergic neuron loss of substantia nigra pars compacta (SNpc), while glutaredoxin (GLRX) has been discovered to modulate the death of dopaminergic neurons. In this context, this study was implemented to uncover the impact of GRX1 on motor dysfunction and dopamine neuron degeneration in PD mice and its potential mechanism.

@@ -1,0 +1,5 @@
+Title: Medication only improves limb movements while deep brain stimulation improves eye and limb movements during visually-guided reaching in Parkinson's disease.
+PMID: 37850040
+
+Abstract:
+Antiparkinson medication and subthalamic nucleus deep brain stimulation (STN-DBS), two common treatments of Parkinson's disease (PD), effectively improve skeletomotor movements. However, evidence suggests that these treatments may have differential effects on eye and limb movements, although both movement types are controlled through the parallel basal ganglia loops.

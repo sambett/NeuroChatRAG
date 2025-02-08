@@ -1,0 +1,5 @@
+Title: Nrf2 Regulates the Expression of <i>CYP2D6</i> by Inhibiting the Activity of Krüppel-Like Factor 9 (KLF9).
+PMID: 37916628
+
+Abstract:
+The aim of the present study is to gain insight into the biology of Parkinson's disease (PD) and cancer to drive translational advances enabling more effective prevention and/or potential treatments.

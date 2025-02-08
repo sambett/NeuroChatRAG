@@ -1,0 +1,5 @@
+Title: Assessment of factors influencing glymphatic activity and implications for clinical medicine.
+PMID: 37767530
+
+Abstract:
+The glymphatic system is a highly specialized fluid transport system in the central nervous system. It enables the exchange of the intercellular fluid of the brain, regulation of the movement of this fluid, clearance of unnecessary metabolic products, and, potentially, brain immunity. In this review, based on the latest scientific reports, we present the mechanism of action and function of the glymphatic system and look at the role of factors influencing its activity. Sleep habits, eating patterns, coexisting stress or hypertension, and physical activity can significantly affect glymphatic activity. Modifying them can help to change lives for the better. In the next section of the review, we discuss the connection between the glymphatic system and neurological disorders. Its association with many disease entities suggests that it plays a major role in the physiology of the whole brain, linking many pathophysiological pathways of individual diseases.

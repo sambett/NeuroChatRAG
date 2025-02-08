@@ -1,0 +1,5 @@
+Title: Impact of TRPV1 on Pathogenesis and Therapy of Neurodegenerative Diseases.
+PMID: 38202764
+
+Abstract:
+Transient receptor potential vanilloid 1 (TRPV1) is a transmembrane and non-selective cation channel protein, which can be activated by various physical and chemical stimuli. Recent studies have shown the strong pathogenetic associations of TRPV1 with neurodegenerative diseases (NDs), in particular Alzheimer's disease (AD), Parkinson's disease (PD) and multiple sclerosis (MS) via regulating neuroinflammation. Therapeutic effects of TRPV1 agonists and antagonists on the treatment of AD and PD in animal models also are emerging. We here summarize the current understanding of TRPV1's effects and its agonists and antagonists as a therapeutic means in neurodegenerative diseases, and highlight future treatment strategies using natural TRPV1 agonists. Developing new targets and applying natural products are becoming a promising direction in the treatment of chronic disorders, especially neurodegenerative diseases.

@@ -1,0 +1,5 @@
+Title: Identifying key multi-modal predictors of incipient dementia in Parkinson's disease: a machine learning analysis and Tree SHAP interpretation.
+PMID: 37455938
+
+Abstract:
+Persons with Parkinson's disease (PD) differentially progress to cognitive impairment and dementia. With a 3-year longitudinal sample of initially non-demented PD patients measured on multiple dementia risk factors, we demonstrate that machine learning classifier algorithms can be combined with explainable artificial intelligence methods to identify and interpret leading predictors that discriminate those who later converted to dementia from those who did not.

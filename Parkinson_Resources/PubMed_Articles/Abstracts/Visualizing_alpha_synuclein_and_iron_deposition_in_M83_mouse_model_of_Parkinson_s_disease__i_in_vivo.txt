@@ -1,0 +1,5 @@
+Title: Visualizing alpha-synuclein and iron deposition in M83 mouse model of Parkinson's disease <i>in vivo</i>.
+PMID: 37425954
+
+Abstract:
+Abnormal alpha-synuclein and iron accumulation in the brain play an important role in Parkinson's disease (PD). Herein, we aim at visualizing alpha-synuclein inclusions and iron deposition in the brains of M83 (A53T) mouse models of PD <i>in vivo</i>.

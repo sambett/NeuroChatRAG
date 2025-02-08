@@ -1,0 +1,5 @@
+Title: Electrical stimulation of the peripheral and central vestibular system.
+PMID: 37889571
+
+Abstract:
+Electrical stimulation of the peripheral and central vestibular system using noninvasive (galvanic vestibular stimulation, GVS) or invasive (intracranial electrical brain stimulation, iEBS) approaches have a long history of use in studying self-motion perception and balance control. The aim of this review is to summarize recent electrophysiological studies of the effects of GVS, and functional mapping of the central vestibular system using iEBS in awake patients.

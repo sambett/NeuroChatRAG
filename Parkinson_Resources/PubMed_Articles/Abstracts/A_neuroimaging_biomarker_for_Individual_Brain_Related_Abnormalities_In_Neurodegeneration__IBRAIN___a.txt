@@ -1,0 +1,5 @@
+Title: A neuroimaging biomarker for Individual Brain-Related Abnormalities In Neurodegeneration (IBRAIN): a cross-sectional study.
+PMID: 37954904
+
+Abstract:
+Alzheimer's disease (AD) is a prevalent neurodegenerative disorder that poses a worldwide public health challenge. A neuroimaging biomarker would significantly improve early diagnosis and intervention, ultimately enhancing the quality of life for affected individuals and reducing the burden on healthcare systems.

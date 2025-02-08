@@ -1,0 +1,5 @@
+Title: Multi-Level Graph Neural Network With Sparsity Pooling for Recognizing Parkinson's Disease.
+PMID: 37930906
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disease of the brain associated with motor symptoms. With the maturation of machine learning (ML), especially deep learning, ML has been used to assist in the diagnosis of PD. In this paper, we explore graph neural networks (GNNs) to implement PD prediction using MRI data. However, most existing GNN models suffer from the efficiency of graph construction on MRI data and the problem of overfitting on small data. This paper proposes a novel multi-layer GNN model that incorporates a fast graph construction method and a sparsity-based pooling layer with an attention mechanism. In addition, graph structure sparsity is plugged into the graph pooling layer as prior knowledge to mitigate overfitting in model training. Experimental results on real-world datasets demonstrate the effectiveness of the proposed model and its superiority over baseline methods.

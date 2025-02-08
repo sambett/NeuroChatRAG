@@ -1,0 +1,5 @@
+Title: Accelerated Transcranial Ultrasound Neuromodulation in Parkinson's Disease: A Pilot Study.
+PMID: 37811802
+
+Abstract:
+Low-intensity transcranial focused ultrasound (TUS) is a novel method for neuromodulation. We aimed to study the feasibility of stimulating the bilateral primary motor cortices (M1) with accelerated theta-burst TUS (a-tbTUS) on neurophysiologic and clinical outcomes in Parkinson's disease (PD).

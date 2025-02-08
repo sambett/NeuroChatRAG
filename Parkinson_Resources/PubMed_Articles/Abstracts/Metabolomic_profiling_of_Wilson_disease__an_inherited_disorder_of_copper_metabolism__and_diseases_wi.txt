@@ -1,0 +1,5 @@
+Title: Metabolomic profiling of Wilson disease, an inherited disorder of copper metabolism, and diseases with similar symptoms but normal copper metabolism.
+PMID: 37697371
+
+Abstract:
+Wilson's disease (WD) is a hereditary disorder that results in the accumulation of copper. The pathogenic mechanism is not well understood, and diagnosing the disease can be challenging, as it shares similarities with more prevalent conditions. To explore the metabolomic features of WD and differentiate it from other diseases related to copper metabolism, we conducted targeted and untargeted metabolomic profiling using ultra-high-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) and liquid chromatography-tandem mass spectrometry (LC-MS). We compared the metabolomic profiles of two subgroups of WD patients, namely hepatic WD (H-WD) and neurological WD (N-WD), H-WD patients and liver cirrhosis patients (who exhibit similar symptoms but have normal copper levels), and N-WD patients and Parkinson's disease patients (who exhibit similar symptoms but have normal copper levels).

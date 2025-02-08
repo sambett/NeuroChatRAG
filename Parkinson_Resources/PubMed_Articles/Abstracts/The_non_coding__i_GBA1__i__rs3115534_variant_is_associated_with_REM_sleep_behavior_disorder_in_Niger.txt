@@ -1,0 +1,5 @@
+Title: The non-coding <i>GBA1</i> rs3115534 variant is associated with REM sleep behavior disorder in Nigerians.
+PMID: 38076854
+
+Abstract:
+Damaging coding variants in <i>GBA1</i> are a genetic risk factor for rapid eye movement sleep behavior disorder (RBD), which is a known early feature of synucleinopathies. Recently, a population-specific non-coding variant (rs3115534) was found to be associated with PD risk and earlier disease onset in individuals of African ancestry.

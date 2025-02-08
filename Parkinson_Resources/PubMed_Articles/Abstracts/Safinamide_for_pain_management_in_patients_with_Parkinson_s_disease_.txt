@@ -1,0 +1,5 @@
+Title: Safinamide for pain management in patients with Parkinson's disease.
+PMID: 38103994
+
+Abstract:
+Pain is often neglected in Parkinson's disease (PD), although it impacts most PD patients. While the mechanism of pain in PD is still being studied, various pharmacological, interventional, and alternative treatment options have been offered for pain relief. Safinamide, a recently approved drug for PD, has shown promising results in improving pain in patients with PD. Several clinical studies report changes in pain scores in PD patients treated with safinamide, but these have not been systematically summarized. Therefore, our main goal was to perform a systematic review and statistical analysis of relevant studies.

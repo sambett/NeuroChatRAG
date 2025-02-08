@@ -1,0 +1,5 @@
+Title: Identification of optimal value of magnetic resonance planimetry and the parkinsonism index for the diagnosis of Parkinson's disease and progressive supranuclear palsy.
+PMID: 37701844
+
+Abstract:
+Parkinson's disease (PD) and progressive supranuclear palsy (PSP) are neurodegenerative conditions that have overlapping clinical and imaging features, thus making it difficult to distinguish and diagnose PSP from PD. Therefore, in this study, we aimed to investigate the optimal value of magnetic resonance planimetry and the parkinsonism index to differentiate between PSP and PD.

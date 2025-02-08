@@ -1,0 +1,5 @@
+Title: Current genetic data on depression and anxiety in Parkinson's disease patients.
+PMID: 37935601
+
+Abstract:
+Parkinson's disease (PD) is a common neurodegenerative disorder affecting about 1 % of the population over the age of 60 years. PD is characterized by a wide spectrum of symptomatology including not only motor symptoms but non-motor symptoms, as well. Depression is one of the most common non-motor manifestations, and the most frequent neuropsychiatric comorbidity in PD. Neuropsychiatric symptoms like depression and anxiety may precede the appearance of motor features, highlighting their importance in the early detection of the disease and its strategic management. This review discusses the possible genetic background of the development of these neuropsychiatric symptoms in PD patients analyzing current genetic data associated with this clinical entity.

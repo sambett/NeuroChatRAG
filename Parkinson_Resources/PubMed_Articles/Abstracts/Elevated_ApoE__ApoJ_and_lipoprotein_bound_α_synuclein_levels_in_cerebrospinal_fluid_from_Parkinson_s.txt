@@ -1,0 +1,5 @@
+Title: Elevated ApoE, ApoJ and lipoprotein-bound α-synuclein levels in cerebrospinal fluid from Parkinson's disease patients - Validation in the BioFIND cohort.
+PMID: 37479568
+
+Abstract:
+The progressive accumulation, aggregation, and spread of α-synuclein (aSN) are common hallmarks of Parkinson's disease (PD) pathology. The genotype of apolipoprotein E (ApoE) influences PD progression. Recently we found that aSN co-localize with apolipoproteins on lipoprotein vesicles. We reported an increased level of ApoE, ApoJ and lipoprotein-bound aSN in CSF from early PD patients compared to matched controls. We also found reduced plasma ApoAI in PD patients.

@@ -1,0 +1,5 @@
+Title: Neuronal dysfunction and gene modulation by non-coding RNA in Parkinson's disease and synucleinopathies.
+PMID: 38249528
+
+Abstract:
+Over the last few decades, emerging evidence suggests that non-coding RNAs (ncRNAs) including long-non-coding RNA (lncRNA), microRNA (miRNA) and circular-RNA (circRNA) contribute to the molecular events underlying progressive neuronal degeneration, and a plethora of ncRNAs have been identified significantly misregulated in many neurodegenerative diseases, including Parkinson's disease and synucleinopathy. Although a direct link between neuropathology and causative candidates has not been clearly established in many cases, the contribution of ncRNAs to the molecular processes leading to cellular dysfunction observed in neurodegenerative diseases has been addressed, suggesting that they may play a role in the pathophysiology of these diseases. Aim of the present Review is to overview and discuss recent literature focused on the role of RNA-based mechanisms involved in different aspects of neuronal pathology in Parkinson's disease and synucleinopathy models.

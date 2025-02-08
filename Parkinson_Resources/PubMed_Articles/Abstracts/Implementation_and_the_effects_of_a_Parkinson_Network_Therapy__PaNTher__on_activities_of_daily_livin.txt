@@ -1,0 +1,5 @@
+Title: Implementation and the effects of a Parkinson Network Therapy (PaNTher) on activities of daily living and health-related quality of life in Parkinson's disease patients: study protocol of an mixed-method observational cohort study in outpatient care.
+PMID: 38011978
+
+Abstract:
+Parkinson's disease (PD) represents the fastest growing neurodegenerative disease with an increasing prevalence worldwide. It is characterised by complex motor and non-motor symptoms that lead to considerable disability. Specialised physiotherapy has been shown to benefit patients with PD. The <i>Parkinson Netzwerk Therapie</i> (PaNTher) was created to improve access to specialised physiotherapy tailored to care priorities of PD patients. This study aims to evaluate the effectiveness, acceptability and needs of the PaNTher network by neurologists and physiotherapists involved in the network in outpatient care.

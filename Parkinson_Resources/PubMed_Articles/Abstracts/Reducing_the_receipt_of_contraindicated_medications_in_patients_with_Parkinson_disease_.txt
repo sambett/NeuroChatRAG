@@ -1,0 +1,5 @@
+Title: Reducing the receipt of contraindicated medications in patients with Parkinson disease.
+PMID: 37901790
+
+Abstract:
+The administration of antidopaminergic medications to patients with Parkinson's disease (PD) can exacerbate symptoms, and in the hospital setting, can lead to complications and increased length of stay. Despite efforts to improve medication administration through provider education and patient-centered interventions, the problem persists, with an estimated 21-43% of hospitalized PD patients receiving dopamine blocking medications.

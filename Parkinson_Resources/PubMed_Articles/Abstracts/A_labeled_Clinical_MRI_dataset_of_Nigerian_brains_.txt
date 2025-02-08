@@ -1,0 +1,5 @@
+Title: A labeled Clinical-MRI dataset of Nigerian brains.
+PMID: 37986723
+
+Abstract:
+We describe a Magnetic Resonance Imaging (MRI) dataset from individuals from the African nation of Nigeria. The dataset contains pseudonymized structural MRI (T1w, T2w, FLAIR) data of clinical quality. Dataset contains data from 36 images from healthy control subjects, 32 images from individuals diagnosed with age-related dementia and 20 from individuals with Parkinson's disease. There is currently a paucity of data from the African continent. Given the potential for Africa to contribute to the global neuroscience community, this first MRI dataset represents both an opportunity and benchmark for future studies to share data from the African continent.

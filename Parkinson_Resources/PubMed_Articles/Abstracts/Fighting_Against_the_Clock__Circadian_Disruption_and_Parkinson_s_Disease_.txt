@@ -1,0 +1,5 @@
+Title: Fighting Against the Clock: Circadian Disruption and Parkinson's Disease.
+PMID: 37989149
+
+Abstract:
+Circadian disruption is being increasingly recognized as a critical factor in the development and progression of Parkinson's disease (PD). This review aims to provide an in-depth overview of the relationship between circadian disruption and PD by exploring the molecular, cellular, and behavioral aspects of this interaction. This review will include a comprehensive understanding of how the clock gene system and transcription-translation feedback loops function and how they are diminished in PD. The article also discusses the role of clock genes in the regulation of circadian rhythms, as well as the impact of clock gene dysregulation on mitochondrial function, oxidative stress, and neuroinflammation, including the microbiota-gut-brain axis, which have all been proposed as being crucial mechanisms in the pathophysiology of PD. Finally, this review highlights potential therapeutic strategies targeting the clock gene system and circadian rhythm for the treatment of PD.

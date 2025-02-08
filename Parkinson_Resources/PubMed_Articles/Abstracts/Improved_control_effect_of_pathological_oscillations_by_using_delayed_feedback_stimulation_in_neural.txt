@@ -1,0 +1,5 @@
+Title: Improved control effect of pathological oscillations by using delayed feedback stimulation in neural mass model with pedunculopontine nucleus.
+PMID: 37533306
+
+Abstract:
+The role of delayed feedback stimulation in the discussion of Parkinson's disease (PD) has recently received increasing attention. Stimulation of pedunculopontine nucleus (PPN) is an emerging treatment for PD. However, the effect of PPN in regulating PD is ignored, and the delayed feedback stimulation algorithm is facing some problems in parameter selection.

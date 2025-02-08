@@ -1,0 +1,5 @@
+Title: TLR2 deficiency is beneficial at the late phase in MPTP-induced Parkinson' disease mice.
+PMID: 37827233
+
+Abstract:
+Parkinson's disease (PD) is a progressive neurodegenerative disorder. The etiology of PD is still elusive but neuroinflammation is proved to be an important contributor. Toll-like receptor 2 (TLR2) involves in the release of several inflammatory cytokines. Whether TLR2 serves as a mediator contributing to the damage of DA system in PD remain unclear.

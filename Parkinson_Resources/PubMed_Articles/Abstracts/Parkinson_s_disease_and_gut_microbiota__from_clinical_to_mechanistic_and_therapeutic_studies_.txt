@@ -1,0 +1,5 @@
+Title: Parkinson's disease and gut microbiota: from clinical to mechanistic and therapeutic studies.
+PMID: 38098067
+
+Abstract:
+Parkinson's disease (PD) is one of the most prevalent neurodegenerative diseases. The typical symptomatology of PD includes motor symptoms; however, a range of nonmotor symptoms, such as intestinal issues, usually occur before the motor symptoms. Various microorganisms inhabiting the gastrointestinal tract can profoundly influence the physiopathology of the central nervous system through neurological, endocrine, and immune system pathways involved in the microbiota-gut-brain axis. In addition, extensive evidence suggests that the gut microbiota is strongly associated with PD. This review summarizes the latest findings on microbial changes in PD and their clinical relevance, describes the underlying mechanisms through which intestinal bacteria may mediate PD, and discusses the correlations between gut microbes and anti-PD drugs. In addition, this review outlines the status of research on microbial therapies for PD and the future directions of PD-gut microbiota research.

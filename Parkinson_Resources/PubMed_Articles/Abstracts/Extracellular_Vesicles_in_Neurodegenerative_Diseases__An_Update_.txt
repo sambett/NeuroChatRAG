@@ -1,0 +1,5 @@
+Title: Extracellular Vesicles in Neurodegenerative Diseases: An Update.
+PMID: 37685965
+
+Abstract:
+Neurodegenerative diseases affect millions of people worldwide. The likelihood of developing a neurodegenerative disease rises dramatically as life expectancy increases. Although it has drawn significant attention, there is still a lack of proper effective treatments for neurodegenerative disease because the mechanisms of its development and progression are largely unknown. Extracellular vesicles (EVs) are small bi-lipid layer-enclosed nanosized particles in tissues and biological fluids. EVs are emerging as novel intercellular messengers and regulate a series of biological responses. Increasing evidence suggests that EVs are involved in the pathogenesis of neurodegenerative disorders. In this review, we summarize the recent findings of EVs in neurodegenerative diseases and bring up the limitations in the field.

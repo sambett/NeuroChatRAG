@@ -1,0 +1,5 @@
+Title: Distinguishing Alzheimer's disease from other dementias using pattern profile analysis in the Meyers Neuropsychological Battery: An exploratory study.
+PMID: 37477644
+
+Abstract:
+This exploratory study aimed to assess the efficacy of pattern-matching statistical methods within the Meyers Neuropsychological Battery (MNB). It compared neuropsychological test data profiles of Alzheimer's disease (AD) patients from three independent samples against four MNB dementia groups: MNB-AD, MNB-Vascular Dementia (VaD), MNB-Dementia with Lewy bodies (DLB), and MNB-Parkinson's disease dementia (PDD).

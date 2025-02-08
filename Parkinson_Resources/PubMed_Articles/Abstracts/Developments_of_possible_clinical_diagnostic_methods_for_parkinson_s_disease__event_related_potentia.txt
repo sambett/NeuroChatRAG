@@ -1,0 +1,5 @@
+Title: Developments of possible clinical diagnostic methods for parkinson's disease: event-related potentials.
+PMID: 38678307
+
+Abstract:
+In this study, Event-Related Potential (ERP) analyzes were performed to detect cognitive impairments in PD with Deep Brain Stimulation (DBS). A total of 85 volunteers underwent ERP analysis and neuropsychological testing (NPT) to determine cognitive level. In ERP analyses, prolonged latencies were observed in PD groups. However, patients implanted with DBS showed a decrease in latencies, a decrease in symptoms and statistical improvements in both cognitive and attention skills. Considering all these data, ERP results are promising as a noninvasive method that can be used in both disease status and diagnosis of PD.

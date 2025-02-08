@@ -1,0 +1,5 @@
+Title: Neuroprotective effects of osmotin in Parkinson's disease-associated pathology via the AdipoR1/MAPK/AMPK/mTOR signaling pathways.
+PMID: 37568205
+
+Abstract:
+Parkinson's disease (PD) is the second most frequent age-related neurodegenerative disorder and is characterized by the loss of dopaminergic neurons. Both environmental and genetic aspects are involved in the pathogenesis of PD. Osmotin is a structural and functional homolog of adiponectin, which regulates the phosphorylation of 5' adenosine monophosphate-activated protein kinase (AMPK) via adiponectin receptor 1 (AdipoR1), thus attenuating PD-associated pathology. Therefore, the current study investigated the neuroprotective effects of osmotin using in vitro and in vivo models of PD.

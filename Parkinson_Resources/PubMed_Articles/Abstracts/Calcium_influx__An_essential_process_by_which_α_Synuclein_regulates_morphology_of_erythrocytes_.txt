@@ -1,0 +1,5 @@
+Title: Calcium influx: An essential process by which α-Synuclein regulates morphology of erythrocytes.
+PMID: 37714326
+
+Abstract:
+Morphological abnormalities of erythrocytes/red blood cells (RBCs), e.g., increased acanthocytes, in Parkinson's disease (PD) have been reported previously, although the underlying mechanisms remain to be characterized. In this study, the potential roles of α-synuclein (α-syn), a protein critically involved in PD and highly abundant in RBCs, were studied in PD patients as well as in a PD mouse model.

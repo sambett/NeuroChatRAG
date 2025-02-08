@@ -1,0 +1,5 @@
+Title: Perspectives of Implementation of Closed-Loop Deep Brain Stimulation: From Neurological to Psychiatric Disorders.
+PMID: 38086346
+
+Abstract:
+Deep brain stimulation (DBS) is a highly efficient, evidence-based therapy to alleviate symptoms and improve quality of life in movement disorders such as Parkinson's disease, essential tremor, and dystonia, which is also being applied in several psychiatric disorders, such as obsessive-compulsive disorder and depression, when they are otherwise resistant to therapy.

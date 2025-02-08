@@ -1,0 +1,5 @@
+Title: Effective connectivity abnormalities in Lewy body disease with visual hallucinations.
+PMID: 37952445
+
+Abstract:
+To assess the changes in effective connectivity of important regions of the visual network (VIS) and dorsal attention network (DAN) underlying visual hallucinations (VHs) in Dementia with Lewy Bodies (DLB), Parkinson's Disease (PD) and Parkinson's Disease Dementia (PDD), as measured by a transcranial magnetic stimulation-electroencephalographic technique (TMS-EEG).

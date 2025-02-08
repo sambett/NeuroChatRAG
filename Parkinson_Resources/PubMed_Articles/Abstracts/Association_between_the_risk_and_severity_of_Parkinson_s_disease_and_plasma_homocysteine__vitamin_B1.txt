@@ -1,0 +1,5 @@
+Title: Association between the risk and severity of Parkinson's disease and plasma homocysteine, vitamin B12 and folate levels: a systematic review and meta-analysis.
+PMID: 37941998
+
+Abstract:
+Parkinson's disease (PD) is recognized as the second most prevalent progressive neurodegenerative disease among the elderly. However, the relationship between PD and plasma homocysteine (Hcy), vitamin B12, and folate has yielded inconsistent results in previous studies. Hence, in order to address this ambiguity, we conducted a meta-analysis to summarize the existing evidence.

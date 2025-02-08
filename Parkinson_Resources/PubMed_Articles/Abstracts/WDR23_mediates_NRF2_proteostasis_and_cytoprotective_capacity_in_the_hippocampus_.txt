@@ -1,0 +1,5 @@
+Title: WDR23 mediates NRF2 proteostasis and cytoprotective capacity in the hippocampus.
+PMID: 37873429
+
+Abstract:
+Pathogenic brain aging and neurodegenerative diseases such as Alzheimer's disease and Parkinson's disease are characterized by chronic neuroinflammation and the accumulation of dysfunctional or misfolded proteins that lead to progressive neuronal cell death. Here we demonstrate that a murine model with global loss of the CUL4-DDB1 substrate receptor WDR23 ( <i>Wdr23KO</i> ) results in changes in multiple age-related hippocampal-dependent behaviors. The behavioral differences observed in <i>Wdr23KO</i> animals accompany the stabilization of the NRF2/NFE2L2 protein, an increase in RNA transcripts regulated by this cytoprotective transcription factor, and an increase in the steady state level of antioxidant defense proteins. Taken together, these findings reveal a role for WDR23-proteostasis in mediating cytoprotective capacity in the hippocampus and reveal the potential for targeting WDR23-NRF2 signaling interactions for development of therapies for neurodegenerative disorders.

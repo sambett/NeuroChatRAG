@@ -1,0 +1,5 @@
+Title: Deep brain stimulation in PD: risk of complications, morbidity, and hospitalizations: a systematic review.
+PMID: 38046469
+
+Abstract:
+Parkinson's disease (PD) is a progressive and debilitating neurological disorder. While dopaminergic medication improves PD symptoms, continued management is complicated by continued symptom progression, increasing medication fluctuations, and medication-related dyskinesia. Deep brain stimulation (DBS) surgery is a well-accepted and widespread treatment often utilized to address these symptoms in advanced PD. However, DBS may also lead to complications requiring hospitalization. In addition, patients with PD and DBS may have specialized care needs during hospitalization.

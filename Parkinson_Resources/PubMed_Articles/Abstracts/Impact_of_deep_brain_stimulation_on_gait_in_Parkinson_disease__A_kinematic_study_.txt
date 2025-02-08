@@ -1,0 +1,5 @@
+Title: Impact of deep brain stimulation on gait in Parkinson disease: A kinematic study.
+PMID: 38070393
+
+Abstract:
+The effect of Deep Brain Stimulation (DBS) on gait in Parkinson's Disease (PD) is poorly understood. Kinematic studies utilizing quantitative gait outcomes such as speed, cadence, and stride length have shown mixed results and were done mostly before and after acute DBS discontinuation.

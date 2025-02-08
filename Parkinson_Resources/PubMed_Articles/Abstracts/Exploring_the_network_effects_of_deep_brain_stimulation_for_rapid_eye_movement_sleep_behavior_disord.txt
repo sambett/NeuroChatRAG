@@ -1,0 +1,5 @@
+Title: Exploring the network effects of deep brain stimulation for rapid eye movement sleep behavior disorder in Parkinson's disease.
+PMID: 37770797
+
+Abstract:
+The research findings on the effects of subthalamic nucleus (STN) deep brain stimulation (DBS) in Parkinson's disease (PD) with Rapid Eye Movement Sleep Behavior Disorder (RBD) are inconsistent, and there is a lack of research on DBS electrode sites and their network effects for the explanation of the differences. Our objective is to explore the optimal stimulation sites (that is the sweet spot) and the brain network effects of STN-DBS for RBD in PD.

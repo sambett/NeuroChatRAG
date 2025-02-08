@@ -1,0 +1,5 @@
+Title: Comparing the effects of GBA variants and onset age on clinical features and progression in Parkinson's disease.
+PMID: 37563866
+
+Abstract:
+Glucosylceramidase (GBA) variants and onset age significantly affect clinical phenotype and progression in Parkinson's disease (PD). The current study compared clinical characteristics at baseline and cognitive and motor progression over time among patients having GBA-related PD (GBA-PD), early-onset idiopathic PD (early-iPD), and late-onset idiopathic PD (late-iPD).

@@ -1,0 +1,5 @@
+Title: Erythrocytic alpha-synuclein as potential biomarker for the differentiation between essential tremor and Parkinson's disease.
+PMID: 37693770
+
+Abstract:
+The differentiation between essential tremor (ET) and Parkinson's disease (PD) can be difficult because of the symptom overlaps. Erythrocytes are the major source of peripheral α-synuclein (α-syn), which is the most studied pathological molecular of PD. We have reported that erythrocytic α-syn levels in PD patients are significantly increased compared to those in healthy controls (HCs). However, little is known about the levels of erythrocytic α-syn species in ET patients.

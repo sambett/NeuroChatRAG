@@ -1,0 +1,5 @@
+Title: Identification of Parkinson's disease and multiple system atrophy using multimodal PET/MRI radiomics.
+PMID: 37535155
+
+Abstract:
+To construct a machine learning model for differentiating Parkinson's disease (PD) and multiple system atrophy (MSA) by using multimodal PET/MRI radiomics and clinical characteristics.

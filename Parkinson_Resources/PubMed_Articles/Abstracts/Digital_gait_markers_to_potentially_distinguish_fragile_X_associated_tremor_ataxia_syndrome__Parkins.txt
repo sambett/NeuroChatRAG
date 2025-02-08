@@ -1,0 +1,5 @@
+Title: Digital gait markers to potentially distinguish fragile X-associated tremor/ataxia syndrome, Parkinson's disease, and essential tremor.
+PMID: 38162443
+
+Abstract:
+Fragile X-associated tremor/ataxia syndrome (FXTAS), a neurodegenerative disease that affects carriers of a 55-200 CGG repeat expansion in the <i>fragile X messenger ribonucleoprotein 1</i> (<i>FMR1</i>) gene, may be given an incorrect initial diagnosis of Parkinson's disease (PD) or essential tremor (ET) due to overlapping motor symptoms. It is critical to characterize distinct phenotypes in FXTAS compared to PD and ET to improve diagnostic accuracy. Fast as possible (FP) speed and dual-task (DT) paradigms have the potential to distinguish differences in gait performance between the three movement disorders. Therefore, we sought to compare FXTAS, PD, and ET patients using quantitative measures of functional mobility and gait under self-selected (SS) speed, FP, and DT conditions.

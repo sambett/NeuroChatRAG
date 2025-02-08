@@ -1,0 +1,5 @@
+Title: Structure of LRRK1 and mechanisms of autoinhibition and activation.
+PMID: 37857821
+
+Abstract:
+Leucine Rich Repeat Kinase 1 and 2 (LRRK1 and LRRK2) are homologs in the ROCO family of proteins in humans. Despite their shared domain architecture and involvement in intracellular trafficking, their disease associations are strikingly different: LRRK2 is involved in familial Parkinson's disease while LRRK1 is linked to bone diseases. Furthermore, Parkinson's disease-linked mutations in LRRK2 are typically autosomal dominant gain-of-function while those in LRRK1 are autosomal recessive loss-of-function. Here, to understand these differences, we solved cryo-EM structures of LRRK1 in its monomeric and dimeric forms. Both differ from the corresponding LRRK2 structures. Unlike LRRK2, which is sterically autoinhibited as a monomer, LRRK1 is sterically autoinhibited in a dimer-dependent manner. LRRK1 has an additional level of autoinhibition that prevents activation of the kinase and is absent in LRRK2. Finally, we place the structural signatures of LRRK1 and LRRK2 in the context of the evolution of the LRRK family of proteins.

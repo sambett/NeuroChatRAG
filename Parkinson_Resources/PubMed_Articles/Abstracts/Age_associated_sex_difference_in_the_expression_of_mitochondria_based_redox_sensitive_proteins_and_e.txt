@@ -1,0 +1,5 @@
+Title: Age-associated sex difference in the expression of mitochondria-based redox sensitive proteins and effect of pioglitazone in nonhuman primate brain.
+PMID: 37770961
+
+Abstract:
+Paraoxonase 2 (PON2) and neuronal uncoupling proteins (UCP4 and UCP5) possess antioxidant, anti-apoptotic activities and minimize accumulation of reactive oxygen species in mitochondria. While age and sex are risk factors for several disorders that are linked with oxidative stress, no study has explored the age- and sex-dependent expression of PON2 isoforms, UCP4 and UCP5 in primate brain or identified a drug to activate UCP4 and UCP5 in vivo. Preclinical studies suggest that the peroxisome proliferator-activated receptor gamma agonist, pioglitazone (PIO), can be neuroprotective, although the mechanism responsible is unclear. Our previous studies demonstrated that pioglitazone activates PON2 in primate brain and we hypothesized that pioglitazone also induces UCP4/5. This study was designed to elucidate the age- and sex-dependent expression of PON2 isoforms, UCP4 and UCP5, in addition to examining the impact of systemic PIO treatment on UCP4 and UCP5 expression in primate brain.

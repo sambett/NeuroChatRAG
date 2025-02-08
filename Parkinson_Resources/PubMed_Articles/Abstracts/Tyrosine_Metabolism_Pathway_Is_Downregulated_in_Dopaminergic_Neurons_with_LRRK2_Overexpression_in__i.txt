@@ -1,0 +1,5 @@
+Title: Tyrosine Metabolism Pathway Is Downregulated in Dopaminergic Neurons with LRRK2 Overexpression in <i>Drosophila</i>.
+PMID: 37958569
+
+Abstract:
+LRRK2 mutations are the leading cause of familial Parkinson's disease (PD) and are a significant risk factor for idiopathic PD cases. However, the molecular mechanisms underlying the degeneration of dopaminergic (DA) neurons in LRRK2 PD patients remain unclear. To determine the translatomic impact of LRRK2 expression in DA neurons, we employed gene set enrichment analysis (GSEA) to analyze a translating ribosome affinity purification (TRAP) RNA-seq dataset from a DA-neuron-specific-expressing <i>Drosophila</i> model. We found that the tyrosine metabolism pathway, including tyrosine hydroxylase (TH), is downregulated in DA neurons with LRRK2 overexpression; in contrast, the Hippo signaling pathway is downregulated in the G2019S mutant compared to wild-type LRRK2 in the DA neurons. These results imply that the downregulation of tyrosine metabolism occurs before pronounced DA neuron loss and that LRRK2 may downregulate the tyrosine metabolism in a DA-neuron-loss-independent way.

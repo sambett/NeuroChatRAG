@@ -1,0 +1,5 @@
+Title: Motor Performance During Sensorimotor Training for Airway Protection in Parkinson's Disease.
+PMID: 37668552
+
+Abstract:
+Cough dysfunction is highly prevalent in Parkinson's disease (PD) and associated with pneumonia, a leading cause of death. Although research suggests that cough can be volitionally upregulated, patterns of improvements that occur during cough skill training and potential correlates remain unexamined. Therefore, we sought to characterize changes to peak flow during cough skill training, examine whether early variability predicted motor performance trajectories during treatment, and explore the relationship between peak flow during cough skill training and motor learning on a similar but untrained task (i.e., reflex cough testing).

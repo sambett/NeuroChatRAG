@@ -1,0 +1,5 @@
+Title: Validation of Administrative Health Data Algorithms for Identifying Persons with Parkinson's Disease and the 10-Year Prevalence Trend in Bologna, Italy.
+PMID: 37549643
+
+Abstract:
+Health administrative databases are widely used for the estimation of the prevalence of Parkinson's disease (PD). Few in general, and none used in Italy, have been validated by testing their diagnostic accuracy. The primary objective was to validate two algorithms for the identification of persons with PD using clinical diagnosis as the reference standard on an Italian sample of people with PD. The second objective was to estimate 10-year trends in PD prevalence in the Bologna Local Health Trust from 2010 to 2019.

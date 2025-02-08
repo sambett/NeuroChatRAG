@@ -1,0 +1,5 @@
+Title: AMPK Signaling Pathway as a Potential Therapeutic Target for Parkinson's Disease.
+PMID: 38585465
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease caused by the loss of dopaminergic neurons. Genetic factors, inflammatory responses, oxidative stress, metabolic disorders, cytotoxic factors, and mitochondrial dysfunction are all involved in neuronal death in neurodegenerative diseases. The risk of PD can be higher in aging individuals due to decreased mitochondrial function, energy metabolism, and AMP-activated protein kinase (AMPK) function. The potential of AMPK to regulate neurodegenerative disorders lies in its ability to enhance antioxidant capacity, reduce oxidative stress, improve mitochondrial function, decrease mitophagy and macroautophagy, and inhibit inflammation. In addition, it has been shown that modulating the catalytic activity of AMPK can protect the nervous system. This article reviews the mechanisms by which AMPK activation can modulate PD.

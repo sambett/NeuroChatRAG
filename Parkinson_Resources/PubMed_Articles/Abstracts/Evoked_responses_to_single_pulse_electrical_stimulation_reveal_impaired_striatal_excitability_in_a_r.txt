@@ -1,0 +1,5 @@
+Title: Evoked responses to single pulse electrical stimulation reveal impaired striatal excitability in a rat model of Parkinson's disease.
+PMID: 37604316
+
+Abstract:
+Sensorimotor beta oscillations are increased in Parkinson's disease (PD) due to the alteration of dopaminergic transmission. This electrophysiological read-out is reported both in patients and in animal models such as the 6-OHDA rat model obtained with unilateral nigral injection of 6-hydroxydopamine (6-OHDA). Current treatments, based on dopaminergic replacement, transiently normalize this pathological beta activity and improve patients' quality of life.

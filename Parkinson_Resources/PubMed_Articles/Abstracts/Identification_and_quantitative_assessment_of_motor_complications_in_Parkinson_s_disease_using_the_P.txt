@@ -1,0 +1,5 @@
+Title: Identification and quantitative assessment of motor complications in Parkinson's disease using the Parkinson's KinetiGraph™.
+PMID: 37593376
+
+Abstract:
+Effective management and therapies for the motor complications of Parkinson's disease (PD) require appropriate clinical evaluation. The Parkinson's KinetiGraph™ (PKG) is a wearable biosensor system that can record the motion characteristics of PD objectively and remotely.

@@ -1,0 +1,5 @@
+Title: Causal relationship between coffee intake and neurological diseases: a Mendelian randomization study.
+PMID: 37845420
+
+Abstract:
+Previous observational studies focused on the association of coffee consumption and neurological disease. However, it is not known whether these associations are causal.

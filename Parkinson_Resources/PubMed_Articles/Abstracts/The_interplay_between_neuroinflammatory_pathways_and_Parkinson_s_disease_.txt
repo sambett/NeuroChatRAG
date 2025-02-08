@@ -1,0 +1,5 @@
+Title: The interplay between neuroinflammatory pathways and Parkinson's disease.
+PMID: 38061555
+
+Abstract:
+Parkinson's disease, a progressive neurodegenerative disorder predominantly affecting elderly, is marked by the gradual degeneration of the nigrostriatal dopaminergic pathway, culminating in neuronal loss within the substantia nigra pars compacta (SNpc) and dopamine depletion. At the molecular level, neuronal loss in the SNpc has been attributed to factors including neuroinflammation, impaired protein homeostasis, as well as mitochondrial dysfunction and the resulting oxidative stress. This review focuses on the interplay between neuroinflammatory pathways and Parkinson's disease, drawing insights from current literature.

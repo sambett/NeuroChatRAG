@@ -1,0 +1,5 @@
+Title: REM Sleep Behavior Disorder and Cognitive Functions in Parkinson's Patients: A Systematic Review.
+PMID: 38068449
+
+Abstract:
+Sleep disorders, such as REM sleep behavior disorder (RBD) and excessive daytime sleepiness, are among the most common non-motor symptoms in subjects with Parkinson's disease (PD). Sleep disorders have a major negative impact on the quality of life of patients and their caregivers. In addition, REM sleep behavior disorder is an important risk factor for cognitive impairment in PD. This systematic review was conducted on studies investigating the influence of RBD on cognitive performance in PD subjects. We searched the PubMed and Scopus databases, screened the references of the studies included, and reviewed articles for additional citations. From the first 244 publications, we included only 11 studies that met the search criteria. The results showed that sleep disorders in PD were associated with impaired executive functions, visual-constructive abilities, reduced attention, and episodic verbal memory, and could predict the possible risk of developing dementia.

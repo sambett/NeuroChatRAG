@@ -1,0 +1,5 @@
+Title: Natural killer cells have an activated profile in early Parkinson's disease.
+PMID: 37549558
+
+Abstract:
+Immune dysregulation is heavily implicated in Parkinson's disease (PD) but the role of Natural Killer (NK) cells has not been well characterised. Accumulating evidence indicates the immune response peaks early in the disease, hence this study focused on characterising NK cells in recently diagnosed PD. PBMCs were obtained from PD cases (< 2 years duration) and age-matched controls and immunophenotyped using flow cytometry. We found an increased proportion and number of NK cells (CD3-CD56+), mature cytotoxic NK cells (CD3-CD16 + CD56dim), and NK cells expressing the activation marker, NKG2D. This implies NK cells are activated in the earliest stages of PD.

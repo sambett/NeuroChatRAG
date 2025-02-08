@@ -1,0 +1,5 @@
+Title: Synucleinopathies: Intrinsic and Extrinsic Factors.
+PMID: 37526884
+
+Abstract:
+α-Synucleinopathies are a group of neurodegenerative disorders characterized by alterations in α-synuclein (α-syn), a protein associated with membrane phospholipids, whose precise function in normal cells is still unknown. These kinds of diseases are caused by multiple factors, but the regulation of the α-syn gene is believed to play a central role in the pathology of these disorders; therefore, the α-syn gene is one of the most studied genes. α-Synucleinopathies are complex disorders that derive from the interaction between genetic and environmental factors. Here, we offer an update on the landscape of the epigenetic regulation of α-syn gene expression that has been linked with α-synucleinopathies. We also delve into the reciprocal influence between epigenetic modifications and other factors related to these disorders, such as posttranslational modifications, microbiota participation, interactions with lipids, neuroinflammation and oxidative stress, to promote α-syn aggregation by acting on the transcription and/or translation of the α-syn gene.

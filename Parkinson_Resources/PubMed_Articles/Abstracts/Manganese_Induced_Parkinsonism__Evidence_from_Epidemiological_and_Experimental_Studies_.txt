@@ -1,0 +1,5 @@
+Title: Manganese-Induced Parkinsonism: Evidence from Epidemiological and Experimental Studies.
+PMID: 37627255
+
+Abstract:
+Manganese (Mn) exposure has evolved from acute, high-level exposure causing manganism to low, chronic lifetime exposure. In this latter scenario, the target areas extend beyond the globus pallidus (as seen with manganism) to the entire basal ganglia, including the substantia nigra pars compacta. This change of exposure paradigm has prompted numerous epidemiological investigations of the occurrence of Parkinson's disease (PD), or parkinsonism, due to the long-term impact of Mn. In parallel, experimental research has focused on the underlying pathogenic mechanisms of Mn and its interactions with genetic susceptibility. In this review, we provide evidence from both types of studies, with the aim to link the epidemiological data with the potential mechanistic interpretation.

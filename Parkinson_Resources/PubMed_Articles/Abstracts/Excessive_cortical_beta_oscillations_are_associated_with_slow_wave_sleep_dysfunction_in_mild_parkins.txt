@@ -1,0 +1,5 @@
+Title: Excessive cortical beta oscillations are associated with slow-wave sleep dysfunction in mild parkinsonism.
+PMID: 37961389
+
+Abstract:
+Increasing evidence associates slow-wave sleep (SWS) dysfunction with neurodegeneration. Using a within-subject design in the nonhuman primate model of Parkinson's disease (PD), we found that reduced SWS quantity in mild parkinsonism was accompanied by elevated beta and reduced delta power during SWS in the motor cortex. Our findings support excessive beta oscillations as a mechanism for SWS dysfunction and will inform development of neuromodulation therapies for enhancing SWS in PD.

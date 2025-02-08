@@ -1,0 +1,5 @@
+Title: Subthalamic 85 Hz deep brain stimulation improves walking pace and stride length in Parkinson's disease patients.
+PMID: 37559161
+
+Abstract:
+Mobile gait sensors represent a compelling tool to objectify the severity of symptoms in patients with idiopathic Parkinson's disease (iPD), but also to determine the therapeutic benefit of interventions. In particular, parameters of Deep Brain stimulation (DBS) with its short latency could be accurately assessed using sensor data. This study aimed at gaining insight into gait changes due to different DBS parameters in patients with subthalamic nucleus (STN) DBS.

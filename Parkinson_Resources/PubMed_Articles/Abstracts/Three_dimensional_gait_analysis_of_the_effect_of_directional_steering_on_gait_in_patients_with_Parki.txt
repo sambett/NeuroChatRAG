@@ -1,0 +1,5 @@
+Title: Three-dimensional gait analysis of the effect of directional steering on gait in patients with Parkinson's disease.
+PMID: 37499354
+
+Abstract:
+Deep Brain Stimulation (DBS) is an option to treat advanced Parkinson's Disease (PD), but can cause gait disturbance due to stimulation side efffects. This study aims to evaluate the objective effect of directional current steering by DBS on gait performance in PD, utilizing a three-dimensional gait analysis system.

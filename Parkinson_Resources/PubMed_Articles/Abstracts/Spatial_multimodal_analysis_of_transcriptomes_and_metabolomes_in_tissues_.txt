@@ -1,0 +1,5 @@
+Title: Spatial multimodal analysis of transcriptomes and metabolomes in tissues.
+PMID: 37667091
+
+Abstract:
+We present a spatial omics approach that combines histology, mass spectrometry imaging and spatial transcriptomics to facilitate precise measurements of mRNA transcripts and low-molecular-weight metabolites across tissue regions. The workflow is compatible with commercially available Visium glass slides. We demonstrate the potential of our method using mouse and human brain samples in the context of dopamine and Parkinson's disease.

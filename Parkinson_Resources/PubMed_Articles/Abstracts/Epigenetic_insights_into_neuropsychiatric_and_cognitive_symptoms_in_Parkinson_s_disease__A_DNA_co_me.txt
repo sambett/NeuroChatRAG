@@ -1,0 +1,5 @@
+Title: Epigenetic insights into neuropsychiatric and cognitive symptoms in Parkinson's disease: A DNA co-methylation network analysis.
+PMID: 37790398
+
+Abstract:
+Parkinson's disease is a highly heterogeneous disorder, encompassing a complex spectrum of clinical presentation including motor, sleep, cognitive and neuropsychiatric symptoms. We aimed to investigate genome-wide DNA methylation networks in post-mortem Parkinson's disease brain samples and test for region-specific association with common neuropsychiatric and cognitive symptoms. Of traits tested, we identify a co-methylation module in the substantia nigra with significant correlation to depressive symptoms and with ontological enrichment for terms relevant to neuronal and synaptic processes. Notably, expression of the genes annotated to the methylation loci present within this module are found to be significantly enriched in neuronal subtypes within the substantia nigra. These findings highlight the potential involvement of neuronal-specific changes within the substantia nigra with regard to depressive symptoms in Parkinson's disease.

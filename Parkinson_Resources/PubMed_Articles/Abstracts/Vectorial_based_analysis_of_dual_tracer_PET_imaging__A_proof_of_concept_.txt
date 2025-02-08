@@ -1,0 +1,5 @@
+Title: Vectorial-based analysis of dual-tracer PET imaging: A proof of concept.
+PMID: 37979207
+
+Abstract:
+The diagnosis of neurological diseases is complicated since they often share similar symptoms and occur in different severity levels. Imaging techniques such as PET molecular imaging are helpful for an early and accurate diagnosis and, staging allowing a noninvasive evaluation of the disease. The combination of two radioligands in the same patient could be valuable to achieve these diagnostic goals; nevertheless, the imaging data obtained with two radioligands is commonly interpreted independently. This novel approach to combine the PET data of two radiopharmaceuticals, separately acquired in the same subject, is to obtain new quantitative metrics. PET images of patients with Parkinson's disease (PD) and healthy controls (HC) were analyzed. Voxel-by-voxel uptake is compared by combining the imaging data. Dual-tracer PET imaging analysis was tested with [<sup>11</sup>C]DTBZ-[<sup>11</sup>C]Raclopride as proof of concept.

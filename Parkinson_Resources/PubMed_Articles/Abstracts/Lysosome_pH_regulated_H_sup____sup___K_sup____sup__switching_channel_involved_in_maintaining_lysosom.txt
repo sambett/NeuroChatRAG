@@ -1,0 +1,5 @@
+Title: Lysosome pH-regulated H<sup>+</sup> /K<sup>+</sup> switching channel involved in maintaining lysosomal homeostasis.
+PMID: 37434434
+
+Abstract:
+Lysosomal pH setpoint and H<sup>+</sup> homeostasis is key to the lysosome's functions. The Parkinson's disease-risk protein TMEM175, originally identified as lysosomal K<sup>+</sup> channel, works as a H<sup>+</sup> -activated H<sup>+</sup> channel and discharges the lysosomal H<sup>+</sup> store when it is hyper-acidified. Yang et al. indicate that TMEM175 is permeable for both K<sup>+</sup> and H<sup>+</sup> in the same pore and charges the lysosome with H<sup>+</sup> under certain conditions. The charge and discharge functions are under regulation of the lysosomal matrix and glycocalyx layer. Their presented work indicates that TMEM175 performs as a multi-functional channel regulating lysosomal pH in response to physiological conditions.

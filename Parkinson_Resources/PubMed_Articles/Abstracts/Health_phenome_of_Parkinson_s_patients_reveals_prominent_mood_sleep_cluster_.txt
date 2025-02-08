@@ -1,0 +1,5 @@
+Title: Health phenome of Parkinson's patients reveals prominent mood-sleep cluster.
+PMID: 38196602
+
+Abstract:
+Associations between phenotypic traits, environmental exposures, and Parkinson's disease have largely been evaluated one-by-one, piecemeal, and pre-selections. A comprehensive picture of comorbidities, phenotypes, exposures, and polypharmacy characterizing the complexity and heterogeneity of real-world patients presenting to academic movement disorders clinics in the US is missing.

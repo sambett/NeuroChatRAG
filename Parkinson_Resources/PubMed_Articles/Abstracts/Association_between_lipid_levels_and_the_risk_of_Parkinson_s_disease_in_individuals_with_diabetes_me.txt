@@ -1,0 +1,5 @@
+Title: Association between lipid levels and the risk of Parkinson's disease in individuals with diabetes mellitus: A nationwide population-based cohort study.
+PMID: 37951145
+
+Abstract:
+Many studies have examined the positive association between diabetes mellitus (DM) and the risk of Parkinson's disease (PD). Dyslipidemia has been reported to be prevalent in patients with diabetes; thus, lipid levels and the drugs for dyslipidemia could influence the development of PD in patients with DM. This study aimed to examine the association between lipid levels and the risk of PD in individuals with DM and evaluate whether the association changes with the use of statins.

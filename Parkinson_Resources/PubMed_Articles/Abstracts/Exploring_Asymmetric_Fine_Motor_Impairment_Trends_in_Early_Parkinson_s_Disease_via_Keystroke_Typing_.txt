@@ -1,0 +1,5 @@
+Title: Exploring Asymmetric Fine Motor Impairment Trends in Early Parkinson's Disease via Keystroke Typing.
+PMID: 37868929
+
+Abstract:
+The nQiMechPD algorithm transforms natural typing data into a numerical index that characterizes motor impairment in people with Parkinson's Disease (PwPD).

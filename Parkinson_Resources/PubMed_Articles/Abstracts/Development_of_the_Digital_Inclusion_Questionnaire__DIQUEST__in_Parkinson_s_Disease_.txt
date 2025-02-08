@@ -1,0 +1,5 @@
+Title: Development of the Digital Inclusion Questionnaire (DIQUEST) in Parkinson's Disease.
+PMID: 37843691
+
+Abstract:
+No tool is currently able to measure digital inclusion in clinical populations suitable for telemedicine. We developed the "Digital Inclusion Questionnaire" (DIQUEST) to estimate access and skills in Parkinson's Disease (PD) patients and verified its properties with a pilot study.

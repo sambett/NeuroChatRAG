@@ -1,0 +1,5 @@
+Title: Assessing the potential relevance of CEACAM6 as a blood transcriptional biomarker.
+PMID: 39239252
+
+Abstract:
+Changes in blood transcript abundance levels have been associated with pathogenesis in a wide range of diseases. While next generation sequencing technology can measure transcript abundance on a genome-wide scale, downstream clinical applications often require small sets of genes to be selected for inclusion in targeted panels. Here we set out to gather information from the literature and transcriptome datasets that would help researchers determine whether to include the gene CEACAM6 in such panels.

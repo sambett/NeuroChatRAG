@@ -1,0 +1,5 @@
+Title: The role of the ATP-Binding Cassette A1 (ABCA1) in neurological disorders: a mechanistic review.
+PMID: 37428709
+
+Abstract:
+Cholesterol homeostasis is critical for normal brain function. It is tightly controlled by various biological elements. ATP-binding cassette transporter A1 (ABCA1) is a membrane transporter that effluxes cholesterol from cells, particularly astrocytes, into the extracellular space. The recent studies pertaining to ABCA1's role in CNS disorders were included in this study.

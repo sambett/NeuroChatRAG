@@ -1,0 +1,5 @@
+Title: The digital signature of emergent tremor in Parkinson's disease.
+PMID: 37961117
+
+Abstract:
+Emergent tremor in Parkinson's disease (PD) can occur during sustained postures or movement that is different from action tremor. Tremor can contaminate the clinical rating of bradykinesia during finger tapping. Currently, there is no reliable way of isolating emergent tremor and measuring the cardinal motor symptoms based on voluntary movements only.

@@ -1,0 +1,5 @@
+Title: Optimization of inpatient medication administration among persons with Parkinson's disease: recommendations on pharmacy technology and workflow.
+PMID: 38035015
+
+Abstract:
+Individuals with Parkinson's disease (PD) are vulnerable during hospitalizations due to the underlying complexities o1f symptoms, and acute illness or medication changes often lead to decompensation. Complications during hospitalizations are often due to worsening motor and nonmotor symptoms and commonly result from inaccurate medication regimens. Although the accuracy of medication administration relies on an interplay of factors, including patient status, transitions of care, coordination between the hospital prescriber and outpatient neurologist, etc., hospital pharmacists play an integral role in pharmacotherapy. The main aspects of pharmacy strategies aim to achieve timely administration of levodopa-containing medications, reduction of substitution and omissions of antiparkinsonian medications, and avoidance of antidopaminergic medications. This paper highlights critical areas for improvement and recommendations to minimize the impact of other factors from the pharmacy standpoint.

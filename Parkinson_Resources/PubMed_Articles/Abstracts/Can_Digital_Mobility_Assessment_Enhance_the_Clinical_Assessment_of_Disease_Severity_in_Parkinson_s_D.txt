@@ -1,0 +1,5 @@
+Title: Can Digital Mobility Assessment Enhance the Clinical Assessment of Disease Severity in Parkinson's Disease?
+PMID: 37545259
+
+Abstract:
+Real-world walking speed (RWS) measured using wearable devices has the potential to complement the Movement Disorder Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS III) for motor assessment in Parkinson's disease (PD).

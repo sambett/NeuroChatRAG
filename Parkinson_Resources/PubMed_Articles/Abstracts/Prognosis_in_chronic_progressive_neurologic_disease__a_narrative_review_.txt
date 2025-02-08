@@ -1,0 +1,5 @@
+Title: Prognosis in chronic progressive neurologic disease: a narrative review.
+PMID: 37691335
+
+Abstract:
+Prognostication is the process of predicting a patient's likely outcome from their medical condition, and consists of determining both how well and how long a patient may live. There are few disease-specific prognostic tools to estimate a patient's individualized prognosis in terms of symptom burden and mortality. Here we summarize relevant literature on prognosis in four progressive neurologic diseases-dementia, Parkinson's disease, amyotrophic lateral sclerosis, and multiple sclerosis-as well as on best practices on communicating prognosis with patients and care partners.

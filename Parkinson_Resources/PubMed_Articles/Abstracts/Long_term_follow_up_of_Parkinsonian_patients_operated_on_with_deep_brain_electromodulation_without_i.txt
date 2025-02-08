@@ -1,0 +1,5 @@
+Title: Long-term follow-up of Parkinsonian patients operated on with deep brain electromodulation without intraoperative microrecording.
+PMID: 38213426
+
+Abstract:
+Deep brain electromodulation (DBEM), also known as deep brain stimulation in different intracerebral targets, is the most widely used surgical treatment due to its effects in reducing motor symptoms of Parkinson's disease. The intracerebral microelectrode recording has been considered for decades as a necessary tool for the success of Parkinson's surgery. However, some publications give more importance to intracerebral stimulation as a better predictive test. Since 2002, we initiated a technique of brain implant of electrodes without micro recording and based solely on image-guided stereotaxis followed by intraoperative macrostimulation. In this work, we analyze our long-term results, taking into account motor skills and quality of life (QL) before and after surgery, and we also establish the patient's time of clinical improvement.

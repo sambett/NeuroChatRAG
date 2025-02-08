@@ -1,0 +1,5 @@
+Title: α-Synuclein seed amplification assay as a diagnostic tool for parkinsonian disorders.
+PMID: 37591709
+
+Abstract:
+Synucleinopathies such as Parkinson's disease (PD) and multiple system atrophy (MSA) can be challenging to diagnose due to the symptom overlap with, for example, atypical parkinsonisms like progressive supranuclear palsy (PSP) and corticobasal degeneration (CBD). Seed amplification assays (SAA), developed for the detection of α-synuclein (αSyn) aggregates in CSF, have been successful when used as a biomarker evaluation for synucleinopathies. In this study, we investigated the potential of this assay to not only detect αSyn seeds in CSF, but also discriminate between movement disorders.

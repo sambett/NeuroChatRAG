@@ -1,0 +1,5 @@
+Title: Volatile organic compounds analysis as promising biomarkers for Parkinson's disease diagnosis: A systematic review and meta-analysis.
+PMID: 37939618
+
+Abstract:
+Researchers are investigating the potential of volatile organic compounds (VOCs) obtained from exhaled breath and sebum as non-invasive tools for early Parkinson's disease (PD) diagnosis. The present study aims to assess the feasibility of using VOC analysis for PD diagnosis and determine the overall diagnostic accuracy of the proposed tests.

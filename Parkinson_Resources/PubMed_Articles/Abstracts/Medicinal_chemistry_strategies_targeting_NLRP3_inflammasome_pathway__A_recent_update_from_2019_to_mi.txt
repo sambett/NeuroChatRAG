@@ -1,0 +1,5 @@
+Title: Medicinal chemistry strategies targeting NLRP3 inflammasome pathway: A recent update from 2019 to mid-2023.
+PMID: 37639823
+
+Abstract:
+Nod-like receptor protein 3 (NLRP3), a therapeutic target that has a close relationship with inflammatory diseases, has drawn significant attention from researchers in the field. An increasing number of NLRP3 inhibitors have been reported since NLRP3 was identified as a biomarker and inflammatory therapeutic target. Inhibiting NLRP3 has been widely studied as therapeutics for the treatment of cryopyrin associated periodic syndrome (CAPS), inflammatory bowel disease (IBD), nonalcoholic steatohepatitis (NASH), arthrolithiasis, Alzheimer's disease (AD) and Parkinson's disease (PD). This review updates the recently reported (2019 to mid-2023) molecule inhibitors targeting the NLRP3 inflammasome pathway, summarizes their structure-activity relationships (SARs), and discusses the therapeutic effects on inflammatory diseases. I hope this review will contribute to the development of novel inhibitors targeting NLRP3 inflammasome pathway as potential drugs.

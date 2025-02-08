@@ -1,0 +1,5 @@
+Title: Anatomical distribution of Fyn kinase in the human brain in Parkinson's disease.
+PMID: 38101025
+
+Abstract:
+Fyn kinase is an Src family kinase (SFK) widely expressed in many tissues, including the CNS. Recently, Fyn kinase activation has been associated with pathological mechanisms underlying neurodegenerative diseases and, as such, the role of Fyn dysfunction is under investigation. In particular, Fyn is implicated as a major upstream regulator of neuroinflammation in Parkinson's Disease (PD). Chronic neuroinflammation has been observed not just in the substantia nigra (SN), but also in several key regions of the brain, with disruption associated with symptoms presentation in PD. This study aimed to characterise the anatomical distribution of Fyn in key brain regions affected in PD, namely the prefrontal cortex, hippocampus, striatum and SN.

@@ -1,0 +1,5 @@
+Title: Identification of diagnostic and prognostic biomarkers of PD using a multiplex proteomics approach.
+PMID: 37673381
+
+Abstract:
+Given the complexity of Parkinson's disease (PD), achieving acceptable diagnostic and prognostic accuracy will require the support of a panel of diverse biomarkers. We used Proximity extension assays to measure a panel of 92 proteins in CSF of 120 newly diagnosed PD patients and 45 control subjects without neurological disease. From 75 proteins detectable in the CSF of >90% of the subjects, regularized regression analysis identified four proteins (β-NGF, CD38, tau and NCAN) as downregulated in newly diagnosed PD patients (age at diagnosis 67.2 ± 9.4 years) compared to controls (age 65.4 ± 10.9 years). Higher tau (β -0.82 transformed MMSE points/year, 95% CI -1.37 to -0.27, P = 0.005) was also linked to faster cognitive decline over the first ten years after PD diagnosis. These findings provide insights into multiple aspects of PD pathophysiology and may serve as the foundation for identifying new biomarkers and therapeutic targets.

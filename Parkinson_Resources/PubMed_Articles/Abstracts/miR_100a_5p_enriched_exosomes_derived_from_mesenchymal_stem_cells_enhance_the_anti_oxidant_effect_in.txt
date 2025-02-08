@@ -1,0 +1,5 @@
+Title: miR-100a-5p-enriched exosomes derived from mesenchymal stem cells enhance the anti-oxidant effect in a Parkinson's disease model via regulation of Nox4/ROS/Nrf2 signaling.
+PMID: 37875930
+
+Abstract:
+The pathogenesis of Parkinson's disease (PD) has not been fully elucidated, and there are no effective disease-modifying drugs for the treatment of PD. Mesenchymal stem cells have been used to treat several diseases, but are not readily available.

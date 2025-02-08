@@ -1,0 +1,5 @@
+Title: Brain alterations in ovariohysterectomized rats revealed by diffusion tensor imaging.
+PMID: 37506310
+
+Abstract:
+Women undergoing hysterectomy with oophorectomy have an increased risk of Alzheimer's disease and Parkinson's disease. However, postoperative neuroimaging data on pathogenic processes in the brain are limited. The aim of this study was to investigate the potential effect of ovariohysterectomy on brain integrity in rat model using diffusion tensor imaging (DTI) technique for the first time.

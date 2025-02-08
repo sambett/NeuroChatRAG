@@ -1,0 +1,5 @@
+Title: Rescue subthalamic stimulation after unsatisfactory outcome of pallidal stimulation in Parkinson's disease: a case series and review.
+PMID: 38264547
+
+Abstract:
+Subthalamic nucleus (STN) and globus pallidus interna (GPi) are two main structures primarily targeted by deep brain stimulation (DBS) to treat advanced Parkinson's disease (PD). A subset of cases with unsatisfactory outcomes may benefit from rescue DBS surgery targeting another structure, while these patients' characteristics have not been well described and this phenomenon has not been well reviewed.

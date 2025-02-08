@@ -1,0 +1,5 @@
+Title: The risk of developing motor complications with Levodopa immediate versus dual release upon treatment initiation in Parkinson's disease.
+PMID: 38107673
+
+Abstract:
+Motor complications (MCs) compromise therapy in many patients suffering from Parkinson's Disease. By achieving more physiologic stimulation of dopamine-receptors, the continuous dopamine stimulation hypothesis suggests that longer-acting levodopa formulations may improve outcome. The aim of this study was to compare the duration until onset of MCs and motor disease progression in patients during their treatment initiation with either an immediate (IR) or a combined rapid- and sustained-release (i.e. dual-release; DR) levodopa formulation.

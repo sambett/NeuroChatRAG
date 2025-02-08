@@ -1,0 +1,5 @@
+Title: Global brain analysis of minor hallucinations in Parkinson's disease using EEG and MRI data.
+PMID: 38298924
+
+Abstract:
+Visual hallucination is a prevalent psychiatric disorder characterized by the occurrence of false visual perceptions due to misinterpretation in the brain. Individuals with Parkinson's disease often experience both minor and complex visual hallucinations. The underlying mechanism of complex visual hallucinations in Parkinson's patients is commonly attributed to dysfunction in the visual pathway and attention network. However, there is limited research on the mechanism of minor hallucinations.

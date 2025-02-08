@@ -1,0 +1,5 @@
+Title: Examination of betahistine bioavailability in combination with the monoamine oxidase B inhibitor, selegiline, in humans-a non-randomized, single-sequence, two-period titration, open label single-center phase 1 study (PK-BeST).
+PMID: 37920833
+
+Abstract:
+Betahistine was registered in Europe in the 1970s and approved in more than 80 countries as a first-line treatment for Menière's disease. It has been administered to more than 150 million patients. However, according to a Cochrane systematic review of betahistine and recent meta-analyses, there is insufficient evidence to say whether betahistine has any effect in the currently approved dosages of up to 48 mg/d. A combination with the monoamine oxidase B (MAO-B) inhibitor, selegiline, may increase the bioavailability of betahistine to levels similar to the well-established combination of L-DOPA with carbidopa or benserazide in the treatment of Parkinson's disease. We investigated the effect of selegiline on betahistine pharmacokinetics and the safety of the combination in humans.

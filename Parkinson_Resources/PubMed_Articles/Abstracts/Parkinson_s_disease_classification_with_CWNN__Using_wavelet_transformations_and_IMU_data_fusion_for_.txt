@@ -1,0 +1,5 @@
+Title: Parkinson's disease classification with CWNN: Using wavelet transformations and IMU data fusion for improved accuracy.
+PMID: 37955069
+
+Abstract:
+Parkinson's disease (PD) is a chronic neurodegenerative disorder characterized by motor impairments and various other symptoms. Early and accurate classification of PD patients is crucial for timely intervention and personalized treatment. Inertial measurement units (IMUs) have emerged as a promising tool for gathering movement data and aiding in PD classification.

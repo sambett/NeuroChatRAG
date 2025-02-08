@@ -1,0 +1,5 @@
+Title: Integrated PET/MRI With <sup>11</sup>C-CFT and <sup>18</sup>F-FDG for levodopa response difference in Parkinson's disease.
+PMID: 37532003
+
+Abstract:
+Parkinson's disease is one of the most common neurodegenerative diseases. Excellent levodopa responsiveness has been proposed as a characteristic supporting feature in substantiating the PD diagnosis. However, a small portion of clinically established PD patients shows poor levodopa response. This study aims to investigate brain function alterations of PD patients with poor levodopa responsiveness by PET/MRI.

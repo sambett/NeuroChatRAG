@@ -1,0 +1,5 @@
+Title: Polygenic risk score for Parkinson's disease and olfaction among middle-aged to older women.
+PMID: 37611509
+
+Abstract:
+Olfactory impairment and Parkinson's disease (PD) may share common genetic and environmental risk factors. This study investigates the association of a PD polygenic risk score (PRS) with olfaction, and whether the associations are modified by environmental exposures of PM<sub>2.5</sub>, NO<sub>2</sub>, or smoking.

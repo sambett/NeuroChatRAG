@@ -1,0 +1,5 @@
+Title: Evaluating the prediction performance of objective physical activity measures for incident Parkinson's disease in the UK Biobank.
+PMID: 37612539
+
+Abstract:
+Parkinson's disease (PD) is the fastest-growing neurological condition with over 10 million cases worldwide. While age and sex are known predictors of incident PD, there is a need to identify other predictors. This study compares the prediction performance of accelerometry-derived physical activity (PA) measures and traditional risk factors for incident PD in the UK Biobank.

@@ -1,0 +1,5 @@
+Title: AI-based identification of therapeutic agents targeting GPCRs: introducing ligand type classifiers and systems biology.
+PMID: 37592985
+
+Abstract:
+Identifying ligands targeting G protein coupled receptors (GPCRs) with novel chemotypes other than the physiological ligands is a challenge for <i>in silico</i> screening campaigns. Here we present an approach that identifies novel chemotype ligands by combining structural data with a random forest agonist/antagonist classifier and a signal-transduction kinetic model. As a test case, we apply this approach to identify novel antagonists of the human adenosine transmembrane receptor type 2A, an attractive target against Parkinson's disease and cancer. The identified antagonists were tested here in a radio ligand binding assay. Among those, we found a promising ligand whose chemotype differs significantly from all so-far reported antagonists, with a binding affinity of 310 ± 23.4 nM. Thus, our protocol emerges as a powerful approach to identify promising ligand candidates with novel chemotypes while preserving antagonistic potential and affinity in the nanomolar range.

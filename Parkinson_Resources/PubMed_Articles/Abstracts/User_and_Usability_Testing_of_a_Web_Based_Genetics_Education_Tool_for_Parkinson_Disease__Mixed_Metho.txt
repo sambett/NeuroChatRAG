@@ -1,0 +1,5 @@
+Title: User and Usability Testing of a Web-Based Genetics Education Tool for Parkinson Disease: Mixed Methods Study.
+PMID: 38935961
+
+Abstract:
+Genetic testing is essential to identify research participants for clinical trials enrolling people with Parkinson disease (PD) carrying a variant in the glucocerebrosidase (GBA) or leucine-rich repeat kinase 2 (LRRK2) genes. The limited availability of professionals trained in neurogenetics or genetic counseling is a major barrier to increased testing. Telehealth solutions to increase access to genetics education can help address issues around counselor availability and offer options to patients and family members.

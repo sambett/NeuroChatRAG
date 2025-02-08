@@ -1,0 +1,5 @@
+Title: The guiding effect of local field potential during deep brain stimulation surgery for programming in Parkinson's disease patients.
+PMID: 37830232
+
+Abstract:
+Parkinson's disease (PD) patients undergoing deep brain stimulation (DBS) surgery require subsequent programming, which is complex and cumbersome. The local field potential (LFP) in the deep brain is associated with motor symptom improvement. The current study aimed to identify LFP biomarkers correlated with improved motor symptoms in PD patients after DBS and verify their guiding role in postoperative programming.

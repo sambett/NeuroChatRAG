@@ -1,0 +1,5 @@
+Title: Targeting Symptom-Specific Networks With Transcranial Magnetic Stimulation.
+PMID: 37979642
+
+Abstract:
+Increasing evidence suggests that the clinical effects of transcranial magnetic stimulation are target dependent. Within any given symptom, precise targeting of specific brain circuits may improve clinical outcomes. This principle can also be extended across symptoms-stimulation of different circuits may lead to different symptom-level outcomes. This may include targeting different symptoms within the same disorder (such as dysphoria vs. anxiety in patients with major depression) or targeting the same symptom across different disorders (such as primary major depression and depression secondary to stroke, traumatic brain injury, epilepsy, multiple sclerosis, or Parkinson's disease). Some of these symptom-specific changes may be desirable, while others may be undesirable. This review focuses on the conceptual framework through which symptom-specific target circuits may be identified, tested, and implemented.

@@ -1,0 +1,5 @@
+Title: Shared Genetic Architecture between Parkinson's Disease and Brain Structural Phenotypes.
+PMID: 37990409
+
+Abstract:
+Patients with Parkinson's disease (PD) have consistently demonstrated brain structure abnormalities, indicating the presence of shared etiological and pathological processes between PD and brain structures; however, the genetic relationship remains poorly understood.

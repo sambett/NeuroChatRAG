@@ -1,0 +1,5 @@
+Title: SIGMAR1 variants in ALS-PD complex cases: a case report of a novel mutation and literature review.
+PMID: 37780700
+
+Abstract:
+Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease characterized by progressive degeneration of upper and lower motor neurons, with occasional involvement of the extrapyramidal system. Mutations in the sigma non-opioid intracellular receptor 1 (<i>SIGMAR1</i>) gene have been identified as one of the causes of ALS. Here, we present a case of a 49-year-old man diagnosed with ALS-Parkinson's disease (PD) complex. The patient exhibited bradykinesia and tremor, and whole-exome sequencing revealed homozygous mutations in the <i>SIGMAR1</i> gene (c.446-2A > T). In addition, we conducted an investigation into the clinical and molecular phenotype of previously reported variants of <i>SIGMAR1</i> associated with ALS. This case report aims to raise awareness among physicians regarding atypical phenotypes of amyotrophic lateral sclerosis and to encourage further research on the factors leading to <i>SIGMAR1</i> mutations in patients.

@@ -1,0 +1,5 @@
+Title: Therapeutic Effect of Human Adipocyte-derived Stem Cell-derived Exosomes on a Transgenic Mouse Model of Parkinson's Disease.
+PMID: 37652511
+
+Abstract:
+Stem cell therapy and regenerative medicine are promising for treating Parkinson's disease (PD) not only for the potential for cell replacement but also for the paracrine effect of stem cell secretion, especially proteins and nucleotide-enriched exosomes. This study investigated the neuroprotective effect of exosomes secreted from human adipocyte-derived stem cells (hADSCs) on PD.

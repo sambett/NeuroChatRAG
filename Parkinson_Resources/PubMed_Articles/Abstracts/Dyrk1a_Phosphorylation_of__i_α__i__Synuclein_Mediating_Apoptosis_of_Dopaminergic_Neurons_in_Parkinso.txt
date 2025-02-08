@@ -1,0 +1,5 @@
+Title: Dyrk1a Phosphorylation of <i>α</i>-Synuclein Mediating Apoptosis of Dopaminergic Neurons in Parkinson's Disease.
+PMID: 37469393
+
+Abstract:
+To investigate the role of aberrant Dyrk1a expression in phosphorylation modification at the <i>α</i>-synuclein serine 129 (Ser129) site to analyze its molecular mechanism in mediating apoptosis of PD.

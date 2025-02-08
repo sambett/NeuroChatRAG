@@ -1,0 +1,5 @@
+Title: Generation of three clones (JUCGRMi002-A, B, C) of induced pluripotent stem cells from a Parkinson's disease patient with SNCA duplication.
+PMID: 38154385
+
+Abstract:
+Parkinson's disease is the second most common neurodegenerative disorder and is pathologically characterized by synuclein-rich aggregations (Lewy bodies) in neurons. Multiplication of the synuclein gene (SNCA) increases the mRNA and protein levels of synuclein, resulting in autosomal dominant hereditary Parkinson's disease. In the present study, we established three isogenic induced pluripotent stem cells (iPSCs) from a patient harboring SNCA duplication, which showed pluripotency, three-germ layer differentiation capacity, and normal karyotypes.

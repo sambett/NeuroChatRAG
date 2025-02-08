@@ -1,0 +1,5 @@
+Title: Fronto-striatal dynamic connectivity is linked to dopaminergic motor response in Parkinson's disease.
+PMID: 37549587
+
+Abstract:
+Differences in dopaminergic motor response in Parkinson's disease (PD) patients can be related to PD subtypes, and previous fMRI studies associated dopaminergic motor response with corticostriatal functional connectivity. While traditional fMRI analyses have assessed the mean connectivity between regions of interest, an important aspect driving dopaminergic response might lie in the temporal dynamics in corticostriatal connections.

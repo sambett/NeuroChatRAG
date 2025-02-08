@@ -1,0 +1,5 @@
+Title: Navigating α-Synuclein Aggregation Inhibition: Methods, Mechanisms, and Molecular Targets.
+PMID: 37919046
+
+Abstract:
+Parkinson's disease is a yet incurable, age-related neurodegenerative disorder characterized by the aggregation of small neuronal protein α-synuclein into amyloid fibrils. Inhibition of this process is a prospective strategy for developing a disease-modifying treatment. We overview here small molecule, peptide, and protein inhibitors of α-synuclein fibrillization reported to date. Special attention was paid to the specificity of inhibitors and critical analysis of their action mechanisms. Namely, the importance of oxidation of polyphenols and cross-linking of α-synuclein into inhibitory dimers was highlighted. We also compared strategies of targeting monomeric, oligomeric, and fibrillar α-synuclein species, thoroughly discussed the strong and weak sides of different approaches to testing the inhibitors.

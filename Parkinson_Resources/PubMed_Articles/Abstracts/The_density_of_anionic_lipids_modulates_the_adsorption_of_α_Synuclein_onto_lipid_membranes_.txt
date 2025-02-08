@@ -1,0 +1,5 @@
+Title: The density of anionic lipids modulates the adsorption of α-Synuclein onto lipid membranes.
+PMID: 38100855
+
+Abstract:
+α-Synuclein is an intrinsically disordered presynaptic protein associated with Parkinson's disease. The physiological role of α-Synuclein is not fully understood, but the protein is known to interact with lipid membranes. We here study how membrane charge affects the adsorption of α-Synuclein to (i) supported lipid bilayers and (ii) small unilamellar vesicles with varying amounts of anionic lipids. The results showed that α-Synuclein adsorbs onto membranes containing ≥5% anionic phosphatidylserine (DOPS) lipids, but not to membranes containing ≤1% DOPS. The density of adsorbed α-Synuclein increased steadily with the DOPS content up to 20% DOPS, after which it leveled off. The vesicles were saturated with α-Synuclein at a 3-5 times higher protein density compared to the supported bilayers, which suggests that a more deformable membrane binds more α-Synuclein. Altogether, the results show that both membrane charge density and flexibility influence the association of α-Synuclein to lipid membranes.

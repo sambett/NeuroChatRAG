@@ -1,0 +1,5 @@
+Title: Genome-wide Analysis of Motor Progression in Parkinson Disease.
+PMID: 37560120
+
+Abstract:
+The genetic basis of Parkinson disease (PD) motor progression is largely unknown. Previous studies of the genetics of PD progression have included small cohorts and shown a limited overlap with genetic PD risk factors from case-control studies. Here, we have studied genomic variation associated with PD motor severity and early-stage progression in large longitudinal cohorts to help to define the biology of PD progression and potential new drug targets.

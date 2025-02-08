@@ -1,0 +1,5 @@
+Title: Clinical outcomes after MRI connectivity-guided radiofrequency thalamotomy for tremor.
+PMID: 37856400
+
+Abstract:
+Radiofrequency thalamotomy (RF-T) is an established treatment for refractory tremor. It is unclear whether connectivity-guided targeting strategies could further augment outcomes. The aim of this study was to evaluate the efficacy and safety of MRI connectivity-guided RF-T in severe tremor.

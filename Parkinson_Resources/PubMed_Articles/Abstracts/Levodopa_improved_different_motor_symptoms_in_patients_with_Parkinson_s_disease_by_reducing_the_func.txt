@@ -1,0 +1,5 @@
+Title: Levodopa improved different motor symptoms in patients with Parkinson's disease by reducing the functional connectivity of specific thalamic subregions.
+PMID: 37452488
+
+Abstract:
+The thalamus is an important relay station for the motor circuit of human. Levodopa can reverse the clinical manifestations by modulating the function of motor circuits, but its detailed mechanisms are still not fully understood. We aimed to explore (1) the mechanism by which levodopa modulates the functional connectivity (FC) in the subregions of the thalamus; (2) the relationship between the changed FC and the improvement of motor symptoms in Parkinson's disease (PD) patients.

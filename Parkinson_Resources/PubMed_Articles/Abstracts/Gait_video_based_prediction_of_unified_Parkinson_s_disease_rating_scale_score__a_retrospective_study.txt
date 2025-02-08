@@ -1,0 +1,5 @@
+Title: Gait video-based prediction of unified Parkinson's disease rating scale score: a retrospective study.
+PMID: 37798685
+
+Abstract:
+The diagnosis of Parkinson's disease (PD) and evaluation of its symptoms require in-person clinical examination. Remote evaluation of PD symptoms is desirable, especially during a pandemic such as the coronavirus disease 2019 pandemic. One potential method to remotely evaluate PD motor impairments is video-based analysis. In this study, we aimed to assess the feasibility of predicting the Unified Parkinson's Disease Rating Scale (UPDRS) score from gait videos using a convolutional neural network (CNN) model.

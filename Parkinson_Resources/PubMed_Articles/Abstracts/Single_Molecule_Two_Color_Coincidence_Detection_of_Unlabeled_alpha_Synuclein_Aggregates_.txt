@@ -1,0 +1,5 @@
+Title: Single-Molecule Two-Color Coincidence Detection of Unlabeled alpha-Synuclein Aggregates.
+PMID: 38516037
+
+Abstract:
+Protein misfolding and aggregation into oligomeric and fibrillar structures is a common feature of many neurogenerative disorders. Single-molecule techniques have enabled characterization of these lowly abundant, highly heterogeneous protein aggregates, previously inaccessible using ensemble averaging techniques. However, they usually rely on the use of recombinantly-expressed labeled protein, or on the addition of amyloid stains that are not protein-specific. To circumvent these challenges, we have made use of a high affinity antibody labeled with orthogonal fluorophores combined with fast-flow microfluidics and single-molecule confocal microscopy to specifically detect α-synuclein, the protein associated with Parkinson's disease. We used this approach to determine the number and size of α-synuclein aggregates down to picomolar concentrations in biologically relevant samples.

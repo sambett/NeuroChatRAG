@@ -1,0 +1,5 @@
+Title: Urinary incontinence-related effects on functional connectivity circuits in persons with Parkinson's disease.
+PMID: 37528804
+
+Abstract:
+Urinary incontinence (UI) is a common and disruptive symptom of Parkinson's disease (PD). This study aimed to identify neural correlates associated with UI among PD patients with UI (UI-PD) compared to those PD patients without UI (nonUI-PD) with the expectation of demonstrating increased functional connectivity (FC) between areas in the striatum and limbic system and decreased FC in executive areas.

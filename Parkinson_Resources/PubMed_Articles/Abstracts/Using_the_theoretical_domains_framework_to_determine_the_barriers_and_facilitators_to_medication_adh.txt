@@ -1,0 +1,5 @@
+Title: Using the theoretical domains framework to determine the barriers and facilitators to medication adherence in Parkinson's disease.
+PMID: 37583935
+
+Abstract:
+Patient medication adherence in Parkinson's Disease (PD) is often suboptimal. This may lead to poor symptom management, greater disease burden, decreased quality of life and increased healthcare costs. Use of psychological theory such as the Theoretical Domains Framework (TDF) has effectively captured barriers and facilitators to medication adherence in other long-term conditions. Applying this framework to medication adherence in PD could provide a better understanding of the challenges to inform the development of effective interventions.

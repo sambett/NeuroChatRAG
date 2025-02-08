@@ -1,0 +1,5 @@
+Title: Neuroprotective effects of gemfibrozil in neurological disorders: Focus on inflammation and molecular mechanisms.
+PMID: 37904726
+
+Abstract:
+Gemfibrozil (Gem) is a drug that has been shown to activate PPAR-α, a nuclear receptor that plays a key role in regulating lipid metabolism. Gem is used to lower the levels of triglycerides and reduce the risk of coronary heart disease in patients. Experimental studies in vitro and in vivo have shown that Gem can prevent or slow the progression of neurological disorders (NDs), including cerebral ischemia (CI), Alzheimer's disease (AD), Parkinson's disease (PD), and multiple sclerosis (MS). Neuroinflammation is known to play a significant role in these disorders.

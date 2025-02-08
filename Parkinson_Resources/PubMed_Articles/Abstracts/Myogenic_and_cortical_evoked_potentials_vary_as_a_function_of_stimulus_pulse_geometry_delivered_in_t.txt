@@ -1,0 +1,5 @@
+Title: Myogenic and cortical evoked potentials vary as a function of stimulus pulse geometry delivered in the subthalamic nucleus of Parkinson's disease patients.
+PMID: 37693765
+
+Abstract:
+The therapeutic efficacy of deep brain stimulation (DBS) of the subthalamic nucleus (STN) for Parkinson's disease (PD) may be limited for some patients by the presence of stimulation-related side effects. Such effects are most often attributed to electrical current spread beyond the target region. Prior computational modeling studies have suggested that changing the degree of asymmetry of the individual phases of the biphasic, stimulus pulse may allow for more selective activation of neural elements in the target region. To the extent that different neural elements contribute to the therapeutic vs. side-effect inducing effects of DBS, such improved selectivity may provide a new parameter for optimizing DBS to increase the therapeutic window.

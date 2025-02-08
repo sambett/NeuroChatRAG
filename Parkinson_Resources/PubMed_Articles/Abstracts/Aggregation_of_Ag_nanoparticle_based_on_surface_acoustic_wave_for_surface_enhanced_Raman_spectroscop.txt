@@ -1,0 +1,5 @@
+Title: Aggregation of Ag nanoparticle based on surface acoustic wave for surface-enhanced Raman spectroscopy detection of dopamine.
+PMID: 38057052
+
+Abstract:
+Dopamine (DA), a vital neurotransmitter, plays a critical role in the human brain and relates to neuropsychiatric disorders such as Parkinson's disease and schizophrenia. Numerous studies have explored detection of such biomarkers through surface-enhanced Raman spectroscopy (SERS). However, most of the studies focused on SERS detection face significant challenges with plasmonic nanostructure development. Such challenges often include time-consuming processes, complex fabrication, specialized chemical labeling, poor reproducibility, and random hotspot generation. Therefore, the need for simple and rapid nanostructure development is evident in SERS.

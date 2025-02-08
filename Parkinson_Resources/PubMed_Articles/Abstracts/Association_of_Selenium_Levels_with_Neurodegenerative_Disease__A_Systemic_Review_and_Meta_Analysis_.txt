@@ -1,0 +1,5 @@
+Title: Association of Selenium Levels with Neurodegenerative Disease: A Systemic Review and Meta-Analysis.
+PMID: 37686737
+
+Abstract:
+Neurodegenerative diseases (NDs) have posed significant challenges to public health, and it is crucial to understand their mechanisms in order to develop effective therapeutic strategies. Recent studies have highlighted the potential role of selenium in ND pathogenesis, as it plays a vital role in maintaining cellular homeostasis and preventing oxidative damage. However, a comprehensive analysis of the association between selenium and NDs is still lacking.

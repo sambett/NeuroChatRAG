@@ -1,0 +1,5 @@
+Title: Serotonergic Medication Error: A Case Report of Serotonin Syndrome.
+PMID: 38046758
+
+Abstract:
+Serotonin syndrome (SS) describes a life-threatening clinical condition that can develop within hours or days after taking serotonergic medication(s). Medication adverse reactions, overdose, or drug interactions can cause this syndrome. Patients often present with symptoms of hyperthermia, muscle rigidity, hyperreflexia, and clonus. Symptoms range broadly in severity, often influenced by polypharmacy and age. In this report, SS was diagnosed in an elderly patient who presented with diffuse urticaria and exacerbated tremor. These complaints were thought to be associated with Parkinson's disease due to a strong family history. Clinicians are encouraged to consider SS in their differential diagnosis when dealing with elderly patients with multiple medications, psychiatric diagnoses, conditions managed by other providers, and/or a strong family history of neurodegenerative diseases.

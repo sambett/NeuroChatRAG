@@ -1,0 +1,5 @@
+Title: Association between regular physical activity and biomarker changes in early Parkinson's disease patients.
+PMID: 37544865
+
+Abstract:
+Physical activity benefits patients with Parkinson's disease (PD) and is assumed to possess disease-modifying potential. PD-related biomarkers, such as dopamine transporter (DAT) imaging and cerebrospinal fluid (CSF) α-synuclein (α-syn) and amyloid β (Aβ), correlate with disease severity and, to some extent, reflect disease progression and pathology. However, the association between regular physical activity and PD biomarker changes remains unknown. This study aimed to investigate the association between physical activity and longitudinal trajectories of PD biomarkers.

@@ -1,0 +1,5 @@
+Title: Knockout or inhibition of USP30 protects dopaminergic neurons in a Parkinson's disease mouse model.
+PMID: 37957154
+
+Abstract:
+Mutations in SNCA, the gene encoding α-synuclein (αSyn), cause familial Parkinson's disease (PD) and aberrant αSyn is a key pathological hallmark of idiopathic PD. This α-synucleinopathy leads to mitochondrial dysfunction, which may drive dopaminergic neurodegeneration. PARKIN and PINK1, mutated in autosomal recessive PD, regulate the preferential autophagic clearance of dysfunctional mitochondria ("mitophagy") by inducing ubiquitylation of mitochondrial proteins, a process counteracted by deubiquitylation via USP30. Here we show that loss of USP30 in Usp30 knockout mice protects against behavioral deficits and leads to increased mitophagy, decreased phospho-S129 αSyn, and attenuation of SN dopaminergic neuronal loss induced by αSyn. These observations were recapitulated with a potent, selective, brain-penetrant USP30 inhibitor, MTX115325, with good drug-like properties. These data strongly support further study of USP30 inhibition as a potential disease-modifying therapy for PD.

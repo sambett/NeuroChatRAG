@@ -1,0 +1,5 @@
+Title: Neural cell engraftment therapy for sporadic Creutzfeldt-Jakob disease restores neuroelectrophysiological parameters in a cerebral organoid model.
+PMID: 38049877
+
+Abstract:
+Sporadic Creutzfeldt-Jakob disease (sCJD), the most common human prion disease, is a fatal neurodegenerative disease with currently no treatment options. Stem cell therapy for neurodegenerative diseases is emerging as a possible treatment option. However, while there are a few clinical trials for other neurodegenerative disorders such as Parkinson's disease, prion disease cell therapy research has so far been confined to animal models.

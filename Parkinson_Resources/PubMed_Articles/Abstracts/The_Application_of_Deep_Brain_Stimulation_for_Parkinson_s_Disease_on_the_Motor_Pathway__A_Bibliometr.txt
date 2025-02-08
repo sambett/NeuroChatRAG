@@ -1,0 +1,5 @@
+Title: The Application of Deep Brain Stimulation for Parkinson's Disease on the Motor Pathway: A Bibliometric Analysis across 10 Years.
+PMID: 38153631
+
+Abstract:
+Since its initial report by James Parkinson in 1817, Parkinson's disease (PD) has remained a central subject of research and clinical advancement. The disease is estimated to affect approximately 1% of adults aged 60 and above. Deep brain stimulation, emerging as an alternative therapy for end-stage cases, has offered a lifeline to numerous patients. This review aimed to analyze publications pertaining to the impact of deep brain stimulation on the motor pathway in patients with PD over the last decade.

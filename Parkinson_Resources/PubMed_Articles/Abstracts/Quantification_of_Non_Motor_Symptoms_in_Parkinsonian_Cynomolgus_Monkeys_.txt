@@ -1,0 +1,5 @@
+Title: Quantification of Non-Motor Symptoms in Parkinsonian Cynomolgus Monkeys.
+PMID: 37626508
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder that features motor and non-motor deficits. The use of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced dopamine neuron degeneration has been widely practiced to produce reliable animal models of PD. However, most previous preclinical studies focused on motor dysfunction, and few non-motor symptoms were evaluated. Thus far, there is a lack of comprehensive investigations of the non-motor symptoms in animal models.

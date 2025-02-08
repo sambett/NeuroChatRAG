@@ -1,0 +1,5 @@
+Title: Remote at-home wearable-based gait assessments in Progressive Supranuclear Palsy compared to Parkinson's Disease.
+PMID: 38082255
+
+Abstract:
+Wearable sensors can differentiate Progressive Supranuclear Palsy (PSP) from Parkinson's Disease (PD) in laboratory settings but have not been tested in remote settings.

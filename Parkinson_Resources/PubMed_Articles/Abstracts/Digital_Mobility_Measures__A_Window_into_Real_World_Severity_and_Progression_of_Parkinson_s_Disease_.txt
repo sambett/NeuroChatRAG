@@ -1,0 +1,5 @@
+Title: Digital Mobility Measures: A Window into Real-World Severity and Progression of Parkinson's Disease.
+PMID: 38151859
+
+Abstract:
+Real-world monitoring using wearable sensors has enormous potential for assessing disease severity and symptoms among persons with Parkinson's disease (PD). Many distinct features can be extracted, reflecting multiple mobility domains. However, it is unclear which digital measures are related to PD severity and are sensitive to disease progression.

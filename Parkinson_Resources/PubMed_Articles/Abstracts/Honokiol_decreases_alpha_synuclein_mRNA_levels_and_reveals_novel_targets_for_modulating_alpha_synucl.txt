@@ -1,0 +1,5 @@
+Title: Honokiol decreases alpha-synuclein mRNA levels and reveals novel targets for modulating alpha-synuclein expression.
+PMID: 37637959
+
+Abstract:
+Intracytoplasmic inclusions comprised of aggregated alpha-synuclein (αsyn) represent a key histopathological feature of neurological disorders collectively termed "synucleinopathies," which includes Parkinson's disease (PD). Mutations and multiplications in the <i>SNCA</i> gene encoding αsyn cause familial forms of PD and a large body of evidence indicate a correlation between αsyn accumulation and disease. Decreasing αsyn expression is recognized as a valid target for PD therapeutics, with down-regulation of <i>SNCA</i> expression potentially attenuating downstream cascades of pathologic events. Here, we evaluated if Honokiol (HKL), a polyphenolic compound derived from magnolia tree bark with demonstrated neuroprotective properties, can modulate αsyn levels in multiple experimental models.

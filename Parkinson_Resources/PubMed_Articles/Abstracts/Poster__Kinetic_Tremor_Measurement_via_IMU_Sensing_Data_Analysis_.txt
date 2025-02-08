@@ -1,0 +1,5 @@
+Title: Poster: Kinetic Tremor Measurement via IMU Sensing Data Analysis.
+PMID: 37731915
+
+Abstract:
+Tremor is a common symptom among all stages of Parkinson's Disease (PD) patients. To measure daily tremor events, we utilized IMU sensing data from wrists while PD patients were drawing. We secured 30 patients' IMU sensing data, following standard rating scale activities. With the collected data, we conducted data analysis for identifying any tremor episodes and extracting tremor amplitude. Our preliminary analysis and results show the potential of measuring kinetic tremors effectively. We plan to further analyze tremor events of PD patients via wearable sensing devices.

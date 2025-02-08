@@ -1,0 +1,5 @@
+Title: The role of exosomes in the diagnosis of Parkinson's disease.
+PMID: 37928387
+
+Abstract:
+Parkinson's disease is a common neurodegenerative disease characterized by intracellular aggregation of misfolded α-synuclein as a major pathological hallmark. Exosomes are cell-derived lipid bilayer membrane vesicles with various components, including proteins, RNA, and lipids, that mediate intercellular communication. Currently, exosomes are found to be responsible for transporting misfolded proteins from unhealthy neurons to nearby cells, spreading the disease from cell to cell. Such exosomes can also be found in the cerebrospinal fluid and blood. Thus, exosomes may serve as a potential tool to detect the pathology of Parkinson's disease for clinical diagnosis. In this article, the role and challenges of exosomes in the diagnosis of Parkinson's disease are outlined.

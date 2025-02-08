@@ -1,0 +1,5 @@
+Title: Derivation of induced pluripotent stem cell SHEHDNi002-A from a 68-year-old Chinese Han Parkinson's disease patient carrying LRRK2 and DNAJC6 mutations.
+PMID: 38219303
+
+Abstract:
+Parkinson's disease (PD) is a common movement disorder. In this study, we generated an induced pluripotent stem cell (iPSC) line from the dermal fibroblasts of a 68-year-old female patient, carrying LRRK2 and DNAJC6 mutations. This iPSC line will be a useful tool for investigating the pathogenesis and for developing treatment for PD.

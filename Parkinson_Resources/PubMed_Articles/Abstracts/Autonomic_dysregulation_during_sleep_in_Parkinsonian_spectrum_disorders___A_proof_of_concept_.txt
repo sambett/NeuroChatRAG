@@ -1,0 +1,5 @@
+Title: Autonomic dysregulation during sleep in Parkinsonian spectrum disorders - A proof of concept.
+PMID: 37939637
+
+Abstract:
+Autonomic dysfunction is common in α-synucleinopathies such as Lewy Body dementias (LBD), Parkinson's disease (PD), and isolated REM Sleep Behavior Disorder (iRBD). We analyzed pulse-rate changes during sleep to index autonomic nervous system (ANS) dysfunction in patients with α-synucleinopathies vs. non-synucleinopathy groups expected to have normal ANS function.

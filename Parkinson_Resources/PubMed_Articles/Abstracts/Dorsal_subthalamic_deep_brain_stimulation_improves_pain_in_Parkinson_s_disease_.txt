@@ -1,0 +1,5 @@
+Title: Dorsal subthalamic deep brain stimulation improves pain in Parkinson's disease.
+PMID: 37663307
+
+Abstract:
+Inconsistent effects of subthalamic deep brain stimulation (STN DBS) on pain, a common non-motor symptom of Parkinson's disease (PD), may be due to variations in active contact location relative to some pain-reducing locus of stimulation. This study models and compares the loci of maximal effect for pain reduction and motor improvement in STN DBS.

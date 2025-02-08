@@ -1,0 +1,5 @@
+Title: Incorporating usability evaluation into iterative development of an online platform to support research participation in Parkinson's disease: a mixed methods protocol.
+PMID: 38114283
+
+Abstract:
+Many people with Parkinson's (PwP) are not given the opportunity or do not have adequate access to participate in clinical research. To address this, we have codeveloped with users an online platform that connects PwP to clinical studies in their local area. It enables site staff to communicate with potential participants and aims to increase the participation of the Parkinson's community in research. This protocol outlines the mixed methods study protocol for the usability testing of the platform.

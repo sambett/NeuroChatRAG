@@ -1,0 +1,5 @@
+Title: Role of NLRP3 inflammasome-mediated neuronal pyroptosis and neuroinflammation in neurodegenerative diseases.
+PMID: 37725102
+
+Abstract:
+Neurodegenerative diseases are a common group of neurological disorders characterized by progressive loss of neuronal structure and function leading to cognitive impairment. Recent studies have shown that neuronal pyroptosis mediated by the NLRP3 inflammasome plays a crucial role in the pathogenesis of neurodegenerative diseases.

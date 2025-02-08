@@ -1,0 +1,5 @@
+Title: An overview on pure autonomic failure.
+PMID: 38129276
+
+Abstract:
+Pure autonomic failure (PAF) is a neurodegenerative disease affecting the sympathetic component of the autonomic nervous system and presenting as orthostatic hypotension (OH). It is a rare, sporadic disease of adults. Although OH is the primary symptom, the autonomic dysfunction may be more generalised, leading to genitourinary and intestinal dysfunction and sweating disorders. Autonomic symptoms in PAF may be similar to those observed in other autonomic neuropathies that need to be ruled out. PAF belongs to the group of α synucleinopathies and is characterised by predominant peripheral deposition of α-synuclein in autonomic ganglia and nerves. However, in a significant number of cases, PAF may convert into another synucleinopathy with central nervous system involvement with varying prognosis: Parkinson's disease (PD), multiple system atrophy (MSA), or dementia with Lewy bodies (DLB). The clinical features, the main differential diagnoses, the risk factors for "phenoconversion" to another synucleinopathy as well as an overview of treatment will be discussed.

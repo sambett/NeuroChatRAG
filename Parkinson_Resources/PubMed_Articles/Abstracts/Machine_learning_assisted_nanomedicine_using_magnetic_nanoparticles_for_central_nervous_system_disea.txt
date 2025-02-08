@@ -1,0 +1,5 @@
+Title: Machine learning assisted-nanomedicine using magnetic nanoparticles for central nervous system diseases.
+PMID: 37638161
+
+Abstract:
+Magnetic nanoparticles possess unique properties distinct from other types of nanoparticles developed for biomedical applications. Their unique magnetic properties and multifunctionalities are especially beneficial for central nervous system (CNS) disease therapy and diagnostics, as well as targeted and personalized applications using image-guided therapy and theranostics. This review discusses the recent development of magnetic nanoparticles for CNS applications, including Alzheimer's disease, Parkinson's disease, epilepsy, multiple sclerosis, and drug addiction. Machine learning (ML) methods are increasingly applied towards the processing, optimization and development of nanomaterials. By using data-driven approach, ML has the potential to bridge the gap between basic research and clinical research. We review ML approaches used within the various stages of nanomedicine development, from nanoparticle synthesis and characterization to performance prediction and disease diagnosis.

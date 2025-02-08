@@ -1,0 +1,5 @@
+Title: Fully Automated Radiosynthesis of [<sup>18</sup>F]mG4P027 for mGluR4 Imaging.
+PMID: 37496513
+
+Abstract:
+Fluorine-18 labeled N-(4-chloro-3-(((fluoro-<sup>18</sup>F)methyl-d<sub>2</sub>)thio)phenyl)picolinamide, [<sup>18</sup>F]<b>mG4P027,</b> is a potent positron emission tomography (PET) radiotracer for metabotropic glutamate receptor 4 (mGluR4). Our previous in vitro and in vivo evaluations have demonstrated that this tracer is promising for further translational studies. To automate the radiosynthesis of [<sup>18</sup>F]<b>mG4P027</b>, significant modifications were made to the manual process by carefully examining this process and addressing the root causes of the challenges associated with its automation. We successfully implemented its automated radiosynthesis using the TRACERlab FX2N module and consequently, obtained a high-purity radiolabeled [<sup>18</sup>F]<b>mG4P027</b> in high yield, meeting the requirements for future human studies.

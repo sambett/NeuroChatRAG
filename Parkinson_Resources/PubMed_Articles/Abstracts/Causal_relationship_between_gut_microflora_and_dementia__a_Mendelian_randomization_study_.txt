@@ -1,0 +1,5 @@
+Title: Causal relationship between gut microflora and dementia: a Mendelian randomization study.
+PMID: 38287957
+
+Abstract:
+Numerous pertinent investigations have demonstrated a correlation between gut microflora (GM) and the occurrence of dementia. However, a causal connection between GM and dementia and its subtypes has not yet been clarified.

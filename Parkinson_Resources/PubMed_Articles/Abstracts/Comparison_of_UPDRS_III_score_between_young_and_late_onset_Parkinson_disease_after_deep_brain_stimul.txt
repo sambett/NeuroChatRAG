@@ -1,0 +1,5 @@
+Title: Comparison of UPDRS III score between young and late onset Parkinson disease after deep brain stimulation: A meta-analysis.
+PMID: 37933060
+
+Abstract:
+Parkinson disease (PD) is a common age-related neurodegenerative disease. Subthalamic nucleus deep brain stimulation (DBS) is a safe and effective surgical treatment for medically resistant advanced PD. However, the relationship between the age at PD onset and the efficacy of subthalamic nucleus DBS surgery remains unclear. Thus, we conducted a meta-analysis to compare motor symptom improvements after DBS for the treatment of young-onset and late-onset PD.

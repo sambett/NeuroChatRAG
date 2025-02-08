@@ -1,0 +1,5 @@
+Title: Prefrontal Dopamine in Flexible Adaptation to Environmental Changes: A Game for Two Players.
+PMID: 38137410
+
+Abstract:
+Deficits in cognitive flexibility have been characterized in affective, anxiety, and neurodegenerative disorders. This paper reviews data, mainly from studies on animal models, that support the existence of a cortical-striatal brain circuit modulated by dopamine (DA), playing a major role in cognitive/behavioral flexibility. Moreover, we reviewed clinical findings supporting misfunctioning of this circuit in Parkinson's disease that could be responsible for some important non-motoric symptoms. The reviewed findings point to a role of catecholaminergic transmission in the medial prefrontal cortex (mpFC) in modulating DA's availability in the nucleus accumbens (NAc), as well as a role of NAc DA in modulating the motivational value of natural and conditioned stimuli. The review section is accompanied by a preliminary experiment aimed at testing weather the extinction of a simple Pavlovian association fosters increased DA transmission in the mpFC and inhibition of DA transmission in the NAc.

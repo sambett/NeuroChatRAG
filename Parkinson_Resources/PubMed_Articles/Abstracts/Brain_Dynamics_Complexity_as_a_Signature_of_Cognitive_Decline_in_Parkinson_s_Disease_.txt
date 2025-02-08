@@ -1,0 +1,5 @@
+Title: Brain Dynamics Complexity as a Signature of Cognitive Decline in Parkinson's Disease.
+PMID: 38054573
+
+Abstract:
+Higuchi's fractal dimension (FD) captures brain dynamics complexity and may be a promising method to analyze resting-state functional magnetic resonance imaging (fMRI) data and detect the neuronal interaction complexity underlying Parkinson's disease (PD) cognitive decline.

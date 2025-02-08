@@ -1,0 +1,5 @@
+Title: Ellagic Acid Prevents α-Synuclein Spread and Mitigates Toxicity by Enhancing Autophagic Flux in an Animal Model of Parkinson's Disease.
+PMID: 38201915
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurological disorder, pathologically characterized by loss of dopaminergic neurons in the substantia nigra pars compacta (SNc) as well as the formation of Lewy bodies composed mainly of α-synuclein (α-syn) aggregates. It has been documented that abnormal aggregation of α-syn is one of the major causes of developing PD. In the current study, administration of ellagic acid (EA), a polyphenolic compound (10 mg/kg bodyweight), significantly decreased α-syn spreading and preserved dopaminergic neurons in a male C57BL/6 mouse model of PD. Moreover, EA altered the autophagic flux, suggesting the involvement of a restorative mechanism meditated by EA treatment. Our data support that EA could play a major role in the clearing of toxic α-syn from spreading, in addition to the canonical antioxidative role, and thus preventing dopaminergic neuronal death.

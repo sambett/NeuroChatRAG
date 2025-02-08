@@ -1,0 +1,5 @@
+Title: Shikimic acid (SA) inhibits neuro-inflammation and exerts neuroprotective effects in an LPS-induced <i>in vitro</i> and <i>in vivo</i> model.
+PMID: 38026972
+
+Abstract:
+Numerous studies have shown that neuroinflammation is involved in the process of neuronal damage in neurodegenerative diseases such as Parkinson's disease (PD), for example, and that inhibiting neuroinflammation help improve PD. Shikimic acid (SA) has anti-inflammatory, analgesic and antioxidant activities in numerous diseases. However, its effect and mechanism in PD remain unclear. In this experiment, we found that SA inhibits production of pro-inflammatory mediators and ROS in LPS-induced BV2 cells. Mechanistic studies demonstrated that SA suppresses neuro-inflammation by activating the AKT/Nrf2 pathway and inhibiting the NF-κB pathway. Further <i>in vivo</i> study, we confirmed that SA ameliorated the neurological damage and behavioral deficits caused by LPS injection in mice. In summary, these study highlighted the beneficial role of SA as a novel therapy with potential PD drug by targeting neuro-inflammation.

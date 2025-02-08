@@ -1,0 +1,5 @@
+Title: Image-encoded biological and non-biological variables may be used as shortcuts in deep learning models trained on multisite neuroimaging data.
+PMID: 37669158
+
+Abstract:
+This work investigates if deep learning (DL) models can classify originating site locations directly from magnetic resonance imaging (MRI) scans with and without correction for intensity differences.

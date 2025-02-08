@@ -1,0 +1,5 @@
+Title: <sup>18</sup>F-FP-DTBZ PET/CT detectable associations between monoaminergic depletion in the putamen with rigidity and the pallidus with tremor in Parkinson's disease.
+PMID: 38241952
+
+Abstract:
+The motor subtypes of Parkinson's disease (PD) are widely accepted and implemented. However, the motor subtypes have been thought to represent different stages of PD recently because some patients experience tremor-dominant (TD) conversion to the non-tremor-dominant subtype, such as postural instability-gait difficulty (PIGD). In this study, we explore the monoaminergic denervation features of the striatal and extra-striatal areas in patients with different subtypes of PD with <sup>18</sup>F-9-fluoropropyl-(+)-dihydrotetrabenazine (<sup>18</sup>F-FP-DTBZ) PET/CT.

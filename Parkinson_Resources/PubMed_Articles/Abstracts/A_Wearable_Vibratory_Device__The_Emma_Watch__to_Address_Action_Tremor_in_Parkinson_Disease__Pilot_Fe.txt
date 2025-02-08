@@ -1,0 +1,5 @@
+Title: A Wearable Vibratory Device (The Emma Watch) to Address Action Tremor in Parkinson Disease: Pilot Feasibility Study.
+PMID: 38875672
+
+Abstract:
+Parkinson disease (PD) is a neurodegenerative disease that has a wide range of motor symptoms, such as tremor. Tremors are involuntary movements that occur in rhythmic oscillations and are typically categorized into rest tremor or action tremor. Action tremor occurs during voluntary movements and is a debilitating symptom of PD. As noninvasive interventions are limited, there is an ever-increasing need for an effective intervention for individuals experiencing action tremors. The Microsoft Emma Watch, a wristband with 5 vibrating motors, is a noninvasive, nonpharmaceutical intervention for tremor attenuation.

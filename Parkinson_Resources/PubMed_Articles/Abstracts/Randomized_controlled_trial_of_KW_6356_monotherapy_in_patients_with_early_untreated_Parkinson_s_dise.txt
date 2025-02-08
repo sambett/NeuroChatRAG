@@ -1,0 +1,5 @@
+Title: Randomized controlled trial of KW-6356 monotherapy in patients with early untreated Parkinson's disease.
+PMID: 37948832
+
+Abstract:
+KW-6356 is a novel selective adenosine A<sub>2A</sub> receptor antagonist/inverse agonist. We evaluated the efficacy and safety of KW-6356 as monotherapy in patients with early, untreated Parkinson's disease (PD).

@@ -1,0 +1,5 @@
+Title: A core outcome set for evaluating the effectiveness of mixed-diagnosis falls prevention interventions for people with Multiple Sclerosis, Parkinson's Disease and stroke.
+PMID: 37956176
+
+Abstract:
+Clinical trials evaluating the effectiveness of falls prevention interventions for people with Multiple Sclerosis (MS), Parkinson's Disease (PD) and stroke measure heterogeneous outcomes, often omitting those meaningful to patients. A core outcome set (COS) is a standardised set of outcomes that should be assessed in all trials within a research area. The aim of this study was to develop a COS for evaluating mixed-diagnosis falls prevention interventions for people with MS, PD and stroke in non-acute and community settings, with input from relevant stakeholder groups.

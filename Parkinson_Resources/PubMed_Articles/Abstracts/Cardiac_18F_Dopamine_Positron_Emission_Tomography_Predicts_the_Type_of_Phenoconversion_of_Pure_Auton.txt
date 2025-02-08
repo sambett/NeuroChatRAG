@@ -1,0 +1,5 @@
+Title: Cardiac 18F-Dopamine Positron Emission Tomography Predicts the Type of Phenoconversion of Pure Autonomic Failure.
+PMID: 37503103
+
+Abstract:
+Pure autonomic failure (PAF) is a rare disease characterized clinically by neurogenic orthostatic hypotension (nOH) and biochemically by peripheral noradrenergic deficiency. Clinically diagnosed PAF can evolve ("phenoconvert") to a central Lewy body disease (LBD, e.g., Parkinson's disease (PD) or dementia with Lewy bodies (DLB)) or to the non-LBD synucleinopathy multiple system atrophy (MSA). We examined whether cardiac <sup>18</sup>F-dopamine positron emission tomography (PET) predicts the trajectory of phenoconversion in PAF. Since cardiac <sup>18</sup>F-dopamine-derived radioactivity always is decreased in LBDs with nOH and usually is normal in MSA, we hypothesized that PAF patients with low cardiac <sup>18</sup>F-dopamine-derived radioactivity may phenoconvert to a central LBD but do not phenoconvert to MSA.

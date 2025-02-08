@@ -1,0 +1,5 @@
+Title: Utilizing speech analysis to differentiate progressive supranuclear palsy from Parkinson's disease.
+PMID: 37678101
+
+Abstract:
+Distinguishing Parkinson's disease (PD) from Progressive supranuclear palsy (PSP) at early disease stages is important for clinical trial enrollment and clinical care/prognostication.

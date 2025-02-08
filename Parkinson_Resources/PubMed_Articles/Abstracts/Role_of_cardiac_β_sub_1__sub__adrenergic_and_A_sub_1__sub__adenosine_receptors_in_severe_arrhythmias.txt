@@ -1,0 +1,5 @@
+Title: Role of cardiac β<sub>1</sub>-adrenergic and A<sub>1</sub>-adenosine receptors in severe arrhythmias related to Parkinson's disease.
+PMID: 37459671
+
+Abstract:
+Although reduced life expectancy in Parkinson's Disease (PD) patients has been related to severe cardiac arrhythmias due to autonomic dysfunctions, its molecular mechanisms remain unclear. To investigate the role of cardiac β<sub>1</sub>-Adrenergic (β<sub>1</sub>AR) and A<sub>1</sub>-Adenosine (A<sub>1</sub>R) receptors in these dysfunctions, the pharmacological effects of stimulation of cardiac β<sub>1</sub>AR (isoproterenol, ISO), in the absence and presence of cardiac β<sub>1</sub>AR (atenolol, AT) or A<sub>1</sub>R (1,3-dipropyl-8-cyclopentyl xanthine, DPCPX) blockade, on the arrhythmias induced by Ischemia/Reperfusion (CIR) in an animal PD model were studied.

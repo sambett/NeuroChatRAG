@@ -1,0 +1,5 @@
+Title: The Effects of Subthalamic Nucleus Deep Brain Stimulation and Retention Delay on Memory-Guided Reaching Performance in People with Parkinson's Disease.
+PMID: 37522216
+
+Abstract:
+Subthalamic nucleus deep brain stimulation (STN-DBS) improves intensive aspects of movement (velocity) in people with Parkinson's disease (PD) but impairs the more cognitively demanding coordinative aspects of movement (error). We extended these findings by evaluating STN-DBS induced changes in intensive and coordinative aspects of movement during a memory-guided reaching task with varying retention delays.

@@ -1,0 +1,5 @@
+Title: Usability and utility of a remote monitoring system to support physiotherapy for people with Parkinson's disease.
+PMID: 37900610
+
+Abstract:
+Physiotherapy for persons with Parkinson's disease (PwPD) could benefit from objective and continuous tracking of physical activity and falls in daily life.

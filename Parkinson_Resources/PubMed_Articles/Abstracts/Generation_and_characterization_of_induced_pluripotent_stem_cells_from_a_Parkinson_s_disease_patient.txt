@@ -1,0 +1,5 @@
+Title: Generation and characterization of induced pluripotent stem cells from a Parkinson's disease patient carrying the digenic LRRK2 p.G2019S and GBA1 p.N409S mutations.
+PMID: 37832355
+
+Abstract:
+We describe an induced pluripotent stem cell (iPSC) line that was derived from fibroblasts obtained from a Parkinson's disease (PD) patient carrying the p.G2019S mutation in the LRRK2 gene and the p.N409S mutation in the GBA1 gene. iPSCs were generated via Sendai virus transduction of Yamanaka factors. The presence of GBA1 p.N409S and LRRK2 p.G2019S was confirmed by Sanger sequencing. The iPSCs express pluripotency markers, are capable of in vitro differentiation into the three germ layers and have a normal karyotype. The newly generated line will be used for in vitro PD modeling by investigating the role of each mutation in iPSC-derived dopaminergic neurons.

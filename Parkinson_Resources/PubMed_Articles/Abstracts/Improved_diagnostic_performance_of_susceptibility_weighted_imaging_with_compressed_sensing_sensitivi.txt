@@ -1,0 +1,5 @@
+Title: Improved diagnostic performance of susceptibility-weighted imaging with compressed sensing-sensitivity encoding and neuromelanin-sensitive MRI for Parkinson's disease and atypical Parkinsonism.
+PMID: 37863747
+
+Abstract:
+To verify the diagnostic performance of the loss of nigrosome-1 on susceptibility-weighted imaging (SWI) with compressed sensing-sensitivity encoding (CS-SENSE) and neuromelanin on neuromelanin-sensitive (NM) magnetic resonance imaging (MRI) for the diagnosis of Parkinson's disease (PD) and atypical Parkinsonism.

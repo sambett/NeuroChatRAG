@@ -1,0 +1,5 @@
+Title: Live cell <i>in situ</i> lysosomal GCase activity correlates to alpha-synuclein levels in human differentiated neurons with LRRK2 and GBA1 mutations.
+PMID: 37908374
+
+Abstract:
+Heterozygous mutations in <i>GBA1</i>, which encodes the lysosomal hydrolase glucocerebrosidase (GCase), are a common risk factor for the neurodegenerative movement disorder Parkinson's disease (PD). Consequently, therapeutic options targeting the GCase enzyme are in development. An important aspect of this development is determining the effect of potential modifying compounds on GCase activity, which can be complicated by the different methods and substrate probes that are commonly employed for this purpose.

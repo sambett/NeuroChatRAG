@@ -1,0 +1,5 @@
+Title: The major TMEM106B dementia risk allele affects TMEM106B protein levels, fibril formation, and myelin lipid homeostasis in the ageing human hippocampus.
+PMID: 37726834
+
+Abstract:
+The risk for dementia increases exponentially from the seventh decade of life. Identifying and understanding the biochemical changes that sensitize the ageing brain to neurodegeneration will provide new opportunities for dementia prevention and treatment. This study aimed to determine how ageing and major genetic risk factors for dementia affect the hippocampal proteome and lipidome of neurologically-normal humans over the age of 65. The hippocampus was chosen as it is highly susceptible to atrophy with ageing and in several neurodegenerative diseases.

@@ -1,0 +1,5 @@
+Title: Active and Passive Cycling Decrease Subthalamic β Oscillations in Parkinson's Disease.
+PMID: 37860957
+
+Abstract:
+Preserved cycling capabilities in patients with Parkinson's disease, especially in those with freezing of gait are still poorly understood. Previous research with invasive local field potential recordings in the subthalamic nucleus has shown that cycling causes a stronger suppression of β oscillations compared to walking, which facilitates motor continuation.

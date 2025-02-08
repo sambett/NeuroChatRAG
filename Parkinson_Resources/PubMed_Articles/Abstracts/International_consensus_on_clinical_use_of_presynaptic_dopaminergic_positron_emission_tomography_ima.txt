@@ -1,0 +1,5 @@
+Title: International consensus on clinical use of presynaptic dopaminergic positron emission tomography imaging in parkinsonism.
+PMID: 37789188
+
+Abstract:
+Presynaptic dopaminergic positron emission tomography (PET) imaging serves as an essential tool in diagnosing and differentiating patients with suspected parkinsonism, including idiopathic Parkinson's disease (PD) and other neurodegenerative and non-neurodegenerative diseases. The PET tracers most commonly used at the present time mainly target dopamine transporters (DAT), aromatic amino acid decarboxylase (AADC), and vesicular monoamine type 2 (VMAT2). However, established standards for the imaging procedure and interpretation of presynaptic dopaminergic PET imaging are still lacking. The goal of this international consensus is to help nuclear medicine practitioners procedurally perform presynaptic dopaminergic PET imaging.

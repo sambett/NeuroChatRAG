@@ -1,0 +1,5 @@
+Title: Assessing Drug Administration Techniques in Zebrafish Models of Neurological Disease.
+PMID: 37834345
+
+Abstract:
+Neurological diseases, including neurodegenerative and neurodevelopmental disorders, affect nearly one in six of the world's population. The burden of the resulting deaths and disability is set to rise during the next few decades as a consequence of an aging population. To address this, zebrafish have become increasingly prominent as a model for studying human neurological diseases and exploring potential therapies. Zebrafish offer numerous benefits, such as genetic homology and brain similarities, complementing traditional mammalian models and serving as a valuable tool for genetic screening and drug discovery. In this comprehensive review, we highlight various drug delivery techniques and systems employed for therapeutic interventions of neurological diseases in zebrafish, and evaluate their suitability. We also discuss the challenges encountered during this process and present potential advancements in innovative techniques.

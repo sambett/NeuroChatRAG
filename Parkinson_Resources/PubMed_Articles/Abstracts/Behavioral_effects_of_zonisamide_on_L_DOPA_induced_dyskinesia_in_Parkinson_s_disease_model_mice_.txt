@@ -1,0 +1,5 @@
+Title: Behavioral effects of zonisamide on L-DOPA-induced dyskinesia in Parkinson's disease model mice.
+PMID: 37441679
+
+Abstract:
+Zonisamide (ZNS; 1,2-benzisoxazole-3-methanesulfonamide) was initially developed and is commonly used as an anticonvulsant drug. However, it has also shown its beneficial effects on Parkinson's disease (PD), a progressive neurodegenerative disorder caused by the loss of dopaminergic neurons in the midbrain. Recent clinical studies have suggested that ZNS can also have beneficial effects on L-DOPA-induced dyskinesia (LID), which is a major side effect of long-term L-DOPA treatments for PD. In the present study, we examined the behavioral effects of ZNS on LID in PD model mice. Acute ZNS treatment did not have any observable behavioral effects on LID. Contrastingly, chronic ZNS treatment with L-DOPA delayed the peak of LID and reduced the severity of LID before the peak but increased the duration of LID in a dose-dependent manner of ZNS compared to PD model mice treated with L-DOPA alone. Thus, ZNS appears to have both beneficial and adverse effects on LID.

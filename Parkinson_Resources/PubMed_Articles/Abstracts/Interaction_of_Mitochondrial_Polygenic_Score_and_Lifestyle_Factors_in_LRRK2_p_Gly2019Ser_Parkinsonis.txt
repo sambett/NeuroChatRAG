@@ -1,0 +1,5 @@
+Title: Interaction of Mitochondrial Polygenic Score and Lifestyle Factors in LRRK2 p.Gly2019Ser Parkinsonism.
+PMID: 37482924
+
+Abstract:
+A mitochondrial polygenic score (MGS) is composed of genes related to mitochondrial function and found to be associated with Parkinson's disease (PD) risk.

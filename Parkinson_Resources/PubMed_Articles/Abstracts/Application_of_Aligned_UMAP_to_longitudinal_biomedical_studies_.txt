@@ -1,0 +1,5 @@
+Title: Application of Aligned-UMAP to longitudinal biomedical studies.
+PMID: 37409055
+
+Abstract:
+High-dimensional data analysis starts with projecting the data to low dimensions to visualize and understand the underlying data structure. Several methods have been developed for dimensionality reduction, but they are limited to cross-sectional datasets. The recently proposed Aligned-UMAP, an extension of the uniform manifold approximation and projection (UMAP) algorithm, can visualize high-dimensional longitudinal datasets. We demonstrated its utility for researchers to identify exciting patterns and trajectories within enormous datasets in biological sciences. We found that the algorithm parameters also play a crucial role and must be tuned carefully to utilize the algorithm's potential fully. We also discussed key points to remember and directions for future extensions of Aligned-UMAP. Further, we made our code open source to enhance the reproducibility and applicability of our work. We believe our benchmarking study becomes more important as more and more high-dimensional longitudinal data in biomedical research become available.

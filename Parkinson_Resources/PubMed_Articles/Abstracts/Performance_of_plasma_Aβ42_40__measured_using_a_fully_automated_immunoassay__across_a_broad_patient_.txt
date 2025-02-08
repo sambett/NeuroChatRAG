@@ -1,0 +1,5 @@
+Title: Performance of plasma Aβ42/40, measured using a fully automated immunoassay, across a broad patient population in identifying amyloid status.
+PMID: 37667408
+
+Abstract:
+Plasma biomarkers have emerged as promising screening tools for Alzheimer's disease (AD) because of their potential to detect amyloid β (Aβ) accumulation in the brain. One such candidate is the plasma Aβ42/40 ratio (Aβ42/40). Unlike previous research that used traditional immunoassay, recent studies that measured plasma Aβ42/40 using fully automated platforms reported promising results. However, its utility should be confirmed using a broader patient population, focusing on the potential for early detection.

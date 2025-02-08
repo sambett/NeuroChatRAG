@@ -1,0 +1,5 @@
+Title: Application of CRISPR/Cas9 in the management of Alzheimer's disease and Parkinson's disease: a review.
+PMID: 38222734
+
+Abstract:
+The clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated (Cas) nucleases system (CRISPR/Cas9) is a popular gene-editing technology with an expanding scope in the field of medicine. Recent studies have investigated the role of CRISPR/Cas9 system in the treatment of neurodegenerative diseases such as Alzheimer's disease (AD) and Parkinson's disease (PD). Since the risk of occurrence of both conditions is strongly associated with genetic mutations and variations, the use of gene-editing technologies to rectify these genetic errors becomes relevant. The CRISPR/Cas9 system has been tested in AD, which has led to a decrease in either amyloid beta deposition or tau phosphorylation in cells. Likewise, genetic mutations in cells affected by PD have been corrected with promising results in initial studies undertaken. Therefore, the use of the CRISPR/Cas9 system should be expanded among different populations to understand its efficacy and safety in depth among neurodegenerative conditions.

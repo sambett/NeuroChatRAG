@@ -1,0 +1,5 @@
+Title: Cerebellar functional connectivity change is associated with motor and neuropsychological function in early stage drug-naïve patients with Parkinson's disease.
+PMID: 37425003
+
+Abstract:
+Parkinson's Disease (PD) is a progressive neurodegenerative disorder affecting both motor and cognitive function. Previous neuroimaging studies have reported altered functional connectivity (FC) in distributed functional networks. However, most neuroimaging studies focused on patients at an advanced stage and with antiparkinsonian medication. This study aims to conduct a cross-sectional study on cerebellar FC changes in early-stage drug-naïve PD patients and its association with motor and cognitive function.

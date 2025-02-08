@@ -1,0 +1,5 @@
+Title: Evaluating cognitive impairment in the early stages of Parkinson's disease using the Cambridge brain sciences-cognitive platform.
+PMID: 37413872
+
+Abstract:
+Non-motor symptoms (NMS) such as cognitive impairment are among common presentations in patients with Parkinson's disease (PD). In parallel with motor symptoms, these impediments can affect PD patients' quality of life. However, cognitive impairment has received less attention in early PD. On the other hand, the relationship between olfactory symptoms and cognitive impairment is unclear in early PD. Considering the importance of accurate and timely assessment of cognitive function in PD patients using readily available/validated tests, this study has employed the Cambridge Brain Sciences-Cognitive Platform (CBS-CP) as a computer-based tool to assess cognitive presentations in early PD patients.

@@ -1,0 +1,5 @@
+Title: Functional improvement of patients with Parkinson syndromes using a rehabilitation training software.
+PMID: 37645604
+
+Abstract:
+Individuals with Parkinsonian disorders often face limited access to specialized physiotherapy and movement training due to staff shortages and increasing disease incidence, resulting in a rapid decline in mobility and feelings of despair. Addressing these challenges requires allocating adequate resources and implementing specialized training programs to ensure comprehensive care and support. Regarding these problems, a computer software was invented that might serve as an additional home-based extension to conventional physiotherapy.

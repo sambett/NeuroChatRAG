@@ -1,0 +1,5 @@
+Title: Deep brain stimulation of the subthalamic nucleus in severe Parkinson's disease: relationships between dual-contact topographic setting and 1-year worsening of speech and gait.
+PMID: 37889334
+
+Abstract:
+Subthalamic nucleus (STN) deep brain stimulation (DBS) alleviates severe motor fluctuations and dyskinesia in Parkinson's disease, but may result in speech and gait disorders. Among the suspected or demonstrated causes of these adverse effects, we focused on the topography of contact balance (CB; individual, right and left relative dual positions), a scantly studied topic, analyzing the relationships between symmetric or non-symmetric settings, and the worsening of these signs.

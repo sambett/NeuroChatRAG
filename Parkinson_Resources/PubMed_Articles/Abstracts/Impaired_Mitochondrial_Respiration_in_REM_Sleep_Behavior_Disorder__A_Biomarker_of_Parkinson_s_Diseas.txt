@@ -1,0 +1,5 @@
+Title: Impaired Mitochondrial Respiration in REM-Sleep Behavior Disorder: A Biomarker of Parkinson's Disease?
+PMID: 38006292
+
+Abstract:
+Idiopathic rapid eye movement (REM) sleep behavior disorder (iRBD) is associated with prodromal Parkinson's disease (PD), but the mechanisms linking phenoconversion of iRBD to PD have not yet been clarified. Considering the association between mitochondrial dysfunction and sleep disturbances in PD, we explored mitochondrial activity in fibroblasts derived from iRBD patients to identify a biochemical profile that could mark the presence of impending neurodegeneration.

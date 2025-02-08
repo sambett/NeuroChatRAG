@@ -1,0 +1,5 @@
+Title: Deep brain stimulation of globus pallidus internus and subthalamic nucleus in Parkinson's disease: a multicenter, retrospective study of efficacy and safety.
+PMID: 37555874
+
+Abstract:
+Deep brain stimulation (DBS) is an established therapeutic option in advanced Parkinson's disease (PD). Literature data and recent guidelines remain inconclusive about the best choice as a target between the subthalamic nucleus (STN) and the globus pallidus internus (GPi).

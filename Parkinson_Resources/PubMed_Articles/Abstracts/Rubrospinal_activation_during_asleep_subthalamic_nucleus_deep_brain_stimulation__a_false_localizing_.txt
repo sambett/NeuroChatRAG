@@ -1,0 +1,5 @@
+Title: Rubrospinal activation during asleep subthalamic nucleus deep brain stimulation: a false localizing sign. Illustrative case.
+PMID: 37458360
+
+Abstract:
+Deep brain stimulation (DBS) can be a life-changing intervention for patients with Parkinson's disease (PD), but its success is largely dependent on precise lead placement. The subthalamic nucleus (STN) is one of the most common surgical targets of DBS, but the close anatomical and physiological resemblance of the STN to the mediocaudal red nucleus renders these landmarks difficult to distinguish.

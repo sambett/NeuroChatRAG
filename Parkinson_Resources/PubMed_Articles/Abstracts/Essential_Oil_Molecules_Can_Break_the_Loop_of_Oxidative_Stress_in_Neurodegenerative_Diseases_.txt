@@ -1,0 +1,5 @@
+Title: Essential Oil Molecules Can Break the Loop of Oxidative Stress in Neurodegenerative Diseases.
+PMID: 38132330
+
+Abstract:
+Essential oils (EOs) are mixtures of volatile compounds, extracted from aromatic plants, with multiple activities including antioxidant and anti-inflammatory ones. EOs are complex mixtures easy to find on the market and with low costs. In this mini narrative review, we have collected the results of in vitro and in vivo studies, which tested these EOs on validated models of neurodegeneration and in particular of the two main neurodegenerative diseases (NDs) that afflict humans: Alzheimer's and Parkinson's. Since EO compositions can vary greatly, depending on the environmental conditions, plant cultivar, and extraction methods, we focused our attention to studies involving single EO molecules, and in particular those that have demonstrated the ability to cross the blood-brain barrier. These single EO molecules, alone or in defined mixtures, could be interesting new therapies to prevent or slow down oxidative and inflammatory processes which are common mechanisms that contribute to neuronal death in all NDs.

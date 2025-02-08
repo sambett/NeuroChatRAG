@@ -1,0 +1,5 @@
+Title: Regulation of the Endogenous Opiate Signaling Pathway against Oxidative Stress and Inflammation: A Considerable Approach for Exploring Preclinical Treatment of Parkinson's Disease.
+PMID: 37820589
+
+Abstract:
+Oxidative stress and inflammation are major factors contributing to the progressive death of dopaminergic neurons in Parkinson's disease (PD). Recent studies have demonstrated that morphine's biosynthetic pathway, coupled with nitric oxide (NO) release, is evolutionarily conserved throughout animals and humans. Moreover, dopamine is a key precursor for morphine biosynthesis.

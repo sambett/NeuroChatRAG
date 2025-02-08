@@ -1,0 +1,5 @@
+Title: A glimpse into the structural properties of α-synuclein oligomers.
+PMID: 38063360
+
+Abstract:
+α-Synuclein (αS) aggregation is the main neurological hallmark of a group of debilitating neurodegenerative disorders, collectively referred to as synucleinopathies, of which Parkinson's disease is the most prevalent. αS oligomers formed during the initial stages of aggregation are considered key pathogenic drivers of disease onset and progression, standing as privileged targets for therapeutic intervention and diagnosis. However, the structure of αS oligomers and the mechanistic basis of oligomer to fibril conversion are yet poorly understood, thereby precluding the rational formulation of strategies aimed at targeting oligomeric species. In this review, we delve into the recent advances in the structural and mechanistic characterization of αS oligomers. We also discuss how these advances are transforming our understanding of these elusive species and paving the way for oligomer-targeting therapeutics and diagnosis.

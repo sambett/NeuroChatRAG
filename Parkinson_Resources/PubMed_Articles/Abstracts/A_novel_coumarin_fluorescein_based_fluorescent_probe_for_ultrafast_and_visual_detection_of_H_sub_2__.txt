@@ -1,0 +1,5 @@
+Title: A novel coumarin-fluorescein-based fluorescent probe for ultrafast and visual detection of H<sub>2</sub>S in a Parkinson's disease model.
+PMID: 37890324
+
+Abstract:
+Hydrogen sulfide (H<sub>2</sub>S) has a crucial impact on diverse biological processes and has been shown to be related to various diseases. Many probes have been developed to detect intracellular H<sub>2</sub>S by fluorescent imaging. However, the development of rapid, highly selective and sensitive H<sub>2</sub>S probes remains a challenge. Herein, two fluorogenic probes, CNS and FCS, are designed and synthesized for the ultrafast detection of H<sub>2</sub>S with fluorescein and coumarin fluorophores. The results show that both probes can be applied to monitor and image endogenous H<sub>2</sub>S in cervical cancer HeLa cells and live zebrafish, and FCS shows a higher sensitivity, selectivity and fluorescence intensity. We then further applied FCS in a Parkinson's disease Drosophila model, and the results show that FCS can precisely indicate the level of H<sub>2</sub>S in the Parkinson's disease model. Thus, FCS will likely to be applied for the early diagnosis of Parkinson's disease.

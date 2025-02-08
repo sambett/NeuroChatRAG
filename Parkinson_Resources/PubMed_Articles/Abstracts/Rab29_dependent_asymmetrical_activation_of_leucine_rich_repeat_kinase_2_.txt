@@ -1,0 +1,5 @@
+Title: Rab29-dependent asymmetrical activation of leucine-rich repeat kinase 2.
+PMID: 38127736
+
+Abstract:
+Gain-of-function mutations in <i>LRRK2</i>, which encodes the leucine-rich repeat kinase 2 (LRRK2), are the most common genetic cause of late-onset Parkinson's disease. LRRK2 is recruited to membrane organelles and activated by Rab29, a Rab guanosine triphosphatase encoded in the <i>PARK16</i> locus. We present cryo-electron microscopy structures of Rab29-LRRK2 complexes in three oligomeric states, providing key snapshots during LRRK2 recruitment and activation. Rab29 induces an unexpected tetrameric assembly of LRRK2, formed by two kinase-active central protomers and two kinase-inactive peripheral protomers. The central protomers resemble the active-like state trapped by the type I kinase inhibitor DNL201, a compound that underwent a phase 1 clinical trial. Our work reveals the structural mechanism of LRRK2 spatial regulation and provides insights into LRRK2 inhibitor design for Parkinson's disease treatment.

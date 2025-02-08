@@ -1,0 +1,5 @@
+Title: Dynamic functional connectivity reveals hyper-connected pattern and abnormal variability in freezing of gait of Parkinson's disease.
+PMID: 37597816
+
+Abstract:
+Freezing of gait (FOG) is an intractable and paroxysmal gait disorder that seriously affects the quality of life of Parkinson's disease (PD) patients. Emerging studies have reported abnormal brain activity of distributed networks in FOG patients, whereas ignoring the intrinsic dynamic fluctuations of functional connectivity. The purpose of this study was to examine the dynamic functional network connectivity (dFNC) of PD-FOG.

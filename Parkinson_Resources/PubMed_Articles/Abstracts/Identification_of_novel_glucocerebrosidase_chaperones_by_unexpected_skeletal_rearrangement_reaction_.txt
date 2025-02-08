@@ -1,0 +1,5 @@
+Title: Identification of novel glucocerebrosidase chaperones by unexpected skeletal rearrangement reaction.
+PMID: 37866711
+
+Abstract:
+Compound 5 was identified from a high-throughput screening campaign as a small molecule pharmacological chaperone of glucocerebrocidase (GCase), a lysosomal hydrolase encoded by the GBA1 gene, variants of which are associated with Gaucher disease and Parkinson's disease. Further investigations revealed that compound 5 was slowly transformed into a regio-isomeric compound (6) in PBS buffer, plausibly via a ring-opening at hemiaminal moiety accompanied by subsequent intramolecular CC bond formation. Utilising this unexpected skeletal rearrangement reaction, a series of compound 6 analogues was synthesized which yielded multiple potent GCase pharmacological chaperones with sub-micromolar EC<sub>50</sub> values as exemplified by compound 38 (EC<sub>50</sub> = 0.14 μM).

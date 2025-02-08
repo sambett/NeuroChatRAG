@@ -1,0 +1,5 @@
+Title: Comparison of state-of-the-art deep learning architectures for detection of freezing of gait in Parkinson's disease.
+PMID: 38178885
+
+Abstract:
+Freezing of gait (FOG) is one of the most debilitating motor symptoms experienced by patients with Parkinson's disease (PD). FOG detection is possible using acceleration data from wearable sensors, and a convolutional neural network (CNN) is often used to determine the presence of FOG epochs. We compared the performance of a standard CNN for the detection of FOG with two more complex networks, which are well suited for time series data, the MiniRocket and the InceptionTime.

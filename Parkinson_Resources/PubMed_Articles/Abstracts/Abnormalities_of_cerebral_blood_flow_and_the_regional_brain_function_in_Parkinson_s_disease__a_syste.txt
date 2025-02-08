@@ -1,0 +1,5 @@
+Title: Abnormalities of cerebral blood flow and the regional brain function in Parkinson's disease: a systematic review and multimodal neuroimaging meta-analysis.
+PMID: 38162449
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disease with high incidence rate. Resting state functional magnetic resonance imaging (rs-fMRI), as a widely used method for studying neurodegenerative diseases, has not yet been combined with two important indicators, amplitude low-frequency fluctuation (ALFF) and cerebral blood flow (CBF), for standardized analysis of PD.

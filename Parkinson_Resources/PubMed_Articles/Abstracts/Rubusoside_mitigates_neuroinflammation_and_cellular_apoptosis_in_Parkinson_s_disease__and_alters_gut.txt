@@ -1,0 +1,5 @@
+Title: Rubusoside mitigates neuroinflammation and cellular apoptosis in Parkinson's disease, and alters gut microbiota and metabolite composition.
+PMID: 38237261
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative condition characterized by the progressive loss of dopaminergic neurons within the substantia nigra. Neuroinflammation plays a pivotal role in the pathogenesis of PD, involving the activation of microglia cells, heightened production of proinflammatory cytokines, and perturbations in the composition of the gut microbiota. Rubusoside (Ru), the principal steviol bisglucoside present in Rubus chingii var. suavissimus (S.K.Lee) L.T.Lu (Rosaceae), has been documented for its anti-inflammatory properties in diverse disease models. Nonetheless, there is an imperative need to comprehensively assess and elucidate the protective and anti-inflammatory attributes of Ru concerning PD, as well as to uncover the underlying mechanism involved.

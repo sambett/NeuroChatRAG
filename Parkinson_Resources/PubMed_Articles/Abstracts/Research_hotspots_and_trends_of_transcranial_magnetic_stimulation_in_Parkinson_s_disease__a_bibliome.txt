@@ -1,0 +1,5 @@
+Title: Research hotspots and trends of transcranial magnetic stimulation in Parkinson's disease: a bibliometric analysis.
+PMID: 37928722
+
+Abstract:
+Transcranial magnetic stimulation (TMS), as a non-invasive neuromodulation technique, has been widely used in the treatment of Parkinson's disease (PD). The increasing application of TMS has promoted an increasing number of clinical studies. In this paper, a bibliometric analysis of existing studies was conducted to reveal current research hotspots and guide future research directions.

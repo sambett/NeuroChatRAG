@@ -1,0 +1,5 @@
+Title: Istradefylline effects on tremor dominance (TD) and postural instability and gait difficulty (PIGD).
+PMID: 38021343
+
+Abstract:
+In patients with Parkinson's Disease (PD), two distinct motor subtypes, tremor dominant (TD) and postural instability and gait difficulty (PIGD), can be differentiated using Unified Parkinson's Disease Rating Scale (UPDRS) sub-scores. This <i>post hoc</i> analysis of pooled data from eight pivotal studies examined the effect of treatment with istradefylline, a selective adenosine A<sub>2A</sub> receptor antagonist, on these subtypes.

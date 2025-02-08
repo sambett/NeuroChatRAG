@@ -1,0 +1,5 @@
+Title: Cryopreserved clinical-grade human embryonic stem cell-derived dopaminergic progenitors function in Parkinson's disease models.
+PMID: 37524159
+
+Abstract:
+Parkinson's Disease (PD) is a common age-related neurodegenerative disorder with a rising prevalence. Human pluripotent stem cells have emerged as the most promising source of cells for midbrain dopaminergic (mDA) neuron replacement in PD. This study aimed to generate transplantable mDA progenitors for treatment of PD.

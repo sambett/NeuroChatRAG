@@ -1,0 +1,5 @@
+Title: Quantitative sleep electroencephalogram and cognitive performance in Parkinson's disease with and without rapid eye movement sleep behavior disorder.
+PMID: 37745647
+
+Abstract:
+Parkinson's disease (PD) patients with REM sleep behavior disorder (RBD) are at greater risk for cognitive decline and RBD has been associated with alterations in sleep-related EEG oscillations. This study evaluates differences in sleep quantitative EEG (qEEG) and cognition in PD participants with (PD-RBD) and without RBD (PD-no-RBD).

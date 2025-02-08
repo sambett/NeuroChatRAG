@@ -1,0 +1,5 @@
+Title: On the inter-dataset generalization of machine learning approaches to Parkinson's disease detection from voice.
+PMID: 37801807
+
+Abstract:
+Parkinson's disease is the second-most-common neurodegenerative disorder that affects motor skills, cognitive processes, mood, and everyday tasks such as speaking and walking. The voices of people with Parkinson's disease may become weak, breathy, or hoarse and may sound emotionless, with slurred words and mumbling. Algorithms for computerized voice analysis have been proposed and have shown highly accurate results. However, these algorithms were developed on single, limited datasets, with participants possessing similar demographics. Such models are prone to overfitting and are unsuitable for generalization, which is essential in real-world applications.

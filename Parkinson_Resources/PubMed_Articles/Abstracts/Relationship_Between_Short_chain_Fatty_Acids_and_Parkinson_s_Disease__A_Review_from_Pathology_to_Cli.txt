@@ -1,0 +1,5 @@
+Title: Relationship Between Short-chain Fatty Acids and Parkinson's Disease: A Review from Pathology to Clinic.
+PMID: 37755674
+
+Abstract:
+Parkinson's disease (PD) is a complicated neurodegenerative disease, characterized by the accumulation of α-synuclein (α-syn) in Lewy bodies and neurites, and massive loss of midbrain dopamine neurons. Increasing evidence suggests that gut microbiota and microbial metabolites are involved in the development of PD. Among these, short-chain fatty acids (SCFAs), the most abundant microbial metabolites, have been proven to play a key role in brain-gut communication. In this review, we analyze the role of SCFAs in the pathology of PD from multiple dimensions and summarize the alterations of SCFAs in PD patients as well as their correlation with motor and non-motor symptoms. Future research should focus on further elucidating the role of SCFAs in neuroinflammation, as well as developing novel strategies employing SCFAs and their derivatives to treat PD.

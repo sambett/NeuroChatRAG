@@ -1,0 +1,5 @@
+Title: The nocebo effect across health outcomes: A systematic review and meta-analysis.
+PMID: 37843534
+
+Abstract:
+The nocebo effect represents a growing concern in clinical settings. Nocebo effects occur when the treatment context generates negative expectancies that trigger the experience or worsening of negative symptoms beyond any effects attributable to the treatment itself. Despite being identified in a range of outcomes and conditions, from pain to Parkinson's disease, there has not been an attempt to systematically quantify the nocebo effects across health outcomes. The purpose of the present review was thus to systematically review and meta-analyze the nocebo literature to quantify the size of the nocebo effect across outcomes and examine which factors moderate the size of the nocebo effect, including process of induction, treatment type, or health outcome.

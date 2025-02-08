@@ -1,0 +1,5 @@
+Title: Comparison of two segmentation software tools for deep brain stimulation of the subthalamic and ventro-intermedius nuclei.
+PMID: 37787840
+
+Abstract:
+Deep brain stimulation (DBS) relies on precise targeting of key structures such as the subthalamic nucleus (STN) for Parkinson's disease (PD) and the ventro-intermedius nucleus of the thalamus (Vim) for essential tremor (ET). Segmentation software, such as GuideXT© and Suretune©, are commercially available for atlas-based identification of deep brain structures. However, no study has compared the concordance of the segmentation results between the two software.

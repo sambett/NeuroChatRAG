@@ -1,0 +1,5 @@
+Title: Longitudinal dysregulation of long non-coding RNAs in Parkinson's disease.
+PMID: 37750041
+
+Abstract:
+Long non-coding RNAs (lncRNAs) have been suggested as potential biomarkers for Parkinson's disease (PD). This study aimed to identify blood-based lncRNA transcripts that are dysregulated in PD over time and could serve as peripheral biomarkers. Using RNA-sequencing data from the Parkinson's Progression Markers Initiative, differential expression between case and control groups at five different time points was detected, and pathway analysis was conducted. Seven transcripts, not previously linked to PD, were consistently dysregulated across all time points, while PD-linked lncRNAs were dysregulated at some but not all time points. Pathway analysis highlighted pathways, known to be affected in PD. This suggested that dysregulated lncRNA transcripts could play a role in PD pathogenesis by affecting well-known PD pathways and highlighted their potential as longitudinal biomarkers for PD. Further studies are needed to validate these findings and explore the potential use of identified lncRNAs as diagnostic and therapeutic targets.

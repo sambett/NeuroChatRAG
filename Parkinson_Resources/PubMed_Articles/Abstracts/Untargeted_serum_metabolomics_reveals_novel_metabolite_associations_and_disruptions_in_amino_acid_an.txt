@@ -1,0 +1,5 @@
+Title: Untargeted serum metabolomics reveals novel metabolite associations and disruptions in amino acid and lipid metabolism in Parkinson's disease.
+PMID: 38115046
+
+Abstract:
+Untargeted high-resolution metabolomic profiling provides simultaneous measurement of thousands of metabolites. Metabolic networks based on these data can help uncover disease-related perturbations across interconnected pathways.

@@ -1,0 +1,5 @@
+Title: Characterization of structural changes occurring in insulin at different time intervals at room temperature by surface-enhanced Raman spectroscopy.
+PMID: 37699467
+
+Abstract:
+Insulin storage above the temperature recommended by food and drug administration (FDA) causes decrease in its functional efficacy due to degradation and aggregation of its protein based active pharmaceutical ingredient (API) that results poor glycemic control in diabetic patients. The aggregation of protein causes serious neurodegenerative diseases such as type-2 diabetes, Huntington disease, Parkinson's disease, and Alzheimer's disease. Surface-enhanced Raman spectroscopy (SERS) has been employed for the denaturation study of many proteins at the temperature above the recommendations of food and drug administration (FDA) (above 30 °C) which indicates potential of technique for such studies.

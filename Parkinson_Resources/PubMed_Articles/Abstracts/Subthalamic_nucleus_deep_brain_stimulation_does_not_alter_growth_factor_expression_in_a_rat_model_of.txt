@@ -1,0 +1,5 @@
+Title: Subthalamic nucleus deep brain stimulation does not alter growth factor expression in a rat model of stable dopaminergic deficiency.
+PMID: 37625613
+
+Abstract:
+Deep brain stimulation (DBS) of the subthalamic nucleus (STN) has been a highly effective treatment option for mid-to-late-stage Parkinson's disease (PD) for decades. Besides direct effects on brain networks, neuroprotective effects of STN-DBS - potentially via alterations of growth factor expression levels - have been proposed as additional mechanisms of action.

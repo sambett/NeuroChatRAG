@@ -1,0 +1,5 @@
+Title: Epigenetic regulation of Parkinson's disease risk variant GPNMB cg17274742 methylation by sex and exercise from Taiwan Biobank.
+PMID: 37744396
+
+Abstract:
+Parkinson's disease (PD) is a complex neurodegenerative disease with an elusive etiology that involves the interaction between genetic, behavioral, and environmental factors. Recently, epigenetic modifications, particularly DNA methylation, have been recognized to play an important role in the onset of PD. Glycoprotein non-metastatic melanoma protein B (GPNMB), a type I transmembrane protein crucial for immune cell activation and maturation, has emerged as a potential biomarker for the risk of PD. This research aims to investigate the influence of exercise and gender on the regulation of methylation levels of GPNMB cg17274742 in individuals.

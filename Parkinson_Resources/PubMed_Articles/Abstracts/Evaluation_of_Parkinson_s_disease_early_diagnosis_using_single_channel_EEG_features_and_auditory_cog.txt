@@ -1,0 +1,5 @@
+Title: Evaluation of Parkinson's disease early diagnosis using single-channel EEG features and auditory cognitive assessment.
+PMID: 38174098
+
+Abstract:
+Parkinson's disease (PD) often presents with subtle early signs, making diagnosis difficult. F-DOPA PET imaging provides a reliable measure of dopaminergic function and is a primary tool for early PD diagnosis. This study aims to evaluate the ability of machine-learning (ML) extracted EEG features to predict F-DOPA results and distinguish between PD and non-PD patients. These features, extracted using a single-channel EEG during an auditory cognitive assessment, include EEG feature A0 associated with cognitive load in healthy subjects, and EEG feature L1 associated with cognitive task differentiation.

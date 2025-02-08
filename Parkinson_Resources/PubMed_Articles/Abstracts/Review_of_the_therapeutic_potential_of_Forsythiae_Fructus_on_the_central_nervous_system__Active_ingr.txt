@@ -1,0 +1,5 @@
+Title: Review of the therapeutic potential of Forsythiae Fructus on the central nervous system: Active ingredients and mechanisms of action.
+PMID: 37797873
+
+Abstract:
+Traditional Chinese medicine has gained significant attention in recent years owing to its multi-component, multi-target, and multi-pathway advantages in treating various diseases. Forsythiae Fructus, derived from the dried fruit of Forsythia suspensa (Thunb.) Vahl, is one such traditional Chinese medicine with numerous in vivo and ex vivo therapeutic effects, including anti-inflammatory, antibacterial, and antiviral properties. Forsythiae Fructus contains more than 200 chemical constituents, with forsythiaside, forsythiaside A, forsythiaside B, isoforsythiaside, forsythin, and phillyrin being the most active ingredients. Forsythiae Fructus exerts neuroprotective effects by modulating various pathways, including oxidative stress, anti-inflammation, NF-κB signaling, 2-AG, Nrf2 signaling, acetylcholinesterase, PI3K-Akt signaling, ferroptosis, gut-brain axis, TLR4 signaling, endoplasmic reticulum stress, PI3K/Akt/mTOR signaling, and PPARγ signaling pathway.

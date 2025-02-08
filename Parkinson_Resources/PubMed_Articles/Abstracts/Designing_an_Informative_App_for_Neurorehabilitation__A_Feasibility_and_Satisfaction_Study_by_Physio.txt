@@ -1,0 +1,5 @@
+Title: Designing an Informative App for Neurorehabilitation: A Feasibility and Satisfaction Study by Physiotherapists.
+PMID: 37761746
+
+Abstract:
+New technologies have gained popularity, especially the use of mobile phone applications, in neurorehabilitation. The aim of this paper was (1) to develop a free mobile application (<i>NeurorehAPP</i>) that provides information about and helps to select the appropriate mobile application related to a list of neurological disorders (cognitive impairment, Alzheimer's disease, Parkinson's disease, multiple sclerosis, traumatic brain injury, stroke, cerebral palsy, muscular dystrophy, spina bifida, and facial paralysis), based on different objectives such as healthy habits, information, assessment, and treatment; and (2) to assess the feasibility, acceptability, and degree of satisfaction by physiotherapists after using <i>NeurorehAPP</i> for a minimum of three months.

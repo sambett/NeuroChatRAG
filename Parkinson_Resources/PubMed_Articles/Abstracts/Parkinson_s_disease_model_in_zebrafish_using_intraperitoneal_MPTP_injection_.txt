@@ -1,0 +1,5 @@
+Title: Parkinson's disease model in zebrafish using intraperitoneal MPTP injection.
+PMID: 37694115
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease that severely affects the quality of life of patients and their family members. Exposure to 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) has been shown to reflect behavioral, molecular, and proteomic features of PD. This study aimed to assess the protocol for inducing PD following MPTP injection in adult zebrafish.

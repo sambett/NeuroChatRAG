@@ -1,0 +1,5 @@
+Title: Human upper extremity motor cortex activity shows distinct oscillatory signatures for stereotyped arm and leg movements.
+PMID: 37635808
+
+Abstract:
+Stepping and arm swing are stereotyped movements that require coordination across multiple muscle groups. It is not known whether the encoding of these stereotyped movements in the human primary motor cortex is confined to the limbs' respective somatotopy.

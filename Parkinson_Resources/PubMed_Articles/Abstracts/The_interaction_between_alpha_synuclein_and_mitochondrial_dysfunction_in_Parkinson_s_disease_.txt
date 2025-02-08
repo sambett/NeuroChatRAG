@@ -1,0 +1,5 @@
+Title: The interaction between alpha-synuclein and mitochondrial dysfunction in Parkinson's disease.
+PMID: 37839353
+
+Abstract:
+Parkinson's disease (PD) is an aging-associated neurodegenerative disorder with the hallmark of abnormal aggregates of alpha-synuclein (α-syn) in Lewy bodies (LBs) and Lewy neurites (LNs). Currently, pathogenic α-syn and mitochondrial dysfunction have been considered as prominent roles that give impetus to the PD onset. This review describes the α-syn pathology and mitochondrial alterations in PD, and focuses on how α-syn interacts with multiple aspects of mitochondrial homeostasis in the pathogenesis of PD.

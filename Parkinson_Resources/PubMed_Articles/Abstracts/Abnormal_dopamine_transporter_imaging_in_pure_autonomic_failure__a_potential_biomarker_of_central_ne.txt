@@ -1,0 +1,5 @@
+Title: Abnormal dopamine transporter imaging in pure autonomic failure: a potential biomarker of central nervous system involvement.
+PMID: 38085264
+
+Abstract:
+Pure autonomic failure (PAF) is a rare progressive neurodegenerative disease characterized by neurogenic orthostatic hypotension at presentation, without other neurological abnormalities. Some patients may develop other central neurological features indicative of multiple system atrophy or a Lewy body disorder. There are currently no biomarkers to assess possible central nervous system involvement in probable PAF at an early stage. A possibility is to evaluate the nigrostriatal dopaminergic degeneration by imaging of dopamine transporter with DaTscan brain imaging. The objective was to evaluate subclinical central nervous system involvement using DaTscan in PAF.

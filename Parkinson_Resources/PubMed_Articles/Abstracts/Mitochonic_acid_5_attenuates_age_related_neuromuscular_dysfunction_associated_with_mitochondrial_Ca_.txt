@@ -1,0 +1,5 @@
+Title: Mitochonic acid 5 attenuates age-related neuromuscular dysfunction associated with mitochondrial Ca<sup>2+</sup> overload in Caenorhabditis elegans.
+PMID: 37528117
+
+Abstract:
+Mitochonic acid-5 ameliorates the pathophysiology of human mitochondrial-disease fibroblasts and Caenorhabditis elegans Duchenne muscular dystrophy and Parkinson's disease models. Here, we found that 10 μM MA-5 attenuates the age-related decline in motor performance, loss of muscle mitochondria, and degeneration of dopaminergic neurons associated with mitochondrial Ca<sup>2+</sup> overload in C. elegans. These findings suggest that MA-5 may act as an anti-aging agent against a wide range of neuromuscular dysfunctions in metazoans.

@@ -1,0 +1,5 @@
+Title: Factors affecting progression of non-Alzheimer dementia: a retrospective analysis with long-term follow-up.
+PMID: 37920834
+
+Abstract:
+Non-Alzheimer's dementias, including vascular dementia (VaD), frontotemporal dementia (FTD), Lewy body dementia (LBD), and Parkinson's disease dementia (PDD), possess unique characteristics and prognostic factors that remain poorly understood. This study aims to investigate the temporal course of these subtypes and identify the impact of functional, neuropsychiatric, and comorbid medical conditions on prognosis. Additionally, the relationship between hippocampal atrophy, white matter intensities, and disease progression will be examined, along with the identification of key covariates influencing slow or fast progression in non-Alzheimer's dementias.

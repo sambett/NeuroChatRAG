@@ -1,0 +1,5 @@
+Title: Does Temporary Externalization of Electrodes After Deep Brain Stimulation Surgery Result in a Higher Risk of Infection?
+PMID: 37804281
+
+Abstract:
+Deep brain stimulation (DBS) is a well-established surgical therapy for movement disorders that comprises implantation of stimulation electrodes and a pacemaker. These procedures can be performed separately, leaving the possibility of externalizing the electrodes for local field potential recording or testing multiple targets for therapeutic efficacy. It is still debated whether the temporary externalization of DBS electrodes leads to an increased risk of infection. We therefore aimed to assess the risk of infection during and after lead externalization in DBS surgery.

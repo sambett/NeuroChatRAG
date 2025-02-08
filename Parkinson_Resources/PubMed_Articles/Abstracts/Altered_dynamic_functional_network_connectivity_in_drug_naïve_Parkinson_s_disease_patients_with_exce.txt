@@ -1,0 +1,5 @@
+Title: Altered dynamic functional network connectivity in drug-naïve Parkinson's disease patients with excessive daytime sleepiness.
+PMID: 38125809
+
+Abstract:
+Excessive daytime sleepiness (EDS) is a frequent nonmotor symptoms of Parkinson's disease (PD), which seriously affects the quality of life of PD patients and exacerbates other nonmotor symptoms. Previous studies have used static analyses of these resting-state functional magnetic resonance imaging (rs-fMRI) data were measured under the assumption that the intrinsic fluctuations during MRI scans are stationary. However, dynamic functional network connectivity (dFNC) analysis captures time-varying connectivity over short time scales and may reveal complex functional tissues in the brain.

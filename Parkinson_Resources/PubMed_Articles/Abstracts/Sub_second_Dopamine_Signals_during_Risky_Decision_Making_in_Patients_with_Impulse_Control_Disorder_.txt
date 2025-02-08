@@ -1,0 +1,5 @@
+Title: Sub-second Dopamine Signals during Risky Decision-Making in Patients with Impulse Control Disorder.
+PMID: 37745618
+
+Abstract:
+Impulse Control Disorder (ICD) in Parkinson's disease is a behavioral addiction arising secondary to dopaminergic therapies, most often dopamine receptor agonists. Prior research implicates changes in striatal function and heightened dopaminergic activity in the dorsal striatum of patients with ICD. However, this prior work does not possess the temporal resolution required to investigate dopaminergic signaling during real-time progression through various stages of decision-making involving anticipation and feedback.

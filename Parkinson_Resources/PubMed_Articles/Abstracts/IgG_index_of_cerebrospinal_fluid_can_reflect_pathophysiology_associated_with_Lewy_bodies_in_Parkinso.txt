@@ -1,0 +1,5 @@
+Title: IgG index of cerebrospinal fluid can reflect pathophysiology associated with Lewy bodies in Parkinson's disease.
+PMID: 37544209
+
+Abstract:
+Neuroinflammation is one of the pathophysiologies of Parkinson's disease (PD). Lewy bodies, the pathological hallmark of PD, emerge as a consequence of α-synuclein aggregation, and neuroinflammation is induced concurrently with this aggregation. Imaging and cerebrospinal fluid (CSF) biomarkers that reflect PD pathophysiology have been developed or are under investigation. The IgG index of CSF is a marker of inflammation, and may also reflect the pathophysiology of PD.

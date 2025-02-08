@@ -1,0 +1,5 @@
+Title: Plasma glial fibrillary acidic protein as a biomarker of disease progression in Parkinson's disease: a prospective cohort study.
+PMID: 37932720
+
+Abstract:
+Reactive astrogliosis has been demonstrated to have a role in Parkinson's disease (PD); however, astrocyte-specific plasma glial fibrillary acidic protein (GFAP)'s correlation with PD progression remains unknown. We aimed to determine whether plasma GFAP can monitor and predict PD progression.

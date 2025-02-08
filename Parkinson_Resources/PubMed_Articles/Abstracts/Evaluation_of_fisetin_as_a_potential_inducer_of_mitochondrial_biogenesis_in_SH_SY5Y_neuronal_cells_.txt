@@ -1,0 +1,5 @@
+Title: Evaluation of fisetin as a potential inducer of mitochondrial biogenesis in SH-SY5Y neuronal cells.
+PMID: 37886009
+
+Abstract:
+Increasing evidence implicates impaired mitochondrial biogenesis as an important contributor to mitochondrial dysfunction, which plays a central role in the pathogenesis of neurodegenerative diseases including Parkinson's disease (PD). For this reason, targeting mitochondrial biogenesis may present a promising therapeutic strategy for PD. The present study attempted to investigate the effects of fisetin, a dietary flavonoid, on mitochondrial biogenesis and the expression of PD-associated genes in neuronal cells.

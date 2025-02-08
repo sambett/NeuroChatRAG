@@ -1,0 +1,5 @@
+Title: Characteristics and influencing factors of <sup>11</sup>C-CFT PET imaging in patients with early and late onset Parkinson's disease.
+PMID: 37483437
+
+Abstract:
+This study aims to explore the difference between <sup>11</sup>C-methyl-N-2β-carbomethoxy-3β-(4-fluorophenyl)-tropanel (<sup>11</sup>C-CFT) positron emission tomography (PET) imaging in the early-onset Parkinson's disease (EOPD) and late-onset Parkinson's disease (LOPD), and to analyze the correlation between <sup>11</sup>C-CFT PET imaging and disease duration, Hoehn & Yahr (H&Y) stage, motor symptoms, and non-motor symptoms in patients with idiopathic Parkinson's disease (PD), so as to explore its application value in assessing the severity of Parkinson's disease.

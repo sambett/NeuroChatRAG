@@ -1,0 +1,5 @@
+Title: Unraveling the transcriptomic signatures of Parkinson's disease and major depression using single-cell and bulk data.
+PMID: 38020762
+
+Abstract:
+Motor symptoms are well-characterized in Parkinson's disease (PD). However, non-motor symptoms, such as depression, are commonly observed and can appear up to 10 years before motor features, resulting in one-third of individuals being misdiagnosed with a neuropsychiatric disorder. Thus, identifying diagnostic biomarkers is crucial for accurate PD diagnosis during its prodromal or early stages.

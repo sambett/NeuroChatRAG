@@ -1,0 +1,5 @@
+Title: The gut-brain axis in Parkinson's disease.
+PMID: 38129277
+
+Abstract:
+There is a bi-directional communication between the gut, including the microbiota, and the brain through the autonomic nervous system. Accumulating evidence has suggested a bidirectional link between gastrointestinal inflammation and neurodegeneration, in accordance with the concept of the gut-rain axis. An abnormal microbiota-gut-brain interaction contributes to the pathogeny of Parkinson's disease. This supports the hypothesis that Parkinson's disease originates in the gut to spread to the central nervous system, in particular through the vagus nerve. Targeting the gut-to-brain axis with vagus nerve stimulation, fecal microbiota transplantation, gut-selective antibiotics, as well as drugs targeting the leaky gut might be of interest in the management of Parkinson's disease.

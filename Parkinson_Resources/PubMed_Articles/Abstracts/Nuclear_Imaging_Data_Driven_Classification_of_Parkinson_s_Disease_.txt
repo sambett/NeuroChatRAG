@@ -1,0 +1,5 @@
+Title: Nuclear Imaging Data-Driven Classification of Parkinson's Disease.
+PMID: 37638533
+
+Abstract:
+Parkinson's disease (PD) is a heterogeneous neurodegenerative disorder characterized by motor and nonmotor symptoms. Several features have prognostic importance and have been used as key indicators for identifying clinical subtypes. However, the symptom-based classification approach has limitations with respect to the stability of the obtained subtypes.

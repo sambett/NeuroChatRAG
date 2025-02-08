@@ -1,0 +1,5 @@
+Title: Multimodal imaging study of the 5-HT<sub>1A</sub> receptor biased agonist, NLX-112, in a model of L-DOPA-induced dyskinesia.
+PMID: 37632990
+
+Abstract:
+The leading treatment for motor signs of Parkinson's disease is L-DOPA, but, upon extended use, it can lead to levodopa-induced dyskinesia (LID). Serotonergic neurons are involved in LID etiology and previous pre-clinical studies have shown that NLX-112, a 5-HT<sub>1A</sub> biased agonist, has robust antidyskinetic effects. Here, we investigated its effects in hemiparkinsonian (HPK) rats with a unilateral nigrostriatal 6-OHDA lesion.

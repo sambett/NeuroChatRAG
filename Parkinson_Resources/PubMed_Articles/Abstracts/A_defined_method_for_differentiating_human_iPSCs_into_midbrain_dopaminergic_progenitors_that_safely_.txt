@@ -1,0 +1,5 @@
+Title: A defined method for differentiating human iPSCs into midbrain dopaminergic progenitors that safely restore motor deficits in Parkinson's disease.
+PMID: 37502682
+
+Abstract:
+Parkinson's disease (PD) is a progressive neurodegenerative condition that primarily affects motor functions; it is caused by the loss of midbrain dopaminergic (mDA) neurons. The therapeutic effects of transplanting human-induced pluripotent stem cell (iPSC)-derived mDA neural progenitor cells in animal PD models are known and are being evaluated in an ongoing clinical trial. However, However, improvements in the safety and efficiency of differentiation-inducing methods are crucial for providing a larger scale of cell therapy studies. This study aimed to investigate the usefulness of dopaminergic progenitor cells derived from human iPSCs by our previously reported method, which promotes differentiation and neuronal maturation by treating iPSCs with three inhibitors at the start of induction.

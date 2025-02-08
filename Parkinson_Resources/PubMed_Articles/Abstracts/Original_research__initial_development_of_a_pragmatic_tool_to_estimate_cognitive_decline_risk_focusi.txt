@@ -1,0 +1,5 @@
+Title: Original research: initial development of a pragmatic tool to estimate cognitive decline risk focusing on potentially modifiable factors in Parkinson's disease.
+PMID: 37942138
+
+Abstract:
+Cognitive decline is common in Parkinson's disease (PD). Calculating personalized risk of cognitive decline in PD would allow for appropriate counseling, early intervention with available treatments, and inclusion in disease-modifying trials.

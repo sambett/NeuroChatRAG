@@ -1,0 +1,5 @@
+Title: Dexmedetomidine after deep brain stimulation for prevention of delirium in elderly patients with Parkinson's disease: protocol for a single-centre, randomised, double-blind, placebo-controlled trial in China.
+PMID: 37433729
+
+Abstract:
+Parkinson's disease is one of the most common neurodegenerative diseases. Deep brain stimulation (DBS) can improve motor symptoms in patients with middle and late Parkinson's disease, reduce the use of levodopa, and thus reduce drug-related side effects. Postoperative delirium can significantly reduce the short-term and long-term quality of life in elderly patients, which can be alleviated by dexmedetomidine (DEX). However, whether prophylactic DEX could reduce the incidence of postoperative delirium in patients with Parkinson's disease was still unknown.

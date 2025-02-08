@@ -1,0 +1,5 @@
+Title: Addressing Motor Dysfunction by a Selective α6-Containing Nicotinic Receptor Antagonist.
+PMID: 37852222
+
+Abstract:
+In the striatum, presynaptic α6-containig nicotinic receptors are crucially involved in the modulation of dopamine release. CVN417, a novel selective antagonist at this receptor subtype, attenuates motor dysfunction in a Parkinson's disease-relevant animal model, suggesting, for this pathology, a therapeutic strategy that could greatly profit from the restricted localization of α6* nicotinic receptors in the brain.

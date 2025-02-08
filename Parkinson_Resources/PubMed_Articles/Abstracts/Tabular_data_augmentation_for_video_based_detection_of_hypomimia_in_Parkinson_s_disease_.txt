@@ -1,0 +1,5 @@
+Title: Tabular data augmentation for video-based detection of hypomimia in Parkinson's disease.
+PMID: 37531692
+
+Abstract:
+This paper presents a method for the computerized detection of hypomimia in people with Parkinson's disease (PD). It overcomes the difficulty of the small and unbalanced size of available datasets.

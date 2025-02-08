@@ -1,0 +1,5 @@
+Title: Perioperative Use of Intravenous Levodopa as an Anti-Parkinsonian Drug: A Propensity Score Analysis.
+PMID: 38026512
+
+Abstract:
+Perioperative discontinuation of oral anti-parkinsonian medication can negatively impact the prognosis of abdominal surgery in patients with Parkinson's disease. Although intravenous levodopa may be an alternative, its efficacy has not yet been investigated.

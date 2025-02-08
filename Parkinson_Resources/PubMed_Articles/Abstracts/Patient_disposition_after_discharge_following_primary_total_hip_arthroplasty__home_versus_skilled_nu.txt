@@ -1,0 +1,5 @@
+Title: Patient disposition after discharge following primary total hip arthroplasty: home versus skilled nursing facility-a study based on national inpatient sample database.
+PMID: 37819436
+
+Abstract:
+In view of the shortened length of hospital stay following THA, an increasing proportion of patients have required transfer to "extended-care" (ECF) or "skilled nursing" facilities (SNF) over the past years. As a result, the expenditure related to postoperative care facility has been acknowledged as a crucial component of total economic burden associated with THA. In this context, the clinical and demographic factors leading to the need for transfer of patients to SNF following primary THA need to be clearly understood.

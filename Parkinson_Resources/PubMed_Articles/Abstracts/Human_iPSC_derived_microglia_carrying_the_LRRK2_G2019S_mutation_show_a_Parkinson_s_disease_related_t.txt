@@ -1,0 +1,5 @@
+Title: Human iPSC-derived microglia carrying the LRRK2-G2019S mutation show a Parkinson's disease related transcriptional profile and function.
+PMID: 38092815
+
+Abstract:
+LRRK2-G2019S is one of the most common Parkinson's disease (PD)-associated mutations and has been shown to alter microglial functionality. However, the impact of LRRK2-G2019S on transcriptional profile of human induced pluripotent stem cell-derived microglia-like cells (iMGLs) and how it corresponds to microglia in idiopathic PD brain is not known. Here we demonstrate that LRRK2-G2019S carrying iMGL recapitulate aspects of the transcriptional signature of human idiopathic PD midbrain microglia. LRRK2-G2019S induced subtle and donor-dependent alterations in iMGL mitochondrial respiration, phagocytosis and cytokine secretion. Investigation of microglial transcriptional state in the midbrains of PD patients revealed a subset of microglia with a transcriptional overlap between the in vitro PD-iMGL and human midbrain PD microglia. We conclude that LRRK2-G2019S iMGL serve as a model to study PD-related effects in human microglia.

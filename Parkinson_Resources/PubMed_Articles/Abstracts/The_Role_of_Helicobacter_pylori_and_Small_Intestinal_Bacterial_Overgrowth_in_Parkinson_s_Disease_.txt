@@ -1,0 +1,5 @@
+Title: The Role of Helicobacter pylori and Small Intestinal Bacterial Overgrowth in Parkinson's Disease.
+PMID: 37562451
+
+Abstract:
+Parkinson's disease (PD) is a common neurodegenerative disorder whose etiology remains largely unexplained. Several studies have aimed to describe a causative effect in the interactions between the gastrointestinal tract and the brain, for both PD pathogenesis and disease course. However, the results have been controversial. <i>Helicobacter pylori</i> and small intestinal bacterial overgrowth (SIBO) are theorized to be agents capable of triggering chronic proinflammatory changes with a possible neurotoxic effect, as well as a cause of erratic L-dopa response in PD patients. This review evaluates the individual and possibly synergistic influence of <i>H. pylori</i> and SIBO on PD, to provide an opportunity to consider prospective therapeutic approaches.

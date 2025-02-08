@@ -1,0 +1,5 @@
+Title: A simple protocol for isolating microglia from adult mouse brain.
+PMID: 37885917
+
+Abstract:
+Although microglia are activated in adult and aged brains resulting in neurodegenerative and neuroinflammatory disorders, most of the cell culture studies on microglia deal with neonatal microglia because of ease of isolation. Microglia could be isolated from adult brains, but it requires separation by density gradient centrifugation, magnetic beads, etc. Here, we describe a simple protocol of isolating highly purified microglia from adult mouse brains.

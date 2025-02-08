@@ -1,0 +1,5 @@
+Title: Lipopolysaccharide-binding protein and future Parkinson's disease risk: a European prospective cohort.
+PMID: 37480114
+
+Abstract:
+Lipopolysaccharide (LPS) is the outer membrane component of Gram-negative bacteria. LPS-binding protein (LBP) is an acute-phase reactant that mediates immune responses triggered by LPS and has been used as a blood marker for LPS. LBP has recently been indicated to be associated with Parkinson's disease (PD) in small-scale retrospective case-control studies. We aimed to investigate the association between LBP blood levels with PD risk in a nested case-control study within a large European prospective cohort.

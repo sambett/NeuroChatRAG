@@ -1,0 +1,5 @@
+Title: Deep brain stimulation with short versus conventional pulse width in Parkinson's disease and essential tremor: A systematic review and meta-analysis.
+PMID: 38160999
+
+Abstract:
+To maximize clinical benefit and minimize stimulation-induced side effects, optimising deep brain stimulation (DBS) parameters is paramount. Recent literature suggests a potential benefit of short pulse width DBS (spDBS; ≤40 μs) over conventional pulse width DBS (cDBS; ≥60 μs) in movement disorders.

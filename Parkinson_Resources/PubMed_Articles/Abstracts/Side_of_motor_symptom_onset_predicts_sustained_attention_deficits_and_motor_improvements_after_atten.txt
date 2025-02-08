@@ -1,0 +1,5 @@
+Title: Side of motor symptom onset predicts sustained attention deficits and motor improvements after attention training in Parkinson's disease.
+PMID: 37806442
+
+Abstract:
+Parkinson's disease (PD) side of motor symptom onset has been associated with distinct cognitive deficits; individuals with left-side onset (LPD) show more visuospatial impairments, whereas those with right-side onset (RPD) show more verbal impairments. Non-spatial attention is a critical cognitive ability associated with motor functioning that is right hemisphere lateralized but has not been characterized with regard to PD side of onset. We compared individuals with LPD and RPD on non-spatial attention tasks and examined differential responses to a 4-week sustained attention training program.

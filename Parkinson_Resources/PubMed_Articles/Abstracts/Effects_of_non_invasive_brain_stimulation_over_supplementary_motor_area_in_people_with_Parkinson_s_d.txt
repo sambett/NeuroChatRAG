@@ -1,0 +1,5 @@
+Title: Effects of non-invasive brain stimulation over supplementary motor area in people with Parkinson's disease: a protocol for a systematic review and meta-analysis of randomised controlled trials.
+PMID: 38070907
+
+Abstract:
+Individuals with Parkinson's disease (PD) often experience initial hesitation, slowness of movements, decreased balance and impaired standing ability, which can significantly impact their independence. Transcranial magnetic stimulation and transcranial direct current stimulation are two widely used and promising non-invasive brain stimulation (NIBS) modalities for treating PD. The supplementary motor area (SMA), associated with motor behaviour and processing, has received increasing attention as a potential stimulation target to alleviate PD-related symptoms. However, the data on NIBS over SMA in PD individuals are inconsistent and has not been synthesised. In this article, we will review the evidence for NIBS over SMA in PD individuals and evaluate its efficacy in improving PD function.

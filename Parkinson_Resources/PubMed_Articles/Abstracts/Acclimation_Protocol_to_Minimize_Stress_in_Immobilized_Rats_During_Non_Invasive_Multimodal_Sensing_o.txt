@@ -1,0 +1,5 @@
+Title: Acclimation Protocol to Minimize Stress in Immobilized Rats During Non-Invasive Multimodal Sensing of the Autonomic Nervous System.
+PMID: 37948271
+
+Abstract:
+Rodent models are often used in spinal cord injury investigations to measure physiological parameters but require rats to be restrained during data collection to prevent motion and stress-induced artifacts.

@@ -1,0 +1,5 @@
+Title: Automatic Segmentation and Quantification of Nigrosome-1 Neuromelanin and Iron in MRI: A Candidate Biomarker for Parkinson's Disease.
+PMID: 37915245
+
+Abstract:
+There is a lack of automated tools for the segmentation and quantification of neuromelanin (NM) and iron in the nigrosome-1 (N1). Existing tools evaluate the N1 sign, i.e., the presence or absence of the "swallow-tail" in iron-sensitive MRI, or globally analyze the MRI signal in an area containing the N1, without providing a volumetric delineation.

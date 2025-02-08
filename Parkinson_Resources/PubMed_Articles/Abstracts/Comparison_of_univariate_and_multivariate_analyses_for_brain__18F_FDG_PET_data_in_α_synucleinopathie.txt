@@ -1,0 +1,5 @@
+Title: Comparison of univariate and multivariate analyses for brain [18F]FDG PET data in α-synucleinopathies.
+PMID: 37494757
+
+Abstract:
+Brain imaging with [18F]FDG-PET can support the diagnostic work-up of patients with α-synucleinopathies. Validated data analysis approaches are necessary to evaluate disease-specific brain metabolism patterns in neurodegenerative disorders. This study compared the univariate Statistical Parametric Mapping (SPM) single-subject procedure and the multivariate Scaled Subprofile Model/Principal Component Analysis (SSM/PCA) in a cohort of patients with α-synucleinopathies.

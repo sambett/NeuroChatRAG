@@ -1,0 +1,5 @@
+Title: VGF modifications related to nigrostriatal dopaminergic neurodegeneration induced by the pesticide fipronil in adult male rats.
+PMID: 38056781
+
+Abstract:
+Dopamine is reduced in the brain of rats treated with fipronil, a broad-spectrum insecticide. VGF (no acronym) is a neurotrophin-inducible protein expressed as the 75 kDa form (precursor or pro-VGF) or its truncated peptides. VGF immunostaining has been revealed using an antibody against the C-terminal nonapeptide of the rat pro-VGF in the nerve terminals of the rat substantia nigra, where it was reduced after 6-hydroxydopamine treatment. It is unknown whether pro-VGF and/or its shortened peptides are present in these neurons. Therefore, the aim of this study was first to determine which types of VGF are expressed in the normal substantia nigra (and striatum) and then to determine VGF modulations and whether they occur in parallel with locomotor changes after fipronil injection.

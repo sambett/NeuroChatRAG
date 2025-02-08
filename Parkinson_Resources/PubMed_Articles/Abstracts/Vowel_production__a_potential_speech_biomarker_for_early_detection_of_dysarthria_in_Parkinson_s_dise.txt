@@ -1,0 +1,5 @@
+Title: Vowel production: a potential speech biomarker for early detection of dysarthria in Parkinson's disease.
+PMID: 37701868
+
+Abstract:
+Our aim is to detect early, subclinical speech biomarkers of dysarthria in Parkinson's disease (PD), i.e., systematic atypicalities in speech that remain subtle, are not easily detectible by the clinician, so that the patient is labeled "non-dysarthric." Based on promising exploratory work, we examine here whether vowel articulation, as assessed by three acoustic metrics, can be used as early indicator of speech difficulties associated with Parkinson's disease.

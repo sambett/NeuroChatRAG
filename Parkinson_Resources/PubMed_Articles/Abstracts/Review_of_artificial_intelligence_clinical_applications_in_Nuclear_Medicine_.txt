@@ -1,0 +1,5 @@
+Title: Review of artificial intelligence clinical applications in Nuclear Medicine.
+PMID: 37901920
+
+Abstract:
+This paper provides an in-depth analysis of the clinical applications of artificial intelligence (AI) in Nuclear Medicine, focusing on three key areas: neurology, cardiology, and oncology. Beginning with neurology, specifically Alzheimer's disease and Parkinson's disease, the paper examines reviews on diagnosis and treatment planning. The same pattern is followed in cardiology studies. In the final section on oncology, the paper explores the various AI applications in multiple cancer types, including lung, head and neck, lymphoma, and pancreatic cancer.

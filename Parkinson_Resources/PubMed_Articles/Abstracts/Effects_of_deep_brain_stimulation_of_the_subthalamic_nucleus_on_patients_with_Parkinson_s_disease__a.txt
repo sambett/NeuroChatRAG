@@ -1,0 +1,5 @@
+Title: Effects of deep brain stimulation of the subthalamic nucleus on patients with Parkinson's disease: a machine-learning voice analysis.
+PMID: 37928137
+
+Abstract:
+Deep brain stimulation of the subthalamic nucleus (STN-DBS) can exert relevant effects on the voice of patients with Parkinson's disease (PD). In this study, we used artificial intelligence to objectively analyze the voices of PD patients with STN-DBS.

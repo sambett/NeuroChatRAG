@@ -1,0 +1,5 @@
+Title: Distinct serum GDNF coupling with brain structural and functional changes underlies cognitive status in Parkinson's disease.
+PMID: 37718594
+
+Abstract:
+Aberrations in brain connections are implicated in the pathogenesis of Parkinson's disease (PD). We previously demonstrated that Glial cell-derived neurotrophic factor (GDNF) reduction is associated with cognition decline. Nonetheless, it is elusive if the pattern of brain topological connectivity differed across PD with divergent serum GDNF levels, and the accompanying profile of cognitive deficits has yet to be determined.

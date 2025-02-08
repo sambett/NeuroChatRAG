@@ -1,0 +1,5 @@
+Title: An overview: Radiotracers and nano-radiopharmaceuticals for diagnosis of Parkinson's disease.
+PMID: 37989065
+
+Abstract:
+Parkinson's disease (PD) is a widespread progressive neurodegenerative disease. Clinical diagnosis approaches are insufficient to provide an early and accurate diagnosis before a substantial of loss of dopaminergic neurons. PET and SPECT can be used for accurate and early diagnosis of PD by using target-specific radiotracers. Additionally, the importance of BBB penetrating targeted nanosystems has increased in recent years. This article reviews targeted radiopharmaceuticals used in clinics and novel nanocarriers for research purposes of PD imaging.

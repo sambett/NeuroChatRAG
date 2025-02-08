@@ -1,0 +1,5 @@
+Title: Embedding Patient Input in Outcome Measures for Long-Term Disease-Modifying Parkinson Disease Trials.
+PMID: 38140767
+
+Abstract:
+Clinical trials of disease-modifying therapies in PD require valid and responsive primary outcome measures that are relevant to patients.

@@ -1,0 +1,5 @@
+Title: The Role of Impaired Mitochondrial Transport in the Development of Neurodegenerative Diseases.
+PMID: 37519177
+
+Abstract:
+The fight against neurodegenerative diseases is one of the key direction of modern medicine. Unfortunately, the difficulties in understanding the factors underlying the development of neurodegeneration hinder the development of breakthrough therapeutics that can stop or at least greatly slow down the progression of these diseases. In this review, it is considered the disruption of mitochondrial transport as one of the pathogenesis factors contributing to neurodegeneration using the examples of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease. Here, the mechanism of mitochondrial transport under normal conditions and the mechanisms of disturbances for the indicated diseases will be considered.

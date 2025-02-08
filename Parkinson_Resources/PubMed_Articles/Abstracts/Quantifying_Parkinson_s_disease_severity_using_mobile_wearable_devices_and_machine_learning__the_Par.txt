@@ -1,0 +1,5 @@
+Title: Quantifying Parkinson's disease severity using mobile wearable devices and machine learning: the ParkApp pilot study protocol.
+PMID: 38154904
+
+Abstract:
+The clinical assessment of Parkinson's disease (PD) symptoms can present reliability issues and, with visits typically spaced apart 6 months, can hardly capture their frequent variability. Smartphones and smartwatches along with signal processing and machine learning can facilitate frequent, remote, reliable and objective assessments of PD from patients' homes.

@@ -1,0 +1,5 @@
+Title: Intelligibility of speech in Parkinson's disease relies on anatomically segregated subthalamic beta oscillations.
+PMID: 37499882
+
+Abstract:
+Speech impairment is commonly reported in Parkinson's disease and is not consistently improved by available therapies - including deep brain stimulation of the subthalamic nucleus (STN-DBS), which can worsen communication performance in some patients. Improving the outcome of STN-DBS on speech is difficult due to our incomplete understanding of the contribution of the STN to fluent speaking.

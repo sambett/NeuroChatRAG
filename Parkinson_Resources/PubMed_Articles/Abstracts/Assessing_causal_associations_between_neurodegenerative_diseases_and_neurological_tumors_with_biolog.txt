@@ -1,0 +1,5 @@
+Title: Assessing causal associations between neurodegenerative diseases and neurological tumors with biological aging: a bidirectional Mendelian randomization study.
+PMID: 38169680
+
+Abstract:
+Aging is a significant risk factor for many neurodegenerative diseases and neurological tumors. Previous studies indicate that the frailty index, facial aging, telomere length (TL), and epigenetic aging clock acceleration are commonly used biological aging proxy indicators. This study aims to comprehensively explore potential relationships between biological aging and neurodegenerative diseases and neurological tumors by integrating various biological aging proxy indicators, employing Mendelian randomization (MR) analysis.

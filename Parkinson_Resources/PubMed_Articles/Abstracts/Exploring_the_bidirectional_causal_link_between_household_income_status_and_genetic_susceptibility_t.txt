@@ -1,0 +1,5 @@
+Title: Exploring the bidirectional causal link between household income status and genetic susceptibility to neurological diseases: findings from a Mendelian randomization study.
+PMID: 37564429
+
+Abstract:
+Observational studies have revealed that socioeconomic status is associated with neurological disorders and aging. However, the potential causal effect between the two remains unclear. We therefore aimed to investigate the causal relationship between household income status and genetic susceptibility to neurological diseases using a bidirectional Mendelian randomization (MR) study.

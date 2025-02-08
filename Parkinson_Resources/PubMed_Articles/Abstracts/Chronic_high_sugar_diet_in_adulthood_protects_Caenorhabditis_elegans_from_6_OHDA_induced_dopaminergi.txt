@@ -1,0 +1,5 @@
+Title: Chronic high-sugar diet in adulthood protects Caenorhabditis elegans from 6-OHDA-induced dopaminergic neurodegeneration.
+PMID: 37950228
+
+Abstract:
+Diets high in saturated fat and sugar, termed "Western diets," have been associated with several negative health outcomes, including increased risk for neurodegenerative disease. Parkinson's disease (PD) is the second most prevalent neurodegenerative disease and is characterized by the progressive death of dopaminergic neurons in the brain. We build upon previous work characterizing the impact of high-sugar diets in Caenorhabditis elegans to mechanistically evaluate the relationship between high-sugar diets and dopaminergic neurodegeneration.

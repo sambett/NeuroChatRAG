@@ -1,0 +1,5 @@
+Title: Cerebrospinal fluid GFAP is a predictive biomarker for conversion to dementia and Alzheimer's disease-associated biomarkers alterations among de novo Parkinson's disease patients: a prospective cohort study.
+PMID: 37475029
+
+Abstract:
+Dementia is a prevalent non-motor manifestation among individuals with advanced Parkinson's disease (PD). Glial fibrillary acidic protein (GFAP) is an inflammatory marker derived from astrocytes. Research has demonstrated the potential of plasma GFAP to forecast the progression to dementia in PD patients with mild cognitive impairment (PD-MCI). However, the predictive role of cerebrospinal fluid (CSF) GFAP on future cognitive transformation and alterations in Alzheimer's disease (AD)-associated CSF biomarkers in newly diagnosed PD patients has not been investigated.

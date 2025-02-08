@@ -1,0 +1,5 @@
+Title: Progranulin and GPNMB: interactions in endo-lysosome function and inflammation in neurodegenerative disease.
+PMID: 38037070
+
+Abstract:
+Alterations in progranulin (PGRN) expression are associated with multiple neurodegenerative diseases (NDs), including frontotemporal dementia (FTD), Alzheimer's disease (AD), Parkinson's disease (PD), and lysosomal storage disorders (LSDs). Recently, the loss of PGRN was shown to result in endo-lysosomal system dysfunction and an age-dependent increase in the expression of another protein associated with NDs, glycoprotein non-metastatic B (GPNMB).

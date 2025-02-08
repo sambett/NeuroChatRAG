@@ -1,0 +1,5 @@
+Title: Transcriptome sequencing of circular RNA reveals the involvement of hsa-SCMH1_0001 in the pathogenesis of Parkinson's disease.
+PMID: 37664885
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease. Exosomes are endosome-derived extracellular vesicles that can take part in intercellular communication. Circular RNAs (circRNAs) are noncoding RNAs characterized by covalently closed-loop structures, which perform a crucial function in many diseases.

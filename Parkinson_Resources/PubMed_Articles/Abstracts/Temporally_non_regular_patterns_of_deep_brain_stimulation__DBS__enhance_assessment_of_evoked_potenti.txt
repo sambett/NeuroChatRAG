@@ -1,0 +1,5 @@
+Title: Temporally non-regular patterns of deep brain stimulation (DBS) enhance assessment of evoked potentials while maintaining motor symptom management in Parkinson's disease (PD).
+PMID: 37863388
+
+Abstract:
+Traditional deep brain stimulation (DBS) at fixed regular frequencies (>100 Hz) is effective in treating motor symptoms of Parkinson's disease (PD). Temporally non-regular patterns of DBS are a new parameter space that may help increase efficacy and efficiency.

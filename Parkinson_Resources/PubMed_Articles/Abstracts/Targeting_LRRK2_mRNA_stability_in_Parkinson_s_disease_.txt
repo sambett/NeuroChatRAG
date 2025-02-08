@@ -1,0 +1,5 @@
+Title: Targeting LRRK2 mRNA stability in Parkinson's disease.
+PMID: 37858439
+
+Abstract:
+In a recent study, Liu and colleagues demonstrated a role for the purine biosynthesis enzyme ATIC and its substrate in regulating the protein levels of the Parkinson's disease kinase LRRK2, which rescues neurodegeneration and neuroinflammation in distinct animal models. This work highlights a novel avenue to target LRRK2 protein levels as a strategy to prevent neurodegeneration in Parkinson's disease.

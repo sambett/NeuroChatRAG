@@ -1,0 +1,5 @@
+Title: Exploring the Connectivity of Neurodegenerative Diseases: Microglia as the Center.
+PMID: 38107384
+
+Abstract:
+Degenerative diseases affect people's life and health and cause a severe social burden. Relevant mechanisms of microglia have been studied, aiming to control and reduce degenerative disease occurrence effectively. This review discussed the specific mechanisms underlying microglia in neurodegenerative diseases, age-related hearing loss, Alzheimer's disease, Parkinson's disease, and peripheral nervous system (PNS) degenerative diseases. It also reviewed the studies of microglia inhibitors (PLX3397/PLX5622) and activators (lipopolysaccharide), and suggested that reducing microglia can effectively curb the genesis and progression of degenerative diseases. Finally, microglial cells' anti-inflammatory and pro-inflammatory dual role was considered the critical communication point in central and peripheral degenerative diseases. Although it is difficult to describe the complex morphological structure of microglia in a unified manner, this does not prevent them from being a target for future treatment of neurodegenerative diseases.

@@ -1,0 +1,5 @@
+Title: TSPO PET brain inflammation imaging: A transdiagnostic systematic review and meta-analysis of 156 case-control studies.
+PMID: 37543251
+
+Abstract:
+The 18-kDa translocator protein (TSPO) is increasingly recognized as a molecular target for PET imaging of inflammatory responses in various central nervous system (CNS) disorders. However, the reported sensitivity and specificity of TSPO PET to identify brain inflammatory processes appears to vary greatly across disorders, disease stages, and applied quantification methods. To advance TSPO PET as a potential biomarker to evaluate brain inflammation and anti-inflammatory therapies, a better understanding of its applicability across disorders is needed. We conducted a transdiagnostic systematic review and meta-analysis of all in vivo human TSPO PET imaging case-control studies in the CNS. Specifically, we investigated the direction, strength, and heterogeneity associated with the TSPO PET signal across disorders in pre-specified brain regions, and explored the demographic and methodological sources of heterogeneity.

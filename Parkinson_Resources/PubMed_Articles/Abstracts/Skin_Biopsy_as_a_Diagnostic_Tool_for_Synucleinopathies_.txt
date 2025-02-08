@@ -1,0 +1,5 @@
+Title: Skin Biopsy as a Diagnostic Tool for Synucleinopathies.
+PMID: 38022110
+
+Abstract:
+Studies published in the last decade identified skin biopsies as a promising source of material for detecting alpha-synuclein (αSN). Alpha-synuclein gets deposited in the skin of patients with synucleinopathies, and therefore, a skin biopsy can be used to diagnose and confirm these diseases histopathologically. A skin biopsy can also be helpful for studies focusing on the nature of αSN deposits. The most important aspects of a biomarker are sensitivity, specificity, and technical feasibility. The potential for a skin biopsy to become the clinical tool of choice as a reliable biomarker for diagnosing synucleinopathies appears to be high, with consistently high sensitivity (>80%) and specificity approaching 100%. The review aims to provide an overview of the factors impacting skin biopsy's sensitivity, specificity, and feasibility in detecting dermal αSN deposits.

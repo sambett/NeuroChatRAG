@@ -1,0 +1,5 @@
+Title: Long non-coding RNAs with essential roles in neurodegenerative disorders.
+PMID: 37905867
+
+Abstract:
+Recently, with the advent of high-resolution and high-throughput sequencing technologies, an increasing number of long non-coding RNAs (lncRNAs) have been found to be involved in the regulation of neuronal function in the central nervous system with specific spatiotemporal patterns, across different neurodegenerative diseases. However, the underlying mechanisms of lncRNAs during neurodegeneration remain poorly understood. This review provides an overview of the current knowledge of the biology of lncRNAs and focuses on introducing the latest identified roles, regulatory mechanisms, and research status of lncRNAs in Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. Finally, this review discusses the potential values of lncRNAs as diagnostic biomarkers and therapeutic targets for neurodegenerative diseases, hoping to provide broader implications for developing effective treatments.

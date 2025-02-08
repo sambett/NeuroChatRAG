@@ -1,0 +1,5 @@
+Title: Non-invasive systemic viral delivery of human alpha-synuclein mimics selective and progressive neuropathology of Parkinson's disease in rodent brains.
+PMID: 38012703
+
+Abstract:
+Alpha-synuclein (α-syn) aggregation into proteinaceous intraneuronal inclusions, called Lewy bodies (LBs), is the neuropathological hallmark of Parkinson's disease (PD) and related synucleinopathies. However, the exact role of α-syn inclusions in PD pathogenesis remains elusive. This lack of knowledge is mainly due to the absence of optimal α-syn-based animal models that recapitulate the different stages of neurodegeneration.

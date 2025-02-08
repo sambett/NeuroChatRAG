@@ -1,0 +1,5 @@
+Title: Integrating single-nucleus sequence profiling to reveal the transcriptional dynamics of Alzheimer's disease, Parkinson's disease, and multiple sclerosis.
+PMID: 37735671
+
+Abstract:
+Alzheimer's disease (AD), Parkinson's disease (PD), and multiple sclerosis (MS) are three nervous system diseases that partially overlap clinically and genetically. However, bulk RNA-sequencing did not accurately detect the core pathogenic molecules in them. The availability of high-quality single cell RNA-sequencing data of post-mortem brain collections permits the generation of a large-scale gene expression in different cells in human brain, focusing on the molecular features and relationships between diseases and genes. We integrated single-nucleus RNA-sequencing (snRNA-seq) datasets of human brains with AD, PD, and MS to identify transcriptomic commonalities and distinctions among them.

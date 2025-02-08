@@ -1,0 +1,5 @@
+Title: Substantia Nigra Pars Reticulata Projections to the Pedunculopontine Nucleus Modulate Dyskinesia.
+PMID: 37461292
+
+Abstract:
+Long-term use of levodopa for Parkinson's disease (PD) treatment is often hindered by development of motor complications, including levodopa-induced dyskinesia (LID). The substantia nigra pars reticulata (SNr) and globus pallidus internal segment (GPi) are the output nuclei of the basal ganglia. Dysregulation of SNr and GPi activity contributes to PD pathophysiology and LID.

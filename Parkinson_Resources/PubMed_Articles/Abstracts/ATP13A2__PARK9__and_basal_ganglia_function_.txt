@@ -1,0 +1,5 @@
+Title: ATP13A2 (PARK9) and basal ganglia function.
+PMID: 38249738
+
+Abstract:
+ATP13A2 is a lysosomal protein involved in polyamine transport with loss of function mutations associated with multiple neurodegenerative conditions. These include early onset Parkinson's disease, Kufor-Rakeb Syndrome, neuronal ceroid lipofuscinosis, hereditary spastic paraplegia, and amyotrophic lateral sclerosis. While <i>ATP13A2</i> mutations may result in clinical heterogeneity, the basal ganglia appear to be impacted in the majority of cases. The basal ganglia is particularly vulnerable to environmental exposures such as heavy metals, pesticides, and industrial agents which are also established risk factors for many neurodegenerative conditions. Not surprisingly then, impaired function of ATP13A2 has been linked to heavy metal toxicity including manganese, iron, and zinc. This review discusses the role of ATP13A2 in basal ganglia function and dysfunction, potential common pathological mechanisms in ATP13A2-related disorders, and how gene x environment interactions may contribute to basal ganglia dysfunction.

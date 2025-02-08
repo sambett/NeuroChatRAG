@@ -1,0 +1,5 @@
+Title: JNK-interacting protein 4 is a central molecule for lysosomal retrograde trafficking.
+PMID: 37559169
+
+Abstract:
+Lysosomal positioning is an important factor in regulating cellular responses, including autophagy. Because proteins encoded by disease-responsible genes are involved in lysosomal trafficking, proper intracellular lysosomal trafficking is thought to be essential for cellular homeostasis. In the past few years, the mechanisms of lysosomal trafficking have been elucidated with a focus on adapter proteins linking motor proteins to lysosomes. Here, we outline recent findings on the mechanisms of lysosomal trafficking by focusing on adapter protein c-Jun NH<sub>2</sub> -terminal kinase-interacting protein (JIP) 4, which plays a central role in this process, and other JIP4 functions and JIP family proteins. Additionally, we discuss neuronal diseases associated with aberrance in the JIP family protein. Accumulating evidence suggests that chemical manipulation of lysosomal positioning may be a therapeutic approach for these neuronal diseases.

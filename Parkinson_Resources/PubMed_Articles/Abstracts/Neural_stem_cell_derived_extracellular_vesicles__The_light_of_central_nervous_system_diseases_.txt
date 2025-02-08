@@ -1,0 +1,5 @@
+Title: Neural stem cell-derived extracellular vesicles: The light of central nervous system diseases.
+PMID: 37406512
+
+Abstract:
+Central nervous system (CNS) diseases are the leading cause of death worldwide. By performing compensatory functions and improving the inflammatory microenvironment, the transplantation of neural stem cells (NSCs) can promote functional recovery from brain injury, aging, brain tumours, and other diseases. However, the ability of NSCs to differentiate into neurons is limited, and they are associated with a risk of tumourigenicity. NSC-derived extracellular vesicles (NSC-EVs) can modulate the local microenvironment of the nervous system as well as distant neuronal functions. Thus, cell-free therapy may be a novel remedy for CNS disorders. This article reviews the characteristics, contents, and mechanisms of action of NSC-EVs as well as their roles and application prospects in various CNS diseases.

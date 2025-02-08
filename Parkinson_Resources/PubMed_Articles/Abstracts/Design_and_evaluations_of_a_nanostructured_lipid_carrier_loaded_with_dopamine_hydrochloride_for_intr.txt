@@ -1,0 +1,5 @@
+Title: Design and evaluations of a nanostructured lipid carrier loaded with dopamine hydrochloride for intranasal bypass drug delivery in Parkinson's disease.
+PMID: 37787159
+
+Abstract:
+The goal of this study is to optimisation and evaluation of dopamine-loaded NLC (NLC-DOPA) for achieve dopamine concentrations into brain for treatment of Parkinson's disease which causes progressive neuronal death.

@@ -1,0 +1,5 @@
+Title: Long-read sequencing resolves a complex structural variant in <i>PRKN</i> Parkinson's disease.
+PMID: 37790330
+
+Abstract:
+<i>PRKN</i> mutations are the most common cause of young onset and autosomal recessive Parkinson's disease (PD). <i>PRKN</i> is located in FRA6E which is one of the common fragile sites in the human genome, making this region prone to structural variants. However, complex structural variants such as inversions of <i>PRKN</i> are seldom reported, suggesting that there are potentially unrevealed complex pathogenic <i>PRKN</i> structural variants.

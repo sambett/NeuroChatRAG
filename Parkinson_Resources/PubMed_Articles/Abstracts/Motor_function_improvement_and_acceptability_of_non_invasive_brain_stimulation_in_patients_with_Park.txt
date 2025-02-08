@@ -1,0 +1,5 @@
+Title: Motor function improvement and acceptability of non-invasive brain stimulation in patients with Parkinson's disease: a Bayesian network analysis.
+PMID: 37564368
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder defined by progressive motor and non-motor symptoms. Currently, the pro-cognitive effects of transcranial direct current stimulation (tDCS) and repetitive transcranial magnetic stimulation (rTMS) are well-supported in previous literatures. However, controversy surrounding the optimal therapeutic target for motor symptom improvement remains.

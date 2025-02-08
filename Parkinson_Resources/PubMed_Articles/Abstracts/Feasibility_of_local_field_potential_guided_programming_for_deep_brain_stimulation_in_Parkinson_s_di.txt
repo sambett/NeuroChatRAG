@@ -1,0 +1,5 @@
+Title: Feasibility of local field potential-guided programming for deep brain stimulation in Parkinson's disease: A comparison with clinical and neuro-imaging guided approaches in a randomized, controlled pilot trial.
+PMID: 37619891
+
+Abstract:
+Subthalamic nucleus deep brain stimulation (STN-DBS) is an effective treatment for advanced Parkinson's disease (PD). Clinical outcomes after DBS can be limited by poor programming, which remains a clinically driven, lengthy and iterative process. Electrophysiological recordings in PD patients undergoing STN-DBS have shown an association between STN spectral power in the beta frequency band (beta power) and the severity of clinical symptoms. New commercially-available DBS devices now enable the recording of STN beta oscillations in chronically-implanted PD patients, thereby allowing investigation into the use of beta power as a biomarker for DBS programming.

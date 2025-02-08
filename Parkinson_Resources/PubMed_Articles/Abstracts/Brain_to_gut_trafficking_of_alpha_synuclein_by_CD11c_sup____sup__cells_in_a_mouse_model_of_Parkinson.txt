@@ -1,0 +1,5 @@
+Title: Brain-to-gut trafficking of alpha-synuclein by CD11c<sup>+</sup> cells in a mouse model of Parkinson's disease.
+PMID: 37981650
+
+Abstract:
+Inflammation in the brain and gut is a critical component of several neurological diseases, such as Parkinson's disease (PD). One trigger of the immune system in PD is aggregation of the pre-synaptic protein, α-synuclein (αSyn). Understanding the mechanism of propagation of αSyn aggregates is essential to developing disease-modifying therapeutics. Using a brain-first mouse model of PD, we demonstrate αSyn trafficking from the brain to the ileum of male mice. Immunohistochemistry revealed that the ileal αSyn aggregations are contained within CD11c<sup>+</sup> cells. Using single-cell RNA sequencing, we demonstrate that ileal CD11c<sup>+</sup> cells are microglia-like and the same subtype of cells is activated in the brain and ileum of PD mice. Moreover, by utilizing mice expressing the photo-convertible protein, Dendra2, we show that CD11c<sup>+</sup> cells traffic from the brain to the ileum. Together these data provide a mechanism of αSyn trafficking between the brain and gut.

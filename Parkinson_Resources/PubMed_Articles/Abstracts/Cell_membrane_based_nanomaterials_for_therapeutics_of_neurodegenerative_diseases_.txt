@@ -1,0 +1,5 @@
+Title: Cell membrane-based nanomaterials for therapeutics of neurodegenerative diseases.
+PMID: 37714337
+
+Abstract:
+Central nervous system (CNS) diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), glioblastoma (GBM), and peripheral nerve injury have been documented as incurable diseases, which lead to serious impacts on human health especially prevalent in the aging population worldwide. Most of the treatment strategies fail due to low efficacy, toxicity, and poor brain penetration. Recently, advancements in nanotechnology have helped alleviate the challenges associated with the application of cell membrane-based nanomaterials against CNS diseases. In the following review, the existing types of cell membrane-based nanomaterials systems which have improved therapeutic efficacy for CNS diseases would be described. A summary of recent progress in the incorporation of nanomaterials in cell membrane-based production, separation, and analysis will be provided. Addition to, challenges relate to large-scale manufacturing of cell membrane-based nanomaterials and future clinical trial of such platforms will be discussed.

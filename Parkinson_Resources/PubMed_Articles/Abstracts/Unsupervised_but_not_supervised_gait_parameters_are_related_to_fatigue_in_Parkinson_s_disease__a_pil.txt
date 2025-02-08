@@ -1,0 +1,5 @@
+Title: Unsupervised but not supervised gait parameters are related to fatigue in Parkinson's disease: a pilot study.
+PMID: 38076532
+
+Abstract:
+Fatigue is a common and disabling symptom in Parkinson's disease (PD), also affecting gait. Detection of fatigue-associated changes of gait using mobile health technologies (MHT) could become increasingly effective.

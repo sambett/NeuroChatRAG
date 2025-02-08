@@ -1,0 +1,5 @@
+Title: A metabolomics study in aqueous humor discloses altered arginine metabolism in Parkinson's disease.
+PMID: 38049870
+
+Abstract:
+The lack of accessible and informative biomarkers results in a delayed diagnosis of Parkinson's disease (PD), whose symptoms appear when a significant number of dopaminergic neurons have already disappeared. The retina, a historically overlooked part of the central nervous system (CNS), has gained recent attention. It has been discovered that the composition of cerebrospinal fluid influences the aqueous humor composition through microfluidic circulation. In addition, alterations found in the brain of patients with PD have a correlate in the retina. This new paradigm highlights the potential of the aqueous humor as a sample for identifying differentially concentrated metabolites that could, eventually, become biomarkers if also found altered in blood or CSF of patients. In this research we aim at analyzing the composition of the aqueous humor from healthy controls and PD patients.

@@ -1,0 +1,5 @@
+Title: Serum BLMH and CKM as Potential Biomarkers for Predicting Therapeutic Effects of Deep Brain Stimulation in Parkinson's Disease: A Proteomics Study.
+PMID: 38176938
+
+Abstract:
+Deep brain stimulation (DBS) is recommended for the treatment of advanced Parkinson's disease (PD), though individual reactions may be different. There are currently no clinically available biomarkers for predicting the responses of PD patients to DBS before surgery. This study aimed to determine serum biomarkers to predict DBS responses in PD.

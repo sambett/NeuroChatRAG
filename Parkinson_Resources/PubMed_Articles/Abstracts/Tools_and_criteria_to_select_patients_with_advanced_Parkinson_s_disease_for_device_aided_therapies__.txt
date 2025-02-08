@@ -1,0 +1,5 @@
+Title: Tools and criteria to select patients with advanced Parkinson's disease for device-aided therapies: a narrative review.
+PMID: 37500937
+
+Abstract:
+This article provides an overview of the various screening and selection tools which have been developed over the past 25 years to identify patients with Parkinson's disease (PD) possibly eligible for device-aided therapies (DATs). For the available screening tools, we describe the target therapies (subtypes of DAT), development methods, validation data, and their use in clinical practice. In addition, the historical background and potential utility of these screening tools are discussed. The challenges in developing and validating these tools are also addressed, taking into account the differences in population, the local health care organization, and resource availability.

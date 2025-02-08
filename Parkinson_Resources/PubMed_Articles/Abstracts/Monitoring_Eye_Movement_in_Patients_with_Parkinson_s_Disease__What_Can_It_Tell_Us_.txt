@@ -1,0 +1,5 @@
+Title: Monitoring Eye Movement in Patients with Parkinson's Disease: What Can It Tell Us?
+PMID: 37519412
+
+Abstract:
+Parkinson's disease (PD) affects approximately 10 million individuals worldwide. Visual impairments are a common feature of PD. Patients report difficulties with visual scanning, impaired depth perception and spatial navigation, and blurry and double vision. Examination of PD patients reveals abnormal fixational saccades, strabismus, impaired convergence, and abnormal visually-guided saccades. This review aims to describe objective features of abnormal eye movements in PD and to discuss the structures and pathways through which these abnormalities may manifest.

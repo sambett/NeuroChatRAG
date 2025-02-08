@@ -1,0 +1,5 @@
+Title: Dopamine 2 agonists for the management of type 2 diabetes: a systematic review and meta-analysis.
+PMID: 37975084
+
+Abstract:
+The Dopamine-2 receptor agonists, Bromocriptine and Cabergoline, were originally introduced for prolactinomas, pituitary tumors, and parkinson's disease but have glucose-lowering effects. This paper systematically reviewed the significance of their effects on lowering blood glucose level and conducted a comprehensive systematic search to identify relevant clinical trials of dopamine 2 agonists on glycated hemoglobin (HbA1c) and fasting blood sugar (FBS).

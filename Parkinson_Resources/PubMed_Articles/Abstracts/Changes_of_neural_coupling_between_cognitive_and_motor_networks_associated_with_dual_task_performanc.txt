@@ -1,0 +1,5 @@
+Title: Changes of neural coupling between cognitive and motor networks associated with dual-task performance in Parkinson's disease.
+PMID: 38153677
+
+Abstract:
+Although cognitive control is essential for efficient gait, the associations between cognitive and motor networks regarding gait in individuals with Parkinson's disease (PD) remain to be determined. Herein, we enrolled 28 PD and 28 controls to compare internetwork coupling among cognitive and motor networks and examine its relationship with single- and dual-task gait performance in PD.

@@ -1,0 +1,5 @@
+Title: Effort-related effects of chronic administration of the DA D<sub>2</sub> receptor antagonist haloperidol via subcutaneous programmable minipumps: Reversal by co-administration of the adenosine A2A antagonist istradefylline.
+PMID: 37615683
+
+Abstract:
+Long-acting antipsychotics such as haloperidol decanoate are becoming more commonly used. Long-acting depot formulations have several advantages, but secondary negative effects of prolonged delivery, including motivational dysfunctions, could have debilitating effects. Assessing the behavioral changes that emerge during chronic antipsychotic administration in rats could provide insight regarding the development of motivational dysfunctions and drug tolerance.

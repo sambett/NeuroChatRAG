@@ -1,0 +1,5 @@
+Title: Nationwide Retrospective Analysis of Combinations of Advanced Therapies in Patients With Parkinson Disease.
+PMID: 37914414
+
+Abstract:
+Advanced therapies (ATs; deep brain stimulation [DBS] or pump therapies: continuous subcutaneous apomorphine infusion [CSAI], levodopa/carbidopa intestinal gel [LCIG]) are used in later stages of Parkinson disease (PD). However, decreasing efficacy over time and/or side effects may require an AT change or combination in individual patients. Current knowledge about changing or combining ATs is limited to mostly retrospective and small-scale studies. The nationwide case collection Combinations of Advanced Therapies in PD assessed simultaneous or sequential AT combinations in Germany since 2005 to analyze their clinical outcome, their side effects, and the reasons for AT modifications.

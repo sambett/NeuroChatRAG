@@ -1,0 +1,5 @@
+Title: Effects of facial biofeedback on hypomimia, emotion recognition, and affect in Parkinson's disease.
+PMID: 38017615
+
+Abstract:
+Facial expressions are a core component of emotions and nonverbal social communication. Therefore, hypomimia as secondary symptom of Parkinson's disease (PD) has adverse effects like social impairment, stigmatization, under-diagnosis and under-treatment of depression, and a generally lower quality of life. Beside unspecific dopaminergic treatment, specific treatment options for hypomimia in PD are rarely investigated. This quasi-randomized controlled trial evaluated the short-term effects of facial electromyogram (EMG) based biofeedback to enhance facial expression and emotion recognition as nonverbal social communication skills in PD patients. Furthermore effects on affect are examined.

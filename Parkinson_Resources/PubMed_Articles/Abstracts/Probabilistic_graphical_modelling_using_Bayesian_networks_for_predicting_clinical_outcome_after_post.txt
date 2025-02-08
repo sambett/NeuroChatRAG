@@ -1,0 +1,5 @@
+Title: Probabilistic graphical modelling using Bayesian networks for predicting clinical outcome after posterior decompression in patients with degenerative cervical myelopathy.
+PMID: 37435966
+
+Abstract:
+Probabilistic graphical modelling (PGM) can be used to predict risk at the individual patient level and show multiple outcomes and exposures in a single model.

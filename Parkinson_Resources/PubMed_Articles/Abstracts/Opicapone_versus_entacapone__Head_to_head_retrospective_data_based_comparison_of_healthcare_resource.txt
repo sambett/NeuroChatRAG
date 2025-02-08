@@ -1,0 +1,5 @@
+Title: Opicapone versus entacapone: Head-to-head retrospective data-based comparison of healthcare resource utilization in people with Parkinson's disease new to catechol-O-methyltransferase (COMT) inhibitor treatment.
+PMID: 37489574
+
+Abstract:
+Motor fluctuations are a significant driver of healthcare resource utilization (HCRU) in people with Parkinson's disease (pwPD). A common management strategy is to include catechol-O-methyltransferase (COMT) inhibition with either opicapone or entacapone in the levodopa regimen. However, to date, there has been a lack of head-to-head data comparing the two COMT inhibitors in real-world settings. The aim of this study was to evaluate changes in HCRU and effect on sleep medications when opicapone was initiated as first COMT inhibitor versus entacapone.

@@ -1,0 +1,5 @@
+Title: Regulatory mechanism of circular RNAs in neurodegenerative diseases.
+PMID: 37864389
+
+Abstract:
+Neurodegenerative disease is a collective term for a category of diseases that are caused by neuronal dysfunction, such as Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS). Circular RNAs (circRNAs) are a class of non-coding RNAs without the 3' cap and 5' poly(A) and are linked by covalent bonds. CircRNAs are highly expressed in brain neurons and can regulate the pathological process of neurodegenerative diseases by affecting the levels of various deposition proteins.

@@ -1,0 +1,5 @@
+Title: Risk of Parkinson's Disease in Celiac Disease: A Swedish Population-Based Study.
+PMID: 37632335
+
+Abstract:
+Using a population-based matched cohort design, we assessed the association of celiac disease (CeD) with risk of PD by comparing patients with biopsy-confirmed CeD in Sweden to a biopsy-free population and their unaffected siblings, separately. No overall association was observed but CeD diagnosed before age 60 associated positively with incident diagnosis of PD (hazard ratio [HR] = 1.29; 95% confidence interval [CI]: 1.02-1.62), which was mainly attributed to the significantly elevated risk detected after 10-15 years since biopsy (HR = 1.68; 95% CI: 1.05-2.68). Our findings imply an increased vulnerability to long-term PD development among patients with CeD diagnosed before 60s. ANN NEUROL 2023;94:911-916.

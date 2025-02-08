@@ -1,0 +1,5 @@
+Title: Parkinson's Disease Tremor Differentially Responds to Levodopa and Subthalamic Stimulation.
+PMID: 37982119
+
+Abstract:
+Tremor in Parkinson's disease (PD) has an inconsistent response to levodopa and subthalamic deep brain stimulation (STN-DBS).

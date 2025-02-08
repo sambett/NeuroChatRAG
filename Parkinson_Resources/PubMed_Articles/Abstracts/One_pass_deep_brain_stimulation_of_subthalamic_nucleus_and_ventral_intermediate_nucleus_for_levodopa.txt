@@ -1,0 +1,5 @@
+Title: One-pass deep brain stimulation of subthalamic nucleus and ventral intermediate nucleus for levodopa-resistant tremor-dominant Parkinson's disease.
+PMID: 38187361
+
+Abstract:
+Tremor-dominant Parkinson's disease (TD-PD) can be further separated into levodopa-responsive and levodopa-resistant types, the latter being considered to have a different pathogenesis. Previous studies indicated that deep brain stimulation (DBS) of the subthalamic nucleus (STN) or the globus pallidus internus (GPi) individually was not sufficient for tremor control, especially for the levodopa-resistant TD-PD (LRTD-PD). The thalamic ventral intermediate nucleus (VIM) has been regarded as a potent DBS target for different kinds of tremors. Therefore, we focused on the LRTD-PD subgroup and performed one-pass combined DBSs of STN and VIM to treat refractory tremors, aiming to investigate the safety and effectiveness of this one-trajectory dual-target DBS scheme.

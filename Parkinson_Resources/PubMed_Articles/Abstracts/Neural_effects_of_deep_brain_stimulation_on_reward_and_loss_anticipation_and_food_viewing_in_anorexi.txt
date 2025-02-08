@@ -1,0 +1,5 @@
+Title: Neural effects of deep brain stimulation on reward and loss anticipation and food viewing in anorexia nervosa: a pilot study.
+PMID: 37605212
+
+Abstract:
+Anorexia nervosa (AN) is a severe and life-threatening psychiatric disorder. Initial studies on deep brain stimulation (DBS) in severe, treatment-refractory AN have shown clinical effects. However, the working mechanisms of DBS in AN remain largely unknown. Here, we used a task-based functional MRI approach to understand the pathophysiology of AN.

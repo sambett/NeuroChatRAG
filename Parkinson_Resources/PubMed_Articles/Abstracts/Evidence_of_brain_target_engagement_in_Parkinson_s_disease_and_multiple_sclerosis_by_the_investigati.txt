@@ -1,0 +1,5 @@
+Title: Evidence of brain target engagement in Parkinson's disease and multiple sclerosis by the investigational nanomedicine, CNM-Au8, in the REPAIR phase 2 clinical trials.
+PMID: 38087362
+
+Abstract:
+Impaired brain energy metabolism has been observed in many neurodegenerative diseases, including Parkinson's disease (PD) and multiple sclerosis (MS). In both diseases, mitochondrial dysfunction and energetic impairment can lead to neuronal dysfunction and death. CNM-Au8® is a suspension of faceted, clean-surfaced gold nanocrystals that catalytically improves energetic metabolism in CNS cells, supporting neuroprotection and remyelination as demonstrated in multiple independent preclinical models. The objective of the Phase 2 REPAIR-MS and REPAIR-PD clinical trials was to investigate the effects of CNM-Au8, administered orally once daily for twelve or more weeks, on brain phosphorous-containing energy metabolite levels in participants with diagnoses of relapsing MS or idiopathic PD, respectively.

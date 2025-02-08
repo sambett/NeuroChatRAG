@@ -1,0 +1,5 @@
+Title: Association between 23 drugs and Parkinson's disease: A two-sample Mendelian randomization study.
+PMID: 37654024
+
+Abstract:
+Parkinson's disease (PD) is a common degenerative nervous system disease. At present, there are certain limitations in various treatment options aimed at preventing or delaying the progression of PD. Therefore, the exploration of new drugs for PD is beneficial. Mendelian randomization (MR) analysis can be used to explore the association between drugs and diseases. In this study, MR analysis was adopted to investigate the causal relationship between 23 drugs and PD. These drugs have been approved for the treatment of different diseases, such as salicylic acid and derivatives (collectively called salicylates, e.g., aspirin, used for fever and pain relief), antithrombotic agents (e.g., warfarin, aspirin, used for preventing thrombotic events).

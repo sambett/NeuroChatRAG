@@ -1,0 +1,5 @@
+Title: The Avidity of Autoreactive Alpha-Synuclein Antibodies in Leucine-Rich Repeat Kinase 2 Mutation Carriers Is Not Altered Compared to Healthy Controls or Patients with Parkinson's Disease.
+PMID: 37759704
+
+Abstract:
+The accumulation and aggregation of alpha-synuclein (α-Syn) are pathological processes associated with Parkinson's disease, indicating that the regulation of protein is a crucial etiopathological mechanism. Interestingly, human serum and cerebrospinal fluid contain autoantibodies that recognize α-Syn. This potentially demonstrates an already existing, naturally decomposing, and protective system. Thus, quantitative or qualitative alterations, such as the modified antigen binding of so-called naturally occurring autoantibodies against α-Syn (nAbs-α-Syn), may induce disease onset and/or progression. We investigated the serum titers and binding characteristics of nAbs-α-Syn in patients suffering from sporadic Parkinson's disease (n = 38), LRRK2 mutation carriers (n = 25), and healthy controls (n = 22).

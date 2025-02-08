@@ -1,0 +1,5 @@
+Title: Towards non-invasive peripheral stimulation as a treatment for Parkinson's disease gait.
+PMID: 38083474
+
+Abstract:
+Non-invasive coordinated reset stimulation (CRS) to the hands has been shown to improve motor ability in Parkinson's patients, but not specific for gait disturbances. The overall aim of the project is the application of vibrotactile CRS to the feet to improve gait impairments in Parkinson's disease. As a first step towards this objective, we showed that vibrotactile stimulation to the feet can elicit a cortical response and have identified differences in younger and older individuals. Our findings suggest the potential for non-invasive peripheral stimulation as a therapeutic technique.Clinical Relevance- This is an important step towards developing a non-invasive stimulation technique for the management of gait disturbances in Parkinson's disease.

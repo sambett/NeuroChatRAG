@@ -1,0 +1,5 @@
+Title: An Overview of Gastrointestinal Dysfunction in Parkinsonian Syndromes.
+PMID: 37703887
+
+Abstract:
+Gastrointestinal (GI) dysfunction is a common nonmotor symptom in Parkinson's disease (PD) as well as other parkinsonian syndromes and may precede the onset of motor symptoms by decades. Involvement of all segments of the GI tract can lead to altered responses to medications and worsened quality of life for patients. While some GI symptoms occur in isolation, others overlap. Therefore, understanding the changes in different segments of the GI tract and how they relate to altered responses to PD treatment can guide both diagnostic and pharmacological interventions. Gut microbiota plays a critical role in immune activity and modulation of the enteric and central nervous systems. Understanding this bidirectional relationship helps to elucidate the pathogenesis of neurodegeneration. This review will describe the current understanding of how GI dysfunction develops in parkinsonian syndromes, common symptoms in PD and related disorders, and available treatments.

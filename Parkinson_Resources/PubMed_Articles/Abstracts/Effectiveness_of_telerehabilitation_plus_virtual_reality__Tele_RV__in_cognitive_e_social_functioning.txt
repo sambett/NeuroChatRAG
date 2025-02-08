@@ -1,0 +1,5 @@
+Title: Effectiveness of telerehabilitation plus virtual reality (Tele-RV) in cognitive e social functioning: A randomized clinical study on Parkinson's disease.
+PMID: 38142630
+
+Abstract:
+Telemedicine could represent an emerging and innovative approach to support cognitive and behavioral rehabilitation reducing the overload of healthcare facilities, favoring home care therapy. The present study aimed to assess the potential efficacy of Tele-VR apps in enhancing cognitive performance and improving social skills in patients with Parkinson's disease (PD).

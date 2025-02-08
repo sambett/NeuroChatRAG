@@ -1,0 +1,5 @@
+Title: A systematic review of health disparities research in deep brain stimulation surgery for Parkinson's disease.
+PMID: 37964803
+
+Abstract:
+Deep brain stimulation (DBS) is the primary surgical intervention for Parkinson's disease (PD) patients with insufficient response to medication, significantly improving motor symptoms and quality of life. Despite FDA approval for over two decades, access to this therapy remains limited. This systematic review aims to evaluate the influence of gender, race/ethnicity, socioeconomic status, and age on health disparities associated with DBS for PD, providing an overview of current research in this field.

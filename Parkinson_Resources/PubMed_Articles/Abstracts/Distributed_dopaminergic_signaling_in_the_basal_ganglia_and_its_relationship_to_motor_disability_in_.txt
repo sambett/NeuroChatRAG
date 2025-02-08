@@ -1,0 +1,5 @@
+Title: Distributed dopaminergic signaling in the basal ganglia and its relationship to motor disability in Parkinson's disease.
+PMID: 37866012
+
+Abstract:
+The degeneration of mesencephalic dopaminergic neurons that innervate the basal ganglia is responsible for the cardinal motor symptoms of Parkinson's disease (PD). It has been thought that loss of dopaminergic signaling in one basal ganglia region - the striatum - was solely responsible for the network pathophysiology causing PD motor symptoms. While our understanding of dopamine (DA)'s role in modulating striatal circuitry has deepened in recent years, it also has become clear that it acts in other regions of the basal ganglia to influence movement. Underscoring this point, examination of a new progressive mouse model of PD shows that striatal dopamine DA depletion alone is not sufficient to induce parkinsonism and that restoration of extra-striatal DA signaling attenuates parkinsonian motor deficits once they appear. This review summarizes recent advances in the effort to understand basal ganglia circuitry, its modulation by DA, and how its dysfunction drives PD motor symptoms.

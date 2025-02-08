@@ -1,0 +1,5 @@
+Title: Defining the causes of sporadic Parkinson's disease in the global Parkinson's genetics program (GP2).
+PMID: 37699923
+
+Abstract:
+The Global Parkinson's Genetics Program (GP2) will genotype over 150,000 participants from around the world, and integrate genetic and clinical data for use in large-scale analyses to dramatically expand our understanding of the genetic architecture of PD. This report details the workflow for cohort integration into the complex arm of GP2, and together with our outline of the monogenic hub in a companion paper, provides a generalizable blueprint for establishing large scale collaborative research consortia.

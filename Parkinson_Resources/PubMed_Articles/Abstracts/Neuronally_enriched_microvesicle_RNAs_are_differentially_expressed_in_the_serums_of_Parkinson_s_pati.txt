@@ -1,0 +1,5 @@
+Title: Neuronally enriched microvesicle RNAs are differentially expressed in the serums of Parkinson's patients.
+PMID: 37483339
+
+Abstract:
+Circulating small RNAs (smRNAs) originate from diverse tissues and organs. Previous studies investigating smRNAs as potential biomarkers for Parkinson's disease (PD) have yielded inconsistent results. We investigated whether smRNA profiles from neuronally-enriched serum exosomes and microvesicles are altered in PD patients and discriminate PD subjects from controls.

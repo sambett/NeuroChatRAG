@@ -1,0 +1,5 @@
+Title: The STEPWISE study: study protocol for a smartphone-based exercise solution for people with Parkinson's Disease (randomized controlled trial).
+PMID: 37700241
+
+Abstract:
+Exercise has various health benefits for people with Parkinson's disease (PD). However, implementing exercise into daily life and long-term adherence remain challenging. To increase a sustainable engagement with physical activity of people with PD, interventions that are motivating, accessible, and scalable are needed. We primarily aim to investigate whether a smartphone app (STEPWISE app) can increase physical activity (i.e., step count) in people with PD over one year. Our second aim is to investigate the potential effects of the intervention on physical fitness, and motor- and non-motor function. Our third aim is to explore whether there is a dose-response relationship between volume of physical activity and our secondary endpoints.

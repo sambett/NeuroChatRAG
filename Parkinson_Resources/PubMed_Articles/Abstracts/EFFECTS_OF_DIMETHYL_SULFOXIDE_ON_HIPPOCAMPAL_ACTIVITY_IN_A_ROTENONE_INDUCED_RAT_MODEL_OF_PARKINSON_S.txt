@@ -1,0 +1,5 @@
+Title: EFFECTS OF DIMETHYL SULFOXIDE ON HIPPOCAMPAL ACTIVITY IN A ROTENONE-INDUCED RAT MODEL OF PARKINSON'S DISEASE.
+PMID: 37522774
+
+Abstract:
+Parkinson's disease (PD) is the second most common age-related neurodegenerative disease worldwide. The goal of this study was to examine the effects of dimethyl sulfoxide (DMSO) in a rat model of Parkinson's disease caused by rotenone. Due to its capacity to increase the penetration of potential water-insoluble drugs into the central nervous system, DMSO has been widely used in preclinical and clinical studies. Background and evoked spike activities were recorded in the hippocampus of rats administered DMSO (1 ml/kg i.p. for 3 weeks). We showed that pyramidal cells and Nissl bodies in the hippocampal CA1 and CA3 areas of rats administered rotenone dramatically improved after DMSO treatment. Rotenone enhanced TP and induced a milder TD effect, while DMSO also enhanced TP but induced a stronger TD effect. The analysis revealed inhibitory effects in the hippocampus in response to high-frequency stimulation (HFS; 100 Hz for 1 s) of the ipsilateral entorhinal cortex.

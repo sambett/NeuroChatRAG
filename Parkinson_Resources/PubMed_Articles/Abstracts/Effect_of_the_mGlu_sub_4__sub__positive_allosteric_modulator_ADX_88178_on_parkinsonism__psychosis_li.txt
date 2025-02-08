@@ -1,0 +1,5 @@
+Title: Effect of the mGlu<sub>4</sub> positive allosteric modulator ADX-88178 on parkinsonism, psychosis-like behaviours and dyskinesia in the MPTP-lesioned marmoset.
+PMID: 37516708
+
+Abstract:
+Positive allosteric modulation of metabotropic glutamate type 4 (mGlu<sub>4</sub>) receptors is a promising strategy to alleviate parkinsonian disability and L-3,4-dihydroxyphenylalanine (L-DOPA) induced dyskinesia. ADX-88178 is a highly selective mGlu<sub>4</sub> positive allosteric modulator (PAM) that previously enhanced the anti-parkinsonian action of L-DOPA in the 6-hydroxydopamine-lesioned rat model of Parkinson's disease (PD).

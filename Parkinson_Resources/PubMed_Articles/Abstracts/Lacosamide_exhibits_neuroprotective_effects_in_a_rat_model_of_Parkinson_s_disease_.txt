@@ -1,0 +1,5 @@
+Title: Lacosamide exhibits neuroprotective effects in a rat model of Parkinson's disease.
+PMID: 37442244
+
+Abstract:
+Parkinson's disease (PD) is a chronic and progressive neurodegenerative disorder that primarily affects the motor system. Although there are several treatments available to alleviate PD symptoms, there is currently no cure for the disease. Lacosamide, an anti-epileptic drug, has shown promising results in preclinical studies as a potential neuroprotective agent for PD. In this study, we aimed to investigate the neuroprotective effect of lacosamide in a murine model of PD.

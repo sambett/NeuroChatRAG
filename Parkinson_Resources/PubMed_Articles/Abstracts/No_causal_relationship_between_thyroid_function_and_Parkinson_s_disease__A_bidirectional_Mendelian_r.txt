@@ -1,0 +1,5 @@
+Title: No causal relationship between thyroid function and Parkinson's disease: A bidirectional Mendelian randomization study.
+PMID: 37940749
+
+Abstract:
+Parkinson's disease (PD) is the second most prevalent degenerative disease globally. While observational studies have demonstrated a correlation between thyroid function and PD, the causal relationship between these two factors remains uncertain.

@@ -1,0 +1,5 @@
+Title: Parkinson's disease diagnosis codes are insufficiently accurate for electronic health record research and differ by race.
+PMID: 37517108
+
+Abstract:
+There are no evidence-based guidelines for data cleaning of electronic health record (EHR) databases in Parkinson's disease (PD). Previous filtering criteria have primarily used the 9th International Statistical Classification of Diseases and Related Health Problems (ICD) with variable accuracy for true PD cases. Prior studies have not excluded atypical or drug-induced parkinsonism, and little is known about differences in accuracy by race.

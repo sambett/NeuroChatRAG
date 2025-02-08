@@ -1,0 +1,5 @@
+Title: Targeted to neuronal organelles for CNS drug development.
+PMID: 37516410
+
+Abstract:
+Significant evidences indicate that sub-cellular organelle dynamics is critical for both physiological and pathological events and therefore may be attractive drug targets displaying great therapeutic potential. Although the basic biological mechanism underlying the dynamics of intracellular organelles has been extensively studied, relative drug development is still limited. In the present review, we show that due to the development of technical advanced imaging tools, especially live cell imaging methods, intracellular organelle dynamics (including mitochondrial dynamics and membrane contact sites) can be dissected at the molecular level. Based on these identified molecular targets, we review and discuss the potential of drug development to target organelle dynamics, especially mitochondria dynamics and ER-organelle membrane contact dynamics, in the central nervous system for treating human diseases, including neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease, Huntington's disease and amyotrophic lateral sclerosis.

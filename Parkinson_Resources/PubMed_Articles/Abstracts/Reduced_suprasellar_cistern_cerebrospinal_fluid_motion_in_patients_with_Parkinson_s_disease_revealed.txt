@@ -1,0 +1,5 @@
+Title: Reduced suprasellar cistern cerebrospinal fluid motion in patients with Parkinson's disease revealed by magnetic resonance imaging with dynamic cycling of diffusion weightings.
+PMID: 37720044
+
+Abstract:
+Parkinson's disease is characterized by dopamine-responsive symptoms as well as aggregation and accumulation of a-synuclein protofibrils. New diagnostic methods assess a-synuclein aggregation characteristics from cerebrospinal fluid and recent pathophysiologic mechanisms suggest that cerebrospinal fluid circulation disruptions may precipitate a-synuclein retention. Here, we test the hypothesis that cerebrospinal fluid motion at the level of the suprasellar cistern is reduced in Parkinson's disease relative to healthy participants and this reduction relates to choroid plexus perfusion.

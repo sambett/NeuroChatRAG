@@ -1,0 +1,5 @@
+Title: The advantages of general anesthesia subthalamic deep brain stimulation for Parkinson's disease in the enhanced recovery after surgery: A randomized clinical trial.
+PMID: 38089594
+
+Abstract:
+With advancements in imaging and microelectrode recording techniques, general anesthesia (GA) has emerged as an alternative option for Parkinson's disease (PD) patients undergoing subthalamic nucleus deep brain stimulation (STN-DBS). In this study, we compared the advantages and disadvantages of using GA and local anesthesia for STN-DBS in enhanced recovery after surgery (ERAS).

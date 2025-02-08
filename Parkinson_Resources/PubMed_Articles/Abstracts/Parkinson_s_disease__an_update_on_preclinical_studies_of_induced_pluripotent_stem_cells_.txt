@@ -1,0 +1,5 @@
+Title: Parkinson's disease: an update on preclinical studies of induced pluripotent stem cells.
+PMID: 37858889
+
+Abstract:
+Parkinson's disease (PD) is the second most prevalent neurodegenerative disease among adults worldwide. It is characterised by the death of dopaminergic neurons in the substantia nigra pars compacta and, in some cases, presence of intracytoplasmic inclusions of α-synuclein, called Lewy bodies, a pathognomonic sign of the disease. Clinical diagnosis of PD is based on the presence of motor alterations. The treatments currently available have no neuroprotective effect. The exact causes of PD are poorly understood. Therefore, more precise preclinical models have been developed in recent years that use induced pluripotent stem cells (iPSC). In vitro studies can provide new information on PD pathogenesis and may help to identify new therapeutic targets or to develop new drugs.

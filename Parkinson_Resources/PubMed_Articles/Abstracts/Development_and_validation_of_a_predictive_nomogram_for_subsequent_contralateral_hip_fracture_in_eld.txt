@@ -1,0 +1,5 @@
+Title: Development and validation of a predictive nomogram for subsequent contralateral hip fracture in elderly patients within 2 years after hip fracture surgery.
+PMID: 38179269
+
+Abstract:
+Contralateral hip refracture following initial hip fracture surgery is life-threatening in the elderly with high incidence and mortality. This study investigated the associated independent risk factors and established a nomogram prediction model.

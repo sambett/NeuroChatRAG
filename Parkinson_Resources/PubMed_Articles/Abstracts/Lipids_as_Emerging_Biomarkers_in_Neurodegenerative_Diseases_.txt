@@ -1,0 +1,5 @@
+Title: Lipids as Emerging Biomarkers in Neurodegenerative Diseases.
+PMID: 38203300
+
+Abstract:
+Biomarkers are molecules that can be used to observe changes in an individual's biochemical or medical status and provide information to aid diagnosis or treatment decisions. Dysregulation in lipid metabolism in the brain is a major risk factor for many neurodegenerative disorders, including frontotemporal dementia, Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis. Thus, there is a growing interest in using lipids as biomarkers in neurodegenerative diseases, with the anionic phospholipid bis(monoacylglycerol)phosphate and (glyco-)sphingolipids being the most promising lipid classes thus far. In this review, we provide a general overview of lipid biology, provide examples of abnormal lysosomal lipid metabolism in neurodegenerative diseases, and discuss how these insights might offer novel and promising opportunities in biomarker development and therapeutic discovery. Finally, we discuss the challenges and opportunities of lipid biomarkers and biomarker panels in diagnosis, prognosis, and/or treatment response in the clinic.

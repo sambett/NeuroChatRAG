@@ -1,0 +1,5 @@
+Title: 27-Hydroxycholesterol Drives the Spread of α-Synuclein Pathology in Parkinson's Disease.
+PMID: 37593929
+
+Abstract:
+The accumulation and aggregation of α-synuclein (α-Syn) are characteristic of Parkinson's disease (PD). Epidemiological evidence indicates that hyperlipidemia is associated with an increased risk of PD. The levels of 27-hydroxycholesterol (27-OHC), a cholesterol oxidation derivative, are increased in the brain and cerebrospinal fluid of patients with PD. However, whether 27-OHC plays a role in α-Syn aggregation and propagation remains elusive.

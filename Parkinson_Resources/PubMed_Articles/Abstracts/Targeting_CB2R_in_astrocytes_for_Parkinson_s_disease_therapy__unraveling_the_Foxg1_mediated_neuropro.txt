@@ -1,0 +1,5 @@
+Title: Targeting CB2R in astrocytes for Parkinson's disease therapy: unraveling the Foxg1-mediated neuroprotective mechanism through autophagy-mediated NLRP3 degradation.
+PMID: 38110963
+
+Abstract:
+Inflammasomes in astrocytes have been shown to play a crucial role in the pathogenesis of neurodegenerative diseases such as Parkinson's disease (PD) and Alzheimer's disease (AD). Cannabinoid Receptor 2(CB2R), a G protein-coupled receptor (GPCR), is considered a promising therapeutic target in inflammation-related disorders. This study aims to explore the role of CB2R in regulating NOD-like receptor family pyrin domain containing 3 (NLRP3)-mediated neuroinflammation in astrocytes.

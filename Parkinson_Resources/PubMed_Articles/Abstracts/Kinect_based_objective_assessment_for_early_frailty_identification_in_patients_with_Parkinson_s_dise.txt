@@ -1,0 +1,5 @@
+Title: Kinect-based objective assessment for early frailty identification in patients with Parkinson's disease.
+PMID: 37639172
+
+Abstract:
+Frailty is common in Parkinson's disease (PD) and increases vulnerability to adverse outcomes. Early detection of this syndrome aids in early intervention.

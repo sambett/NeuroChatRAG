@@ -1,0 +1,5 @@
+Title: Neuroprotective Effects of <i>Sesamum indicum</i>, Sesamin and Sesamolin Against 6-OHDA-induced Apoptosis in PC12 Cells.
+PMID: 37539928
+
+Abstract:
+<i>Sesamum indicum</i> L. (sesame) is one of the most widely used herbs in the world. Sesame oil contains lignans such as sesamin and sesamolin, which are known to possess anti-inflammatory, antioxidant, and anti-apoptotic properties. Parkinson's disease (PD) is recognized as the most common neurodegenerative disease after Alzheimer's disease; however, the exact molecular mechanism of the progression of neural death is not clear yet. In this study, the effect of sesame seed extracts and their main bioactive components (sesamin and sesamolin) on in vitro model of Parkinson's disease has been compared.

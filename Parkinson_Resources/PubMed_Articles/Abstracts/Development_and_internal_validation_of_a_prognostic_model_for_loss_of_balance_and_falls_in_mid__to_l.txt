@@ -1,0 +1,5 @@
+Title: Development and internal validation of a prognostic model for loss of balance and falls in mid- to late-stage Parkinson's disease.
+PMID: 38060035
+
+Abstract:
+Mid- to late-stage Parkinson's disease (PD) is often linked with worsened and significant impairment of motor activities, but existing prognostic markers do not adequately capture the risk of loss of balance in PD patients. This study aims to develop a risk prognostic model for mid- to late-stage PD and identify prognostic factors that are indicative of impending loss of balance and falls.

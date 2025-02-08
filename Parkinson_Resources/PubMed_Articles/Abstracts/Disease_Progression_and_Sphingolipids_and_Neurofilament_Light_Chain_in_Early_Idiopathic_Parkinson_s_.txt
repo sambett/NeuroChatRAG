@@ -1,0 +1,5 @@
+Title: Disease Progression and Sphingolipids and Neurofilament Light Chain in Early Idiopathic Parkinson's Disease.
+PMID: 37641969
+
+Abstract:
+Parkinson's disease(PD) lacks a biomarker for disease progression. To analyze how cerebrospinal fluid (CSF), glucosylceramide (GlcCer), sphingomyelin (SM), or serum neurofilament light chain (NfL) associate with progression of PD in a retrospective cohort, we used linear mixed-model regressions between baseline biomarkers and change in dopamine transporter brain-imaging (DaTscan©), Montreal cognitive assesment (MoCA), or global composite outcome (GCO) score. In 191 PD patients, biomarkers were not associated with DaTscan or MoCA change over 2.1 years. Higher baseline GlcCer/SM ratio and serum-NfL nonsignificantly associated with increase in GCO score. Results do not support a role for CSF-sphingolipid/serum-NfL to predict cognitive and DaTscan progression in early-PD. Potential prediction of global clinical change warrants further study.

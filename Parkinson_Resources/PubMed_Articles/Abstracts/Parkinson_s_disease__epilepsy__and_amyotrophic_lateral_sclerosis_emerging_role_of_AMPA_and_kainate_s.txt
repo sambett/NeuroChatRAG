@@ -1,0 +1,5 @@
+Title: Parkinson's disease, epilepsy, and amyotrophic lateral sclerosis-emerging role of AMPA and kainate subtypes of ionotropic glutamate receptors.
+PMID: 38033869
+
+Abstract:
+Ionotropic glutamate receptors (iGluRs) mediate the majority of excitatory neurotransmission and are implicated in various neurological disorders. In this review, we discuss the role of the two fastest iGluRs subtypes, namely, α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) and kainate receptors, in the pathogenesis and treatment of Parkinson's disease, epilepsy, and amyotrophic lateral sclerosis. Although both AMPA and kainate receptors represent promising therapeutic targets for the treatment of these diseases, many of their antagonists show adverse side effects. Further studies of factors affecting the selective subunit expression and trafficking of AMPA and kainate receptors, and a reasonable approach to their regulation by the recently identified novel compounds remain promising directions for pharmacological research.

@@ -1,0 +1,5 @@
+Title: Executive dysfunction and cognitive decline, a non-motor symptom of Parkinson's disease captured in animal models.
+PMID: 38341231
+
+Abstract:
+The non-motor symptoms of Parkinson's disease (PD) have gained increasing attention in recent years due to their significant impact on patients' quality of life. Among these non-motor symptoms, cognitive dysfunction has emerged as an area of particular interest where the clinical aspects are covered in Chapter 2 of this volume. This chapter explores the rationale for investigating the underlying neurobiology of cognitive dysfunction by utilising translational animal models of PD, from rodents to non-human primates. The objective of this chapter is to review the various animal models of cognition that have explored the dysfunction in animal models of Parkinson's disease. Some of the more advanced pharmacological studies aimed at restoring these cognitive deficits are reviewed, although this chapter highlights the lack of systematic approaches in dealing with this non-motor symptom at the pre-clinical stages.

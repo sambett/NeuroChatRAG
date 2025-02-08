@@ -1,0 +1,5 @@
+Title: Effect of PLA2G6 and SMPD1 Variants on the Lipid Metabolism in the Cerebrospinal Fluid of Patients with Parkinson's Disease: A Non-targeted Lipidomics Study.
+PMID: 37707705
+
+Abstract:
+Sleep patterns are more frequently interrupted in patients with Parkinson's disease (PD), and it is still unclear whether genetic factors are involved in PD-related sleep disorders. In this study, we hypothesize that PD-associated genetic risk affects lipid metabolism, which in turn contributes to different types of sleep disorders.

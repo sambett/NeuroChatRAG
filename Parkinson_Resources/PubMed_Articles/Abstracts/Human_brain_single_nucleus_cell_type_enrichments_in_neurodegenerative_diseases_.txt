@@ -1,0 +1,5 @@
+Title: Human brain single nucleus cell type enrichments in neurodegenerative diseases.
+PMID: 37577689
+
+Abstract:
+Single cell RNA sequencing has opened a window into clarifying the complex underpinnings of disease, particularly in quantifying the relevance of tissue- and cell-type-specific gene expression. To identify the cell types and genes important to therapeutic target development across the neurodegenerative disease spectrum, we leveraged genome-wide association studies, recent single cell sequencing data, and bulk expression studies in a diverse series of brain region tissues. We were able to identify significant immune-related cell types in the brain across three major neurodegenerative diseases: Alzheimer's Disease, Amyotrophic Lateral Sclerosis, and Parkinson's Diseases. Subsequently, we identified the major role of 30 fine-mapped loci implicating seven genes in multiple neurodegenerative diseases and their pathogenesis.

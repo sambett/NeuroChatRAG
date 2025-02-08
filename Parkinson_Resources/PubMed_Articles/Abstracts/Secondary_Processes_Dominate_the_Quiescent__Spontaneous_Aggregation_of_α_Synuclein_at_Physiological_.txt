@@ -1,0 +1,5 @@
+Title: Secondary Processes Dominate the Quiescent, Spontaneous Aggregation of α-Synuclein at Physiological pH with Sodium Salts.
+PMID: 37578897
+
+Abstract:
+The accurate recapitulation in an in vitro assay of the aggregation process of α-synuclein in Parkinson's disease has been a significant challenge. As α-synuclein does not aggregate spontaneously in most currently used in vitro assays, primary nucleation is triggered by the presence of surfaces such as lipid membranes or interfaces created by shaking, to achieve aggregation on accessible time scales. In addition, secondary nucleation is typically only observed by lowering the pH below 5.8. Here we investigated assay conditions that enables spontaneous primary nucleation and secondary nucleation at pH 7.4. Using 400 mM sodium phosphate, we observed quiescent spontaneous aggregation of α-synuclein and established that this aggregation is dominated by secondary processes. Furthermore, the presence of potassium ions enhanced the reproducibility of quiescent α-synuclein aggregation. This work provides a framework for the study of spontaneous α-synuclein aggregation at physiological pH.

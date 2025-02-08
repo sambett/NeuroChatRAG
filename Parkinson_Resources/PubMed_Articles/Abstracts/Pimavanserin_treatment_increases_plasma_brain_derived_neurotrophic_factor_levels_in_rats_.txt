@@ -1,0 +1,5 @@
+Title: Pimavanserin treatment increases plasma brain-derived neurotrophic factor levels in rats.
+PMID: 37712092
+
+Abstract:
+Pimavanserin, a serotonin 5HT-2A receptor inverse agonist is the first-line, FDA-approved treatment of hallucinations and delusions associated with Parkinson's Disease psychosis (PDP), which occurs in up to 50% of PD patients. The neurobiological mechanism underlying the therapeutic effectiveness of Pimavanserin in PDP remains unknown. Several earlier studies have shown that treatment with 5HT-2A antagonists and other drugs acting on the serotonergic system such as SSRIs increase Brain derived neurotrophic factor (BDNF) levels in rodents. BDNF is synthesized as the precursor proBDNF, that undergoes cleavage intra or extracellularly to produce a mature BDNF (mBDNF) protein. mBDNF is believed to play a key role in neuroplasticity and neurogenesis. The present study tested the hypothesis that treatment with Pimavanserin is associated with higher and sustained elevations of mBDNF.

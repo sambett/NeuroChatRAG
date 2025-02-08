@@ -1,0 +1,5 @@
+Title: Novel utilization of deep brain stimulation in the pedunculopontine nucleus with globus pallidus internus for treatment of childhood-onset dystonia.
+PMID: 37929227
+
+Abstract:
+Deep brain stimulation (DBS) is a well-documented therapy for dystonia utilized in many adult and pediatric movement disorders. Pedunculopontine nucleus (PPN) has been investigated as a DBS target primarily in adult patients with dystonia or dyskinesias from Parkinson's disease, showing improvement in postural instability and gait dysfunction. Due to the difficulty in targeting PPN using standard techniques, it is not commonly chosen as a target for adult or pediatric pathology. There is no current literature describing the targeting of PPN in DBS for childhood-onset dystonia.

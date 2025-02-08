@@ -1,0 +1,5 @@
+Title: Frequency settings of subthalamic nucleus DBS for Parkinson's disease: A systematic review and network meta-analysis.
+PMID: 37604755
+
+Abstract:
+Deep Brain Stimulation (DBS) is an effective treatment for the motor symptoms of Parkinson's Disease. The targeted physiological structure for lead location is commonly the subthalamic nucleus (STN). The efficacy of DBS for improving motor symptoms is assessed via the Unified Parkinson's Disease Rating III Scale (UPDRS-III). In this study, we sought to compare the efficacy of frequency settings utilized for STN-DBS.

@@ -1,0 +1,5 @@
+Title: Radiomics and Hybrid Models Based on Machine Learning to Predict Levodopa-Induced Dyskinesia of Parkinson's Disease in the First 6 Years of Levodopa Treatment.
+PMID: 37568874
+
+Abstract:
+Current research on the prediction of movement complications associated with levodopa therapy in Parkinson's disease (PD) is limited. levodopa-induced dyskinesia (LID) is a movement complication that seriously affects the life quality of PD patients. One-third of PD patients develop LID within 1 to 6 years of levodopa treatment. This study aimed to construct models based on radiomics and machine learning to predict early LID in PD.

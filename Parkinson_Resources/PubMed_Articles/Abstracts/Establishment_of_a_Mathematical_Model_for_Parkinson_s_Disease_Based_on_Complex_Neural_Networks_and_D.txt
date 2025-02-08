@@ -1,0 +1,5 @@
+Title: Establishment of a Mathematical Model for Parkinson's Disease Based on Complex Neural Networks and Design of Deep Brain Electrical Stimulation Treatment Plans.
+PMID: 38007805
+
+Abstract:
+This article introduces the modeling idea of complex neural networks based on the analysis of Parkinson's disease(PD) seizures. According to the Hodgkin-Huxley model of neurons and the synaptic connection theory between neurons, a theoretical model of the basal ganglia circuit was established. To reveal the working mechanism of the brain during the attack of nervous system disease. On this basis, the neural system model is combined with the control theory. Finally, an intermittent adaptive feedback controller is proposed to effectively suppress the onset of Parkinson's disease by stimulating the neuronal system accordingly.

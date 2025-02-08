@@ -1,0 +1,5 @@
+Title: Combination of Clinical and Gait Measures to Classify Fallers and Non-Fallers in Parkinson's Disease.
+PMID: 37430565
+
+Abstract:
+Although the multifactorial nature of falls in Parkinson's disease (PD) is well described, optimal assessment for the identification of fallers remains unclear. Thus, we aimed to identify clinical and objective gait measures that best discriminate fallers from non-fallers in PD, with suggestions of optimal cutoff scores.

@@ -1,0 +1,5 @@
+Title: Orphan G Protein-Coupled Receptor GPR37 as an Emerging Therapeutic Target.
+PMID: 37676000
+
+Abstract:
+G protein-coupled receptors (GPCRs) are successful druggable targets, making up around 35% of all FDA-approved medications. However, a large number of receptors remain orphaned, with no known endogenous ligand, representing a challenging but untapped area to discover new therapeutic targets. Among orphan GPCRs (oGPCRs) of interest, G protein-coupled receptor 37 (GPR37) is highly expressed in the central nervous system (CNS), particularly in the spinal cord and oligodendrocytes. While its cellular signaling mechanisms and endogenous receptor ligands remain elusive, GPR37 has been implicated in several important neurological conditions, including Parkinson's disease (PD), inflammation, pain, autism, and brain tumors. GPR37 structure, signaling, emerging physiology, and pharmacology are reviewed while integrating a discussion on potential therapeutic indications and opportunities.

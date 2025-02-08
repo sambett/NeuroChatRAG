@@ -1,0 +1,5 @@
+Title: Past, present, and future of deep transcranial magnetic stimulation: A review in psychiatric and neurological disorders.
+PMID: 37771645
+
+Abstract:
+Deep transcranial magnetic stimulation (DTMS) is a new non-invasive neuromodulation technique based on repetitive transcranial magnetic stimulation tech-nology. The new H-coil has significant advantages in the treatment and mechanism research of psychiatric and neurological disorders. This is due to its deep stimulation site and wide range of action. This paper reviews the clinical progress of DTMS in psychiatric and neurological disorders such as Parkinson's disease, Alzheimer's disease, post-stroke motor dysfunction, aphasia, and other neurological disorders, as well as anxiety, depression, and schizophrenia.

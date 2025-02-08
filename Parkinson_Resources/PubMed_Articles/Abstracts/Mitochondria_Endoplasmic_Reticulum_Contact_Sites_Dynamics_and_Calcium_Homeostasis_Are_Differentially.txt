@@ -1,0 +1,5 @@
+Title: Mitochondria-Endoplasmic Reticulum Contact Sites Dynamics and Calcium Homeostasis Are Differentially Disrupted in PINK1-PD or PRKN-PD Neurons.
+PMID: 37449534
+
+Abstract:
+It is generally believed that the pathogenesis of PINK1/parkin-related Parkinson's disease (PD) is due to a disturbance in mitochondrial quality control. However, recent studies have found that PINK1 and Parkin play a significant role in mitochondrial calcium homeostasis and are involved in the regulation of mitochondria-endoplasmic reticulum contact sites (MERCSs).

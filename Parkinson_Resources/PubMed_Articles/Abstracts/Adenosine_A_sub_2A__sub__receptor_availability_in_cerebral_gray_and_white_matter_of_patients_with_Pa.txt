@@ -1,0 +1,5 @@
+Title: Adenosine A<sub>2A</sub> receptor availability in cerebral gray and white matter of patients with Parkinson's disease.
+PMID: 37480614
+
+Abstract:
+Atrophic changes in cerebral gray matter of patients with PD have been reported extensively. There is evidence suggesting an association between cortical gyrification changes and white matter abnormalities. Adenosine A<sub>2A</sub> receptors have been shown to be upregulated in cerebral white matter and on reactive astrocytes in preclinical models of neurodegenerative diseases. We, therefore, sought to investigate in vivo changes in A<sub>2A</sub> receptor availability in cerebral gray and white matter of PD patients and its association with gray matter atrophy.

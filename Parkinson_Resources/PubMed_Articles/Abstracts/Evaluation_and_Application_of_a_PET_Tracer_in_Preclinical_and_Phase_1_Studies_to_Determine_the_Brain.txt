@@ -1,0 +1,5 @@
+Title: Evaluation and Application of a PET Tracer in Preclinical and Phase 1 Studies to Determine the Brain Biodistribution of Minzasolmin (UCB0599).
+PMID: 38110790
+
+Abstract:
+Minzasolmin (UCB0599) is an orally administered, small molecule inhibitor of ASYN misfolding in development as a potential disease-modifying therapy for Parkinson's disease. Here we describe the preclinical development of a radiolabeled tracer and results from a phase 1 study using the tracer to investigate the brain distribution of minzasolmin.

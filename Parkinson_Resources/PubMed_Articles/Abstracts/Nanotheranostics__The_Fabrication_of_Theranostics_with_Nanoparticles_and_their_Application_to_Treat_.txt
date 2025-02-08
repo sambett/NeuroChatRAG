@@ -1,0 +1,5 @@
+Title: Nanotheranostics: The Fabrication of Theranostics with Nanoparticles and their Application to Treat the Neurological Disorders.
+PMID: 37464820
+
+Abstract:
+Theranostics is a method that focuses on providing patient-centred care and is evolving as a targeted, safe, and effective pharmacotherapy. Nanotheranostics combines diagnosis and therapeutic modalities that bridge traditional treatment and personalised medicine. Theranostics provides novel ideas for nanotechnology. This review describes the current state of nanotechnology-based therapies used to treat neurological illnesses. Some patents on theranostics are also discussed in this review.

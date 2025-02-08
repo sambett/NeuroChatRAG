@@ -1,0 +1,5 @@
+Title: STING signaling in the brain: Molecular threats, signaling activities, and therapeutic challenges.
+PMID: 37944521
+
+Abstract:
+Stimulator of interferon genes (STING) is an innate immune signaling protein critical to infections, autoimmunity, and cancer. STING signaling is also emerging as an exciting and integral part of many neurological diseases. Here, we discuss recent advances in STING signaling in the brain. We summarize how molecular threats activate STING signaling in the diseased brain and how STING signaling activities in glial and neuronal cells cause neuropathology. We also review human studies of STING neurobiology and consider therapeutic challenges in targeting STING to treat neurological diseases.

@@ -1,0 +1,5 @@
+Title: The role of NF-κB signaling pathway in reactive astrocytes among neurodegeneration after methamphetamine exposure by integrated bioinformatics.
+PMID: 38061485
+
+Abstract:
+Methamphetamine (METH) is a highly addictive stimulant that has become one of the top five risk substances cause deaths from substance abuse. METH exposure increases the risk of neurodegenerative disease (ND), such as Parkinson's disease (PD), leading to disability and death. Activation of reactive astrocytes is an essential factor in neurodegeneration, and their complex role in METH exposure remains unclear. This study explored the role of reactive astrocyte overactivation in neurodegeneration after METH exposure.

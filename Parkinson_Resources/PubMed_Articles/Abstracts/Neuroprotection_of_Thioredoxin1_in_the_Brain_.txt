@@ -1,0 +1,5 @@
+Title: Neuroprotection of Thioredoxin1 in the Brain.
+PMID: 37559249
+
+Abstract:
+Thioredoxin1 (Trx1) is a ubiquitous antioxidant protein that regulates the cell's redox status. Trx1's thiol redox activity protects neurons from various physiological processes that cause neuronal damage and neurodegeneration, including oxidative stress, apoptosis, and inflammation. Several studies have found that direct or indirect Trx1 regulation has neuroprotective effects in the brain, protecting against, preventing, or delaying neurodegenerative processes or brain traumas. This review focuses on the term neuroprotection, Trx1 localization, and expression in the brain, as well as its modulation concerning its neuroprotective effect in both animal and clinical models of ischemia, hypoxia, hemorrhage, traumatic brain injury, epilepsy, Alzheimer's disease, and Parkinson's disease.

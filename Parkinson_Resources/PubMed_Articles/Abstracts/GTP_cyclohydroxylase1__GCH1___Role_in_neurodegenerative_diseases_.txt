@@ -1,0 +1,5 @@
+Title: GTP cyclohydroxylase1 (GCH1): Role in neurodegenerative diseases.
+PMID: 37652170
+
+Abstract:
+GCH1 gene provides directions for the synthesis of GTP cyclohydrolase 1 which regulates the formation of Tetrahydrobiopterin (BH4). BH4 is a crucial cofactor for essential neurotransmitters synthesis such as dopamine, serotonin and nitric oxide synthases. Deficiency of GCH1 limits the synthesis of BH4 which is responsible for neuropsychiatric diseases such as dopa-responsive dystonia, hyperalaninemia, Parkinson's disease and depression. Few single nucleotide polymorphisms of GCH1 gene are also responsible for pain in sickle cell disease. Furthermore, GCH1 regulates NO activity which controls the blood pressure, vasodilatory functions and oxidative stress. Understanding the therapeutic implications of targeting GCH1 which holds promise for treating various diseases. Novel therapeutic strategies could involve small molecule drugs or gene therapy techniques that enhance GCH1 expression or activity.

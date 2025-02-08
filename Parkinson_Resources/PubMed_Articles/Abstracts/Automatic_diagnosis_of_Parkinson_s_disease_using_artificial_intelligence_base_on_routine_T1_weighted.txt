@@ -1,0 +1,5 @@
+Title: Automatic diagnosis of Parkinson's disease using artificial intelligence base on routine T1-weighted MRI.
+PMID: 38249966
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease. An objective diagnosis method is urgently needed in clinical practice. In this study, deep learning and radiomics techniques were studied to automatically diagnose PD from healthy controls (HCs).

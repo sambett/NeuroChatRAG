@@ -1,0 +1,5 @@
+Title: Detection of physiological concentrations of GABA using dielectric spectroscopy - A pilot study.
+PMID: 38162815
+
+Abstract:
+Gamma-aminobutyric acid (GABA) is a major inhibitory neurotransmitter that is present at a relatively low level throughout the normal adult human brain. Abnormal GABA levels are found in people with neurodegenerative disorders such as Parkinson's disease, epilepsy, schizophrenia, depression, and others. Being able to measure the GABA concentration would be beneficial for patient groups with fluctuating GABA levels for better diagnosis and treatment. In this study, we explore the feasibility of using dielectric relaxation spectroscopy for the detection of GABA concentrations within a physiological range, with the perspective of miniaturization and use during implantation. Utilizing machine learning techniques, we were able to differentiate GABA concentrations down to 5 μm. This work investigates a novel use of dielectric relaxation spectroscopy, to assess if physiological GABA concentrations can be detected through permittivity measurements.

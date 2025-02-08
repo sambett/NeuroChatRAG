@@ -1,0 +1,5 @@
+Title: Holographic Hintways: A systems feasibility and usability study of augmented reality cueing for gait adaptation.
+PMID: 37838588
+
+Abstract:
+Through providing on-demand visual and auditory cues while walking,augmented reality (AR) can theoretically cue spatiotemporal gait adaptations in, populations such as those with Parkinson's disease. However, given the novelty of the, technology, the type and extent of gait adaptations in response to such a cueing, system are unknown. Before such systems can be incorporated into rehabilitation, approaches, it is important to understand how people interact with the technology.

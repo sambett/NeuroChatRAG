@@ -1,0 +1,5 @@
+Title: Brain-penetrant cyanoindane and cyanotetralin inhibitors of G2019S-LRRK2 kinase activity.
+PMID: 37734423
+
+Abstract:
+The G2019S variant of LRRK2, which causes an increase in kinase activity, is associated with the occurrence of Parkinson's disease (PD). Potent, mutation-selective, and brain penetrant inhibitors of LRRK2 can suppress the biological effects specific to G2019S-LRRK2 that cause pathogenicity. We report the discovery of a series of cyanoindane and cyanotetralin kinase inhibitors culminating in compound 34 that demonstrated selective inhibition of phosphorylation of LRRK2 in the mouse brain. These novel inhibitors may further enable the precision medicine path for future PD therapeutics.

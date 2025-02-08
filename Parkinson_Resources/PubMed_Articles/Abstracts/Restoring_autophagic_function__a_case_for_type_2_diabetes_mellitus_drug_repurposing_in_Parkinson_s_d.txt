@@ -1,0 +1,5 @@
+Title: Restoring autophagic function: a case for type 2 diabetes mellitus drug repurposing in Parkinson's disease.
+PMID: 38027497
+
+Abstract:
+Parkinson's disease (PD) is a predominantly idiopathic pathological condition characterized by protein aggregation phenomena, whose main component is alpha-synuclein. Although the main risk factor is ageing, numerous evidence points to the role of type 2 diabetes mellitus (T2DM) as an etiological factor. Systemic alterations classically associated with T2DM like insulin resistance and hyperglycemia modify biological processes such as autophagy and mitochondrial homeostasis. High glucose levels also compromise protein stability through the formation of advanced glycation end products, promoting protein aggregation processes. The ability of antidiabetic drugs to act on pathways impaired in both T2DM and PD suggests that they may represent a useful tool to counteract the neurodegeneration process. Several clinical studies now in advanced stages are looking for confirmation in this regard.

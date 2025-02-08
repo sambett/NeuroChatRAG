@@ -1,0 +1,5 @@
+Title: Brain Networks Involved in Sensory Perception in Parkinson's Disease: A Scoping Review.
+PMID: 38002513
+
+Abstract:
+Parkinson's Disease (PD) has historically been considered a disorder of motor dysfunction. However, a growing number of studies have demonstrated sensory abnormalities in PD across the modalities of proprioceptive, tactile, visual, auditory and temporal perception. A better understanding of these may inform future drug and neuromodulation therapy. We analysed these studies using a scoping review. In total, 101 studies comprising 2853 human participants (88 studies) and 125 animals (13 studies), published between 1982 and 2022, were included. These highlighted the importance of the basal ganglia in sensory perception across all modalities, with an additional role for the integration of multiple simultaneous sensation types. Numerous studies concluded that sensory abnormalities in PD result from increased noise in the basal ganglia and increased neuronal receptive field size. There is evidence that sensory changes in PD and impaired sensorimotor integration may contribute to motor abnormalities.

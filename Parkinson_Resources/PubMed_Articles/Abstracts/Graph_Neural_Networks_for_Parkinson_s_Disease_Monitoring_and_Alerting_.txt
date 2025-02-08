@@ -1,0 +1,5 @@
+Title: Graph Neural Networks for Parkinson's Disease Monitoring and Alerting.
+PMID: 37960634
+
+Abstract:
+Graph neural networks (GNNs) have been increasingly employed in the field of Parkinson's disease (PD) research. The use of GNNs provides a promising approach to address the complex relationship between various clinical and non-clinical factors that contribute to the progression of PD. This review paper aims to provide a comprehensive overview of the state-of-the-art research that is using GNNs for PD. It presents PD and the motivation behind using GNNs in this field. Background knowledge on the topic is also presented. Our research methodology is based on PRISMA, presenting a comprehensive overview of the current solutions using GNNs for PD, including the various types of GNNs employed and the results obtained. In addition, we discuss open issues and challenges that highlight the limitations of current GNN-based approaches and identify potential paths for future research. Finally, a new approach proposed in this paper presents the integration of new tasks for the engineering of GNNs for PD monitoring and alert solutions.

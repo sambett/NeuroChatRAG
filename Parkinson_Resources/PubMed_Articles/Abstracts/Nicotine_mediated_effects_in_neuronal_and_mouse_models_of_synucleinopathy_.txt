@@ -1,0 +1,5 @@
+Title: Nicotine-mediated effects in neuronal and mouse models of synucleinopathy.
+PMID: 37719154
+
+Abstract:
+Alpha-synuclein (α-Syn) aggregation, transmission, and contribution to neurotoxicity represent central mechanisms underlying Parkinson's disease. The plant alkaloid "nicotine" was reported to attenuate α-Syn aggregation in different models, but its precise mode of action remains unclear.

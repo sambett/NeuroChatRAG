@@ -1,0 +1,5 @@
+Title: Transcriptomic analysis reveals associations of blood-based A-to-I editing with Parkinson's disease.
+PMID: 37902879
+
+Abstract:
+Adenosine-to-inosine (A-to-I) editing is the most common type of RNA editing in humans and the role of A-to-I RNA editing remains unclear in Parkinson's disease (PD).

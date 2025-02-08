@@ -1,0 +1,5 @@
+Title: Using Clinical Scales and Digital Measures to Explore Falls in Patients with Lewy Body Dementia.
+PMID: 37404864
+
+Abstract:
+PRESENCE was a phase 2 clinical trial assessing the efficacy of mevidalen, a D1 receptor positive allosteric modulator, for symptomatic treatment of Lewy body dementia (LBD). Mevidalen demonstrated improvements in motor and non-motor features of LBD, global functioning, and actigraphy-measured activity and daytime sleep. Adverse events (AEs) of fall were numerically increased in mevidalen-treated participants.

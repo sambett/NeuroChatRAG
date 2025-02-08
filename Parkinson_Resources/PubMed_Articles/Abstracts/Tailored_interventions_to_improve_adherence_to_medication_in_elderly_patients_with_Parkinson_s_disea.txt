@@ -1,0 +1,5 @@
+Title: Tailored interventions to improve adherence to medication in elderly patients with Parkinson's disease: a study protocol for a randomized controlled trial (AdhCare).
+PMID: 37828583
+
+Abstract:
+Nonadherence to medication is a major issue in patients with chronic disorders such as Parkinson's disease (PD). Many interventions for increasing adherence have been tested, and these have shown weak-to-moderate efficiency. Although the best methods to improve adherence remain unclear, it is reasonable to use tailored interventions instead of the "one-size-fits-all" approach.

@@ -1,0 +1,5 @@
+Title: Comparison of core and process scores on the California Verbal Learning Test-3 for Parkinson's disease and essential tremor patients.
+PMID: 37505187
+
+Abstract:
+Parkinson's disease (PD) and essential tremor (ET) are two disorders known to lead to executive dysfunction, presumably through distinct pathways to the frontal lobes via the striatum or cerebellum, respectively. Memory functioning in PD and ET patients has been previously suggested to be adversely impacted by executive dysfunction. The aims of this exploratory study were to compare memory performance between and within groups on the California Verbal Learning Test - 3 (CVLT-3) through the analysis of core and process scores and to understand the relationship of these scores with measures of executive functioning.

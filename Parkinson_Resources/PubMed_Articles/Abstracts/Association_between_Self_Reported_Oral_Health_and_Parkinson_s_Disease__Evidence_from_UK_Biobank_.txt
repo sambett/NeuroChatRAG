@@ -1,0 +1,5 @@
+Title: Association between Self-Reported Oral Health and Parkinson's Disease: Evidence from UK Biobank.
+PMID: 38035555
+
+Abstract:
+Oral health problem is prevalent in the elderly population which is also at high risk of Parkinson's disease (PD). However, the association between self-reported oral health and PD is still unclear. We aimed to explore the association between baseline self-reported oral health (mouth ulcers, painful gums, bleeding gums, loose teeth, toothache, dentures) and future incidence of PD.

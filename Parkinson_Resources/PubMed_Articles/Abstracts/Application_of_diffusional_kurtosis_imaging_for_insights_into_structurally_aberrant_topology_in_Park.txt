@@ -1,0 +1,5 @@
+Title: Application of diffusional kurtosis imaging for insights into structurally aberrant topology in Parkinson's disease.
+PMID: 38017711
+
+Abstract:
+Parkinson's disease (PD) has been regarded as a disconnection syndrome with functional and structural disturbances. However, as the anatomic determinants, the structural disconnections in PD have yet to be fully elucidated.

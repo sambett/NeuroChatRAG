@@ -1,0 +1,5 @@
+Title: Regional homogeneity and functional connectivity of freezing of gait conversion in Parkinson's disease.
+PMID: 37502425
+
+Abstract:
+Freezing of gait (FOG) is common in the late stage of Parkinson's disease (PD), which can lead to disability and impacts the quality of life. Therefore, early recognition is crucial for therapeutic intervention. We aimed to explore the abnormal regional homogeneity (ReHo) and functional connectivity (FC) in FOG converters and evaluate their diagnostic values.

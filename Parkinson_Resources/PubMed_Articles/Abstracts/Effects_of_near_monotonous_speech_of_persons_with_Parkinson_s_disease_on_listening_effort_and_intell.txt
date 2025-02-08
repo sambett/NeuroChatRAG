@@ -1,0 +1,5 @@
+Title: Effects of near-monotonous speech of persons with Parkinson's disease on listening effort and intelligibility.
+PMID: 37913529
+
+Abstract:
+The majority of patients with Parkinson's disease (PD) develop hypokinetic dysarthria with a disturbance of prosody. The most important acoustic characteristic of prosodic impairment in PD is a lack of fundamental frequency (F0)-variability. It is well established that a lack of F0-variability can negatively influence the speech intelligibility of neurotypical speakers in background noise. The purpose of this study was to investigate which aspect of processing speech realised by speakers with PD is affected by lack of intonation: intelligibility as measured by a <i>transcription task</i>, <i>scaled intelligibility</i> and/or <i>perceived listening effort</i> when there is no background noise. F0-flattening of Semantically Unpredictable Sentences (SUS) was achieved, while the natural F0-declination was preserved. This kind of F0-flattening affected scaled intelligibility and perceived listening effort, while transcription performance remained unchanged.

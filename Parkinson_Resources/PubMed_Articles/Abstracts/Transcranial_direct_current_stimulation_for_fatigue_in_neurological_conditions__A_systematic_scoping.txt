@@ -1,0 +1,5 @@
+Title: Transcranial direct current stimulation for fatigue in neurological conditions: A systematic scoping review.
+PMID: 37838979
+
+Abstract:
+Fatigue following neurological conditions negatively impacts daily activities, reducing overall quality of life. Transcranial direct current stimulation (tDCS) for fatigue management is still underexplored. This scoping review explores its use in managing fatigue among various neurological conditions.

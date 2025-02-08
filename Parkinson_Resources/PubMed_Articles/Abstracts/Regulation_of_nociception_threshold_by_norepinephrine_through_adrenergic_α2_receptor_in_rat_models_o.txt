@@ -1,0 +1,5 @@
+Title: Regulation of nociception threshold by norepinephrine through adrenergic α2 receptor in rat models of Parkinson's disease.
+PMID: 37721421
+
+Abstract:
+The mechanism of pain symptoms in Parkinson's disease (PD) is unclear. Norepinephrine (NE) regulates neuropathic pain through ascending and descending pathways. However, the loss of NE neurons in the brain of patients with PD is obvious, it is speculated that NE is involved in the occurrence of PD pain symptoms.

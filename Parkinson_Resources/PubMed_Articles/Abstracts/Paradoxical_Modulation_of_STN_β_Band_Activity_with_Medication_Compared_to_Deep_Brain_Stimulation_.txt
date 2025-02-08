@@ -1,0 +1,5 @@
+Title: Paradoxical Modulation of STN β-Band Activity with Medication Compared to Deep Brain Stimulation.
+PMID: 37888906
+
+Abstract:
+Excessive subthalamic nucleus (STN) β-band (13-35 Hz) synchronized oscillations has garnered interest as a biomarker for characterizing disease state and developing adaptive stimulation systems for Parkinson's disease (PD).

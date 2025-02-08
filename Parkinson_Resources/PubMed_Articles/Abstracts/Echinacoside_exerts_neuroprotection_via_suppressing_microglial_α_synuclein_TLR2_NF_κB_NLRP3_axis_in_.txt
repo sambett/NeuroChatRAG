@@ -1,0 +1,5 @@
+Title: Echinacoside exerts neuroprotection via suppressing microglial α-synuclein/TLR2/NF-κB/NLRP3 axis in parkinsonian models.
+PMID: 38000105
+
+Abstract:
+Echinacoside (ECH), a natural active compound, was found to exert neuroprotection in Parkinson's disease (PD). However, the underlying molecular mechanisms remain controversial.

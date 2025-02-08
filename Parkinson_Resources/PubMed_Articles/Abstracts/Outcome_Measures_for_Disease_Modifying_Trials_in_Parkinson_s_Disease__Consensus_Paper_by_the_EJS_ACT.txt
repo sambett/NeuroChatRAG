@@ -1,0 +1,5 @@
+Title: Outcome Measures for Disease-Modifying Trials in Parkinson's Disease: Consensus Paper by the EJS ACT-PD Multi-Arm Multi-Stage Trial Initiative.
+PMID: 37545260
+
+Abstract:
+Multi-arm, multi-stage (MAMS) platform trials can accelerate the identification of disease-modifying treatments for Parkinson's disease (PD) but there is no current consensus on the optimal outcome measures (OM) for this approach.

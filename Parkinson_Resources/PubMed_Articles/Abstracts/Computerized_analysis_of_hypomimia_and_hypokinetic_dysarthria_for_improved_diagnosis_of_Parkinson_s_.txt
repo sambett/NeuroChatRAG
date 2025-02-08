@@ -1,0 +1,5 @@
+Title: Computerized analysis of hypomimia and hypokinetic dysarthria for improved diagnosis of Parkinson's disease.
+PMID: 37908703
+
+Abstract:
+An aging society requires easy-to-use approaches for diagnosis and monitoring of neurodegenerative disorders, such as Parkinson's disease (PD), so that clinicians can effectively adjust a treatment policy and improve patients' quality of life. Current methods of PD diagnosis and monitoring usually require the patients to come to a hospital, where they undergo several neurological and neuropsychological examinations. These examinations are usually time-consuming, expensive, and performed just a few times per year. Hence, this study explores the possibility of fusing computerized analysis of hypomimia and hypokinetic dysarthria (two motor symptoms manifested in the majority of PD patients) with the goal of proposing a new methodology of PD diagnosis that could be easily integrated into mHealth systems.

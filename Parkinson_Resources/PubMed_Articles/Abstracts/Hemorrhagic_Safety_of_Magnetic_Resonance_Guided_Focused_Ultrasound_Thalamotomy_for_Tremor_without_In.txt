@@ -1,0 +1,5 @@
+Title: Hemorrhagic Safety of Magnetic Resonance-Guided Focused Ultrasound Thalamotomy for Tremor without Interruption of Antiplatelet or Anticoagulant Therapy.
+PMID: 37690446
+
+Abstract:
+Magnetic resonance-guided focused ultrasound (MRgFUS) thalamotomy is an incision-less ablative technique used to treat medically refractory tremor. Although intracerebral hemorrhage has not been reported with MRgFUS thalamotomy for the treatment of movement disorders, clinicians commonly interrupt active blood thinning medications prior to the procedure or offer gamma knife radiosurgery instead. However, MRgFUS uses focal thermoablation, and bleeding risk is likely minimal. This study aimed to evaluate the safety of MRgFUS thalamotomy in patients with essential tremor (ET) and tremor-dominant Parkinson's disease (PD) without interrupting anticoagulant or antiplatelet therapies.

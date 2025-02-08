@@ -1,0 +1,5 @@
+Title: Functional Connectivity and Anxiety Improvement After Subthalamic Nucleus Deep Brain Stimulation in Parkinson's Disease.
+PMID: 37663121
+
+Abstract:
+Anxiety is one of the most common and disturbing non-motor symptoms of Parkinson's disease (PD). However, few studies have explored the relationship between functional connectivity (FC) and the rate of anxiety improvement after subthalamic nucleus deep brain stimulation (STN-DBS). Therefore, in this study, we aimed to explore the correlation between FC and the rate of anxiety improvement in patients with PD who underwent STN-DBS.

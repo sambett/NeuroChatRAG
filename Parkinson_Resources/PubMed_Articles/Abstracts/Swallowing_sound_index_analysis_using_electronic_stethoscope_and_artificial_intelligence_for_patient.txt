@@ -1,0 +1,5 @@
+Title: Swallowing sound index analysis using electronic stethoscope and artificial intelligence for patients with Parkinson's disease.
+PMID: 37837871
+
+Abstract:
+Several noninvasive tools assess swallowing disorders, including electronic stethoscope artificial intelligence (AI) analysis for remote diagnosis, with the potential for telemedicine. This study investigated the swallowing sound index in patients with Parkinson's disease (PD).

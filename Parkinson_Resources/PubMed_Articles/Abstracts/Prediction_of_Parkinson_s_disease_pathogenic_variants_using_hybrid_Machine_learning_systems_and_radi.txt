@@ -1,0 +1,5 @@
+Title: Prediction of Parkinson's disease pathogenic variants using hybrid Machine learning systems and radiomic features.
+PMID: 37579523
+
+Abstract:
+In Parkinson's disease (PD), 5-10% of cases are of genetic origin with mutations identified in several genes such as leucine-rich repeat kinase 2 (LRRK2) and glucocerebrosidase (GBA). We aim to predict these two gene mutations using hybrid machine learning systems (HMLS), via imaging and non-imaging data, with the long-term goal to predict conversion to active disease.

@@ -1,0 +1,5 @@
+Title: Upregulation of immunoproteasome PSMB8 is associated with Parkinson's disease.
+PMID: 37562243
+
+Abstract:
+Immunoproteasome, a part of ubiquitin-proteasome system, is involved in immune response as well as protein degradation. However, the relationship between immunoproteasome and Parkinson's disease (PD) was not evaluated clearly. We hypothesized that the shift of immunoproteasome attributes to PD pathogenesis due to its role in inflammation and protein homeostasis.

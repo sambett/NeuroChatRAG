@@ -1,0 +1,5 @@
+Title: Production of emotions conveyed by voice in Parkinson's disease: Association between variability of fundamental frequency and gray matter volumes of regions involved in emotional prosody.
+PMID: 37439736
+
+Abstract:
+Parkinson's disease (PD) is associated with impairment in producing emotions conveyed by voice which could depend on motor limitations of the vocal apparatus and/or alterations in emotional processing. This study explores the relationship between the standard deviation of fundamental frequency (F0SD) of emotional speech and the volume of specific gray matter regions.

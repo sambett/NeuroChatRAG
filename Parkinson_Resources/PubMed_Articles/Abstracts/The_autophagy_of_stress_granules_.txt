@@ -1,0 +1,5 @@
+Title: The autophagy of stress granules.
+PMID: 38101818
+
+Abstract:
+Our understanding of stress granule (SG) biology has deepened considerably in recent years, and with this, increased understanding of links has been made between SGs and numerous neurodegenerative diseases. One of the proposed mechanisms by which SGs and any associated protein aggregates may become pathological is based upon defects in their autophagic clearance, and so the precise processes governing the degradation of SGs are important to understand. Mutations and disease-associated variants implicated in amyotrophic lateral sclerosis, Huntington's disease, Parkinson's disease and frontotemporal lobar dementia compromise autophagy, whilst autophagy-inhibiting drugs or knockdown of essential autophagy proteins result in the persistence of SGs. In this review, we will consider the current knowledge regarding the autophagy of SG.

@@ -1,0 +1,5 @@
+Title: Staging Parkinson's disease according to the MNCD classification correlates with caregiver burden.
+PMID: 37939322
+
+Abstract:
+Recently, we demonstrated that staging Parkinson's disease (PD) with a novel simple classification called MNCD, based on four axes (motor, non-motor, cognition, and dependency) and five stages, correlated with disease severity and patients' quality of life. Here, we analyzed the correlation of MNCD staging with PD caregiver's status.

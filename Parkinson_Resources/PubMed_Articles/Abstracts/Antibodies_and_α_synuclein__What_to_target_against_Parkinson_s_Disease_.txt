@@ -1,0 +1,5 @@
+Title: Antibodies and α-synuclein: What to target against Parkinson's Disease?
+PMID: 37783321
+
+Abstract:
+Parkinson's Disease (PD) is strongly linked to the aggregation of the protein α-synuclein (α-syn), an intrinsically disordered protein. However, strategies to combat PD by targeting the aggregation of α-syn are challenged by the multiple types of aggregates formed both in vivo and in vitro, the potential influence of chemical modifications and the as yet unresolved question of which aggregate types (oligomeric or fibrillar) are most cytotoxic. Here I briefly review the social history of α-syn, the many efforts to raise antibodies against α-syn and the disappointing results of clinical trials based on such antibodies. Ultimately a thorough understanding of the molecular and mechanistic properties of mAbs towards aggregated species of α-syn is an essential prerequisite for any clinical trial, but this is missing in most cases. I highlight new microfluidic techniques which may address this need and call for a more concerted effort to standardize antibody studies as the basis to allow us to link molecular insights to clinical efficacy.

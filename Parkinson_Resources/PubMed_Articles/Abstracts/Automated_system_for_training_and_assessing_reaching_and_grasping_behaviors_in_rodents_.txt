@@ -1,0 +1,5 @@
+Title: Automated system for training and assessing reaching and grasping behaviors in rodents.
+PMID: 37866457
+
+Abstract:
+Reaching, grasping, and pulling behaviors are studied across species to investigate motor control and problem solving. String pulling is a distinct reaching and grasping behavior that is rapidly learned, requires bimanual coordination, is ethologically grounded, and has been applied across species and disease conditions.

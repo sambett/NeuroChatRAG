@@ -1,0 +1,5 @@
+Title: A Robust Gaze Estimation Approach via Exploring Relevant Electrooculogram Features and Optimal Electrodes Placements.
+PMID: 38088999
+
+Abstract:
+Gaze estimation, as a technique that reflects individual attention, can be used for disability assistance and assisting physicians in diagnosing diseases such as autism spectrum disorder (ASD), Parkinson's disease, and attention deficit hyperactivity disorder (ADHD). Various techniques have been proposed for gaze estimation and achieved high resolution. Among these approaches, electrooculography (EOG)-based gaze estimation, as an economical and effective method, offers a promising solution for practical applications.

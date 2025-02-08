@@ -1,0 +1,5 @@
+Title: Parkinson's Disease Non-Motor Subtypes Classification in a Group of Slovenian Patients: Actuarial vs. Data-Driven Approach.
+PMID: 38068486
+
+Abstract:
+The aim of this study was to examine the risk factors, prodromal symptoms, non-motor symptoms (NMS), and motor symptoms (MS) in different Parkinson's disease (PD) non-motor subtypes, classified using newly established criteria and a data-driven approach.

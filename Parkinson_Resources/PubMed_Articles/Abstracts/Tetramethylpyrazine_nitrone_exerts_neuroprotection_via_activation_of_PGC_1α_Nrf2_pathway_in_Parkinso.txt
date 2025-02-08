@@ -1,0 +1,5 @@
+Title: Tetramethylpyrazine nitrone exerts neuroprotection via activation of PGC-1α/Nrf2 pathway in Parkinson's disease models.
+PMID: 37989471
+
+Abstract:
+Parkinson's disease (PD) is common neurodegenerative disease where oxidative stress and mitochondrial dysfunction play important roles in its progression. Tetramethylpyrazine nitrone (TBN), a potent free radical scavenger, has shown protective effects in various neurological conditions. However, the neuroprotective mechanisms of TBN in PD models remain unclear.

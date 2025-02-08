@@ -1,0 +1,5 @@
+Title: Multifactorial assessment of Parkinson's disease course and outcomes using trajectory modeling in a multiethnic, multisite cohort - extension of the LONG-PD study.
+PMID: 37842125
+
+Abstract:
+The severity, progression, and outcomes of motor and non-motor symptoms in Parkinson's disease (PD) are quite variable. Following PD cohorts holds promise for identifying predictors of disease severity and progression.

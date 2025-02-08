@@ -1,0 +1,5 @@
+Title: Membrane remodeling properties of the Parkinson's disease protein LRRK2.
+PMID: 37844218
+
+Abstract:
+Mutations in Leucine-rich repeat kinase 2 (LRRK2) are responsible for late-onset autosomal dominant Parkinson's disease. LRRK2 has been implicated in a wide range of physiological processes including membrane repair in the endolysosomal system. Here, using cell-free systems, we report that purified LRRK2 directly binds acidic lipid bilayers with a preference for highly curved bilayers. While this binding is nucleotide independent, LRRK2 can also deform low-curvature liposomes into narrow tubules in a guanylnucleotide-dependent but Adenosine 5'-triphosphate-independent way. Moreover, assembly of LRRK2 into scaffolds at the surface of lipid tubules can constrict them. We suggest that an interplay between the membrane remodeling and signaling properties of LRRK2 may be key to its physiological function. LRRK2, via its kinase activity, may achieve its signaling role at sites where membrane remodeling occurs.

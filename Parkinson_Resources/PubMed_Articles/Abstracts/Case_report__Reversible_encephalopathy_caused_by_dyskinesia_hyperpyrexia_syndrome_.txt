@@ -1,0 +1,5 @@
+Title: Case report: Reversible encephalopathy caused by dyskinesia-hyperpyrexia syndrome.
+PMID: 37645603
+
+Abstract:
+Parkinson's disease (PD) is a common neurodegenerative disorder. Some patients with advanced-stage disease are accompanied by emergencies and critical issues such as dyskinesia-hyperpyrexia syndrome (DHS), parkinsonism-hyperpyrexia syndrome (PHS), and serotonin syndrome (SS). In this study, we report a patient with reversible encephalopathy caused by DHS who presented with an acute onset of fidgetiness, dyskinesia, and hyperpyrexia after antiparkinsonian drug abuse. In the present case, brain magnetic resonance imaging (MRI) showed multiple abnormal signals in the cortex and subcortex of the bilateral parietal and occipital lobes that resolved within weeks, which coincided with the characteristic MRI findings in posterior reversible encephalopathy (PRES). Our report expands on the neuroimaging features of DHS and highlights the importance of early identification, diagnosis, and treatment to improve patient prognosis.

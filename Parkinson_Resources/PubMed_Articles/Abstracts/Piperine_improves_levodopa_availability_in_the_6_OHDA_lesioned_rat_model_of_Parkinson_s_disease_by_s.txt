@@ -1,0 +1,5 @@
+Title: Piperine improves levodopa availability in the 6-OHDA-lesioned rat model of Parkinson's disease by suppressing gut bacterial tyrosine decarboxylase.
+PMID: 37528534
+
+Abstract:
+Tyrosine decarboxylase (TDC) presented in the gut-associated strain Enterococcus faecalis can convert levodopa (L-dopa) into dopamine (DA), and its increased abundance would potentially minimize the availability and efficacy of L-dopa. However, the known human decarboxylase inhibitors are ineffective in this bacteria-mediated conversion. This study aims to investigate the inhibition of piperine (PIP) on L-dopa bacterial metabolism and evaluates the synergistic effect of PIP combined with L-dopa on Parkinson's disease (PD).

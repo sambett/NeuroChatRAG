@@ -1,0 +1,5 @@
+Title: Balance telerehabilitation and wearable technology for people with Parkinson's disease (TelePD trial).
+PMID: 37833645
+
+Abstract:
+Balance impairments, that lead to falls, are one of the main symptoms of Parkinson's disease (PD). Telerehabilitation is becoming more common for people with PD; however, balance is particularly challenging to assess and treat virtually. The feasibility and efficacy of virtual assessment and virtual treatment of balance in people with PD are unknown. The present study protocol has three aims: I) to determine if a virtual balance and gait assessment (instrumented L-shape mobility test) with wearable sensors can predict a gold-standard, in-person clinical assessment of balance, the Mini Balance Evaluation Systems Test (Mini-BESTest); II) to explore the effects of 12 sessions of balance telerehabilitation and unsupervised home exercises on balance, gait, executive function, and clinical scales; and III) to explore if improvements after balance telerehabilitation transfer to daily-life mobility, as measured by instrumented socks with inertial sensors worn for 7 days.

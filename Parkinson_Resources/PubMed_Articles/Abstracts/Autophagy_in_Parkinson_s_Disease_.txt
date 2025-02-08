@@ -1,0 +1,5 @@
+Title: Autophagy in Parkinson's Disease.
+PMID: 37892117
+
+Abstract:
+Parkinson's disease (PD) is a devastating disease associated with accumulation of α-synuclein (α-Syn) within dopaminergic neurons, leading to neuronal death. PD is characterized by both motor and non-motor clinical symptoms. Several studies indicate that autophagy, an important intracellular degradation pathway, may be involved in different neurodegenerative diseases including PD. The autophagic process mediates the degradation of protein aggregates, damaged and unneeded proteins, and organelles, allowing their clearance, and thereby maintaining cell homeostasis. Impaired autophagy may cause the accumulation of abnormal proteins. Incomplete or impaired autophagy may explain the neurotoxic accumulation of protein aggregates in several neurodegenerative diseases including PD. Indeed, studies have suggested the contribution of impaired autophagy to α-Syn accumulation, the death of dopaminergic neurons, and neuroinflammation. In this review, we summarize the recent literature on the involvement of autophagy in PD pathogenesis.

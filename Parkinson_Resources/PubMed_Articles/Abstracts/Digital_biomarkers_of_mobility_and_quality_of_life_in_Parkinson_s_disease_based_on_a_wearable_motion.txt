@@ -1,0 +1,5 @@
+Title: Digital biomarkers of mobility and quality of life in Parkinson's disease based on a wearable motion analysis LAB.
+PMID: 38070392
+
+Abstract:
+Functional mobility, an indicator of the quality of life (QoL), requires fast and flexible changes during motion, which are limited in Parkinson's disease (PD). Recent body-worn sensors have emerged in the last decades as potential solutions to produce digital biomarkers able to quantify mobility outside routine consultations and during real-life scenarios for multiple days at a time. The proposed research aims to study the ability of a wearable motion analysis lab, developed by our team, to produce digital biomarkers of mobility and QoL levels in patients with PD.

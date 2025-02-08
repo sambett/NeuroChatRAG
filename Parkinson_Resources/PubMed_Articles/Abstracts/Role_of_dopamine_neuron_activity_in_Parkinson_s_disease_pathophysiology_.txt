@@ -1,0 +1,5 @@
+Title: Role of dopamine neuron activity in Parkinson's disease pathophysiology.
+PMID: 38092187
+
+Abstract:
+Neural activity is finely tuned to produce normal behaviors, and disruptions in activity likely occur early in the course of many neurodegenerative diseases. However, how neural activity is altered, and how these changes influence neurodegeneration is poorly understood. Here, we focus on evidence that the activity of dopamine neurons is altered in Parkinson's disease (PD), either as a compensatory response to degeneration or as a result of circuit dynamics or pathologic proteins, based on available human data and studies in animal models of PD. We then discuss how this abnormal activity may augment other neurotoxic phenomena in PD, including mitochondrial deficits, protein aggregation and spread, dopamine toxicity, and excitotoxicity. A more complete picture of how activity is altered and the resulting effects on dopaminergic neuron health and function may inform future therapeutic interventions to target and protect dopamine neurons from degeneration.

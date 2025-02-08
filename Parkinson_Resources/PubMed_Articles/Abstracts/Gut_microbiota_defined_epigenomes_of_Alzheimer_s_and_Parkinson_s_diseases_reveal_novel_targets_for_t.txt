@@ -1,0 +1,5 @@
+Title: Gut microbiota defined epigenomes of Alzheimer's and Parkinson's diseases reveal novel targets for therapy.
+PMID: 38088063
+
+Abstract:
+The origins of Alzheimer's disease (AD) and Parkinson's disease (PD) involve genetic mutations, epigenetic changes, neurotoxin exposure and gut microbiota dysregulation. The gut microbiota's dynamic composition and its metabolites influence intestinal and blood-brain barrier integrity, contributing to AD and PD development. This review explores protein misfolding, aggregation and epigenetic links in AD and PD pathogenesis. It also highlights the role of a leaky gut and the microbiota-gut-brain axis in promoting these diseases through inflammation-induced epigenetic alterations. In addition, we investigate the potential of diet, probiotics and microbiota transplantation for preventing and treating AD and PD via epigenetic modifications, along with a discussion related to current challenges and future considerations. These approaches offer promise for translating research findings into practical clinical applications.

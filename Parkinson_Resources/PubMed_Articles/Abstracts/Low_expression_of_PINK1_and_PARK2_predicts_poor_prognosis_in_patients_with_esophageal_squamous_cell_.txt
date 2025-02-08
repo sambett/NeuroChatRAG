@@ -1,0 +1,5 @@
+Title: Low expression of PINK1 and PARK2 predicts poor prognosis in patients with esophageal squamous cell carcinoma.
+PMID: 37833780
+
+Abstract:
+The Parkinson's disease (PD) gene family expression is strongly linked to tumor development and progression; PINK1 and PARK2 are essential members of the PD gene family. However, the relationship between PINK1 and PARK2 and esophageal squamous cell carcinoma (ESCC) remains unknown. This research aims to clarify the prognostic value of PINK1 and PARK2 in ESCC.

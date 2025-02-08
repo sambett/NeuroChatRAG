@@ -1,0 +1,5 @@
+Title: Icariin Inhibits Overexpression and Aggregation of α-Synuclein in A53T α-Synuclein Transgenic Mice by Regulating Parkin and PLK2.
+PMID: 38176950
+
+Abstract:
+Synucleinopathies, which are major pathological features of Parkinson's disease (PD), are characterized by misfolded aggregates of α-synuclein in the peripheral and central nervous system. Icariin (ICA) is the main active component of <i>Epimedium</i> flavonoids. Our previous study found that ICA decreases α-synuclein expression in APPV717I transgenic mice.

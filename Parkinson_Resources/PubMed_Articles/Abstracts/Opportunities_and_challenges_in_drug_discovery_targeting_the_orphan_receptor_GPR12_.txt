@@ -1,0 +1,5 @@
+Title: Opportunities and challenges in drug discovery targeting the orphan receptor GPR12.
+PMID: 37422169
+
+Abstract:
+G-protein-coupled receptor 12 (GPR12) is a brain-specific expression orphan G-protein-coupled receptor (oGPCR) that regulates various physiological processes. It is an emerging therapeutic target for central nervous system (CNS) disorders, including Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), attention deficit hyperactivity disorder (ADHD), and schizophrenia, as well as other human diseases, such as cancer, obesity, and metabolic disorders. GPR12 remains a less extensively investigated oGPCR, particularly in terms of its biological functions, signaling pathways, and ligand discovery. The discovery of drug-like small-molecule modulators to probe the brain functions of GPR12 or to act as a potential drug candidates, as well as the identification of reliable biomarkers, are vital to elucidate the roles of this receptor in various human diseases and develop novel target-based therapeutics.

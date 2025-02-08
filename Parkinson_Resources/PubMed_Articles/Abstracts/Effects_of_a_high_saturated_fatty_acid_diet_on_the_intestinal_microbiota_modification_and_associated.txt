@@ -1,0 +1,5 @@
+Title: Effects of a high saturated fatty acid diet on the intestinal microbiota modification and associated impacts on Parkinson's disease development.
+PMID: 37562163
+
+Abstract:
+Recent research has focused on the link between diet, intestinal microbiota, and the impact of excessive consumption of saturated fatty acids. Saturated fatty acids, found in animal fats, dairy, and processed foods, contribute to dysbiosis, increase intestinal barrier permeability, chronic low-grade inflammation, oxidative stress, and dysfunction of the blood-brain barrier, affecting the central nervous system. High intake of saturated fatty acids is associated with an increased risk of developing Parkinson's disease (PD). Diets low in saturated fats, rich in fibers, promote microbial diversity, improve gut health, and potentially reduce the risk of neurodegenerative diseases like PD.

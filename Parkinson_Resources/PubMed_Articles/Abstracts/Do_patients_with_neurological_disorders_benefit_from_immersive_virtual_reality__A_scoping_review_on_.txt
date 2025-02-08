@@ -1,0 +1,5 @@
+Title: Do patients with neurological disorders benefit from immersive virtual reality? A scoping review on the emerging use of the computer-assisted rehabilitation environment.
+PMID: 37971719
+
+Abstract:
+Virtual reality (VR) is an advanced technology that creates simulated environments and conditions. By offering the possibility of combining motor, cognitive, and well-being in conjunction with the potential to manipulate multi-sensorial features in a safe environment, VR has emerged as a promising powerful rehabilitation tool. Among advanced VR systems, various authors have highlighted promising effects in the rehabilitation of the computer-assisted rehabilitation environment (CAREN - Motekforce Link; Amsterdam, The Netherlands). In our scoping review, we aimed to map the existing evidence on the use of CAREN in the rehabilitation of neurological patients.

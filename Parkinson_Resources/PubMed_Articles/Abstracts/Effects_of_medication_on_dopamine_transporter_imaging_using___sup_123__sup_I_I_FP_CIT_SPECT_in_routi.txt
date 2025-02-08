@@ -1,0 +1,5 @@
+Title: Effects of medication on dopamine transporter imaging using [<sup>123</sup>I]I-FP-CIT SPECT in routine practice.
+PMID: 38114618
+
+Abstract:
+Dopamine transporter (DAT) imaging is used to support the diagnosis of neurodegenerative parkinsonian disorders. Specific medications have been reported to confound the interpretation of [<sup>123</sup>I]I-FP-CIT SPECT scans, but there is limited data. The aim of the current study is to identify potential medication effects on the interpretation of [<sup>123</sup>I]I-FP-CIT SPECT scans in routine practice.

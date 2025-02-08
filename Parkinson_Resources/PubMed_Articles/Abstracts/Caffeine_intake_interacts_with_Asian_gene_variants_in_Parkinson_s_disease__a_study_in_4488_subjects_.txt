@@ -1,0 +1,5 @@
+Title: Caffeine intake interacts with Asian gene variants in Parkinson's disease: a study in 4488 subjects.
+PMID: 37691886
+
+Abstract:
+Caffeine intake reduces risk of Parkinson's disease (PD), but the interaction with genes is unclear. The interaction of caffeine with genetic variants in those at high PD risk has healthcare importance. We investigate interactions of caffeine intake with risk variants found in Asians, and determine PD risk estimates in caffeine-drinkers carrying these variants.

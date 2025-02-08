@@ -1,0 +1,5 @@
+Title: Rehabilitation Technologies for Chronic Conditions: Will We Sink or Swim?
+PMID: 37893825
+
+Abstract:
+Chronic conditions such as stroke, Parkinson's disease, spinal cord injury, multiple sclerosis, vestibular disorders, chronic pain, arthritis, diabetes, chronic obstructive pulmonary disease (COPD), and heart disease are leading causes of disability among middle-aged and older adults. While evidence-based treatment can optimize clinical outcomes, few people with chronic conditions engage in the recommended levels of exercise for clinical improvement and successful management of their condition. Rehabilitation technologies that can augment therapeutic care-i.e., exoskeletons, virtual/augmented reality, and remote monitoring-offer the opportunity to bring evidence-based rehabilitation into homes. Successful integration of rehabilitation techniques at home could help recovery and access and foster long term self-management. However, widespread uptake of technology in rehabilitation is still limited, leaving many technologies developed but not adopted.

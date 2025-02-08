@@ -1,0 +1,5 @@
+Title: Impaired topological properties of cortical morphological brain networks correlate with motor symptoms in Parkinson's disease.
+PMID: 37774912
+
+Abstract:
+Parkinson's disease (PD) is characterized by loss of selectively vulnerable neurons within the basal ganglia circuit and progressive atrophy in subcortical and cortical regions. However, the impact of neurodegenerative pathology on the topological organization of cortical morphological networks has not been explored. The aims of this study were to investigate altered network patterns of covariance in cortical thickness and complexity, and to evaluate how morphological network integrity in PD is related to motor impairment.

@@ -1,0 +1,5 @@
+Title: FTO-targeted siRNA delivery by MSC-derived exosomes synergistically alleviates dopaminergic neuronal death in Parkinson's disease via m6A-dependent regulation of ATM mRNA.
+PMID: 37737187
+
+Abstract:
+Parkinson's disease (PD), characterized by the progressive loss of dopaminergic neurons in the substantia nigra and striatum of brain, seriously threatens human health, and is still lack of effective treatment. Dysregulation of N6-methyladenosine (m6A) modification has been implicated in PD pathogenesis. However, how m6A modification regulates dopaminergic neuronal death in PD remains elusive. Mesenchymal stem cell-derived exosomes (MSC-Exo) have been shown to be effective for treating central nervous disorders. We thus propose that the m6A demethylase FTO-targeted siRNAs (si-FTO) may be encapsulated in MSC-Exo (Exo-siFTO) as a synergistic therapy against dopaminergic neuronal death in PD.

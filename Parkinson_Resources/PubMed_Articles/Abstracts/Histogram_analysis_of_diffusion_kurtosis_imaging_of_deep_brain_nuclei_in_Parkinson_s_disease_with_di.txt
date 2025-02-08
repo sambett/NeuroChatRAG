@@ -1,0 +1,5 @@
+Title: Histogram analysis of diffusion kurtosis imaging of deep brain nuclei in Parkinson's disease with different motor subtypes.
+PMID: 37838544
+
+Abstract:
+To evaluate the diagnostic and differential efficacy of diffusion kurtosis imaging (DKI) histogram analysis for different motor subtypes of Parkinson's disease (PD).

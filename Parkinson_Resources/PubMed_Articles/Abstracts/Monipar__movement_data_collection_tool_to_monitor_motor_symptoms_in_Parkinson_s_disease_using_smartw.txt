@@ -1,0 +1,5 @@
+Title: Monipar: movement data collection tool to monitor motor symptoms in Parkinson's disease using smartwatches and smartphones.
+PMID: 38148984
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder commonly characterized by motor impairments. The development of mobile health (m-health) technologies, such as wearable and smart devices, presents an opportunity for the implementation of clinical tools that can support tasks such as early diagnosis and objective quantification of symptoms.

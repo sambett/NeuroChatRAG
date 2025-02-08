@@ -1,0 +1,5 @@
+Title: Neuronal Encoding of Speech Features in the Human Thalamus in Parkinson's Disease and Essential Tremor Patients.
+PMID: 37695053
+
+Abstract:
+The human thalamus is known, from stimulation studies and functional imaging, to participate in high-level language tasks. The goal of this study is to find whether and how speech features, in particular, vowel phonemes, are encoded in the neuronal activity of the thalamus, and specifically of the left ventralis intermediate nucleus (Vim), during speech production, perception, and imagery.

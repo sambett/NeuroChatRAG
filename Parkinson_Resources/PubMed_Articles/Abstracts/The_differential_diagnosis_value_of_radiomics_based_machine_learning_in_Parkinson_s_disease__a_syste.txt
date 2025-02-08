@@ -1,0 +1,5 @@
+Title: The differential diagnosis value of radiomics-based machine learning in Parkinson's disease: a systematic review and meta-analysis.
+PMID: 37484694
+
+Abstract:
+In recent years, radiomics has been increasingly utilized for the differential diagnosis of Parkinson's disease (PD). However, the application of radiomics in PD diagnosis still lacks sufficient evidence-based support. To address this gap, we carried out a systematic review and meta-analysis to evaluate the diagnostic value of radiomics-based machine learning (ML) for PD.

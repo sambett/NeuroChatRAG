@@ -1,0 +1,5 @@
+Title: Diabetes: a tipping point in neurodegenerative diseases.
+PMID: 37827904
+
+Abstract:
+Diabetes is associated with an increased risk and progression of Alzheimer's (AD) and Parkinson's (PD) diseases. Conversely, diabetes may confer neuroprotection against amyotrophic lateral sclerosis (ALS). It has been posited that perturbations in glucose and insulin regulation, cholesterol metabolism, and mitochondrial bioenergetics defects may underlie the molecular underpinnings of diabetes effects on the brain. Nevertheless, the precise molecular mechanisms remain elusive. Here, we discuss the evidence from molecular, epidemiological, and clinical studies investigating the impact of diabetes on neurodegeneration and highlight shared dysregulated pathways between these complex comorbidities. We also discuss promising antidiabetic drugs, molecular diagnostics currently in clinical trials, and outstanding questions and challenges for future pursuit.

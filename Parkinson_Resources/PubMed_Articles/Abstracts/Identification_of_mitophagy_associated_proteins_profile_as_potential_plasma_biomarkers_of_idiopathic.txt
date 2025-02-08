@@ -1,0 +1,5 @@
+Title: Identification of mitophagy-associated proteins profile as potential plasma biomarkers of idiopathic Parkinson's disease.
+PMID: 37990436
+
+Abstract:
+Despite extensive work to identify diagnostic plasma markers for Parkinson's disease (PD), there are still no accepted and validated surrogate biomarkers. Mitophagy-associated proteins (MAPs), including PTEN-induced putative kinase 1 (PINK1), Parkin, phosphoglycerate mutase 5 (PGAM5), BCL2 interacting protein 3 (BNIP3), and phosphorylated-TBK1 (p-TBK1), are, to our best knowledge, not well studied as a panel of biomarkers of neurodegeneration in PD.

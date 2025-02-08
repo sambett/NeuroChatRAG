@@ -1,0 +1,5 @@
+Title: Sensing-Enabled Deep Brain Stimulation in Epilepsy.
+PMID: 38000835
+
+Abstract:
+Deep brain stimulation has demonstrated efficacy in reducing seizure frequency in patients with drug-resistant epilepsy who may otherwise not be candidates for other surgical procedures. Recently, a clinical device that can monitor neural activity in the form of local field potentials around the deep brain stimulator lead implant site has been introduced. While this technology has been clinically adopted in other disorders treated with deep brain stimulation, such as Parkinson's disease, its application in epilepsy remains unclear. Previous research using investigational devices has suggested that specific frequency bands may correlate with clinical response to deep brain stimulation in epilepsy, but features of the clinical device may prevent its use. The authors present their experience with using this technology in epilepsy patients and describe some of its limitations. Ultimately, novel biomarkers will need to be identified to elucidate how neural activity at deep brain stimulation sites may change with clinical response.

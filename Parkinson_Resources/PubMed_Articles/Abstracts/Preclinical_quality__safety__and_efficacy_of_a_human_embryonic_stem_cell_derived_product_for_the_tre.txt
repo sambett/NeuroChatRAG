@@ -1,0 +1,5 @@
+Title: Preclinical quality, safety, and efficacy of a human embryonic stem cell-derived product for the treatment of Parkinson's disease, STEM-PD.
+PMID: 37802036
+
+Abstract:
+Cell replacement therapies for Parkinson's disease (PD) based on transplantation of pluripotent stem cell-derived dopaminergic neurons are now entering clinical trials. Here, we present quality, safety, and efficacy data supporting the first-in-human STEM-PD phase I/IIa clinical trial along with the trial design. The STEM-PD product was manufactured under GMP and quality tested in vitro and in vivo to meet regulatory requirements. Importantly, no adverse effects were observed upon testing of the product in a 39-week rat GLP safety study for toxicity, tumorigenicity, and biodistribution, and a non-GLP efficacy study confirmed that the transplanted cells mediated full functional recovery in a pre-clinical rat model of PD. We further observed highly comparable efficacy results between two different GMP batches, verifying that the product can be serially manufactured. A fully in vivo-tested batch of STEM-PD is now being used in a clinical trial of 8 patients with moderate PD, initiated in 2022.

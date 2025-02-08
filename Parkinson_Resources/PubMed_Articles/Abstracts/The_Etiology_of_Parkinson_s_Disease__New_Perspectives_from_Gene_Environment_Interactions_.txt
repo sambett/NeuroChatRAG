@@ -1,0 +1,5 @@
+Title: The Etiology of Parkinson's Disease: New Perspectives from Gene-Environment Interactions.
+PMID: 37980685
+
+Abstract:
+Parkinson's disease is now the most rapidly growing neurodegenerative disease worldwide. It is therefore critical to identify which factors, and to what extent, contribute to the multifactorial etiology of Parkinson's disease. Here, we address two interesting elements from the perspective of genetics, namely (a) the estimated age of several genetic risk factors related to Parkinson's disease; and (b) the relative contribution of genetics to the etiology of Parkinson's disease, as derived from twin studies. Based on these two perspectives, we argue that most genetic risk factors are by themselves insufficient to explain the majority of Parkinson's disease, and that environmental factors are required for these genetic factors to become pathophysiologically relevant.

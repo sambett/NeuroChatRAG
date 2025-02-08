@@ -1,0 +1,5 @@
+Title: Susceptibility-Weighted MRI Approximates Intraoperative Microelectrode Recording During Deep Brain Stimulation of the Subthalamic Nucleus for Parkinson's Disease.
+PMID: 37839566
+
+Abstract:
+Deep brain stimulation of the subthalamic nucleus (STN-DBS) for Parkinson's disease can be performed with intraoperative neurophysiological and radiographic guidance. Conventional T2-weighted magnetic resonance imaging sequences, however, often fail to provide definitive borders of the STN. Novel magnetic resonance imaging sequences, such as susceptibility-weighted imaging (SWI), might better localize the STN borders and facilitate radiographic targeting. We compared the radiographic location of the dorsal and ventral borders of the STN using SWI with intraoperative microelectrode recording (MER) during awake STN-DBS for Parkinson's disease.

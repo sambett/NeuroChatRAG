@@ -1,0 +1,5 @@
+Title: Mesial temporal dopamine: From biology to behaviour.
+PMID: 38057945
+
+Abstract:
+While colloquially recognized for its role in pleasure, reward, and affect, dopamine is also necessary for proficient action control. Many motor studies focus on dopaminergic transmission along the nigrostriatal pathway, using Parkinson's disease as a model of a dorsal striatal lesion. Less attention to the mesolimbic pathway and its role in motor control has led to an important question related to the limbic-motor network. Indeed, secondary targets of the mesolimbic pathway include the hippocampus and amygdala, and these are linked to the motor cortex through the substantia nigra and thalamus. The modulatory impact of dopamine in the hippocampus and amygdala in humans is a focus of current investigations. This review explores dopaminergic activity in the mesial temporal lobe by summarizing dopaminergic networks and transmission in these regions and examining their role in behaviour and disease.

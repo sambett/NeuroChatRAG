@@ -1,0 +1,5 @@
+Title: The systemic immune response in Parkinson's disease: focus on the peripheral immune component.
+PMID: 37598092
+
+Abstract:
+During Parkinson's disease (PD), both the central nervous system (CNS) and peripheral nervous system (PNS) are affected. In parallel, innate immune cells respond early to neuronal changes and alpha-synuclein (α-syn) pathology. Moreover, some of the affected neuronal groups innervate organs with a relevant role in immunity. Consequently, not only microglia, but also peripheral immune cells are altered, resulting in a systemic immune response. Innate and adaptive immune cells may participate in the neurodegenerative process by acting peripherally, infiltrating the brain, or releasing mediators that can protect or harm neurons. However, the sequence of the changes and the significance of each immune compartment in the disease remain to be clarified. In this review, we describe current understanding of the peripheral immune response in PD and discuss the road ahead.

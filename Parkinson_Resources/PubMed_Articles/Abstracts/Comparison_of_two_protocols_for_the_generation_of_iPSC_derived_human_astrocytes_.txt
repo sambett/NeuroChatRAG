@@ -1,0 +1,5 @@
+Title: Comparison of two protocols for the generation of iPSC-derived human astrocytes.
+PMID: 37730545
+
+Abstract:
+Astrocytes have recently gained attention as key contributors to the pathogenesis of neurodegenerative disorders including Parkinson's disease. To investigate human astrocytes in vitro, numerous differentiation protocols have been developed. However, the properties of the resulting glia are inconsistent, which complicates the selection of an appropriate method for a given research question. Thus, we compared two approaches for the generation of iPSC-derived astrocytes. We phenotyped glia that were obtained employing a widely used long, serum-free ("LSF") method against an in-house established short, serum-containing ("SSC") protocol which allows for the generation of astrocytes and midbrain neurons from the same precursor cells.

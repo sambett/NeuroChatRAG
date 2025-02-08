@@ -1,0 +1,5 @@
+Title: HOTAIRM1 knockdown reduces MPP<sup>+</sup>-induced oxidative stress injury of SH-SY5Y cells by activating the Nrf2/HO-1 pathway.
+PMID: 37529170
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease with complex pathogenesis. Although HOXA transcript antisense RNA myeloid-specific 1 (HOTAIRM1) is upregulated in PD, its exact role in HOTAIRM1 is seldom reported. The purpose of this study is to research the effect of HOTAIRM1 on 1-methyl-4-phenylpyridonium (MPP<sup>+</sup>)-induced cytotoxicity and oxidative stress in SH-SY5Y cells.

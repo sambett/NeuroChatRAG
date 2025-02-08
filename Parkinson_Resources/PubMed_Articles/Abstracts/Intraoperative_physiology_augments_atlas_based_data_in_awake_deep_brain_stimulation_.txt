@@ -1,0 +1,5 @@
+Title: Intraoperative physiology augments atlas-based data in awake deep brain stimulation.
+PMID: 37679029
+
+Abstract:
+Deep brain stimulation (DBS) is commonly performed with patients awake to perform intraoperative microelectrode recordings and/or macrostimulation testing to guide final electrode placement. Supplemental information from atlas-based databases derived from prior patient data and visualised as efficacy heat maps transformed and overlaid onto preoperative MRIs can be used to guide preoperative target planning and intraoperative final positioning. Our quantitative analysis of intraoperative testing and corresponding changes made to final electrode positioning aims to highlight the value of intraoperative neurophysiological testing paired with image-based data to optimise final electrode positioning in a large patient cohort.

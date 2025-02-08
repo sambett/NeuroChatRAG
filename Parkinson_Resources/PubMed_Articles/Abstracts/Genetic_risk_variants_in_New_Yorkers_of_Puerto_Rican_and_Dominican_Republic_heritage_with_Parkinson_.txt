@@ -1,0 +1,5 @@
+Title: Genetic risk variants in New Yorkers of Puerto Rican and Dominican Republic heritage with Parkinson's disease.
+PMID: 38062033
+
+Abstract:
+There is a paucity of genetic characterization in people with Parkinson's disease (PD) of Latino and Afro-Caribbean descent. Screening LRRK2 and GBA variants in 32 New Yorkers of Puerto Rican ethnicity with PD and in 119 non-Hispanic-non-Jewish European PD cases revealed that Puerto Rican participants were more likely to harbor the LRRK2-p.G2019S variant (15.6% vs. 4.2%, respectively). Additionally, whole exome sequencing of twelve Puerto Rican and Dominican PD participants was performed as an exploratory study.

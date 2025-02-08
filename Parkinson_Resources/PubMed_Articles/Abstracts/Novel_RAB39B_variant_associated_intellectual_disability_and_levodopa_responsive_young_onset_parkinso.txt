@@ -1,0 +1,5 @@
+Title: Novel RAB39B variant associated intellectual disability and levodopa-responsive young-onset parkinsonism.
+PMID: 37844350
+
+Abstract:
+We report a 37-year-old Caucasian male with history of developmental delay, childhood onset Intellectual Disability (ID) and attention deficit hyperactivity disorder (ADHD) who presented at the age of 34 with tremor-dominant parkinsonism. Next Generation Sequencing (NGS) revealed pathogenic hemizygous sequence variant, c.200G > T, in the RAB39B gene. This report expands the number of described individuals with young onset PD associated with RAB39B mutation.

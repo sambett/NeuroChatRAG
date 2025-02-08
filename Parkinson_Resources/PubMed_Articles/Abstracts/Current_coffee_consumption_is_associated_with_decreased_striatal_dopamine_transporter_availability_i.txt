@@ -1,0 +1,5 @@
+Title: Current coffee consumption is associated with decreased striatal dopamine transporter availability in Parkinson's disease patients and healthy controls.
+PMID: 37491235
+
+Abstract:
+Coffee is the most widely consumed psychostimulant worldwide. Emerging evidence indicates that coffee consumption habit significantly reduces the risk of developing Parkinson's disease (PD). However, the effect of coffee consumption on nigrostriatal dopaminergic neurodegeneration is still largely unknown. We therefore aim to investigate the role of coffee consumption in nigrostriatal dopaminergic neurodegeneration using dopamine transporter (DAT) imaging in PD and healthy controls (HC).

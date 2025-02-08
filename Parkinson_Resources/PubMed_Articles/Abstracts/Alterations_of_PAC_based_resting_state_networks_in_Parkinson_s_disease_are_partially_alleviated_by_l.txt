@@ -1,0 +1,5 @@
+Title: Alterations of PAC-based resting state networks in Parkinson's disease are partially alleviated by levodopa medication.
+PMID: 37588811
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder affecting the whole brain, leading to several motor and non-motor symptoms. In the past, it has been shown that PD alters resting state networks (RSN) in the brain. These networks are usually derived from fMRI BOLD signals. This study investigated RSN changes in PD patients based on maximum phase-amplitude coupling (PAC) throughout the cortex. We also tested the hypothesis that levodopa medication shifts network activity back toward a healthy state.

@@ -1,0 +1,5 @@
+Title: Comparison of biospecimens for α-synuclein seed amplification assays in Parkinson's disease: A systematic review and network meta-analysis.
+PMID: 37573472
+
+Abstract:
+Alpha-synuclein seed amplification assays (α-syn SAAs) are promising diagnostic methods for Parkinson's disease (PD) and other synucleinopathies. However, there is limited consensus regarding the diagnostic and differential diagnostic performance of α-syn SAAs on biofluids and peripheral tissues.

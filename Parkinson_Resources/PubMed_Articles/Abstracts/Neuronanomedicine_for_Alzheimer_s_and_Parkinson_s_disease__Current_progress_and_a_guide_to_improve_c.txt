@@ -1,0 +1,5 @@
+Title: Neuronanomedicine for Alzheimer's and Parkinson's disease: Current progress and a guide to improve clinical translation.
+PMID: 37967664
+
+Abstract:
+Neuronanomedicine is an emerging multidisciplinary field that aims to create innovative nanotechnologies to treat major neurodegenerative disorders, such as Alzheimer's (AD) and Parkinson's disease (PD). A key component of neuronanomedicine are nanoparticles, which can improve drug properties and demonstrate enhanced safety and delivery across the blood-brain barrier, a major improvement on existing therapeutic approaches. In this review, we critically analyze the latest nanoparticle-based strategies to modify underlying disease pathology to slow or halt AD/PD progression. We find that a major roadblock for neuronanomedicine translation to date is a poor understanding of how nanoparticles interact with biological systems (i.e., bio-nano interactions), which is partly due to inconsistent reporting in published works. Accordingly, this review makes a set of specific recommendations to help guide researchers to harness the unique properties of nanoparticles and thus realise breakthrough treatments for AD/PD.

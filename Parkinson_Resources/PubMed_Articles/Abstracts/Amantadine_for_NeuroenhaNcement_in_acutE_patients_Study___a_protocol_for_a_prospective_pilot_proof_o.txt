@@ -1,0 +1,5 @@
+Title: Amantadine for NeuroenhaNcement in acutE patients Study - a protocol for a prospective pilot proof of concept phase IIb study in intensive and intermediate care unit patients (ANNES).
+PMID: 37608315
+
+Abstract:
+Persisting coma is a common complication in (neuro)intensive care in neurological disease such as acute ischemic stroke, intracerebral hemorrhage or subarachnoid hemorrhage. Amantadine acts as a nicotinic receptor antagonist, dopamine receptor agonist and non-competitive N-Methyl-D-aspartate receptor antagonist. Amantadine is a long-known drug, originally approved for treatment of influenza A and Parkinson`s Disease. It has been proven effective in improving vigilance after traumatic brain injury. The underlying mechanisms remain largely unknown, albeit anti-glutamatergic and dopaminergic effects might be most relevant. With limited evidence of amantadine efficacy in non-traumatic pathologies, the aim of our study is to assess the effects of amantadine for neuroenhancement in non-traumatic neurointensive patients with persisting coma.

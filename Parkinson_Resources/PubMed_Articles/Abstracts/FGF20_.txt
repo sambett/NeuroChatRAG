@@ -1,0 +1,5 @@
+Title: FGF20.
+PMID: 38007375
+
+Abstract:
+Fibroblast growth factor 20 (FGF20) is a neurotrophic factor and a member of the FGF9 subfamily. It was first identified in Xenopus embryos and was isolated shortly thereafter from the adult rat brain. Its receptors include FGFR4, FGFR3b, FGFR2b and the FGFRc splice forms. In adults it is highly expressed in the brain, while it is expressed in a variety of regions during embryonic development, including the inner ear, heart, hair placodes, mammary buds, dental epithelium and limbs. As a result of its wide-spread expression, FGF20 mouse mutants exhibit a variety of phenotypes including congenital deafness, lack of hair, small kidneys and delayed mammary ductal outgrowth. FGF20 is also associated with human diseases including Parkinson's Disease, cancer and hereditary deafness.

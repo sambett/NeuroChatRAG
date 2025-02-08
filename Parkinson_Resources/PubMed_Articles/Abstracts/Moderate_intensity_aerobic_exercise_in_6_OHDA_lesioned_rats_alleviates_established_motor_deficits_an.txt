@@ -1,0 +1,5 @@
+Title: Moderate intensity aerobic exercise in 6-OHDA-lesioned rats alleviates established motor deficits and reduces neurofilament light and glial fibrillary acidic protein serum levels without increased striatal dopamine or tyrosine hydroxylase protein.
+PMID: 37502851
+
+Abstract:
+Alleviation of motor impairment by aerobic exercise (AE) in Parkinson's disease (PD) points to a CNS response that could be targeted by therapeutic approaches, but recovery of striatal dopamine (DA) or tyrosine hydroxylase (TH) has been inconsistent in rodent studies.

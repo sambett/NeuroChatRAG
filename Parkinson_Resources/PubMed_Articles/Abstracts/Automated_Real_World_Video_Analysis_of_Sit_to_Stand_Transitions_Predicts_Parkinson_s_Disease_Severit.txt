@@ -1,0 +1,5 @@
+Title: Automated Real-World Video Analysis of Sit-to-Stand Transitions Predicts Parkinson's Disease Severity.
+PMID: 37588481
+
+Abstract:
+Technology holds the potential to track disease progression and response to neuroprotective therapies in Parkinson's disease (PD). The sit-to-stand (STS) transition is a frequently occurring event which is important to people with PD. The aim of this study was to demonstrate an automatic approach to quantify STS duration and speed using a real-world free-living dataset and look at clinical correlations of the outcomes, including whether STS parameters change when someone withholds PD medications.

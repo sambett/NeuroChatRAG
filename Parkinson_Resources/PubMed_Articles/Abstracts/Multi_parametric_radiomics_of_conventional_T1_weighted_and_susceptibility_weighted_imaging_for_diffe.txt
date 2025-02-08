@@ -1,0 +1,5 @@
+Title: Multi-parametric radiomics of conventional T1 weighted and susceptibility-weighted imaging for differential diagnosis of idiopathic Parkinson's disease and multiple system atrophy.
+PMID: 38066432
+
+Abstract:
+This study aims to investigate the potential of radiomics with multiple parameters from conventional T1 weighted imaging (T1WI) and susceptibility weighted imaging (SWI) in distinguishing between idiopathic Parkinson's disease (PD) and multiple system atrophy (MSA).

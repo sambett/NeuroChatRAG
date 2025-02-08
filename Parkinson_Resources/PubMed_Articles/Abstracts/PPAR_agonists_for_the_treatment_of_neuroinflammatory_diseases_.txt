@@ -1,0 +1,5 @@
+Title: PPAR agonists for the treatment of neuroinflammatory diseases.
+PMID: 38065777
+
+Abstract:
+Peroxisome proliferator-activated receptors [PPARs; PPARα, PPARβ/δ (also known as PPARδ), and PPARγ] widely recognized for their important role in glucose/lipid homeostasis, have recently received significant attention due to their additional anti-inflammatory and neuroprotective effects. Several newly developed PPAR agonists have shown high selectivity for specific PPAR isoforms in vitro and in vivo, offering the potential to achieve desired therapeutic outcomes while reducing the risk of adverse effects. In this review, we discuss the latest preclinical and clinical studies of the activation of PPARs by synthetic, natural, and isoform-specific (full, partial, and dual) agonists for the treatment of neuroinflammatory diseases, including HIV-associated neurocognitive disorders (HAND), Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS), and cerebral ischemia.

@@ -1,0 +1,5 @@
+Title: Tamoxifen in breast cancer and risk of Parkinson's disease: A meta-analysis.
+PMID: 37993099
+
+Abstract:
+Tamoxifen is widely used for hormone-sensitive breast cancer, achieved by modulating the estrogen receptor activity in a tissue-specific manner. There is evidence to support the protective effects of estrogen against Parkinson's disease (PD), a common neurodegenerative condition. Some epidemiologic studies suggest the use of tamoxifen may modulate the PD risk. We conducted a meta-analysis to examine the association between tamoxifen and risk of PD.

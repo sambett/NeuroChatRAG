@@ -1,0 +1,5 @@
+Title: Meta-analysis to Implement Alpha-Synuclein in Extracellular Vesicles as a Potential Biomarker for Parkinsons Disease.
+PMID: 37607031
+
+Abstract:
+<b>Background:</b> In Parkinson's disease (PD), exosomes carry α-synuclein (α-syn), a fibrillar protein aggregates with potential value as a biomarker. <b>Objective:</b> Evidence on blood levels of exosomal α-syn in PD patients and controls was reviewed for their consistency. <b>Methods:</b> Thirty-six studies on exosomal α-syn concentrations in PD were identified in a systematic literature search and meta-analysis. <b>Results:</b> Both raw and ratio-adjusted blood exosomal α-syn levels were consistently higher in PD patients than in controls. The standardized mean difference (SMD) was 1.54 (0.18-2.90, CI95%, p < 0.01) and 1.53 (0.23-2.83, CI95%, p < 0.01), respectively. <b>Conclusion:</b> Our results suggest that exosomal α-syn concentrations could be a useful biomarker for PD.

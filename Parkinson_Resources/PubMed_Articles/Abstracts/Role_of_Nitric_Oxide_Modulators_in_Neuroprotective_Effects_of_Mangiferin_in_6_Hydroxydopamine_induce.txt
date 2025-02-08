@@ -1,0 +1,5 @@
+Title: Role of Nitric Oxide Modulators in Neuroprotective Effects of Mangiferin in 6-Hydroxydopamine-induced Parkinson's Disease in Rats.
+PMID: 39156628
+
+Abstract:
+Parkinson's disease (PD) is typified by inflammation of dopaminergic neurons leading to the release of various inflammatory mediators. These mediators activate the transcription factor NF-κB, which in turn activates inducible nitric oxide synthase (iNOS), leading to increased inflammation.

@@ -1,0 +1,5 @@
+Title: Anionic nanoplastic contaminants promote Parkinson's disease-associated α-synuclein aggregation.
+PMID: 37976362
+
+Abstract:
+Recent studies have identified increasing levels of nanoplastic pollution in the environment. Here, we find that anionic nanoplastic contaminants potently precipitate the formation and propagation of α-synuclein protein fibrils through a high-affinity interaction with the amphipathic and non-amyloid component (NAC) domains in α-synuclein. Nanoplastics can internalize in neurons through clathrin-dependent endocytosis, causing a mild lysosomal impairment that slows the degradation of aggregated α-synuclein. In mice, nanoplastics combine with α-synuclein fibrils to exacerbate the spread of α-synuclein pathology across interconnected vulnerable brain regions, including the strong induction of α-synuclein inclusions in dopaminergic neurons in the substantia nigra. These results highlight a potential link for further exploration between nanoplastic pollution and α-synuclein aggregation associated with Parkinson's disease and related dementias.

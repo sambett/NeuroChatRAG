@@ -1,0 +1,5 @@
+Title: Safety and efficacy of venglustat in GBA1-associated Parkinson's disease: an international, multicentre, double-blind, randomised, placebo-controlled, phase 2 trial.
+PMID: 37479372
+
+Abstract:
+Variants in the GBA1 gene, which encodes lysosomal acid glucocerebrosidase, are among the most common genetic risk factors for Parkinson's disease and are associated with faster disease progression. The mechanisms involved are unresolved but might include accumulation of glucosylceramide. Venglustat is a brain-penetrant glucosylceramide synthase inhibitor that, in previous studies, reduced amounts of the glycosphingolipid. We aimed to assess the safety, efficacy, and target engagement of venglustat in people with early-stage Parkinson's disease carrying pathogenic GBA1 variants.

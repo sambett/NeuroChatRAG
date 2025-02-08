@@ -1,0 +1,5 @@
+Title: Dynamic evaluation of spine kinematics in individuals with Parkinson's disease and freezing of gait.
+PMID: 37993298
+
+Abstract:
+Freezing of gait (FoG) is an episodic failure of gait exposing people with Parkinson's disease (PD) to a high risk of falling. Despite growing evidence of the interconnection between impaired trunk control and FoG, a detailed description of spinal kinematics during walking is still lacking in this population.

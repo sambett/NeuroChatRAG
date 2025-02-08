@@ -1,0 +1,5 @@
+Title: Investigation of the causal relationship between osteocalcin and dementia: A Mendelian randomization study.
+PMID: 37916108
+
+Abstract:
+Basic medical studies have reported an improved effect of osteocalcin on cognition. We explored the causal link between osteocalcin and dementia via the implementation of Mendelian randomization methodology.

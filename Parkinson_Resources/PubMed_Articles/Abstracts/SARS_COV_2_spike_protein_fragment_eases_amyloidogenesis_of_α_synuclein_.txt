@@ -1,0 +1,5 @@
+Title: SARS-COV-2 spike protein fragment eases amyloidogenesis of α-synuclein.
+PMID: 37409768
+
+Abstract:
+Parkinson's disease is accompanied by the presence of amyloids in the brain that are formed of α-synuclein chains. The correlation between COVID-19 and the onset of Parkinson's disease led to the idea that amyloidogenic segments in SARS-COV-2 proteins can induce aggregation of α-synuclein. Using molecular dynamic simulations, we show that the fragment FKNIDGYFKI of the spike protein, which is unique for SARS-COV-2, preferentially shifts the ensemble of α-synuclein monomer toward rod-like fibril seeding conformations and, at the same time, differentially stabilizes this polymorph over the competing twister-like structure. Our results are compared with earlier work relying on a different protein fragment that is not specific for SARS-COV-2.

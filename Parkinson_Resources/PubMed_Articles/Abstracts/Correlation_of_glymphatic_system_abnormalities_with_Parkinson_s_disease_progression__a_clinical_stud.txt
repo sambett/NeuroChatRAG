@@ -1,0 +1,5 @@
+Title: Correlation of glymphatic system abnormalities with Parkinson's disease progression: a clinical study based on non-invasive fMRI.
+PMID: 37755462
+
+Abstract:
+The glymphatic system is reportedly involved in Parkinson's disease (PD). Based on previous studies, we aimed to confirm the correlation between the glymphatic system and PD progression by combining two imaging parameters, diffusion tensor image analysis along the perivascular space (DTI-ALPS), and enlarged perivascular spaces (EPVS).

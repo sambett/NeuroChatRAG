@@ -1,0 +1,5 @@
+Title: Amelioration of Parkinsonian tremor evoked by DBS: which role play cerebello-(sub)thalamic fiber tracts?
+PMID: 38032372
+
+Abstract:
+Current pathophysiological models of Parkinson's disease (PD) assume a malfunctioning network being adjusted by the DBS signal. As various authors showed a main involvement of the cerebellum within this network, cerebello-cerebral fiber tracts are gaining special interest regarding the mediation of DBS effects.

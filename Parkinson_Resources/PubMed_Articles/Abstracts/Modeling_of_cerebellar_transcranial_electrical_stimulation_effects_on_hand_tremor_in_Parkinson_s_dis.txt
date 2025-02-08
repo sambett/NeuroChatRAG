@@ -1,0 +1,5 @@
+Title: Modeling of cerebellar transcranial electrical stimulation effects on hand tremor in Parkinson's disease.
+PMID: 38020756
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder with different motor and neurocognitive symptoms. Tremor is a well-known symptom of this disease. Increasing evidence suggested that the cerebellum may substantially contribute to tremors as a clinical symptom of PD. However, the theoretical foundations behind these observations are not yet fully understood.

@@ -1,0 +1,5 @@
+Title: Translating digital healthcare to enhance clinical management: a protocol for an observational study using a digital health technology system to monitor medication adherence and its effect on mobility in people with Parkinson's.
+PMID: 37666560
+
+Abstract:
+In people with Parkinson's (PwP) impaired mobility is associated with an increased falls risk. To improve mobility, dopaminergic medication is typically prescribed, but complex medication regimens result in suboptimal adherence. Exploring medication adherence and its impact on mobility in PwP will provide essential insights to optimise medication regimens and improve mobility. However, this is typically assessed in controlled environments, during one-off clinical assessments. Digital health technology (DHT) presents a means to overcome this, by continuously and remotely monitoring mobility and medication adherence. This study aims to use a novel DHT system (DHTS) (comprising of a smartphone, smartwatch and inertial measurement unit (IMU)) to assess self-reported medication adherence, and its impact on digital mobility outcomes (DMOs) in PwP.

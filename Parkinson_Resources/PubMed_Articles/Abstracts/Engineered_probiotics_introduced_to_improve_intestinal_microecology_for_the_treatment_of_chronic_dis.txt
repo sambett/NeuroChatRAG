@@ -1,0 +1,5 @@
+Title: Engineered probiotics introduced to improve intestinal microecology for the treatment of chronic diseases: present state and perspectives.
+PMID: 37975092
+
+Abstract:
+Correcting intestinal microecological imbalance has become one of the core strategies to treat chronic diseases. Some traditional microecology-based therapies targeting intestine, such as prebiotic therapy, probiotic therapy and fecal microbiota transplantation therapy, have been used in the prevention and treatment of clinical chronic diseases, which still facing low safety and poor controllability problems. The development of synthetic biology technology has promoted the development of intestinal microecology-based therapeutics for chronic diseases, which exhibiting higher robustness and controllability, and become an important part of the next generation of microecological therapy. The purpose of this review is to summarize the application of synthetic biology in intestinal microecology-based therapeutics for chronic diseases.

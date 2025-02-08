@@ -1,0 +1,5 @@
+Title: Beta and theta oscillations track effort and previous reward in human basal ganglia and prefrontal cortex during decision making.
+PMID: 38106063
+
+Abstract:
+Choosing whether to exert effort to obtain rewards is fundamental to human motivated behavior. However, the neural dynamics underlying the evaluation of reward and effort in humans is poorly understood. Here, we investigate this with chronic intracranial recordings from prefrontal cortex (PFC) and basal ganglia (BG; subthalamic nuclei and globus pallidus) in people with Parkinson's disease performing a decision-making task with offers that varied in levels of reward and physical effort required. This revealed dissociable neural signatures of reward and effort, with BG beta (12-20 Hz) oscillations tracking subjective effort on a single trial basis and PFC theta (4-7 Hz) signaling previous trial reward. Stimulation of PFC increased overall acceptance of offers in addition to increasing the impact of reward on choices. This work uncovers oscillatory mechanisms that guide fundamental decisions to exert effort for reward across BG and PFC, as well as supporting a causal role of PFC for such choices.

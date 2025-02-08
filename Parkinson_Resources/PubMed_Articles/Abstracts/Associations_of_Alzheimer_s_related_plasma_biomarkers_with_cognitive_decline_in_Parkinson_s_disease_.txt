@@ -1,0 +1,5 @@
+Title: Associations of Alzheimer's-related plasma biomarkers with cognitive decline in Parkinson's disease.
+PMID: 37480401
+
+Abstract:
+Parkinson's disease (PD) is associated with cognitive decline through multiple mechanisms, including Alzheimer's disease (AD) pathology and cortical Lewy body involvement. However, its underlying mechanisms remain unclear. Recently, AD-related plasma biomarkers have emerged as potential tools for predicting abnormal pathological protein accumulation. We aimed to investigate the association between AD-related plasma biomarkers and cognitive decline in PD patients.

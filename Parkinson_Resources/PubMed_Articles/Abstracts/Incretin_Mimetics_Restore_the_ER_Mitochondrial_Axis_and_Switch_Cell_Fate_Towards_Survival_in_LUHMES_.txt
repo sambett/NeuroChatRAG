@@ -1,0 +1,5 @@
+Title: Incretin Mimetics Restore the ER-Mitochondrial Axis and Switch Cell Fate Towards Survival in LUHMES Dopaminergic-Like Neurons: Implications for Novel Therapeutic Strategies in Parkinson's Disease.
+PMID: 37718851
+
+Abstract:
+Parkinson's disease (PD) is a progressive neurodegenerative movement disorder that afflicts more than 10 million people worldwide. Available therapeutic interventions do not stop disease progression. The etiopathogenesis of PD includes unbalanced calcium dynamics and chronic dysfunction of the axis of the endoplasmic reticulum (ER) and mitochondria that all can gradually favor protein aggregation and dopaminergic degeneration.

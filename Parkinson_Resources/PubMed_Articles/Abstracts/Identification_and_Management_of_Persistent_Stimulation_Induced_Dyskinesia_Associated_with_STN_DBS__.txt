@@ -1,0 +1,5 @@
+Title: Identification and Management of Persistent Stimulation-Induced Dyskinesia Associated with STN DBS: The See-Saw Dilemma.
+PMID: 37663531
+
+Abstract:
+A 73-year-old woman with Parkinson's disease (PD) underwent implantation of bilateral subthalamic nucleus deep brain stimulators (STN-DBS) to address bilateral upper extremity medication-refractory tremor. Post-operatively, she experienced a "see-saw effect" where small increases in stimulation resulted in improvement in one symptom (tremor) with concurrent worsening in another (dyskinesia).

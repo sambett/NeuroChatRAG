@@ -1,0 +1,5 @@
+Title: Mobility Rehab visual feedback system for gait rehabilitation in older adults.
+PMID: 37875971
+
+Abstract:
+Gait and balance impairments are among the main causes of falls in older adults. The feasibility and effectiveness of adding sensor-based feedback to physical therapy (PT) in an outpatient PT setting is unknown. We evaluated the feasibility and effectiveness of PT intervention combined with a therapist-assisted visual feedback system, called Mobility Rehab, (PT + MR) in older adults.

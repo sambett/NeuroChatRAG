@@ -1,0 +1,5 @@
+Title: Ganoderic Acid A targeting <i>leucine-rich repeat kinase 2</i> involved in Parkinson's disease-A computational study.
+PMID: 37711263
+
+Abstract:
+This study aims to find the most promising <i>Ganoderma lucidium</i> targeting LRRK2 involved in PD.

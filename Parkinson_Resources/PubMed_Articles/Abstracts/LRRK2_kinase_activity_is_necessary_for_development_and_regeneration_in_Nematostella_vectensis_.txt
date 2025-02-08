@@ -1,0 +1,5 @@
+Title: LRRK2 kinase activity is necessary for development and regeneration in Nematostella vectensis.
+PMID: 37986927
+
+Abstract:
+The starlet sea anemone, <i>Nematostella vectensis,</i> is an emerging model organism with a high regenerative capacity, which was recently found to possess an orthologue to the human LRRK2 gene (nvLRRK2). The leucine rich repeat kinase 2 <i>(LRRK2)</i> gene, when mutated, is the most common cause of inherited Parkinson's Disease (PD). Its protein product (LRRK2) has implications in a variety of cellular processes, however, the full function of LRRK2 is not well established. Current research is focusing on understanding the function of LRRK2, including both its physiological role as well as its pathobiological underpinnings.

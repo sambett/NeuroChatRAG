@@ -1,0 +1,5 @@
+Title: Effects of ozone treatment to the levels of neurodegeneration biomarkers after rotenone induced rat model of Parkinson's disease.
+PMID: 37597740
+
+Abstract:
+The study investigated the effects of ozone treatment on the neurodegeneration of stereotaxic rotenone-induced parkinson's disease (PD) model. The model was confirmed using the apomorphine rotation test. α-synuclein, amyloid-β, Tau, phosphorylated Tau, as well as tyrosine hydroxylase(+), nNOS(+), and glial cell counts were used to evaluate neurodegeneration in the substantia nigra pars compacta and ventral tegmental area. The experiment involved 48 Sprague-Dawley rats divided into four groups: dimethyl sulfoxide (DMSO), DMSO with ozone (O), DMSO/rotenone (R), and D/R/O. Ozone treatment significantly improved tissue α-synuclein level and TH+, nNOS+, and glial cell counts compared to the rotenone-only group. The study suggests that ozone treatment may have beneficial effects on PD biomarkers in the rotenone model. Further studies on ozone dosage, duration, and administration methods in humans could provide more evidence for its potential use in Parkinson's disease treatment.

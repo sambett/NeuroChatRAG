@@ -1,0 +1,5 @@
+Title: Emergency department visits in Parkinson's disease: The impact of comorbid conditions.
+PMID: 37897921
+
+Abstract:
+Older adults have complex, often overlapping, medical conditions requiring careful management that may lead to increased emergency department usage compared to younger adults. Parkinson's disease (PD), a progressive neurodegenerative disorder characterized by distinct motor and nonmotor features, frequently occurs with additional comorbid disease. Classifying comorbid conditions into clinical subgroups allows for further understanding of the heterogeneity in outcomes in patients with PD. The current study examines the reasons for emergency department (ED) visits in a cohort of patients with PD and identifies comorbidities that are potential risk factors for specific ED presenting conditions.

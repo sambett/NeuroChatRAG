@@ -1,0 +1,5 @@
+Title: Cilia and Extracellular Vesicles in Brain Development and Disease.
+PMID: 37956781
+
+Abstract:
+Primary and motile cilia are thin, hair-like cellular projections from the cell surface involved in movement, sensing, and communication between cells. Extracellular vesicles (EVs) are small membrane-bound vesicles secreted by cells and contain various proteins, lipids, and nucleic acids that are delivered to and influence the behavior of other cells. Both cilia and EVs are essential for the normal functioning of brain cells, and their malfunction can lead to several neurological diseases. Cilia and EVs can interact with each other in several ways, and this interplay plays a crucial role in facilitating various biological processes, including cell-to-cell communication, tissue homeostasis, and pathogen defense. Cilia and EV crosstalk in the brain is an emerging area of research. Herein, we summarize the detailed molecular mechanisms of cilia and EV interplay and address the ciliary molecules that are involved in signaling and cellular dysfunction in brain development and diseases. Finally, we discuss the potential clinical use of cilia and EVs in brain diseases.

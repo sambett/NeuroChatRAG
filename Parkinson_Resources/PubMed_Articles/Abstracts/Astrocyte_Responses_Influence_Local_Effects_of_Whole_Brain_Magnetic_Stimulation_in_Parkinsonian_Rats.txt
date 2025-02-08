@@ -1,0 +1,5 @@
+Title: Astrocyte Responses Influence Local Effects of Whole-Brain Magnetic Stimulation in Parkinsonian Rats.
+PMID: 37700489
+
+Abstract:
+Excessive glutamatergic transmission in the striatum is implicated in Parkinson's disease (PD) progression. Astrocytes maintain glutamate homeostasis, protecting from excitotoxicity through the glutamate-aspartate transporter (GLAST), whose alterations have been reported in PD. Noninvasive brain stimulation using intermittent theta-burst stimulation (iTBS) acts on striatal neurons and glia, inducing neuromodulatory effects and functional recovery in experimental parkinsonism.

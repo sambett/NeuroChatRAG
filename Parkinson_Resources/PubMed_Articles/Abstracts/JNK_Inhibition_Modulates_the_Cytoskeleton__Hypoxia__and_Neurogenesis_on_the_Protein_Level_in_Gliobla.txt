@@ -1,0 +1,5 @@
+Title: JNK Inhibition Modulates the Cytoskeleton, Hypoxia, and Neurogenesis on the Protein Level in Glioblastoma Cells and Astrocytes: An Immunofluorescence Study.
+PMID: 37614213
+
+Abstract:
+To evaluate the effects of c-Jun N-terminal kinase (JNK) inhibition and signal blocking on hypoxia (hypoxia-inducible factor 1-alpha (HIF-1α)), differentiation and neurogenesis (bone morphogenetic protein (BMP4)), and the cytoskeleton (F-actin) in glioblastoma multiforme cells (GBMCs).

@@ -1,0 +1,5 @@
+Title: Methods to Study Inflammasome Activation in the Central Nervous System: Immunoblotting and Immunohistochemistry.
+PMID: 37578726
+
+Abstract:
+The inflammasome is a multiprotein complex that is responsible for mounting an innate immune response through the activation of caspase-1 and the cleavage of interleukin-1β. This multiprotein complex plays an important role in a variety of central nervous system (CNS) diseases and conditions such as Alzheimer's disease, Parkinson's disease, multiple sclerosis, stroke, and traumatic brain injury, among others. Here we describe methodological procedures to carry out immunoblotting and immunohistochemical techniques used to study inflammasome signaling in CNS tissues (brain and spinal cord).

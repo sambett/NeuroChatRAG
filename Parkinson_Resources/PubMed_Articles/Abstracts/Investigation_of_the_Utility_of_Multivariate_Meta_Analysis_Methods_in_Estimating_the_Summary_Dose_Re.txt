@@ -1,0 +1,5 @@
+Title: Investigation of the Utility of Multivariate Meta-Analysis Methods in Estimating the Summary Dose Response Curve.
+PMID: 37571932
+
+Abstract:
+Traditional meta-analyses often assess the effectiveness of different doses of the same intervention separately or examine the overall differences between intervention and placebo groups. The present study aimed to model the effect sizes obtained from different doses in multiple studies using a two-stage dose-response meta-analytic approach while taking dose variations into account.

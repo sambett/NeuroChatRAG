@@ -1,0 +1,5 @@
+Title: Serial deep gray nuclear DTI changes in Parkinson's disease over twelve years.
+PMID: 37409008
+
+Abstract:
+Deep gray nuclear pathology relates to motor deterioration in idiopathic Parkinson's disease (PD). Inconsistent deep nuclear diffusion tensor imaging (DTI) findings in cross-sectional or short-term longitudinal studies have been reported. Long-term studies in PD are clinically challenging; decade-long deep nuclear DTI data are nonexistent. We investigated serial DTI changes and clinical utility in a case-control PD cohort of 149 subjects (72 patients/77 controls) over 12 years.

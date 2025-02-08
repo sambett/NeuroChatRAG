@@ -1,0 +1,5 @@
+Title: Digital driving data can track driving exposure and quality of life in Parkinson's disease.
+PMID: 37722820
+
+Abstract:
+Parkinson's disease (PD) impairs motor and non-motor functions. Driver strategies to compensate for impairments, like avoiding driving in risky environments, may reduce on-road risk at the cost of decreasing driver mobility, independence, and quality of life (QoL). It is unclear how PD symptoms link to driving risk exposure, strategies, and QoL. We assessed associations between PD symptoms and driving exposure (1) overall, (2) in risky driving environments, and (3) in relationship to QoL.

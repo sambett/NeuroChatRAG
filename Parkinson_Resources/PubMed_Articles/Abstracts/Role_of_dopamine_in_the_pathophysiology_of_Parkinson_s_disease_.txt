@@ -1,0 +1,5 @@
+Title: Role of dopamine in the pathophysiology of Parkinson's disease.
+PMID: 37718439
+
+Abstract:
+A pathological feature of Parkinson's disease (PD) is the progressive loss of dopaminergic neurons and decreased dopamine (DA) content in the substantia nigra pars compacta in PD brains. DA is the neurotransmitter of dopaminergic neurons. Accumulating evidence suggests that DA interacts with environmental and genetic factors to contribute to PD pathophysiology. Disturbances of DA synthesis, storage, transportation and metabolism have been shown to promote neurodegeneration of dopaminergic neurons in various PD models. DA is unstable and can undergo oxidation and metabolism to produce multiple reactive and toxic by-products, including reactive oxygen species, DA quinones, and 3,4-dihydroxyphenylacetaldehyde. Here we summarize and highlight recent discoveries on DA-linked pathophysiologic pathways, and discuss the potential protective and therapeutic strategies to mitigate the complications associated with DA.

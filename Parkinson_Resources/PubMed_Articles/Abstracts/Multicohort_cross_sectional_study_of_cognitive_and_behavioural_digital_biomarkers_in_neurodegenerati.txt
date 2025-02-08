@@ -1,0 +1,5 @@
+Title: Multicohort cross-sectional study of cognitive and behavioural digital biomarkers in neurodegeneration: the Living Lab Study protocol.
+PMID: 37536971
+
+Abstract:
+Digital biomarkers can provide a cost-effective, objective and robust measure for neurological disease progression, changes in care needs and the effect of interventions. Motor function, physiology and behaviour can provide informative measures of neurological conditions and neurodegenerative decline. New digital technologies present an opportunity to provide remote, high-frequency monitoring of patients from within their homes. The purpose of the living lab study is to develop novel digital biomarkers of functional impairment in those living with neurodegenerative disease (NDD) and neurological conditions.

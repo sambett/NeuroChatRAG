@@ -1,0 +1,5 @@
+Title: Linking Heat Shock Protein 70 and Parkin in Parkinson's Disease.
+PMID: 37526897
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disease that affects millions of elderly people worldwide and is characterized by the progressive loss of dopaminergic neurons in the substantia nigra pars compacta (SNpc). The precise mechanisms underlying the pathogenesis of PD are still not fully understood, but it is well accepted that the misfolding, aggregation, and abnormal degradation of proteins are the key causative factors of PD. Heat shock protein 70 (Hsp70) is a molecular chaperone that participates in the degradation of misfolded and aggregated proteins in living cells and organisms. Parkin, an E3 ubiquitin ligase, participates in the degradation of proteins via the proteasome pathway. Recent studies have indicated that both Hsp70 and Parkin play pivotal roles in PD pathogenesis. In this review, we focus on discussing how dysregulation of Hsp70 and Parkin leads to PD pathogenesis, the interaction between Hsp70 and Parkin in the context of PD and their therapeutic applications in PD.

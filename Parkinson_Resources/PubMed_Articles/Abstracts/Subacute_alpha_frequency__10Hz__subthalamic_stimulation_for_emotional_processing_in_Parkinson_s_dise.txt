@@ -1,0 +1,5 @@
+Title: Subacute alpha frequency (10Hz) subthalamic stimulation for emotional processing in Parkinson's disease.
+PMID: 37567462
+
+Abstract:
+Psychiatric comorbidities are common in Parkinson's disease (PD) and may change with high-frequency stimulation targeting the subthalamic nucleus. Numerous accounts indicate subthalamic alpha-frequency oscillation is implicated in emotional processing. While intermittent alpha-frequency (10Hz) stimulation induces positive emotional effects, with more ventromedial contacts inducing larger effects, little is known about the subacute effect of ventral 10Hz subthalamic stimulation on emotional processing.

@@ -1,0 +1,5 @@
+Title: Quantitative Network Comparisons of REM Sleep Without Atonia Across the α-Synucleinopathy Spectrum: A Systematic Review.
+PMID: 37670937
+
+Abstract:
+Isolated rapid eye movement (REM) sleep behavior disorder (iRBD) is characterized by REM sleep without atonia (RWA) and is regarded as the prodromal stage of α-synucleinopathies, such as Parkinson's disease (PD), dementia with Lewy bodies (DLB), and multiple system atrophy (MSA). RWA is also associated with neurodegeneration driven by α-synucleinopathy. However, the level of RWA across the α-synucleinopathy spectrum remains elusive. We aimed to rate the percentage of RWA across the α-synucleinopathy spectrum, encompassing prodromal and overt phenotypes.

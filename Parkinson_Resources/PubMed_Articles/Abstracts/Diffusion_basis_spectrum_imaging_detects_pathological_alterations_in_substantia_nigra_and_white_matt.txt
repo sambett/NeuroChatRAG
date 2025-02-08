@@ -1,0 +1,5 @@
+Title: Diffusion basis spectrum imaging detects pathological alterations in substantia nigra and white matter tracts with early-stage Parkinson's disease.
+PMID: 37438642
+
+Abstract:
+Using diffusion basis spectrum imaging (DBSI) to examine the microstructural changes in the substantia nigra (SN) and global white matter (WM) tracts of patients with early-stage PD.

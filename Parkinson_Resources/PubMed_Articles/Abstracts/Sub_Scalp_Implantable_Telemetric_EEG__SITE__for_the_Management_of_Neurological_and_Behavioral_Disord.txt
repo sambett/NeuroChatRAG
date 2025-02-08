@@ -1,0 +1,5 @@
+Title: Sub-Scalp Implantable Telemetric EEG (SITE) for the Management of Neurological and Behavioral Disorders beyond Epilepsy.
+PMID: 37626532
+
+Abstract:
+Sub-scalp Implantable Telemetric EEG (SITE) devices are under development for the treatment of epilepsy. However, beyond epilepsy, continuous EEG analysis could revolutionize the management of patients suffering from all types of brain disorders. This article reviews decades of foundational EEG research, collected from short-term routine EEG studies of common neurological and behavioral disorders, that may guide future SITE management and research. Established quantitative EEG methods, like spectral EEG power density calculation combined with state-of-the-art machine learning techniques applied to SITE data, can identify new EEG biomarkers of neurological disease. From distinguishing syncopal events from seizures to predicting the risk of dementia, SITE-derived EEG biomarkers can provide clinicians with real-time information about diagnosis, treatment response, and disease progression.

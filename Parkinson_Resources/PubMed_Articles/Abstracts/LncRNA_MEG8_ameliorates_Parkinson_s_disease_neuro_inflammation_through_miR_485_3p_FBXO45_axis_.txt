@@ -1,0 +1,5 @@
+Title: LncRNA MEG8 ameliorates Parkinson's disease neuro-inflammation through miR-485-3p/FBXO45 axis.
+PMID: 37814093
+
+Abstract:
+Studies suggest that LncRNA maternally expressed 8, small nucleolar RNA host gene (MEG8) contributes to inflammatory regulation, while the function and potential mechanisms of MEG8 in Parkinson's disease (PD) are unknown. This study aimed to assess the clinical value and biological function of MEG8 in PD.

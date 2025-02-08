@@ -1,0 +1,5 @@
+Title: Prediction of Parkinson's disease by transcranial sonography-based deep learning.
+PMID: 37985633
+
+Abstract:
+Transcranial sonography has been used as a valid neuroimaging tool to diagnose Parkinson's disease (PD). This study aimed to develop a modified transcranial sonography (TCS) technique based on a deep convolutional neural network (DCNN) model to predict Parkinson's disease.

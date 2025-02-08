@@ -1,0 +1,5 @@
+Title: Gut-microbiome-brain axis: the crosstalk between the vagus nerve, alpha-synuclein and the brain in Parkinson's disease.
+PMID: 37449597
+
+Abstract:
+This critical review of the literature shows that there is a close link between the microbiome, the gut, and the brain in Parkinson's disease. The vagus nerve, the main component of the parasympathetic nervous system, is involved in the regulation of immune response, digestion, heart rate, and control of mood. It can detect microbiota metabolites through its afferents, transferring this gut information to the central nervous system. Preclinical and clinical studies have shown the important role played by the gut microbiome and gut-related factors in disease development and progression, as well as treatment responses. These findings suggest that the gut microbiome may be a valuable target for new therapeutic strategies for Parkinson's disease. More studies are needed to better understand the underlying biology and how this axis can be modulated for the patient's benefit.

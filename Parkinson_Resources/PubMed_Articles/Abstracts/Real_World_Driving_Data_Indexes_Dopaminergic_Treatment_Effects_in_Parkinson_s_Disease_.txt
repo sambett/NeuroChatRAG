@@ -1,0 +1,5 @@
+Title: Real-World Driving Data Indexes Dopaminergic Treatment Effects in Parkinson's Disease.
+PMID: 37772286
+
+Abstract:
+Driving is a complex, everyday task that impacts patient agency, safety, mobility, social connections, and quality of life. Digital tools can provide comprehensive real-world (RW) data on driver behavior in patients with Parkinson's disease (PD), providing critical data on disease status and treatment efficacy in the patient's own environment.

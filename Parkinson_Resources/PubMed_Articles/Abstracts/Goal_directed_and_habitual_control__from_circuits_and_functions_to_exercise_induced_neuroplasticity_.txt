@@ -1,0 +1,5 @@
+Title: Goal-directed and habitual control: from circuits and functions to exercise-induced neuroplasticity targets for the treatment of Parkinson's disease.
+PMID: 37881310
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disease characterized by motor and cognitive impairments. The progressive depletion of dopamine (DA) is the pathological basis of dysfunctional goal-directed and habitual control circuits in the basal ganglia. Exercise-induced neuroplasticity could delay disease progression by improving motor and cognitive performance in patients with PD. This paper reviews the research progress on the motor-cognitive basal ganglia circuit and summarizes the current hypotheses for explaining exercise intervention on rehabilitation in PD. Studies on exercise mediated mechanisms will contribute to the understanding of networks that regulate goal-directed and habitual behaviors and deficits in PD, facilitating the development of strategies for treatment of PD.

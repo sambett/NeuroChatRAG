@@ -1,0 +1,5 @@
+Title: Generation of a control iPS cell line (JUCGRMi005-A) with no abnormalities in Parkinson's disease-related genes.
+PMID: 38100917
+
+Abstract:
+Appropriate control induced pluripotent stem cells (iPSCs) are essential for studying iPSCs derived from patients with Parkinson's disease (PD). In this study, we established an iPSC line from a healthy male donor. The iPSCs showed pluripotency, capacity to differentiate into three germ layers, and normal karyotypes. Additionally, we confirmed that the iPSC line did not exhibit any PD-related gene abnormalities. This iPSC line will be useful for PD research.

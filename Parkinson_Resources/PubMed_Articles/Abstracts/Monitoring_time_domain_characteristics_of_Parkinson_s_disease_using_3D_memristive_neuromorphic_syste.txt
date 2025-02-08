@@ -1,0 +1,5 @@
+Title: Monitoring time domain characteristics of Parkinson's disease using 3D memristive neuromorphic system.
+PMID: 38162516
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder affecting millions of patients. Closed-Loop Deep Brain Stimulation (CL-DBS) is a therapy that can alleviate the symptoms of PD. The CL-DBS system consists of an electrode sending electrical stimulation signals to a specific region of the brain and a battery-powered stimulator implanted in the chest. The electrical stimuli in CL-DBS systems need to be adjusted in real-time in accordance with the state of PD symptoms. Therefore, fast and precise monitoring of PD symptoms is a critical function for CL-DBS systems. However, the current CL-DBS techniques suffer from high computational demands for real-time PD symptom monitoring, which are not feasible for implanted and wearable medical devices.

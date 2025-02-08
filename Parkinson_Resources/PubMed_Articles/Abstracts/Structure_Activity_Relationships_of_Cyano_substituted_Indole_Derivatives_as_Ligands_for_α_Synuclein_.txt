@@ -1,0 +1,5 @@
+Title: Structure-Activity Relationships of Cyano-substituted Indole Derivatives as Ligands for α-Synuclein Aggregates.
+PMID: 37849556
+
+Abstract:
+α-Synuclein (α-syn) is an essential biomarker for synucleinopathies, including Parkinson's disease (PD), dementia with Lewy bodies (DLB), and multiple system atrophy (MSA). The development of α-syn imaging probes is of great importance for understanding the pathogenesis mechanism and developing new therapies. In this study, we designed and synthesized a series of cyano-substituted indole derivatives and evaluated their potency to bind to α-syn fibrils by in vitro fibril binding assays. We carried out systematic structure-activity relationship (SAR) studies and obtained a promising candidate <b>51</b>. The results showed that <b>51</b> bound to α-syn fibrils with the affinity of 17.4 ± 5.6 nM, and the biodistribution experiments in normal mice showed [<sup>125</sup>I]<b>51</b> exhibited a moderate brain uptake of 3.57 ± 0.28% ID/g at 2 min after injection. In conclusion, the indole derivative [<sup>125</sup>I]<b>51</b> showed initial potential as α-syn imaging probes, which needed further development.

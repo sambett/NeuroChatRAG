@@ -1,0 +1,5 @@
+Title: A Unified Data Architecture for Assessing Motor Symptoms in Parkinson's Disease.
+PMID: 37697834
+
+Abstract:
+The diagnosis and treatment of Parkinson's disease depend on the assessment of motor symptoms. Wearables and machine learning algorithms have emerged to collect large amounts of data and potentially support clinicians in clinical and ambulant settings.

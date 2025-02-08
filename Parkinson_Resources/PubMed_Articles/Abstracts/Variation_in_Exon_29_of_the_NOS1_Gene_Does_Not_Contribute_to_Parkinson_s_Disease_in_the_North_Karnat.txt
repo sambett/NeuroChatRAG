@@ -1,0 +1,5 @@
+Title: Variation in Exon 29 of the NOS1 Gene Does Not Contribute to Parkinson's Disease in the North Karnataka Population.
+PMID: 37849584
+
+Abstract:
+Nitric oxide (NO) overproduction has been found to have neurotoxic effects on the brain. Moreover, in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) induced, the suppression of the NO-synthesizing enzymes, such as neuronal nitric oxide synthase (nNOS) and inducible NOS (iNOS), has neuroprotective benefits in Parkinson's disease (PD). These findings imply that NOS may have a role in regulating the nigral dopaminergic neurons' tolerance to environmental stressors in PD.

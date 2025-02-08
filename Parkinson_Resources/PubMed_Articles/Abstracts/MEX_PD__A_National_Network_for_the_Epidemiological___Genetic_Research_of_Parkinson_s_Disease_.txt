@@ -1,0 +1,5 @@
+Title: MEX-PD: A National Network for the Epidemiological & Genetic Research of Parkinson's Disease.
+PMID: 37693616
+
+Abstract:
+Parkinson's Disease (PD) has a complex etiology, involving genetic and environmental factors. Most of our current understanding of the disease comes from studies in populations with mostly European ancestry, representing challenges in generalizing findings to other populations with different genetic, social, and environmental contexts. There are scarce studies focused in Latin American populations. The Mexican population is genetically diverse because its admixture from Native American, European, and African ancestries, coupled with the unique environmental conditions, stressing the relevance of establishing genetic studies in this population. Thus, we have established the <i>Mexican Parkinson's Research Network</i> (MEX-PD), a consortium to research the clinical, genetical, environmental, and neurophysiological bases of the phenotypic diversity in Mexican PD patients.

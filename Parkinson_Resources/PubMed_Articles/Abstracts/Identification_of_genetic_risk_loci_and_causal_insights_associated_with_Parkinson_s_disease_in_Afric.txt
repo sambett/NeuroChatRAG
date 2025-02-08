@@ -1,0 +1,5 @@
+Title: Identification of genetic risk loci and causal insights associated with Parkinson's disease in African and African admixed populations: a genome-wide association study.
+PMID: 37633302
+
+Abstract:
+An understanding of the genetic mechanisms underlying diseases in ancestrally diverse populations is an important step towards development of targeted treatments. Research in African and African admixed populations can enable mapping of complex traits, because of their genetic diversity, extensive population substructure, and distinct linkage disequilibrium patterns. We aimed to do a comprehensive genome-wide assessment in African and African admixed individuals to better understand the genetic architecture of Parkinson's disease in these underserved populations.

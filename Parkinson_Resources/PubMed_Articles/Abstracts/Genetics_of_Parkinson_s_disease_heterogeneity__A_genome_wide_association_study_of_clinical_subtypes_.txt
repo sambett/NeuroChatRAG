@@ -1,0 +1,5 @@
+Title: Genetics of Parkinson's disease heterogeneity: A genome-wide association study of clinical subtypes.
+PMID: 38072719
+
+Abstract:
+Substantial heterogeneity between individual patients in the clinical presentation of Parkinson's disease (PD) has led to the classification of distinct PD subtypes. However, genetic susceptibility factors for specific PD subtypes are not well understood. Therefore, the present study aimed to investigate the genetics of PD heterogeneity by performing a genome-wide association study (GWAS) of PD subtypes.

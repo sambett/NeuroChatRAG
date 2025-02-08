@@ -1,0 +1,5 @@
+Title: GV-971 attenuates α-Synuclein aggregation and related pathology.
+PMID: 37563872
+
+Abstract:
+Synucleinopathies, including Parkinson's disease (PD), multiple system atrophy (MSA), and dementia with Lewy bodies (DLB), share a distinct pathological feature, that is, a widespread accumulation of α-synuclein (α-syn) in the brain. There is a significant clinical unmet need for disease-modifying treatments for synucleinopathies. Recently, a seaweed-derived mixture of oligosaccharides sodium oligomannate, GV-971, was approved for Phase 2 clinical trials for PD. This study aimed to further evaluate the therapeutic effects of GV-971 on synucleinopathies using cellular and animal models and explore its associated molecular mechanisms.

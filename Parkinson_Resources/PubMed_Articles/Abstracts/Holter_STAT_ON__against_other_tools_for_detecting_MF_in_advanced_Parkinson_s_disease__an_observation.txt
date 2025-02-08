@@ -1,0 +1,5 @@
+Title: Holter STAT-ON™ against other tools for detecting MF in advanced Parkinson's disease: an observational study.
+PMID: 37662044
+
+Abstract:
+Different screening tools to identify advanced Parkinson's disease (APD) have emerged in recent years. Among them, wearable medical devices, such as STAT-ON™, have been proposed to help to objectively detect APD.

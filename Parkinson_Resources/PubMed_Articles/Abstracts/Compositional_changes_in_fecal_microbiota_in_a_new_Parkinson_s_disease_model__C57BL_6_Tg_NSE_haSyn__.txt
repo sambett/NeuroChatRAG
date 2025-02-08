@@ -1,0 +1,5 @@
+Title: Compositional changes in fecal microbiota in a new Parkinson's disease model: C57BL/6-Tg(NSE-haSyn) mice.
+PMID: 37968765
+
+Abstract:
+The gut-brain axis (GBA) in Parkinson's disease (PD) has only been investigated in limited mice models despite dysbiosis of the gut microbiota being considered one of the major treatment targets for neurodegenerative disease. Therefore, this study examined the compositional changes of fecal microbiota in novel transgenic (Tg) mice overexpressing human α-synuclein (hαSyn) proteins under the neuron-specific enolase (NSE) to analyze the potential as GBA model.

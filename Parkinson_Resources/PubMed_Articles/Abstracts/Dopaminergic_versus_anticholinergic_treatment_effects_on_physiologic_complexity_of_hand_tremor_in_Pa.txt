@@ -1,0 +1,5 @@
+Title: Dopaminergic versus anticholinergic treatment effects on physiologic complexity of hand tremor in Parkinson's disease: A randomized crossover study.
+PMID: 37905677
+
+Abstract:
+Parkinsonian tremor (PT) is regulated by numerous neurophysiological components across multiple temporospatial scales. The dynamics of tremor fluctuation are thus highly complex. This study aimed to explore the effects of different medications on tremor complexity, and how the underlying factors contribute to such tremor complexity.

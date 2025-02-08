@@ -1,0 +1,5 @@
+Title: Trends and disparities in deep brain stimulation utilization in the United States: a Nationwide Inpatient Sample analysis from 1993 to 2017.
+PMID: 37876670
+
+Abstract:
+Deep brain stimulation (DBS) is an approved treatment option for Parkinson's Disease (PD), essential tremor (ET), dystonia, obsessive-compulsive disorder and epilepsy in the United States. There are disparities in access to DBS, and clear understanding of the contextual factors driving them is important. Previous studies aimed at understanding these factors have been limited by single indications or small cohort sizes. The aim of this study is to provide an updated and comprehensive analysis of DBS utilization for multiple indications to better understand the factors driving disparities in access.

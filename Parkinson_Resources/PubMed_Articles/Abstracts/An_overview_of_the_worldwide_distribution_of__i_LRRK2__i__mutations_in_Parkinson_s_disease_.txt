@@ -1,0 +1,5 @@
+Title: An overview of the worldwide distribution of <i>LRRK2</i> mutations in Parkinson's disease.
+PMID: 38305913
+
+Abstract:
+Parkinson's disease (PD) is a neurodegenerative disorder with significant genetic influence. The <i>LRRK2</i> gene is a major genetic contributor, particularly the Gly2019Ser mutation. This focused review investigates the global distribution of <i>LRRK2</i> mutations, with emphasis on Gly2019Ser and other pathogenic variants. Prevalence rates of Gly2019Ser are highest in North Africa and the Ashkenazi-Jewish population, indicating a potential common ancestor and founder effect. Other <i>LRRK2</i> mutations, including Asn1437His, Arg1441Gly/Cys/His, Tyr1699Cys and Ile2020Thr, exhibit varying global prevalences. Understanding these distributions enhances our knowledge of PD genetics and aids personalized medicine. Further research is crucial to unravel clinical implications and develop targeted therapies for <i>LRRK2</i> mutation carriers.

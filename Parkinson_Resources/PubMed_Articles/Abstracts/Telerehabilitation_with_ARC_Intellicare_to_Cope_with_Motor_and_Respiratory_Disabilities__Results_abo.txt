@@ -1,0 +1,5 @@
+Title: Telerehabilitation with ARC Intellicare to Cope with Motor and Respiratory Disabilities: Results about the Process, Usability, and Clinical Effect of the "Ricominciare" Pilot Study.
+PMID: 37631774
+
+Abstract:
+"Ricominciare" is a single-center, prospective, pre-/post-intervention pilot study aimed at verifying the feasibility and safety of the ARC Intellicare (ARC) system (an artificial intelligence-powered and inertial motion unit-based mobile platform) in the home rehabilitation of people with disabilities due to respiratory or neurological diseases.

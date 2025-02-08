@@ -1,0 +1,5 @@
+Title: Harmonizing Genetic Testing for Parkinson's Disease: Results of the PARKNET Multicentric Study.
+PMID: 37750340
+
+Abstract:
+Early-onset Parkinson's disease (EOPD) commonly recognizes a genetic basis; thus, patients with EOPD are often addressed to diagnostic testing based on next-generation sequencing (NGS) of PD-associated multigene panels. However, NGS interpretation can be challenging in a diagnostic setting, and few studies have addressed this issue so far.

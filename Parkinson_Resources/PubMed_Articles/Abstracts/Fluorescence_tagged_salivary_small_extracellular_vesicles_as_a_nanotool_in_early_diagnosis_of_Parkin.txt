@@ -1,0 +1,5 @@
+Title: Fluorescence-tagged salivary small extracellular vesicles as a nanotool in early diagnosis of Parkinson's disease.
+PMID: 37667227
+
+Abstract:
+Parkinson's disease is generally asymptomatic at earlier stages. At an early stage, there is an extensive progression in the neuropathological hallmarks, although, at this stage, diagnosis is not possible with currently available diagnostic methods. Therefore, the pressing need is for susceptibility risk biomarkers that can aid in better diagnosis and therapeutics as well can objectively serve to measure the endpoint of disease progression. The role of small extracellular vesicles (sEV) in the progression of neurodegenerative diseases could be potent in playing a revolutionary role in biomarker discovery.

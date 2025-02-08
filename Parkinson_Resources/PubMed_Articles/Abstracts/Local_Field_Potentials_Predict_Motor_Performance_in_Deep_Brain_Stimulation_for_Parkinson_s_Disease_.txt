@@ -1,0 +1,5 @@
+Title: Local Field Potentials Predict Motor Performance in Deep Brain Stimulation for Parkinson's Disease.
+PMID: 37823518
+
+Abstract:
+Deep brain stimulation (DBS) is an effective treatment option for patients with Parkinson's disease (PD). However, clinical programming remains challenging with segmented electrodes.

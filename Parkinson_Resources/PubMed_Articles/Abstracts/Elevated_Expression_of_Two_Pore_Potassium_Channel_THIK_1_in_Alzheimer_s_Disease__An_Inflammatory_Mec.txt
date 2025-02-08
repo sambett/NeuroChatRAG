@@ -1,0 +1,5 @@
+Title: Elevated Expression of Two Pore Potassium Channel THIK-1 in Alzheimer's Disease: An Inflammatory Mechanism.
+PMID: 37718820
+
+Abstract:
+Tandem pore domain halothane-inhibited K+ channel 1 (THIK-1, coded by KCNK13) provides an upstream regulation of the activation of the NOD-like receptor pyrin domain containing 3 (NLRP3) inflammasome, which has been suggested as one of the key mechanisms of the pathological process in neurodegeneration mainly from in vitro and in vivo model systems studies. However, unequivocal evidence from neurodegenerative disorders has been lacking.

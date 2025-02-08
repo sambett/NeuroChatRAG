@@ -1,0 +1,5 @@
+Title: Differential LRRK2 signalling and gene expression in WT-LRRK2 and G2019S-LRRK2 mouse microglia treated with zymosan and MLi2.
+PMID: 37745519
+
+Abstract:
+Mutations in the Leucine Rich Repeat Kinase 2 (<i>LRRK2</i>) gene cause autosomal dominant Parkinson's disease (PD) with the most common causative mutation being the <i>LRRK2</i> p.G2019S within the kinase domain. LRRK2 protein is highly expressed in the human brain and also in the periphery, and high expression of dominant PD genes in immune cells suggest involvement of microglia and macrophages in inflammation related to PD. LRRK2 is known to respond to extracellular signalling including TLR4 resulting in alterations in gene expression, with the response to TLR2 signalling through zymosan being less known.

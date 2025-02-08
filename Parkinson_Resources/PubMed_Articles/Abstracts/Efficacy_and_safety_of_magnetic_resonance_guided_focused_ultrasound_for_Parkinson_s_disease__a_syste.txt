@@ -1,0 +1,5 @@
+Title: Efficacy and safety of magnetic resonance-guided focused ultrasound for Parkinson's disease: a systematic review and meta-analysis.
+PMID: 38146437
+
+Abstract:
+Magnetic resonance imaging-guided focused ultrasound (MRgFUS) is a novel noninvasive treatment for drug-resistant Parkinson's disease (PD) related tremor. This study aims to evaluate MRgFUS's efficacy and safety in PD through a systematic review and meta-analysis, examining pre-and post-treatment MDS-UPDRSIII and/or CRST scores and associated adverse events.

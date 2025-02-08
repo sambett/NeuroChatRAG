@@ -1,0 +1,5 @@
+Title: <i>Desulfovibrio</i> in the Gut: The Enemy within?
+PMID: 37512944
+
+Abstract:
+<i>Desulfovibrio</i> (DSV) are sulfate-reducing bacteria (SRB) that are ubiquitously present in the environment and as resident commensal bacteria within the human gastrointestinal tract. Though they are minor residents of the healthy gut, DSV are opportunistic pathobionts that may overgrow in the setting of various intestinal and extra-intestinal diseases. An increasing number of studies have demonstrated a positive correlation between DSV overgrowth (bloom) and various human diseases. While the relationship between DSV bloom and disease pathology has not been clearly established, mounting evidence suggests a causal role for these bacteria in disease development. As DSV are the most predominant genera of SRB in the gut, this review summarizes current knowledge regarding the relationship between DSV and a variety of diseases. In this study, we also discuss the mechanisms by which these bacteria may contribute to disease pathology.

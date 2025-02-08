@@ -1,0 +1,5 @@
+Title: An Update on the Interplay between LRRK2, Rab GTPases and Parkinson's Disease.
+PMID: 38002327
+
+Abstract:
+Over the last decades, research on the pathobiology of neurodegenerative diseases has greatly evolved, revealing potential targets and mechanisms linked to their pathogenesis. Parkinson's disease (PD) is no exception, and recent studies point to the involvement of endolysosomal defects in PD. The endolysosomal system, which tightly controls a flow of endocytosed vesicles targeted either for degradation or recycling, is regulated by a number of Rab GTPases. Their associations with leucine-rich repeat kinase 2 (LRRK2), a major causative and risk protein of PD, has also been one of the hot topics in the field. Understanding their interactions and functions is critical for unraveling their contribution to PD pathogenesis. In this review, we summarize recent studies on LRRK2 and Rab GTPases and attempt to provide more insight into the interaction of LRRK2 with each Rab and its relationship to PD.

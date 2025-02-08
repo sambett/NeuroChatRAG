@@ -1,0 +1,5 @@
+Title: fNIRS-based graph frequency analysis to identify mild cognitive impairment in Parkinson's disease.
+PMID: 38040127
+
+Abstract:
+Early identification of mild cognitive impairment (MCI) is essential for its treatment and the prevention of dementia in Parkinson's disease (PD). Existing approaches are mostly based on neuropsychological assessments, while brain activation and connection have not been well considered.

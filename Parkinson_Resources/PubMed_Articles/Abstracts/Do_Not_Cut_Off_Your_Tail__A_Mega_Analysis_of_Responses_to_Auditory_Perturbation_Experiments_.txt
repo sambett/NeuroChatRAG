@@ -1,0 +1,5 @@
+Title: Do Not Cut Off Your Tail: A Mega-Analysis of Responses to Auditory Perturbation Experiments.
+PMID: 37850867
+
+Abstract:
+The practice of removing "following" responses from speech perturbation analyses is increasingly common, despite no clear evidence as to whether these responses represent a unique response type. This study aimed to determine if the distribution of responses to auditory perturbation paradigms represents a bimodal distribution, consisting of two distinct response types, or a unimodal distribution.

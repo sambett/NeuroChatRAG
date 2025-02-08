@@ -1,0 +1,5 @@
+Title: Efficacy and Safety of MAO-B Inhibitors Safinamide and Zonisamide in Parkinson's Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+PMID: 37973769
+
+Abstract:
+In Parkinson's disease, safinamide and zonisamide are novel monoamine oxidase-B inhibitors with a dual mechanism of action involving the inhibition of sodium and calcium channels and the subsequent release of glutamate. The aim of this systematic review and meta-analysis was to examine the efficacy and safety of both drugs compared with placebo on motor symptoms, cognitive function, and quality of life in patients with Parkinson's disease.

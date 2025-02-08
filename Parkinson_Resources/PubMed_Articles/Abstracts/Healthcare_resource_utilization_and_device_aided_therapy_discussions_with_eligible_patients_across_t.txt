@@ -1,0 +1,5 @@
+Title: Healthcare resource utilization and device-aided therapy discussions with eligible patients across the Parkinson's disease continuum: Revelations from the MANAGE-PD validation cohort.
+PMID: 37563079
+
+Abstract:
+Device-aided therapy may improve the quality of life (QoL) for people with advanced Parkinson's disease (PD) and poorly controlled symptoms with oral therapy. MANAGE-PD is a validated tool classifying patients based on symptom control and advanced treatment eligibility. This study focused on patient/caregiver reported outcomes and healthcare resource utilization among patients grouped by MANAGE-PD categories.

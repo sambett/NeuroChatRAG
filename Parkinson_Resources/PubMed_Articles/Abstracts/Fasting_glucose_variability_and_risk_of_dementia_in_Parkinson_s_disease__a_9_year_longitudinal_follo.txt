@@ -1,0 +1,5 @@
+Title: Fasting glucose variability and risk of dementia in Parkinson's disease: a 9-year longitudinal follow-up study of a nationwide cohort.
+PMID: 38235038
+
+Abstract:
+Diabetes is associated with an increased risk of Parkinson's disease dementia (PDD); however, it is unknown whether this association is dependent on continuous hyperglycemia, hypoglycemic events, or glycemic variability. We aimed to investigate the relationship between visit-to-visit fasting glucose variability and PDD development in patients with Parkinson's disease (PD).

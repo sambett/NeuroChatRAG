@@ -1,0 +1,5 @@
+Title: Charting Disease Trajectories from Isolated REM Sleep Behavior Disorder to Parkinson's Disease.
+PMID: 38006282
+
+Abstract:
+Clinical presentation and progression dynamics are variable in patients with Parkinson's disease (PD). Disease course mapping is an innovative disease modelling technique that summarizes the range of possible disease trajectories and estimates dimensions related to onset, sequence, and speed of progression of disease markers.

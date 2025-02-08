@@ -1,0 +1,5 @@
+Title: Dementia and Parkinson's disease diagnoses in electronic health records vs. Medicare claims data: a study of 101,980 linked patients.
+PMID: 37700254
+
+Abstract:
+Medicare claims and electronic health record data are both commonly used for research and clinical practice improvement; however, it is not known how concordant diagnoses of neurodegenerative diseases (NDD, comprising dementia and Parkinson's disease) are in these data types. Therefore, our objective was to determine the sensitivity and specificity of neurodegenerative disease (NDD) diagnoses contained in structured electronic health record (EHR) data compared to Medicare claims data.

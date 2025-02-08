@@ -1,0 +1,5 @@
+Title: Imaging Markers in Genetic Forms of Parkinson's Disease.
+PMID: 37626568
+
+Abstract:
+Parkinson's disease (PD) is a complex neurodegenerative disorder characterized by motor symptoms such as bradykinesia, rigidity, and resting tremor. While the majority of PD cases are sporadic, approximately 15-20% of cases have a genetic component. Advances in neuroimaging techniques have provided valuable insights into the pathophysiology of PD, including the different genetic forms of the disease. This literature review aims to summarize the current state of knowledge regarding neuroimaging findings in genetic PD, focusing on the most prevalent known genetic forms: mutations in the <i>GBA1</i>, <i>LRRK2</i>, and <i>Parkin</i> genes. In this review, we will highlight the contributions of various neuroimaging modalities, including positron emission tomography (PET), single-photon emission computed tomography (SPECT), and magnetic resonance imaging (MRI), in elucidating the underlying pathophysiological mechanisms and potentially identifying candidate biomarkers for genetic forms of PD.

@@ -1,0 +1,5 @@
+Title: Motivational Vigor in Parkinson's Disease Requires the Short and Long Duration Response to Levodopa.
+PMID: 38062630
+
+Abstract:
+Impaired movement vigor (bradykinesia) is a cardinal feature of Parkinson's disease (PD) and hypothesized to result from abnormal motivational processes-impaired motivation-vigor coupling. Dopamine replacement therapy (DRT) improves bradykinesia, but the response to DRT is multifaceted, comprising a short-duration response (SDR) and a long-duration response (LDR) only manifesting with chronic treatment. Prior experiments assessing motivation-vigor coupling in PD used chronically treated subjects, obscuring the roles of the SDR and LDR.

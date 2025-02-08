@@ -1,0 +1,5 @@
+Title: The impact of COVID-19 on pulmonary, neurological, and cardiac outcomes: evidence from a Mendelian randomization study.
+PMID: 38155884
+
+Abstract:
+Long COVID is a clinical entity characterized by persistent health problems or development of new diseases, without an alternative diagnosis, following SARS-CoV-2 infection that affects a significant proportion of individuals globally. It can manifest with a wide range of symptoms due to dysfunction of multiple organ systems including but not limited to cardiovascular, hematologic, neurological, gastrointestinal, and renal organs, revealed by observational studies. However, a causal association between the genetic predisposition to COVID-19 and many post-infective abnormalities in long COVID remain unclear.

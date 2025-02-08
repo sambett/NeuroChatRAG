@@ -1,0 +1,5 @@
+Title: Cerebellar and cerebral white matter changes in Parkinson's disease with resting tremor.
+PMID: 37548715
+
+Abstract:
+Cerebellum modulates the amplitude of resting tremor in Parkinson's disease (PD) via cerebello-thalamo-cortical (CTC) circuit. Tremor-related white matter alterations have been identified in PD patients by pathological studies, but in vivo evidence is limited; the influence of such cerebellar white matter alterations on tremor-related brain network, including CTC circuit, is also unclear. In this study, we investigated the cerebral and cerebellar white matter alterations in PD patients with resting tremor using diffusion tensor imaging (DTI).

@@ -1,0 +1,5 @@
+Title: RNAi therapeutics for diseases involving protein aggregation: fazirsiran for alpha-1 antitrypsin deficiency-associated liver disease.
+PMID: 37470509
+
+Abstract:
+Therapeutic agents that prevent protein misfolding or promote protein clearance are being studied to treat proteotoxic diseases. Among them, alpha-1 antitrypsin deficiency (AATD) is caused by mutations in the alpha-1 antitrypsin (<i>SERPINA1</i>) gene. Fazirsiran is a small interfering RNA (siRNA) that is intended to address the underlying cause of liver disease associated with AATD through the RNA interference (RNAi) mechanism.

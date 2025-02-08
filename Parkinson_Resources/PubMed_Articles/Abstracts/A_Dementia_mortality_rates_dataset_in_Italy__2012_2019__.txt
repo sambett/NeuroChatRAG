@@ -1,0 +1,5 @@
+Title: A Dementia mortality rates dataset in Italy (2012-2019).
+PMID: 37626087
+
+Abstract:
+Dementia is on the rise in the world population and has been defined by the World Health Organization as a global public health priority. In Italy, according to demographic projections, in 2051 there will be 280 elderly people for every 100 young people, with an increase in all age-related chronic diseases, including dementia. Currently the total number of patients with dementia is estimated to be over 1 million (mainly with Alzheimer's disease (AD) and Parkinson's disease (PD)). In-depth studies of the etiology and physiology of dementia are complicated due to the complexity of these diseases and their long duration. In this work we present a dataset on mortality rates (in the form of Standardized Mortality Ratios, SMR) for AD e PD in Italy at provincial level over a period of 8 years (2012-2019). Access to long-term, spatially detailed and ready-to-use data could favor both health monitoring and the research of new treatments and new drugs as well as innovative methodologies for early diagnosis of dementia.

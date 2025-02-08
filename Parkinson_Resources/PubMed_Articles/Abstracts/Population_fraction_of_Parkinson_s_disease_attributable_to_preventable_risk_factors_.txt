@@ -1,0 +1,5 @@
+Title: Population fraction of Parkinson's disease attributable to preventable risk factors.
+PMID: 38052871
+
+Abstract:
+Parkinson's disease is the fastest-growing neurologic disease with seemingly no means of prevention. Intrinsic risk factors (age, sex, and genetics) are inescapable, but environmental factors are not. We identified repeated blows to the head in sports/combat as a potential new risk factor. 23% of PD cases in females were attributable to pesticide/herbicide exposure, and 30% of PD in males were attributable to pesticides/herbicides, military-related chemical exposures, and repeated blows to the head, and therefore could have potentially been prevented.

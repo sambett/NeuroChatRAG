@@ -1,0 +1,5 @@
+Title: Localization of PPM1H phosphatase tunes Parkinson's disease-linked LRRK2 kinase-mediated Rab GTPase phosphorylation and ciliogenesis.
+PMID: 37889931
+
+Abstract:
+PPM1H phosphatase reverses Parkinson's disease-associated, Leucine Rich Repeat Kinase 2-mediated Rab GTPase phosphorylation. We show here that PPM1H relies on an N-terminal amphipathic helix for Golgi localization. The amphipathic helix enables PPM1H to bind to liposomes in vitro, and small, highly curved liposomes stimulate PPM1H activity. We artificially anchored PPM1H to the Golgi, mitochondria, or mother centriole. Our data show that regulation of Rab10 GTPase phosphorylation requires PPM1H access to Rab10 at or near the mother centriole. Moreover, poor colocalization of Rab12 explains in part why it is a poor substrate for PPM1H in cells but not in vitro. These data support a model in which localization drives PPM1H substrate selection and centriolar PPM1H is critical for regulation of Rab GTPase-regulated ciliogenesis. Moreover, Golgi localized PPM1H may maintain active Rab GTPases on the Golgi to carry out their nonciliogenesis-related functions in membrane trafficking.

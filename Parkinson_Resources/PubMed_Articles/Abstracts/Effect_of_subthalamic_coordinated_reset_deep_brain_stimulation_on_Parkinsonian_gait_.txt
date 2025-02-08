@@ -1,0 +1,5 @@
+Title: Effect of subthalamic coordinated reset deep brain stimulation on Parkinsonian gait.
+PMID: 37692361
+
+Abstract:
+Coordinated Reset Deep Brain Stimulation (CR DBS) is a novel DBS approach for treating Parkinson's disease (PD) that uses lower levels of burst stimulation through multiple contacts of the DBS lead. Though CR DBS has been demonstrated to have sustained therapeutic effects on rigidity, tremor, bradykinesia, and akinesia following cessation of stimulation, i.e., carryover effect, its effect on Parkinsonian gait has not been well studied. Impaired gait is a disabling symptom of PD, often associated with a higher risk of falling and a reduced quality of life. The goal of this study was to explore the carryover effect of subthalamic CR DBS on Parkinsonian gait.

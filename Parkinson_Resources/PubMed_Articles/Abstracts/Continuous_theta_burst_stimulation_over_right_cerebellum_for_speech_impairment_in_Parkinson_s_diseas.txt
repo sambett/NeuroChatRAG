@@ -1,0 +1,5 @@
+Title: Continuous theta burst stimulation over right cerebellum for speech impairment in Parkinson's disease: study protocol for a randomized, sham-controlled, clinical trial.
+PMID: 37655339
+
+Abstract:
+Speech impairment is a common symptom of Parkinson's disease (PD) that worsens with disease progression and affects communication and quality of life. Current pharmacological and surgical treatments for PD have inconsistent effects on speech impairment. The cerebellum is an essential part of sensorimotor network that regulates speech production and becomes dysfunctional in PD. Continuous theta-burst stimulation (cTBS) is a non-invasive brain stimulation technique that can modulate the cerebellum and its connections with other brain regions.

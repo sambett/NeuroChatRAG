@@ -1,0 +1,5 @@
+Title: Systematic Screening of Associations between Medication Use and Risk of Neurodegenerative Diseases Using a Mendelian Randomization Approach.
+PMID: 37509570
+
+Abstract:
+Systematically assessing the causal associations between medications and neurodegenerative diseases is significant in identifying disease etiology and novel therapies. Here, we investigated the putative causal associations between 23 existing medication categories and major neurodegenerative diseases (NDs), including Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS).

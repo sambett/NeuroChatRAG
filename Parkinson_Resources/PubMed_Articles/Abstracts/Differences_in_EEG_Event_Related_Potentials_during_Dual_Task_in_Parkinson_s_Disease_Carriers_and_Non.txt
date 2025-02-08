@@ -1,0 +1,5 @@
+Title: Differences in EEG Event-Related Potentials during Dual Task in Parkinson's Disease Carriers and Non-Carriers of the G2019S-LRRK2 Mutation.
+PMID: 37837096
+
+Abstract:
+The G2019S-<i>LRRK2</i> gene mutation is a common cause of hereditary Parkinson's disease (PD), associated with a higher frequency of the postural instability gait difficulty (PIGD) motor phenotype yet with preserved cognition. This study investigated neurophysiological changes during motor and cognitive tasks in PD patients with and without the <i>G2019S-LRRK2</i> mutation.

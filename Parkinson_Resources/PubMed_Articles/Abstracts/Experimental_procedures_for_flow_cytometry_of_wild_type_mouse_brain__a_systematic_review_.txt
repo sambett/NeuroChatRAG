@@ -1,0 +1,5 @@
+Title: Experimental procedures for flow cytometry of wild-type mouse brain: a systematic review.
+PMID: 38022545
+
+Abstract:
+The aim of this study was to systematically review the neuroimmunology literature to determine the average immune cell counts reported by flow cytometry in wild-type (WT) homogenized mouse brains.

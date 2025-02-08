@@ -1,0 +1,5 @@
+Title: The Role of Cellular Defense Systems of Ferroptosis in Parkinson's Disease and Alzheimer's Disease.
+PMID: 37762411
+
+Abstract:
+Parkinson's disease (PD) and Alzheimer's disease (AD) are the most common rapidly developing neurodegenerative diseases that lead to serious health and socio-economic consequences. Ferroptosis is a non-apoptotic form of cell death; there is growing evidence to support the notion that ferroptosis is involved in a variety of pathophysiological contexts, and there is increasing interest in the role of ferroptosis in PD and AD. Simultaneously, cells may have evolved four defense systems to counteract the toxic effects of ferroptosis occasioned by lipid peroxidation. This review, which focuses on the analysis of ferroptosis in the PD and AD context, outlines four cellular defense systems against ferroptosis and how each of them is involved in PD and AD.

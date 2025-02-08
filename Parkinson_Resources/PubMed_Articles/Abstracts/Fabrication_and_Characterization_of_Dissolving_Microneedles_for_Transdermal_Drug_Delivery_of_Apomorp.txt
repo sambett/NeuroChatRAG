@@ -1,0 +1,5 @@
+Title: Fabrication and Characterization of Dissolving Microneedles for Transdermal Drug Delivery of Apomorphine Hydrochloride in Parkinson's Disease.
+PMID: 37923948
+
+Abstract:
+We fabricated and characterized polyvinyl alcohol (PVA)-based dissolving microneedles (MNs) for transdermal drug delivery of apomorphine hydrochloride (APO), which is used in treating the wearing-off phenomenon observed in Parkinson's disease.

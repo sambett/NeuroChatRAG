@@ -1,0 +1,5 @@
+Title: Retinal Changes in Parkinson's Disease: A Non-invasive Biomarker for Early Diagnosis.
+PMID: 37831228
+
+Abstract:
+Parkinson's disease (PD) is caused due to degeneration of dopaminergic neurons in the substantia nigra pars compacta (SNpc) which leads to the depletion of dopamine in the body. The lack of dopamine is mainly due to aggregation of misfolded α-synuclein which causes motor impairment in PD. Dopamine is also required for normal retinal function and the light-dark vision cycle. Misfolded α-synuclein present in inner retinal layers causes vision-associated problems in PD patients. Hence, individuals with PD also experience structural and functional changes in the retina. Mutation in LRRK2, PARK2, PARK7, PINK1, or SNCA genes and mitochondria dysfunction also play a role in the pathophysiology of PD. In this review, we discussed the different etiologies which lead to PD and future prospects of employing non-invasive techniques and retinal changes to diagnose the onset of PD earlier.

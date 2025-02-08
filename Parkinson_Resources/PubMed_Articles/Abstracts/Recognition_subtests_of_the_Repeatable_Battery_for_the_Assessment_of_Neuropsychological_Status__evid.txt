@@ -1,0 +1,5 @@
+Title: Recognition subtests of the Repeatable Battery for the Assessment of Neuropsychological Status: evidence for a cortical vs. subcortical distinction.
+PMID: 37728425
+
+Abstract:
+Within clinical neuropsychology, a classic diagnostic distinction is made between cortical and subcortical disorders, especially based on their memory profiles. Typically, this is based on the comparison of recall and recognition trials, where individuals with cortical conditions do not tend to benefit (i.e., score well) on recognition trials and individuals with subcortical conditions do. Although the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) is a widely used brief cognitive battery, there is a lack of evidence to support this measure's utility in distinguishing between the memory profiles of these conditions.

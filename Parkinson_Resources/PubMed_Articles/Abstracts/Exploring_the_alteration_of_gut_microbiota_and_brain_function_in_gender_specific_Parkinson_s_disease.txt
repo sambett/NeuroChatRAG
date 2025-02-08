@@ -1,0 +1,5 @@
+Title: Exploring the alteration of gut microbiota and brain function in gender-specific Parkinson's disease based on metagenomic sequencing.
+PMID: 37502423
+
+Abstract:
+The role of the microbiota-gut-brain axis in Parkinson's disease (PD) has received increasing attention. Although gender differences are known to an essential role in the epidemiology and clinical course of PD, there are no studies on the sex specificity of the microbiota-gut-brain axis in the development and progression of PD.

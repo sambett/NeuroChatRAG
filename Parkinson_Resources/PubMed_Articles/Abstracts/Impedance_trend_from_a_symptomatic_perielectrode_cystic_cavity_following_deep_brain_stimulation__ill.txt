@@ -1,0 +1,5 @@
+Title: Impedance trend from a symptomatic perielectrode cystic cavity following deep brain stimulation: illustrative case.
+PMID: 37756484
+
+Abstract:
+Deep brain stimulation (DBS) is a well-established neurosurgical intervention for a growing number of neurological and psychiatric diseases. Patients who are affected by Parkinson's disease may benefit from DBS of either the subthalamic nucleus or the globus pallidus internus. Patients who undergo DBS often notice a significant reduction in their clinical symptoms; however, the procedure is not without risks. Multicenter studies have reported postoperative complications such as hardware infection, intracranial hemorrhage, and perielectrode edema.

@@ -1,0 +1,5 @@
+Title: Effects of overground gait training assisted by a wearable exoskeleton in patients with Parkinson's disease.
+PMID: 37974229
+
+Abstract:
+In the recent past, wearable devices have been used for gait rehabilitation in patients with Parkinson's disease. The objective of this paper is to analyze the outcome of a wearable hip orthosis whose assistance adapts in real time to the patient's gait kinematics via adaptive oscillators. In particular, this study focuses on a metric characterizing natural gait variability, i.e., the level of long-range autocorrelations (LRA) in series of stride durations.

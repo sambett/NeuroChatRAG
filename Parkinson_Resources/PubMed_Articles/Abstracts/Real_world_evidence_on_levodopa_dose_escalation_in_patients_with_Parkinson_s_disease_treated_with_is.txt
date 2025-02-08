@@ -1,0 +1,5 @@
+Title: Real-world evidence on levodopa dose escalation in patients with Parkinson's disease treated with istradefylline.
+PMID: 38134023
+
+Abstract:
+Istradefylline, a selective adenosine A2A receptor antagonist, is indicated in the US and Japan as adjunctive treatment to levodopa/decarboxylase inhibitors in adults with Parkinson's disease (PD) experiencing OFF time. This study aimed to observe patterns of dose escalation of levodopa over time in patients initiated on istradefylline.

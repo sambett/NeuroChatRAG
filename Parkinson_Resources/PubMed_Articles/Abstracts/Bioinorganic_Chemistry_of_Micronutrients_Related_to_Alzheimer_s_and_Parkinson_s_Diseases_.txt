@@ -1,0 +1,5 @@
+Title: Bioinorganic Chemistry of Micronutrients Related to Alzheimer's and Parkinson's Diseases.
+PMID: 37513339
+
+Abstract:
+Metal ions are fundamental to guarantee the regular physiological activity of the human organism. Similarly, vitamins play a key role in many biological functions of the metabolism, among which are coenzymes, redox mediators, and antioxidants. Due to their importance in the human organism, both metals and vitamins have been extensively studied for their involvement in neurodegenerative diseases (NDs). However, the full potential of the interaction between vitamins and metal ions has not been fully explored by researchers yet, and further investigation on this topic is needed. The aim of this review is to provide an overview of the scientific literature on the implications of vitamins and selected metal ions in two of the most common neurodegenerative diseases, Alzheimer's and Parkinson's disease. Furthermore, vitamin-metal ion interactions are discussed in detail focusing on their bioinorganic chemistry, with the perspective of arousing more interest in this fascinating bioinorganic field.

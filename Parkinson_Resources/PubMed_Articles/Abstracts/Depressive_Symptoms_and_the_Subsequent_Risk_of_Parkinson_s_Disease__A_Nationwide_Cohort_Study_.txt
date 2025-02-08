@@ -1,0 +1,5 @@
+Title: Depressive Symptoms and the Subsequent Risk of Parkinson's Disease: A Nationwide Cohort Study.
+PMID: 37953133
+
+Abstract:
+Only a few studies have focused on depressive symptoms and Parkinson's disease (PD) risk. As a time lag exists from the onset of depressive symptoms to the diagnosis of depression, elucidating the association between depressive symptoms and PD development might be helpful for the early prediction of PD. We investigate the association between depressive symptoms and subsequent PD risk using nationwide population-based cohort database.

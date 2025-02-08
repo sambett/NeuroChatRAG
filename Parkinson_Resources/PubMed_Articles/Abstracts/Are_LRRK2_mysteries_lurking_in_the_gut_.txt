@@ -1,0 +1,5 @@
+Title: Are LRRK2 mysteries lurking in the gut?
+PMID: 37643021
+
+Abstract:
+Gut-brain axis and inflammation are two hot topics in Parkinson's disease (PD). In this setting, the leucine-rich repeat kinase 2 (<i>LRRK2</i>) gene, which encodes the eponym protein, has attracted much attention. <i>LRRK2</i> is not only the gene most commonly associated with Parkinson's disease but also a susceptibility gene for Crohn's disease (CD), thereby suggesting that it may sit at the crossroads of gastrointestinal inflammation, Parkinson's, and Crohn's disease. In contrast to the accumulated data on LRRK2 in the central nervous system (CNS), research on LRRK2 in the digestive tract is still in its infancy, and the scope of the present review article is therefore to review existing studies on LRRK2 in the gastrointestinal tract in both physiological and pathological conditions. In light of current data on LRRK2 in the gastrointestinal tract, we discuss if LRRK2 could be or not regarded as a molecular link between gut inflammation, Parkinson's disease, and Crohn's disease, and we suggest directions for future research.

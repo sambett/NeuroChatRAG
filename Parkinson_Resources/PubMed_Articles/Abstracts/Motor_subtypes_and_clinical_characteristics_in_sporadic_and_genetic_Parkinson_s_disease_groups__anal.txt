@@ -1,0 +1,5 @@
+Title: Motor subtypes and clinical characteristics in sporadic and genetic Parkinson's disease groups: analysis of the PPMI cohort.
+PMID: 37954645
+
+Abstract:
+The extensive clinical variations observed in Parkinson's disease (PD) pose challenges in early diagnosis and treatment initiation. However, genetic research in PD has significantly transformed the clinical approach to its treatment. Moreover, researchers have adopted a subtyping strategy based on homogeneous clinical symptoms to improve clinical diagnosis and treatment approaches. We conducted a study to explore clinical characteristics in genetic PD groups with motor symptom subtyping.

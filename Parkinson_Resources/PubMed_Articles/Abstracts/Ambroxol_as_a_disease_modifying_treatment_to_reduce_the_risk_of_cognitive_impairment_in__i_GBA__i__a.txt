@@ -1,0 +1,5 @@
+Title: Ambroxol as a disease-modifying treatment to reduce the risk of cognitive impairment in <i>GBA</i>-associated Parkinson's disease: a multicentre, randomised, double-blind, placebo-controlled, phase II trial. The AMBITIOUS study protocol.
+PMID: 38027469
+
+Abstract:
+Heterozygous mutations in the <i>GBA</i> gene, encoding the lysosomal enzyme β-glucocerebrosidase (GCase), are the most frequent genetic risk factor for Parkinson's disease (PD). <i>GBA</i>-related PD (GBA-PD) patients have higher risk of dementia and reduced survival than non-carriers. Preclinical studies and one open-label trial in humans demonstrated that the chaperone ambroxol (ABX) increases GCase levels and modulates α-synuclein levels in the blood and cerebrospinal fluid (CSF).

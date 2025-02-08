@@ -1,0 +1,5 @@
+Title: A localized pallidal physiomarker in Meige syndrome.
+PMID: 38178893
+
+Abstract:
+Oscillatory patterns in local field potentials (LFPs) have been recognized as disease-specific physiomarkers, particularly in the context of Parkinson's disease and cervical dystonia. This characteristic oscillatory feature is currently employed in adaptive deep brain stimulation (aDBS). However, for other types of dystonia, especially Meige syndrome, a distinct physiomarker of this nature is yet to be identified.

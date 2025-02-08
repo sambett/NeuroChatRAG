@@ -1,0 +1,5 @@
+Title: Correlation of SV2C rs1423099 single nucleotide polymorphism with sporadic Parkinson's disease in Han population in Southern China.
+PMID: 37544580
+
+Abstract:
+The synaptic vesicle glycoprotein 2 (SV2) has been implicated in synaptic function throughout the brain. Accumulating evidence investigated that SV2C contributed to dopamine release and the disrupted expression of SV2C was considered to be a unique feature of PD that may facilitate dopaminergic neuron dysfunction.

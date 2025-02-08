@@ -1,0 +1,5 @@
+Title: The microRNAs (miRs) overexpressing mesenchymal stem cells (MSCs) therapy in neurological disorders; hope or hype.
+PMID: 37642165
+
+Abstract:
+Altered expression of multiple miRNAs was found to be extensively involved in the pathogenesis of different neurological disorders including Alzheimer's disease, Parkinson's disease, stroke, epilepsy, multiple sclerosis, amyotrophic lateral sclerosis, and Huntington's disease. One of the biggest concerns within gene-based therapy is the delivery of the therapeutic microRNAs to the intended place, which is obligated to surpass the biological barriers without undergoing degradation in the bloodstream or renal excretion. Hence, the delivery of modified and unmodified miRNA molecules using excellent vehicles is required. In this light, mesenchymal stem cells (MSCs) have attracted increasing attention. The MSCs can be genetically modified to express or overexpress a particular microRNA aimed with promote neurogenesis and neuroprotection. The current review has focused on the therapeutic capabilities of microRNAs-overexpressing MSCs to ameliorate functional deficits in neurological conditions.

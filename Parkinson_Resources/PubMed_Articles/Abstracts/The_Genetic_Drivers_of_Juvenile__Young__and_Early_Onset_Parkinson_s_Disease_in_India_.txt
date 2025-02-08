@@ -1,0 +1,5 @@
+Title: The Genetic Drivers of Juvenile, Young, and Early-Onset Parkinson's Disease in India.
+PMID: 38014556
+
+Abstract:
+Recent studies have advanced our understanding of the genetic drivers of Parkinson's disease (PD). Rare variants in more than 20 genes are considered causal for PD, and the latest PD genome-wide association study (GWAS) identified 90 independent risk loci. However, there remains a gap in our understanding of PD genetics outside of the European populations in which the vast majority of these studies were focused.

@@ -1,0 +1,5 @@
+Title: Effects of deep brain stimulation on quantitative sleep electroencephalogram during non-rapid eye movement in Parkinson's disease.
+PMID: 37810765
+
+Abstract:
+Sleep dysfunction is frequently experienced by people with Parkinson's disease (PD) and negatively influences quality of life. Although subthalamic nucleus (STN) deep brain stimulation (DBS) can improve sleep in PD, sleep microstructural features such as sleep spindles provide additional insights about healthy sleep. For example, sleep spindles are important for better cognitive performance and for sleep consolidation in healthy adults. We hypothesized that conventional STN DBS settings would yield a greater enhancement in spindle density compared to OFF and low frequency DBS.

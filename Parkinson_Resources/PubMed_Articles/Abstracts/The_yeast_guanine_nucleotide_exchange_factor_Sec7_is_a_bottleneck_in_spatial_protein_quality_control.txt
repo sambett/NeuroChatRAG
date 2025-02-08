@@ -1,0 +1,5 @@
+Title: The yeast guanine nucleotide exchange factor Sec7 is a bottleneck in spatial protein quality control and detoxifies neurological disease proteins.
+PMID: 37640758
+
+Abstract:
+ER-to-Golgi trafficking partakes in the sorting of misfolded cytoplasmic proteins to reduce their cytological toxicity. We show here that yeast Sec7, a protein involved in proliferation of the Golgi, is part of this pathway and participates in an Hsp70-dependent formation of insoluble protein deposits (IPOD). Sec7 associates with the disaggregase Hsp104 during a mild heat shock and increases the rate of Hsp104 diffusion in an Hsp70-dependent manner when overproduced. Sec7 overproduction increased formation of IPODs from smaller aggregates and mitigated the toxicity of Huntingtin exon-1 upon heat stress while Sec7 depletion increased sensitivity to aẞ42 of the Alzheimer's disease and α-synuclein of the Parkinson's disease, suggesting a role of Sec7 in mitigating proteotoxicity.

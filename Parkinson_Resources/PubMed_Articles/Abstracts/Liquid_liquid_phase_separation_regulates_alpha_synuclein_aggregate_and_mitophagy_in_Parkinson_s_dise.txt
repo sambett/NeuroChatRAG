@@ -1,0 +1,5 @@
+Title: Liquid-liquid phase separation regulates alpha-synuclein aggregate and mitophagy in Parkinson's disease.
+PMID: 37781241
+
+Abstract:
+Parkinson's disease (PD) is the second most common neurodegenerative disease in the world, and alpha-synuclein (α-syn) abnormal aggregate and mitochondrial dysfunction play a crucial role in its pathological development. Recent studies have revealed that proteins can form condensates through liquid-liquid phase separation (LLPS), and LLPS has been found to be widely present in α-syn aberrant aggregate and mitophagy-related protein physiological processes. This review summarizes the occurrence of α-syn LLPS and its influencing factors, introduces the production and transformation of the related protein LLPS during PINK1-Parkin-mediated mitophagy, hoping to provide new ideas and methods for the study of PD pathology.

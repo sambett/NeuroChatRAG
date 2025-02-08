@@ -1,0 +1,5 @@
+Title: The SH-SY5Y cell line: a valuable tool for Parkinson's disease drug discovery.
+PMID: 38112196
+
+Abstract:
+Owing to limited efficient treatment strategies for highly prevalent and distressing Parkinson's disease (PD), an impending need emerged for deciphering new modes and mechanisms for effective management. SH-SY5Y-based <i>in vitro</i> neuronal models have emerged as a new possibility for the elucidation of cellular and molecular processes in the pathogenesis of PD. SH-SY5Y cells are of human origin, adhered to catecholaminergic neuronal attributes, which consequences in imparting wide acceptance and significance to this model over conventional <i>in vitro</i> PD models for high-throughput screening of therapeutics.

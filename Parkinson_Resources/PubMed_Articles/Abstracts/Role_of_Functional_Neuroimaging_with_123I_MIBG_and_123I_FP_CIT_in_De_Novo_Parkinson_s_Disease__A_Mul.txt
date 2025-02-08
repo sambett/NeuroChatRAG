@@ -1,0 +1,5 @@
+Title: Role of Functional Neuroimaging with 123I-MIBG and 123I-FP-CIT in De Novo Parkinson's Disease: A Multicenter Study.
+PMID: 37629643
+
+Abstract:
+Parkinson's disease is a progressive neurodegenerative disorder, with incidence and prevalence rates of 8-18 per 100,000 people per year and 0.3-1%, respectively. As parkinsonian symptoms do not appear until approximately 50-60% of the nigral DA-releasing neurons have been lost, the impact of routine structural imaging findings is minimal at early stages, making Parkinson's disease an ideal condition for the application of functional imaging techniques. The aim of this multicenter study is to assess whether 123I-FP-CIT (DAT-SPECT), 123I-MIBG (mIBG-scintigraphy) or an association of both exams presents the highest diagnostic accuracy in de novo PD patients.

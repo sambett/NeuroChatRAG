@@ -1,0 +1,5 @@
+Title: Pulvinar quantitative susceptibility mapping predicts visual hallucinations post-deep brain stimulation in Parkinson's disease.
+PMID: 37743594
+
+Abstract:
+We have reported the relationship between low pulvinar nuclei (PN) intensity in susceptibility-weighted imaging and the appearance of visual hallucinations and cognitive function. The aim of the study was to examine the changes in the quantitative susceptibility mapping (QSM) in patients with Parkinson's disease (PD) who underwent deep brain stimulation (DBS) and verify whether the PN susceptibility value (SV) on QSM can predict visual hallucination and cognitive changes after DBS.

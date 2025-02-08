@@ -1,0 +1,5 @@
+Title: Cotransplantation of NSCs and ethyl stearate promotes synaptic plasticity in PD rats by Drd1/ERK/AP-1 signaling pathway.
+PMID: 37806537
+
+Abstract:
+Traditional Chinese medicine views kidney shortage as a significant contributor to the aetiology of Parkinson's disease (PD), a neurodegenerative condition that is closely linked to aging. In clinical, patients with Parkinson's disease are often treated with Testudinis Carapax et Plastrum (Plastrum Testudinis, PT), a traditional Chinese medication that tonifies the kidney. Previous research has demonstrated that ethyl stearate (PubChem CID: 8122), an active component of Plastrum Testudinis Extracted with ethyl acetate (PTE), may encourage neural stem cells (NSCs) development into dopaminergic (DAergic) neurons. However, the effectiveness and mechanism of cotransplantation of ethyl stearate and NSCs in treating PD model rats still require further investigation.

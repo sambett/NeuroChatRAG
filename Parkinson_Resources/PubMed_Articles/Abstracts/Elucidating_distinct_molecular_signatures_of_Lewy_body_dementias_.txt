@@ -1,0 +1,5 @@
+Title: Elucidating distinct molecular signatures of Lewy body dementias.
+PMID: 37918758
+
+Abstract:
+Dementia with Lewy bodies and Parkinson's disease dementia are common neurodegenerative diseases that share similar neuropathological profiles and spectra of clinical symptoms but are primarily differentiated by the order in which symptoms manifest. The question of whether a distinct molecular pathological profile could distinguish these disorders is yet to be answered. However, in recent years, studies have begun to investigate genomic, epigenomic, transcriptomic and proteomic differences that may differentiate these disorders, providing novel insights in to disease etiology. In this review, we present an overview of the clinical and pathological hallmarks of Lewy body dementias before summarizing relevant research into genetic, epigenetic, transcriptional and protein signatures in these diseases, with a particular interest in those resolving "omic" level changes. We conclude by suggesting future research directions to address current gaps and questions present within the field.

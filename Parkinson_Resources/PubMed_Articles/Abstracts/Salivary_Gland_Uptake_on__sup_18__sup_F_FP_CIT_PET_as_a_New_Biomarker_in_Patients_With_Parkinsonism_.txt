@@ -1,0 +1,5 @@
+Title: Salivary Gland Uptake on <sup>18</sup>F-FP-CIT PET as a New Biomarker in Patients With Parkinsonism.
+PMID: 37404111
+
+Abstract:
+<sup>18</sup>F-FP-CIT positron emission tomography (PET) is known for its high sensitivity and specificity for evaluating striatal dopamine transporter (DAT) binding. Recently, for the early diagnose of Parkinson's disease, many researchers focused on the diagnosis of synucleinopathy in organs involved in non-motor symptoms of Parkinson's disease. We investigated the feasibility of salivary gland uptake on <sup>18</sup>F-FP-CIT PET as a new biomarker in patients with parkinsonism.

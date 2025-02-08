@@ -1,0 +1,5 @@
+Title: Dissociable effects of dopaminergic medications on depression symptom dimensions in Parkinson's disease.
+PMID: 37425947
+
+Abstract:
+Depression in Parkinson's disease (PD) is common, disabling and responds poorly to standard antidepressant medication. Motivational symptoms of depression, such as apathy and anhedonia, are particularly prevalent in depression in PD and predict poor response to antidepressant treatment. Loss of dopaminergic innervation of the striatum is associated with emergence of motivational symptoms in PD, and mood fluctuations correlate with dopamine availability. Accordingly, optimising dopaminergic treatment for PD can improve depressive symptoms, and dopamine agonists have shown promising effects in improving apathy. However, the differential effect of antiparkinsonian medication on symptom dimensions of depression is not known.

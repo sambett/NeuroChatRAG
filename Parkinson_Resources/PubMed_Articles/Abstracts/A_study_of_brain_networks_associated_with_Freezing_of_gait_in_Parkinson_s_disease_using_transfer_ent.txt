@@ -1,0 +1,5 @@
+Title: A study of brain networks associated with Freezing of gait in Parkinson's disease using transfer entropy analysis.
+PMID: 37783260
+
+Abstract:
+Parkinson's disease (PD) is a common neurodegenerative disease in the elderly. Freezing of Gait (FOG) is one of the common motor symptoms of PD, but the potential mechanism remains unclear. This study aimed to investigate the changes of brain functional network topology in PD patients with FOG.

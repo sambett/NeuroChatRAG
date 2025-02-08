@@ -1,0 +1,5 @@
+Title: Analysis of bioactive compounds in cinnamon leaves and preparation of nanoemulsion and byproducts for improving Parkinson's disease in rats.
+PMID: 37599679
+
+Abstract:
+<i>Cinnamomum osmophloeum</i> Kanehira (C. osmophloeum), a broad-leaved tree species of Taiwan, contains phenolic acids, flavonoids, and phenylpropanoids such as cinnamaldehyde and cinnamic acid in leaves. Many reports have shown that the cinnamon leaf extract possesses anti-inflammatory, hypoglycemic, hypolipidemic and neuroprotective functions. This study aims to analyze bioactive compounds in C. osmophloeum (cinnamon leaves) by UPLC-MS/MS and prepare hydrosol, cinnamon leaf extract and cinnamon leaf nanoemulsion for comparison in improving Parkinson's disease (PD) in rats.

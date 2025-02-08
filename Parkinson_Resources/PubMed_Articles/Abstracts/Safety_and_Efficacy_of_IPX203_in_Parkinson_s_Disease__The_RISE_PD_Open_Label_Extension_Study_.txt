@@ -1,0 +1,5 @@
+Title: Safety and Efficacy of IPX203 in Parkinson's Disease: The RISE-PD Open-Label Extension Study.
+PMID: 38111267
+
+Abstract:
+IPX203 is a novel oral extended-release formulation of carbidopa/levodopa (CD/LD) developed to address the short half-life of immediate-release CD/LD. In the phase 3 RISE-PD trial, IPX203 significantly improved "Good On" time in patients with Parkinson's disease compared with immediate-release CD/LD.

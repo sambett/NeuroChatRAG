@@ -1,0 +1,5 @@
+Title: Design of the STEPS trial: a phase II randomized controlled trial evaluating eHealth-supported motor-cognitive home training for Parkinson's disease.
+PMID: 37794320
+
+Abstract:
+Electronic health (eHealth) technology offers the potential to support and motivate physical activity for symptom management in Parkinson's disease (PD). It is also recommended that motor exercise in PD be complemented with cognitive training aimed at attentional or executive functions. This paper describes the protocol for a double-blind randomized controlled trial to evaluate the effects of motor-cognitive training in the home environment, supported by eHealth.

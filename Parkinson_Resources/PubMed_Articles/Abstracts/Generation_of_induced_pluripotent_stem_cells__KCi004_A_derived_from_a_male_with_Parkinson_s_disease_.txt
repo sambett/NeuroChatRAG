@@ -1,0 +1,5 @@
+Title: Generation of induced pluripotent stem cells, KCi004-A derived from a male with Parkinson's disease and homozygous for the PINK1 variant c.1366C > T, p.Gln456.
+PMID: 37524028
+
+Abstract:
+Disease causing variants in PINK1 lead to Parkinson's disease (PD) with early age of onset and slow disease progression. Loss of mitochondrial function is a signal of bioenergetic stress, PINK1 accumulates on the outer mitochondrial membrane and initiates ubiquitination and degradation of damaged mitochondria by mitophagy. Here we describe the successful generation of an induced pluripotent stem cell line (iPSC) KCi004-A from a PD patient homozygous for the disease- causing variant c.1366C > T, p.Gln456* in PINK1. For the generation we transfect a fibroblast culture from the patient with a non-integrative self-replicating RNA vector.

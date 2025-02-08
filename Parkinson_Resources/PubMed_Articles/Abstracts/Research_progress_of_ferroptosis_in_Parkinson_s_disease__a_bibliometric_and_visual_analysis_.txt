@@ -1,0 +1,5 @@
+Title: Research progress of ferroptosis in Parkinson's disease: a bibliometric and visual analysis.
+PMID: 38035275
+
+Abstract:
+In recent years, the role of ferroptosis in Parkinson's disease (PD) has become a research hotspot based on evidence of abnormal iron deposition and lipid peroxidation damage in the brains of PD patients. This study aims to examine the relevant research on ferroptosis and PD from a bibliometric perspective.

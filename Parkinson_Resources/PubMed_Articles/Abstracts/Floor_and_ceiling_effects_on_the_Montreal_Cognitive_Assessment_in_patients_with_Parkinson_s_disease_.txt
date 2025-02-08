@@ -1,0 +1,5 @@
+Title: Floor and ceiling effects on the Montreal Cognitive Assessment in patients with Parkinson's disease in Brazil.
+PMID: 38053643
+
+Abstract:
+Parkinson's disease (PD) is a common neurodegenerative disease associated with cognitive impairment. The Montreal Cognitive Assessment (MoCA) has been used as a recommended global cognition scale for patients with PD, but there are some concerns about its application, partially due to the floor and ceiling effects.

@@ -1,0 +1,5 @@
+Title: Analysis of Japanese nationwide health datasets: association between lifestyle habits and prevalence of neuropathic pain and fibromyalgia with reference to dementia-related diseases and Parkinson's disease.
+PMID: 37439280
+
+Abstract:
+Chronic pain is defined as pain that persists or recurs for more than 3 months. This study focuses on neuropathic pain (NP) and fibromyalgia (FM) which are chronic pain states, and aims to identify lifestyle habits associated with their prevalence. Other neurological disorders are also analyzed as references.

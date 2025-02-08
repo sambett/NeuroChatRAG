@@ -1,0 +1,5 @@
+Title: Multiplexed Digital Characterization of Misfolded Protein Oligomers via Solid-State Nanopores.
+PMID: 37972287
+
+Abstract:
+Misfolded protein oligomers are of central importance in both the diagnosis and treatment of Alzheimer's and Parkinson's diseases. However, accurate high-throughput methods to detect and quantify oligomer populations are still needed. We present here a single-molecule approach for the detection and quantification of oligomeric species. The approach is based on the use of solid-state nanopores and multiplexed DNA barcoding to identify and characterize oligomers from multiple samples. We study α-synuclein oligomers in the presence of several small-molecule inhibitors of α-synuclein aggregation as an illustration of the potential applicability of this method to the development of diagnostic and therapeutic methods for Parkinson's disease.

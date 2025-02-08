@@ -1,0 +1,5 @@
+Title: Noradrenergic neuromodulation in ageing and disease.
+PMID: 37437752
+
+Abstract:
+The locus coeruleus (LC) is a small brainstem structure located in the lower pons and is the main source of noradrenaline (NA) in the brain. Via its phasic and tonic firing, it modulates cognition and autonomic functions and is involved in the brain's immune response. The extent of degeneration to the LC in healthy ageing remains unclear, however, noradrenergic dysfunction may contribute to the pathogenesis of Alzheimer's (AD) and Parkinson's disease (PD). Despite their differences in progression at later disease stages, the early involvement of the LC may lead to comparable behavioural symptoms such as preclinical sleep problems and neuropsychiatric symptoms as a result of AD and PD pathology. In this review, we draw attention to the mechanisms that underlie LC degeneration in ageing, AD and PD. We aim to motivate future research to investigate how early degeneration of the noradrenergic system may play a pivotal role in the pathogenesis of AD and PD which may also be relevant to other neurodegenerative diseases.

@@ -1,0 +1,5 @@
+Title: Temporal Investigations of the Changes in Presynaptic Inhibition Associated With Subthalamic Nucleus-Deep-Brain Stimulation.
+PMID: 37488958
+
+Abstract:
+There are controversies regarding the role of presynaptic inhibition (PSI) in the mechanisms underlying the efficacy of deep-brain stimulation (DBS) in Parkinson's disease (PD). We sought to determine the involvement of PSI in DBS-related mechanisms and clinical correlates.

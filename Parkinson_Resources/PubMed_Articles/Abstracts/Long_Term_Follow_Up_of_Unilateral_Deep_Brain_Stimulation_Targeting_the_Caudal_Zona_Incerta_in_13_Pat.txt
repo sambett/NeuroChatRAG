@@ -1,0 +1,5 @@
+Title: Long-Term Follow-Up of Unilateral Deep Brain Stimulation Targeting the Caudal Zona Incerta in 13 Patients with Parkinsonian Tremor.
+PMID: 37879313
+
+Abstract:
+Deep brain stimulation (DBS) is an established treatment for Parkinson's disease (PD) and other movement disorders. The ventral intermediate nucleus of the thalamus is considered as the target of choice for tremor disorders, including tremor-dominant PD not suitable for DBS in the subthalamic nucleus (STN). In the last decade, several studies have shown promising results on tremor from DBS in the posterior subthalamic area (PSA), including the caudal zona incerta (cZi) located posteromedial to the STN. The aim of this study was to evaluate the long-term effect of unilateral cZi/PSA-DBS in patients with tremor-dominant PD.

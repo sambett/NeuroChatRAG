@@ -1,0 +1,5 @@
+Title: Protective mechanism of Paeonol on central nervous system.
+PMID: 37872838
+
+Abstract:
+Cerebrovascular diseases involve neuronal damage, resulting in degenerative neuropathy and posing a serious threat to human health. The discovery of effective drug components from natural plants and the study of their mechanism are a research idea different from chemical synthetic medicines. Paeonol is the main active component of traditional Chinese medicine Paeonia lactiflora Pall. It widely exists in many medicinal plants and has pharmacological effects such as anti-atherosclerosis, antiplatelet aggregation, anti-oxidation, and anti-inflammatory, which keeps generally used in the treatment of cardiovascular and cerebrovascular diseases. Based on the therapeutic effects of Paeonol for cardiovascular and cerebrovascular diseases, this article reviewed the pharmacological effects of Paeonol in Alzheimer's disease, Parkinson's disease, stroke, epilepsy, diabetes encephalopathy, and other neurological diseases, providing a reference for the research of the mechanism of Paeonol in central nervous system diseases.

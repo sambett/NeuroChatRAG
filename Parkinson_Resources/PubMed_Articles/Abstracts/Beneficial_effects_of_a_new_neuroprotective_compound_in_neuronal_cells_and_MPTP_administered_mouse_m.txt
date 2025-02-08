@@ -1,0 +1,5 @@
+Title: Beneficial effects of a new neuroprotective compound in neuronal cells and MPTP-administered mouse model of Parkinson's disease.
+PMID: 37753573
+
+Abstract:
+A new compound, a derivative of 3,4,5-trimethoxy-<i>N</i>-phenyl benzamide bearing an 8''-methylimidazopyridine moiety, is found to demonstrate neuroprotective effects by preventing cell death caused by oxidative stress. The compound possesses high solubility and metabolic stability, and inhibits MPTP-induced effects <i>in vivo</i>, indicating high potential as a therapeutic drug for Parkinson's disease.

@@ -1,0 +1,5 @@
+Title: Automatic planning of MR-guided transcranial focused ultrasound treatment for essential tremor.
+PMID: 37953746
+
+Abstract:
+Transcranial focused ultrasound therapy (tcFUS) offers precise thermal ablation for treating Parkinson's disease and essential tremor. However, the manual fine-tuning of fiber tracking and segmentation required for accurate treatment planning is time-consuming and demands expert knowledge of complex neuroimaging tools. This raises the question of whether a fully automated pipeline is feasible or if manual intervention remains necessary.

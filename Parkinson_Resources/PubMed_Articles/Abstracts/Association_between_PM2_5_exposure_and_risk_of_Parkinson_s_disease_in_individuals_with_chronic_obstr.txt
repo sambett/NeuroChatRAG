@@ -1,0 +1,5 @@
+Title: Association between PM2.5 exposure and risk of Parkinson's disease in individuals with chronic obstructive pulmonary disease in Taiwan: a nested case-control study.
+PMID: 37905313
+
+Abstract:
+This cohort study investigated the correlation between Parkinson's disease (PD) risk and chronic obstructive pulmonary disease (COPD) risk under particulate matter with an aerodynamic diameter ≤2.5 μm (PM2.5) exposure.

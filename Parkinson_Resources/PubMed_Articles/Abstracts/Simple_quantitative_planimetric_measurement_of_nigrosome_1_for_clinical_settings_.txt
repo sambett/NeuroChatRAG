@@ -1,0 +1,5 @@
+Title: Simple quantitative planimetric measurement of nigrosome-1 for clinical settings.
+PMID: 37939625
+
+Abstract:
+Loss of MRI hyperintense signal in nigrosome-1 (assessed with susceptibility-weighted imaging) is a biomarker for Parkinson's disease (PD). Current clinical practice involves subjectively rating the appearance of nigrosome-1 which is challenging. The study aimed to test and compare a simple method for quantifying nigrosome-1 with the current subjective rating method.

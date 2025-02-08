@@ -1,0 +1,5 @@
+Title: Detection of Ferroptosis in Models of Brain Diseases.
+PMID: 37578711
+
+Abstract:
+Ferroptosis is a regulated form of non-apoptotic cell death driven by iron-dependent lipid peroxidation. In the past decade, ferroptosis has been reported to be involved in the pathological role in the central nervous system degenerative diseases (e.g., Alzheimer's disease, Huntington's disease, and Parkinson's disease), stroke, traumatic brain injury, and brain tumor. However, how to reliably detect and classify ferroptosis from other cell death in pathological conditions remains a great challenge, especially in primary brain cells and brain tissues. Here, we summarize the methods and protocols (such as real-time PCR, western blotting, immunofluorescence staining, lipid peroxidation assay kits and probe, immunofluorescence staining, GPX activity and glutathione depletion assay kits, iron detection, and TEM) used in the present study to detect and classify ferroptosis in the brain.

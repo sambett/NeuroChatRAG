@@ -1,0 +1,5 @@
+Title: Advances in the neuroimaging of motor disorders.
+PMID: 37562878
+
+Abstract:
+Neuroimaging is a valuable adjunct to the history and examination in the evaluation of motor system disorders. Conventional imaging with computed tomography or magnetic resonance imaging depicts important anatomic information and helps to identify imaging patterns which may support diagnosis of a specific motor disorder. Advanced imaging techniques can provide further detail regarding volume, functional, or metabolic changes occurring in nervous system pathology. This chapter is an overview of the advances in neuroimaging with particular emphasis on both standard and less well-known advanced imaging techniques and findings, such as diffusion tensor imaging or volumetric studies, and their application to specific motor disorders. In addition, it provides reference to emerging imaging biomarkers in motor system disorders such as Parkinson disease, amyotrophic lateral sclerosis, and Huntington disease, and briefly reviews the neuroimaging findings in different causes of myelopathy and peripheral nerve disorders.

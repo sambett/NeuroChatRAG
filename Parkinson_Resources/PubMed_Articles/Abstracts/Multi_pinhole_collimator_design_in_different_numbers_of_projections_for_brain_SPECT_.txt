@@ -1,0 +1,5 @@
+Title: Multi-pinhole collimator design in different numbers of projections for brain SPECT.
+PMID: 37841005
+
+Abstract:
+High resolution and sensitivity brain SPECT is promising for the accurate diagnosis of Alzheimer's disease (AD) and Parkinson's disease (PD). Multi-pinhole (MPH) collimators with a good performance in imaging small field-of-view (FOV) could be better used for brain SPECT. In this study, we aim to evaluate the impact of varying the number of pinholes and the number of projections on the performance of MPH brain SPECT.

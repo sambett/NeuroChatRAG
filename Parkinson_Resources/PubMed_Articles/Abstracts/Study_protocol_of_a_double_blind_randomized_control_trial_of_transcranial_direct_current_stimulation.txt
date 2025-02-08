@@ -1,0 +1,5 @@
+Title: Study protocol of a double-blind randomized control trial of transcranial direct current stimulation in post-stroke fatigue.
+PMID: 38348114
+
+Abstract:
+Post-stroke fatigue (PSF) is a frequent problem in stroke survivors and often hinders their rehabilitation. PSF is difficult to treat, and pharmacological therapy is often ineffective. Transcranial direct current stimulation (tDCS) can modulate motor, sensory, cognitive and behavioral responses, as it alters neuronal activity by delivering a small amount of current via the scalp to the cortex, resulting in prolonged alterations to brain function. tDCS has been studied for the treatment of fatigue associated with other neurological diseases, namely, multiple sclerosis, Parkinson's disease and post-polio syndrome.

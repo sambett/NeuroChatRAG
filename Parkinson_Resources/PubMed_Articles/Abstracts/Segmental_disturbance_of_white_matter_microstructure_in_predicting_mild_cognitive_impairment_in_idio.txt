@@ -1,0 +1,5 @@
+Title: Segmental disturbance of white matter microstructure in predicting mild cognitive impairment in idiopathic Parkinson's disease: An individualized study based on automated fiber quantification tractography.
+PMID: 37734997
+
+Abstract:
+The neurobiological mechanisms and an early identification of MCI in idiopathic Parkinson's disease (IPD) remain unclear. To investigate the abnormalities of types of white matter (WM) fiber tracts segmentally and establish reliable indicator in IPD-MCI.

@@ -1,0 +1,5 @@
+Title: Effects of Speaking Rate on Variability of Second Formant Frequency Transitions in Dysarthria.
+PMID: 37769645
+
+Abstract:
+This study examined the utility of multiple second formant (F2) slope metrics to capture differences in speech production for individuals with dysarthria and healthy controls as a function of speaking rate. In addition, the utility of F2 slope metrics for predicting severity of intelligibility impairment in dysarthria was examined.

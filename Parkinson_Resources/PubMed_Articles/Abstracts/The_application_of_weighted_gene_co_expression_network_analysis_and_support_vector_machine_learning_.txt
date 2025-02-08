@@ -1,0 +1,5 @@
+Title: The application of weighted gene co-expression network analysis and support vector machine learning in the screening of Parkinson's disease biomarkers and construction of diagnostic models.
+PMID: 37908486
+
+Abstract:
+This study aims to utilize Weighted Gene Co-expression Network Analysis (WGCNA) and Support Vector Machine (SVM) algorithm for screening biomarkers and constructing a diagnostic model for Parkinson's disease.

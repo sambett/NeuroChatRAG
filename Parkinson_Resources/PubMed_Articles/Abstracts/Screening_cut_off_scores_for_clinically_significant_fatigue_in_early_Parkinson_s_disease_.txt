@@ -1,0 +1,5 @@
+Title: Screening cut-off scores for clinically significant fatigue in early Parkinson's disease.
+PMID: 38021342
+
+Abstract:
+Fatigue is one of the most disabling non-motor symptoms in PD. Researchers have previously used cut-offs validated in non-PD conditions when using the Fatigue Severity Scale (FSS) or the Multidimensional Fatigue Inventory (MFI) scores to evaluate fatigue in PD.

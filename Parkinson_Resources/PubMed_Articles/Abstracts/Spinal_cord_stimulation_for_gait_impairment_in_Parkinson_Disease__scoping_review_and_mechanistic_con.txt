@@ -1,0 +1,5 @@
+Title: Spinal cord stimulation for gait impairment in Parkinson Disease: scoping review and mechanistic considerations.
+PMID: 37833048
+
+Abstract:
+Advanced Parkinson's Disease (PD) is associated with Parkinson's Disease gait impairment (PDg), which increases the risk for falls and is often treatment-refractory. Subthalamic nucleus (STN) and globus pallidus pars interna (GPi) deep brain stimulation (DBS) often fails to improve axial symptoms like PDg. Spinal cord stimulation (SCS) has been suggested to improve PDg. SCS may benefit PDg by disrupting pathologic beta-oscillations and hypersynchrony in cortico-striatal-thalamic circuits to override excessive inhibition of brainstem locomotor regions. SCS may potentially improve locomotion by acting at any of these levels, either alone or in combination.

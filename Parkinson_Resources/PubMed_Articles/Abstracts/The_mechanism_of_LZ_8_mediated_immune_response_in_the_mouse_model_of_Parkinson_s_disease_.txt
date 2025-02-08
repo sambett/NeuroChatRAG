@@ -1,0 +1,5 @@
+Title: The mechanism of LZ-8-mediated immune response in the mouse model of Parkinson's disease.
+PMID: 37696167
+
+Abstract:
+Parkinson's disease (PD) is associated with microscopic changes in the brain, particularly substantia nigra (SN). Ganoderma lucidum immunoregulatory protein (rLZ-8) is might confer protective effects against PD. We developed a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced murine model of PD and determined the effects of rLZ-8 on molecular and cellular components of SN and whole brain tissue. The levels of SOD, GSH-Px, p-JAK2 and p-STAT3 in the brain tissue and SN were downregulated, while IL-6, IL-1β, and TNF-α and MDA were upregulated. These effects were significantly reversed upon treatment rLZ-8. In summary, oxidative stress and inflammatory response in PD can be alleviated using rLZ-8.

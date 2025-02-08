@@ -1,0 +1,5 @@
+Title: Alpha-Synuclein in Peripheral Tissues as a Possible Marker for Neurological Diseases and Other Medical Conditions.
+PMID: 37627328
+
+Abstract:
+The possible usefulness of alpha-synuclein (aSyn) determinations in peripheral tissues (blood cells, salivary gland biopsies, olfactory mucosa, digestive tract, skin) and in biological fluids, except for cerebrospinal fluid (serum, plasma, saliva, feces, urine), as a marker of several diseases, has been the subject of numerous publications. This narrative review summarizes data from studies trying to determine the role of total, oligomeric, and phosphorylated aSyn determinations as a marker of various diseases, especially PD and other alpha-synucleinopathies. In summary, the results of studies addressing the determinations of aSyn in its different forms in peripheral tissues (especially in platelets, skin, and digestive tract, but also salivary glands and olfactory mucosa), in combination with other potential biomarkers, could be a useful tool to discriminate PD from controls and from other causes of parkinsonisms, including synucleinopathies.

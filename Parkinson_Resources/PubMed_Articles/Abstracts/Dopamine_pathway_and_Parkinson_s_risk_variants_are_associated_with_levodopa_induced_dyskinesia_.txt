@@ -1,0 +1,5 @@
+Title: Dopamine pathway and Parkinson's risk variants are associated with levodopa-induced dyskinesia.
+PMID: 37790572
+
+Abstract:
+Levodopa-induced dyskinesia (LID) is a common adverse effect of levodopa, one of the main therapeutics used to treat the motor symptoms of Parkinson's disease (PD). Previous evidence suggests a connection between LID and a disruption of the dopaminergic system as well as genes implicated in PD, including <i>GBA1</i> and <i>LRRK2</i>.

@@ -1,0 +1,5 @@
+Title: Polystyrene nanoplastic exposure induces excessive mitophagy by activating AMPK/ULK1 pathway in differentiated SH-SY5Y cells and dopaminergic neurons in vivo.
+PMID: 37993864
+
+Abstract:
+Microplastics and nanoplastics (MNPs) are emerging environmental contaminants detected in human samples, and have raised concerns regarding their potential risks to human health, particularly neurotoxicity. This study aimed to investigate the deleterious effects of polystyrene nanoplastics (PS-NPs, 50 nm) and understand their mechanisms in inducing Parkinson's disease (PD)-like neurodegeneration, along with exploring preventive strategies.

@@ -1,0 +1,5 @@
+Title: Modulation of Autophagy and Nitric Oxide Signaling via Glycyrrhizic Acid and 7-Nitroindazole in MPTP-induced Parkinson's Disease Model.
+PMID: 39840143
+
+Abstract:
+Parkinson's disease (PD) is characterized by dopaminergic (DA) neuron loss, Lewy body build-up, and motor dysfunction. One of the primary pathogenic mechanisms of PD development is autophagy dysfunction and nitric oxide-mediated neurotoxicity.

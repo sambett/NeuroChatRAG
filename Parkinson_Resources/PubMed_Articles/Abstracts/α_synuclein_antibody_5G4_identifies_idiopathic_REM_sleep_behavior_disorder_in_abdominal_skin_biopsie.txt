@@ -1,0 +1,5 @@
+Title: α-synuclein antibody 5G4 identifies idiopathic REM-sleep behavior disorder in abdominal skin biopsies.
+PMID: 38217955
+
+Abstract:
+Idiopathic REM-sleep behavior disorder (iRBD) is considered the most specific prodromal marker of Parkinson's disease (PD). With the need to improve early detection of prodromal α-synucleinopathies, several methods to identify peripheral α-synuclein (α-syn) pathology have been exploited in manifest and prodromal PD with varying diagnostic accuracy. Recently, a disease specific 5G4 antibody has been evaluated in skin biopsies of manifest PD patients. The aim of our study was to analyze the 5G4 α-syn immunoreactivity in skin biopsies of deeply phenotyped subjects with iRBD and controls.

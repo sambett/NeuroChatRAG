@@ -1,0 +1,5 @@
+Title: Reward prediction error in learning-related behaviors.
+PMID: 37662112
+
+Abstract:
+Learning is a complex process, during which our opinions and decisions are easily changed due to unexpected information. But the neural mechanism underlying revision and correction during the learning process remains unclear. For decades, prediction error has been regarded as the core of changes to perception in learning, even driving the learning progress. In this article, we reviewed the concept of reward prediction error, and the encoding mechanism of dopaminergic neurons and the related neural circuities. We also discussed the relationship between reward prediction error and learning-related behaviors, including reversal learning. We then demonstrated the evidence of reward prediction error signals in several neurological diseases, including Parkinson's disease and addiction. These observations may help to better understand the regulatory mechanism of reward prediction error in learning-related behaviors.

@@ -1,0 +1,5 @@
+Title: Fully immersive virtual reality exergames with dual-task components for patients with Parkinson's disease: a feasibility study.
+PMID: 37464349
+
+Abstract:
+Dual-task training in Parkinson's disease (PD) improves spatiotemporal gait parameters, cognition, and quality of life. Virtual reality (VR) has been used as a therapeutic tool for patients to participate in activities in a safe environment, engage in multisensory experiences, and improve motivation and interest in rehabilitation. This study aimed to investigate the feasibility of fully immersive VR exergames with dual-task components in patients with PD.

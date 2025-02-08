@@ -1,0 +1,5 @@
+Title: Scoring sleep in neurodegenerative diseases: A pilot study in the synucleinopathies.
+PMID: 37678074
+
+Abstract:
+Neurodegenerative diseases often alter sleep architecture, complicating the application of the standard sleep scoring rules. There are no recommendations to overcome this problem. Our aim was to develop a scoring method that incorporates the stages previously applied in dementia with Lewy Bodies (DLB), anti-IgLON5 disease, and fatal insomnia, and to test it in patients with alpha-synucleinopathies.

@@ -1,0 +1,5 @@
+Title: A VO<sub>2peak</sub> prediction model in older adults' patients with Parkinson's disease.
+PMID: 37678552
+
+Abstract:
+Cardiopulmonary function is compromised in people with Parkinson's Disease (PD) and might be related with mortality in advanced stages of the disease. Therefore, estimating the peak oxygen uptake (VO<sub>2peak</sub>) to monitor its progression overtime and to prescribe exercise is important in clinical context. This study aimed at developing a VO<sub>2peak</sub> prediction model for older adults' patients with PD based on functional tests used in the physiotherapy clinical settings.

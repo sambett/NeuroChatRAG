@@ -1,0 +1,5 @@
+Title: Investigating trial design variability in trials of disease-modifying therapies in Parkinson's disease: a scoping review protocol.
+PMID: 38070893
+
+Abstract:
+Parkinson's disease (PD) is a debilitating neurological disorder for which the identification of disease-modifying interventions represents a major unmet need. Diverse trial designs have attempted to mitigate challenges of population heterogeneity, efficacious symptomatic therapy and lack of outcome measures that are objective and sensitive to change in a disease modification setting. It is not clear whether consensus is emerging regarding trial design choices. Here, we report the protocol of a scoping review that will provide a contemporary update on trial design variability for disease-modifying interventions in PD.

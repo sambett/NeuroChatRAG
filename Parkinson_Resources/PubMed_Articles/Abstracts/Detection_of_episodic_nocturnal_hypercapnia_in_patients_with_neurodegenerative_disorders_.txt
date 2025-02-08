@@ -1,0 +1,5 @@
+Title: Detection of episodic nocturnal hypercapnia in patients with neurodegenerative disorders.
+PMID: 37422580
+
+Abstract:
+Episodic nocturnal hypercapnia (eNH) in transcutaneous carbon dioxide pressure (PtcCO<sub>2</sub>) corresponding to rapid eye movement sleep hypoventilation is a useful biomarker for detecting nocturnal hypoventilation. However, the relationship between eNH and neurodegenerative diseases with sleep-related breathing disorders (SRBDs) is unknown. The aim of this study was to evaluate the relationship between eNH and nocturnal hypoventilation in neurodegenerative diseases.

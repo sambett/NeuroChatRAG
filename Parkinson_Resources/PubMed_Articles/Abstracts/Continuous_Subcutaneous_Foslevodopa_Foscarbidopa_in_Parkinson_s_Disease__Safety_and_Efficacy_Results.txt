@@ -1,0 +1,5 @@
+Title: Continuous Subcutaneous Foslevodopa/Foscarbidopa in Parkinson's Disease: Safety and Efficacy Results From a 12-Month, Single-Arm, Open-Label, Phase 3 Study.
+PMID: 37632656
+
+Abstract:
+Foslevodopa/foscarbidopa, a soluble formulation of levodopa/carbidopa (LD/CD) prodrugs for the treatment of Parkinson's disease (PD), is administered as a 24-hour/day continuous subcutaneous infusion (CSCI) with a single infusion site. The efficacy and safety of foslevodopa/foscarbidopa versus oral immediate-release LD/CD was previously demonstrated in patients with PD in a 12-week, randomized, double-blind, phase 3 trial (NCT04380142). We report the results of a separate 52-week, open-label, phase 3 registrational trial (NCT03781167) that evaluated the safety/tolerability and efficacy of 24-hour/day foslevodopa/foscarbidopa CSCI in patients with advanced PD.

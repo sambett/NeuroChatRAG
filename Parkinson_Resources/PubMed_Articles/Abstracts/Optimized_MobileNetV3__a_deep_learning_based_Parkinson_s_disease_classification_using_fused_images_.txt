@@ -1,0 +1,5 @@
+Title: Optimized MobileNetV3: a deep learning-based Parkinson's disease classification using fused images.
+PMID: 38077616
+
+Abstract:
+Parkinson's disease (PD) is a progressive neurological condition that manifests motor and non-motor symptoms. Early in the course of the disease, PD patients frequently experience vocal difficulties. In the beginning, preprocessing procedures were used with multi-focus image fusion to enhance the quality of input images. It is essential to diagnose and treat PD early to ensure that patients live healthy and productive lives.

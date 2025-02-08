@@ -1,0 +1,5 @@
+Title: Cytokine activity in Parkinson's disease.
+PMID: 38059210
+
+Abstract:
+The contribution of the immune system to the pathophysiology of neurodegenerative Parkinson's disease (PD) is increasingly being recognised, with alterations in the innate and adaptive arms of the immune system underlying central and peripheral inflammation in PD. As chief modulators of the immune response, cytokines have been intensely studied in the field of PD both in terms of trying to understand their contribution to disease pathogenesis, and if they may comprise much needed therapeutic targets for a disease with no current modifying therapy. This review summarises current knowledge on key cytokines implicated in PD (TNFα, IL-6, IL-1β, IL-10, IL-4 and IL-1RA) that can modulate both pro-inflammatory and anti-inflammatory effects. Cytokine activity in PD is clearly a complicated process mediated by substantial cross-talk of signalling pathways and the need to balance pro- and anti-inflammatory effects. However, understanding cytokine activity may hold promise for unlocking new insight into PD and how it may be halted.

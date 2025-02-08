@@ -1,0 +1,5 @@
+Title: A novel transcranial photobiomodulation device to address motor signs of Parkinson's disease: a parallel randomised feasibility study.
+PMID: 38094162
+
+Abstract:
+Parkinson's disease is a progressive neurological disease with limited treatment options. Animal models and a proof-of-concept case series have suggested that photobiomodulation may be an effective adjunct treatment for the symptoms of Parkinson's disease. The aim was to determine the safety and feasibility of transcranial photobiomodulation (tPBM) to reduce the motor signs of Parkinson's disease.

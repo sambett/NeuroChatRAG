@@ -1,0 +1,5 @@
+Title: Mitochondrial dysfunction in Parkinson's disease - a key disease hallmark with therapeutic potential.
+PMID: 37951933
+
+Abstract:
+Mitochondrial dysfunction is strongly implicated in the etiology of idiopathic and genetic Parkinson's disease (PD). However, strategies aimed at ameliorating mitochondrial dysfunction, including antioxidants, antidiabetic drugs, and iron chelators, have failed in disease-modification clinical trials. In this review, we summarize the cellular determinants of mitochondrial dysfunction, including impairment of electron transport chain complex 1, increased oxidative stress, disturbed mitochondrial quality control mechanisms, and cellular bioenergetic deficiency. In addition, we outline mitochondrial pathways to neurodegeneration in the current context of PD pathogenesis, and review past and current treatment strategies in an attempt to better understand why translational efforts thus far have been unsuccessful.

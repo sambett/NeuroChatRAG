@@ -1,0 +1,5 @@
+Title: Activity-Dependent Transcriptional Program in NGN2+ Neurons Enriched for Genetic Risk for Brain-Related Disorders.
+PMID: 37454787
+
+Abstract:
+Converging evidence from large-scale genetic and postmortem studies highlights the role of aberrant neurotransmission and genetic regulation in brain-related disorders. However, identifying neuronal activity-regulated transcriptional programs in the human brain and understanding how changes contribute to disease remain challenging.

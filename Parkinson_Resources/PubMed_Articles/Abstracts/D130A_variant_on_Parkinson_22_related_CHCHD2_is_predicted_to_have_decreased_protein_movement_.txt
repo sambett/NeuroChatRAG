@@ -1,0 +1,5 @@
+Title: D130A variant on Parkinson 22-related CHCHD2 is predicted to have decreased protein movement.
+PMID: 38188421
+
+Abstract:
+Parkinson's disease is the second most common neurodegenerative disease which is caused by a lack of dopamine in the brain. Parkinson 22 is a form of Parkinson's disease caused by variations in the coiled-coil-helix-coiled-coil-helix domain containing 2 (CHCHD2) protein. This study investigates an aspartic acid-to-alanine swap on amino acid position 130 (D130A) of the CHCHD2 protein. We have employed protein modeling, conservation analysis, and molecular dynamics simulations to gain an understanding of the effects of the D130A variant on CHCHD2 protein structure and movement.

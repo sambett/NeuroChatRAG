@@ -1,0 +1,5 @@
+Title: Extraction of the pull force from inertial sensors during the pull test for Parkinson's disease: A reliability study.
+PMID: 38098205
+
+Abstract:
+To examine the inter- and intra-rater reliability of the pull test in patients with Parkinson's disease (PD) using the extracted pull force.
