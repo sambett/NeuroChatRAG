@@ -4,6 +4,10 @@ PD_RAG_Conversational is a Retrieval-Augmented Generation (RAG) conversational A
 ![image](https://github.com/user-attachments/assets/d78501bc-7f90-4755-80c6-9e7b59dd2796)
 ![image](https://github.com/user-attachments/assets/fb46949f-ad22-4625-8e88-69a6dc9c0e58)
 
+## message for twise peeps 'mr ahmed I believe '
+After installation run streamlit run streamlit_app.py , all the scripts are available from data collection script , to creating vector db , to the rag pipeline to the integration into the streamlit app .
+
+
 ## Features
 - You can see both awnser and Retrieved context for the question !
 - You can toggle between simple and technical response
